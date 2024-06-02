@@ -1,0 +1,57 @@
+raffs.de 03/2001
+
+28.03.2001
+
+Allgemein
+
+Gothic ist ein Produkt von Piranha Bytes im Vertrieb von Shoe Box. Man kann Gothic nur alleine spielen.
+Um Gothic spielen zu können benötigt man mindestens: Pentium II 400, 128 MB RAM, 600 MB HD, CD ROM, 16 MB Grafikkarte sowie Windows 98/2000
+
+Getestet von: [ShadowPhoenix]
+
+Bisher war Ultima Ascension der unangefochtene König unter den Action-Rollenspielen, doch Gothic zeigt klar und deutlich, daß auch aus Deutschland ein meisterhaftes Spiel kommen kann, welches Ultima übertrifft. Mit Gothic hat das Team von Piranha Bytes ein Spiel erschaffen, welches in Sachen Realität und Atmosphäre auf längere Zeit unübertroffen bleiben wird. Man merkt dem Spiel klar an, daß bei Piranha Bytes nicht nur Programmierer, sondern auch erfahrene Rollenspieler sind, die ihre Erfahrungen und Ideen in das Spiel einbrachten und es zu einem einmaligen Erlebnis machen. Von der Spielwelt über die Charaktere bis hin zur Story und dem Charaktersystem paßt alles perfekt zusammen.
+
+Doch leider kommen bei solch komplexen Spielen immer wieder auch die Bugs zutage, die den Spielspaß senken können. Der inzwischen erschienene Patch auf Version 1.07c hat einige Bugs behoben, doch es werden noch mehrere Patches notwendig sein, bis Gothic in seiner wahren Pracht erscheinen wird.
+
+Das Spiel
+
+Im Königreich Myrtana tobt ein erbitterter Krieg zwischen den Menschen und den barbarischen Orks. Eine Schlüsselrolle spielt in diesem Krieg das Minengebiet von Khorinis, wo das für die Waffenproduktion notwendige Erz abgebaut wird. Um die Minenarbeiter an der Flucht in dieser gefährlichen Zeit zu hindern, ließ König Rhotbar eine magische Barriere um das Minengebiet errichten, welches Menschen zwar hineinläßt, eine Flucht jedoch verhindert.
+Doch der mächtige Bannzauber der 6 Feuermagier und 6 Wassermagier geriet während der Beschwörung außer Kontrolle und dehnte sich weit über das geplante Gebiet aus, so daß nun auch die Magier eingeschlossen waren.
+
+Der Spieler schlüpft in die Rolle eines, zu unrecht verurteilten, der in diese Barriere zur Minenarbeit geschickt wird. Doch wer könnte zu diesem Zeitpunkt ahnen was unser Held in dieser Barriere alles erleben wird...Doch dazu später mehr.
+
+Grafisch setzt Gothic neue Maßstäbe. Noch nie war eine Rollenspielwelt so authentisch und realistisch wie hier. Wer die entsprechende Rechner-Power hat wird aus dem Staunen nicht herauskommen. Das Minengebiet von Gothic ist in mehrere Gebiete aufgeteilt, die auch unterschiedliche Grafiksets verwenden. Die Übergänge wie auch die Regionen wirken nahezu realistisch. Die Monster und Personen im Spiel sind sehr liebevoll und detailliert gestaltet und überzeugen mit zahlreichen Gesten. Die Kampfeffekte und Zaubereffekte sind den anderen Effekten ebenfalls würdig und beeindrucken ebenfalls. Alles in allem ist Gothic geradezu eine Revolution und simuliert eine bisher nie gesehene Fantasy-Welt.
+
+Einen entscheidenden Beitrag zur Athmosphäre des Spieles liefert auch der Sound. Vom Wasserfall über die Monster bis hin zu zahlreichen Sprecherstimmen hat Gothic auch hier alles zu bieten, was man erwarten kann. Jedes Gespräch wird in hervorragender Qualität aktustisch vorgetragen. Bei der großen Anzahl an Gesprächen ist dies beeindruckend, wenn man bedenkt, daß Gothic auf nur 2 CDs kommt!
+Fans der Musikgruppe "In Extremo" finden im Spiel einen besonderen Bonus, da die Band einen Liveauftritt im Alten Lager hat.
+
+Die Steuerung von Gothic ist hingegen der wohl größte Kritikpunkt im Spiel. Glücklicherweise wurde die reine Tastatur-Steuerung von der Demo abgeschafft, doch auch die neue Kombination von Maus- und Tastatursteuerung klappt nicht ganz so, wie man es aus anderen 3D-Spielen gewohnt ist. Die Seitwärts-Schritte sind rucklig und teilweise unkoordiniert und somit in Kämpfen nur sehr bedingt nutzbar. Auch das Springen über Hindernisse oder das Erreichen des Ork im 4. Akt auf einer Plattform endet teilweise in wilden Hüpf-Orgien. Mit etwas Übung kann man die Steuerung jedoch durchaus kontrollieren. Aber vielleicht kommt ja auch noch ein Patch, der diese noch etwas verbesser.
+
+Das Charaktersystem ist typisch für Rollenspiele, aber zum ersten Mal kann man die Fähigkeiten nicht nur auf dem Papier bzw. Charakterbogen sehen, sondern auch am Charakter selber. Nach jeder erfüllten Quest und jedem besiegten Monster erhält unser Protagonist Erfahrungspunkte. Hat er genügend davon gesammelt, steigt er um einen Level auf. Mit jedem Levelaufstieg erhält man Lernpunkte, die man zum Erlernen neuer Fähigkeiten wie z.B. Schlösser knacken, Einhänder-Kampf oder Akrobatik verwenden kann. Alternativ kann man auch die Grundwerte Stärke, Geschick und Mana steigern. Dabei entscheidet der Spieler selbst, wie er seinen Charakter entwickeln will. Soll es ein Zauberer werden, so investiert man die Lernpunkte in das Erlernen von Magiekreisen, die Voraussetzung zur Anwendung von Zaubern sind. Möchte man hingegen ein Kämpfer werden, läßt man sich an Einhändern und Zweihändern ausbilden.
+Um eine neue Fähigkeit zu erlernen oder zu verbessern, muß man einen Lehrmeister aufsuchen. Dieser bringt - Lernpunkte vorausgesetzt - unserem Helden gegen einen kleinen Obulus in Form von Geld die Fähigkeit bei.
+
+Die Steigerung von Fähigkeiten ist am Charakter auch klar sichtbar. Nach dem Erlernen von Akrobatik springen wir weiter und können auch elegantere Rollen ausführen. Mehr Erfahrung bei Schlössen Knacken sorgt dafür, daß unsere Dietriche seltener brechen und mehr Erfahrung mit Waffen wie Bogen, Armbrust, Einhänder oder Zweihänder läßt uns schneller und effektiver kämpfen. Gerade bei Waffenfähigkeiten sieht man an der Eleganz und Art wie der Charakter die Waffe trägt und einsetzt sein Können. Trägt er ein Einhänderschwert mit beiden Händen, so ist er absolut unerfahren. Führt er damit hingegen blitzartige Attacken mit Umdrehungen aus, so ist er ein Meisterkämpfer mit dieser Waffe.
+
+Auch die Zauberer kommen in Gothic nicht zu kurz. Zahlreiche Zaubersrpüche mit teilweise tollen Effekten werden selbst eingefleischte Kämpfer davon überzeugen auch einige Punkte in die Magie zu investieren. Im letzten drittel des Spieles erhält man auch Zugang zu Beschwörungszaubern, die den Spielspaß am Zauberer noch einmal steigern.
+
+Wie man sich auch entscheidet - jeder Spieler wird in Gothic seinen individuellen Charakter herstellen. Sei es ein Jäger, der erfahren ist mit Pfeil und Bogen, klassischer Kämpfer a la Conan oder eine Kämpfer-Zauberer-Mischung wie ein Paladin. In Gothic ist alles möglich!
+
+Sehr erfreulich ist auch das Inventar. Es ist zwar nicht realistisch, doch sehr praktisch, daß wir unbegrenzt viele Sachen tragen können. Damit entfällt das bei vielen Rollenspielen übliche hin- und herlaufen zwischen Monstern und Städten um die Waren zu verkaufen. Da es in Gothic oft weiter Wege gibt, die man ablaufen muß, wäre ein kleines Inventar sehr ungünstig. Ein weiterer Beweis dafür, daß bei Piranha Bytes Rollenspieler bei der Programmierung mitgewirkt haben. Sehr lobenswert!
+
+Das Spiel selbst ist in 6 Akte aufgeteilt. Jeder Akt bringt die spannende Geschichte von Gothic ein Stück weiter und wartet mit neuen Überraschungen aus den Helden. Die Missionen und Aufträge sind auch sehr abwechslungsreich und reichen von Botengängen über Diebstähle bis hin zu Eliminierungen. Dabei bietet uns das Programm prinzipiell mehrere Lösungswege - je nach Ausbildung unseres Protagonisten.
+
+Zu Beginn des Spieles erfüllen wir hauptsächlich Kurier- und Botendienste, während wir nach und nach wichtigere Aufgaben wie z.B. das Beschaffen von Minecrawler-Eiern aus einer von Monstern befallenen Mine erhalten oder das finden von magischen Artefakten. Gegen Ende des Spieles erhalten wir unsere Aufträge nicht mehr aus einem unserer Lager, sondern finden diese - mehr oder weniger - selber heraus. Mit zunehmender Spieldauer werden die Missionen auch komplexer. Eine der umfangreicheren Missionen ist die, wo wir ein orkisches Totem basteln müssen und dafür bestimmte Zutaten brauchen. Solche komplexen Aufgaben werden dann aber auch mit reichlich Erfahrung belohnt.
+
+Bewertung
+Grafik: 10/10
+Sound: 9/10
+Handling: 7/10
+Tiefgang: 8/10
+Multiplayer: -
+Spaß: 91 %
+
+Der Schwierigkeitsgrad ist zu Beginn des Spieles relativ hoch, da man nahezu jedem Monster ausweichen muß und sich auch im Alten Lager, einem der Orte im Spiel, sehr vorsichtig verhalten muß. Sobald man jedoch den 7. Charakterlevel erreicht hat, kann man sich nahezu frei in der Welt bewegen. Ab Charakterlevel 20 wird man dann selbst mit den gefährlichsten Monster fertig. Alles in allem fängt Gothic relativ schwer an und wird mit zunehmender Spieldauer einfacher - wobei es immer wieder zu schwereren Kämpfen im Verlauf des Spieles kommt - vor allem wenn man gegen ganze Horden von Monstern kämpft.
+
+Speichern ist in Gothic jederzeit möglich, wobei es leider keine Quicksave-Möglichkeit gibt. Seit dem Patch auf Version 1.07c sind die Speicher- und Ladezeiten auch spürbar kürzer geworden. Da jedoch der Großteil der Welt von Gothic bereits bei Spielbeginn geladen wird, sind die Ladezeiten zu Beginn des Spieles relativ lang. Je nach Rechner kann dies schon 30-50 Sekunden dauern. Es gibt nur wenige Regionen, die dann noch nachgeladen werden müssen - diese Regionen, wie z.B. die Minen oder Orkbauten sind dann jedoch sehr schnell geladen. Auch hier beweisen die Programmierer Feingefühl, da man somit praktisch keine Ladezeiten im Spiel selbst hat und damit die Atmosphäre besser genießen kann.
+
+Einen Multiplayer-Modus gibt es nicht. Das mag zwar etwas Schade sein, doch wer weiß ob es nicht eines Tages ein Add On oder einen Mod geben wird...

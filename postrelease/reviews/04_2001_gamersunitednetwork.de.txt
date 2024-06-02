@@ -1,0 +1,76 @@
+GamersUnitedNetwork.de 04/2001
+
+01.04.2001
+
+Gothic
+
+Gothic - ein Name, der lange Zeit ehrfürchtig von jedem Rollenspieler geflüstert wurde. Nach dem masslos enttäuschenden Ultima IX - Ascension für viele der Silberreif am Horizont. Doch hält das Spiel wirklich, was in jahrelangen Versprechungen angekündigt wurde? Mit ihrem Spiel wollten Piranha Bytes neue Massstäbe im Bereich der Fantasy-Rollenspiele setzen. Eine komplette Welt sollte auf den heimischen PC-Bildschirmen simuliert werden. Eine überragende KI und beeindruckende Licht- und Wettereffekte sollten einen atmosphärischen Grundstein für 3D-Rollenspiele setzen...
+
+Gothic ist in einem fernen Königreich namens Myrtana angesiedelt, viele Kriege hatten das Land verwüstet und dem Volk ist der wohlverdiente Frieden nicht vergönnt, denn an den Grenzen rüsten die Heere der Orks, um erneuten Schrecken zu säen. Um den wichtigsten Rohstoff, magisches Erz, welches Waffen und Rüstungen fast unzerstörbar macht, zu sichern, befahl der König Myrtanas seinen mächtigsten Magier, eine magische Barriere um die grösste Minenkolonie zu errichten, welche nur Leben hinein jedoch nicht hinaus lassen sollte. So sollten die zahlreichen Fluchtversuche von Gefangenen, welche für ihre Vergehen in den Minen büssten, zu verhindern sein ohne den Nachschub an Erz zu gefährden.
+
+Doch während der Erschaffung dieser magischen Mauer verloren die Magier die Kontrolle, und so dehnte sich die Barriere über eine wesentlich grössere Fläche aus, als ursprünglich geplant. Die Zauberer selbst wurden ebenfalls eingeschlossen und hatten so ihr eigenes Gefängnis erschaffen. In den folgenden Unruhen übernahmen die Gefangen die Kontrolle über die Minen und erwirkten einen Tauschhandel: Erz gegen Nahrung, Frauen und alles was das Gefangenenherz sonst noch begehrt.
+
+Der Spieler wird Jahrzehnte nach den Geschehnissen unschuldig in dieses Gefängnis geworfen und sieht sich einer völlig eigenständigen Gesellschaft gegenüber, welche ihn nicht gerade freundlich aufnimmt. Nach einer kleinen Einführung der politischen Lage innerhalb der magischen Kuppel kann sich der Spieler entscheiden welcher von drei Parteien er sich anschliesst. Zum einen wäre da das Alte Lager, eine Festung welche von den Erzbaronen regiert wird und dessen Einwohner auf die Unterstützung der Feuermagier zurückgreift.
+
+Systeminfos
+Empfohlene Mindesthardware lt. Hersteller: PentiumII 400 MHz, 128 MB RAM, 2x CD, 600 MB HDD, 16 MB 3D-Beschleuniger, DirectX7, Windows 98
+Läuft NICHT auf Win95!
+Getestet auf: AMD 1000MHz, GeForce2, 256 MB RAM, 500 HDD, SB Live, Win98
+Altersempfehlung deutsche Version: 12
+Downloads
+Gothic-Patch: 1.08h - 8.8 MB
+Gothic: Kyro II Patch - 3.4 MB
+Links
+Offizielle Webseite:
+Gothic
+
+Entwickler: Piranha Bytes
+Publisher: Egmont Interactive
+
+Das Leben hier hat eine stark militärische Prägung und es müssen ein paar harte Nüsse geknackt werden, um eine Aufnahme in die oberen Dienstränge zu gewährleisten. Weiterhin gibt es das Neue Lager - sozusagen die Konkurrenz des Alten Lagers, da auch diese Siedlung eine Mine ihr Eigen nennt und Erz schürft, welches aber einem anderen Zweck als dem Tausch von Waren dient. Denn im Neuen Lager plant man mit Hilfe der Wassermagier die Zerstörung der Barriere. Die dritte Partei ist die "Bruderschaft des Schläfers". Die Anhänger dieser Sekte lebt zurückgezogen in den Sümpfen des Gefängnisses, wo sie dem Anbau von Sumpfkraut nachgehen, welches rauschartige Zustände erzeugt. Ihr Ziel ist das Erwecken des Schläfers, eine Gottheit mit welcher durch den Genuss eben jenes Sumpfkrauts Kontakt aufgenommen werden kann.
+
+Mit der Erfüllung von (Laufburschen-)Aufträgen und dem Töten von Monster gewinnt der Charakter an Erfahrung und erhält nach jedem Levelaufstieg zehn Lernpunkte, welche bei Lehrern für verschiedene Eigenschaften wie Schwertkampf, Bogenschiessen, aber auch Kraft und Geschicklichkeit ausgegeben werden können. So kann der Spieler entscheiden ob er lieber einen Magier, Dieb oder Kämpfer werden will.
+
+Doch so grob umreissen lassen sich die Berufe in Gothic nicht, da auch ein Kämpfer ein Dieb, Magier oder auch ein Allroundtalent sein kann. Zum Beispiel hatte ich einen Level 40 Magier, welcher aber ein viel gewaltigerer Krieger war, da er bis zum 36. Level meisterhaft das Schwert geführt hatte. Man sieht also, die Eigenschaften hängen sehr von der Spielweise ab. Mit fortschreitender Erfahrungstufe und Story erhält man immer bessere Waffen und Rüstungen. Während man anfangs noch in Hemd und Hose mit einem Witz von Schwert vor Kämpfen drückt, wirft man sich später mit lautem Gebrüll und einem mächtigen Zweihänder, geschützt von eisernen Rüstungen, in den Kampf.
+
+Doch was ich bei all den schönen Gegenständen vermisst habe, sind Schilde. Ja, richtig gelesen, weit und breit war kein Schild in Gothic aufzutreiben. Jetzt mag manch einer fragen, warum zum Geier in einem Spiel mit Schwertern und Äxten kein solch nützlicher Gegenstand zu finden ist - an vielen Stellen des Spiels wäre solch ein Schild äusserst hilfreich gewesen, aber es hat anscheinend nicht sein sollen.
+
+Doch bis man spielerisch mit Trollen, Feuerechsen und Dämonen fertig wird, vergeht einige Zeit und Kämpfe mit Vögeln, Wölfen und anderem Getier können dem Spieler nur zu oft das Leben kosten. Hier hätte man ein bisschen am Balancing arbeiten können, da man als Greenhorn kaum eine Chance hat und sich schweisstreibende Gefechte mit den Einwohnern der Barriere liefert, während man später mit einem, maximal zwei Schlägen jeden Gegner in die Knie zwingt.
+
+Apropos besiegte Gegner: während man Tiere und Monster mit einem endgültigen Streich ins Jenseits schickt, hat man bei besiegten Menschen auch die Möglichkeit, dem Gegner nicht den Lebensfaden abzuschneiden und ihn bewusstlos zu Boden sinken zu lassen. Gleiches gilt auch für den Spieler, Menschen schlagen einen nieder und begnügen sich mit dem Erz des niedergeschlagenen Gegner.
+
+Natürlich kann man selbst auch die Gegner ausrauben bzw. Monstern häuten, die Zähne ziehen oder ihre Krallen an sich nehmen. Die Beute kann man dann bei einem der vielen Händler gegen Erz, Waffen oder sonstige Wertgegenstände eintauschen.
+
+Wobei Erz die gültige Währung darstellt und somit bei jedem Bewohner gerne gesehen wird. Das Handelssystem in Gothic wurde gut gelöst, hätte aber wesentlich einfacher designt werden können, zumal Tausch von Waren ab dem Wert von 1.000 Erz ausartet, wenn man mit eben jenem Erz und nicht anderen Gegenständen bezahlt. Mir persönlich ist fast immer der Kragen geplatzt, wenn ich Waren im Wert von 10.000 Erz und mehr vertickt habe. Abenteuerliche Konstruktionen auf der Tastatur (um den Tastendruck zu erhalten) verschafften mir Ruhepausen von mehreren Minuten, in welchen ich nur zu oft ein Buch zur Hand nahm und Gothic Gothic sein liess.
+
+Wo wir auch schon bei der Steuerung wären. Zwar bietet Gothic auch Mausunterstützung, doch kann man diese getrost vergessen, da die Reaktionszeiten und auch das Steuerungsgefühl allgemein zu schwammig wirken. So bleibt einem nur die Tastatursteuerung, und diese ist wahrlich nicht das Glanzstück von Gothic. Zwar hat man immer angekündigt, daß das Spiel mit so wenig Tasten wie möglich auskommen würde, aber dafür auf Tastenkombinationen zurückzugreifen, ist nicht gerade das Gelbe vom Ei. Um zB. Gegenstände aufzuheben drückt man nicht, wie üblich (!), eine Taste, nein, man muss die Aktionstaste plus die Vorwärtstaste drücken. Natürlich funktioniert das nur, wenn die Spielfigur stillsteht, will meinen, daß man nicht aus dem Lauf kurz stoppen, Gegenstand aufnehmen und dann weiterflitzen kann, dafür reagiert die Steuerung viel zu träge.
+
+Gestört hat mich die Reaktion des Charakters, wenn man an Schrägen kommt bzw. an daran endende Klippen. Den Spieler haut es dann von der Kante wie nichts und so stürzt man nur zu oft in den Tod. Einer weitere, stark damit im Zusammenhang stehende Todesursache ist das Fehlen der Funktion "Hinabklettern", so dass man nur zu oft einen Sprung ins Ungewisse wagen muss.
+
+Ein weiterer Kritikpunkt in Hinsicht auf die Steuerung ist das Kampfsystem. Mir fehlt einfach eine bessere Fokussierung auf den Gegner, um vernünftig kämpfen zu können. Man verliert ihn zu oft aus den Augen und steht plötzlich mit dem Rücken zu ihm, was anfangs zu oft den Tod nach sich zieht. Hier hätte ein Kampfsystem a lá Severance einiges herausholen können. Und das viel gepriesene geschmeidige Kämpfen dank Motion-Capturing verkommt zu abgehackten Bewegungsabläufen, wenn man nicht die richtigen Tasten drückt, um wenigstens einigermassen Ansehnlichkeit in die Kämpfe zu bringen.
+
+Ansonsten sind die Animationen der Charaktere recht gut gelungen, die Bewegungsabläufe wirken real und zum Beispiel bei den Tänzerinnen sehr anmutig. Doch treten beim Laufen oft Darstellungsfehler bei Rüstungen und Waffen auf. Bei der mittleren Söldnerrüstung des Neuen Lagers schwenkte der linke Arm immer durch die feste Panzerung, beim Hinsetzen verschwinden Waffen in den Bänken und Tischen - und die Dame, welche im Haus der Erzbarone badet wie Gott sie schuf, steckt so mir nichts dir nichts ihre Füsse durch die Wand der Holzbadewanne... Das sind zwar kleinere Details, doch wirken sie sich oft negativ auf die Spielatmosphäre aus, zumal diese Fehler sicherlich vermieden hätten werden können.
+
+Was mir gefallen hat waren die detaillierten Gesichter und deren Animationen. Auch der Detailgrad der Ausrüstungsgegenstände an den Charakteren, runenverzierte Schwerter und Pelze auf den Schultern der Krieger ist ein Augenschmaus.
+
+Bei der Gestaltung der Landschaft ist Piranha Bytes ein kleines Meisterwerk gelungen, zumal auf dem richtigen Rechner beeindruckende Sichtweiten eingestellt werden können. Mich stören nur die anscheinend als Sichtblocker und somit performancefördernden Sprites für die Wälder. Das heisst, das weiter entfernte Wälder an ihren Rändern von Sprites dargestellt und erst beim Näherkommen transparent werden bzw verschwinden.
+
+Aber wahrscheinlich ist dies eine der wenigen Lösungen, um ein Spiel mit derartigen Weiten auf heutigen Standardrechnern flüssig laufen zu lassen. Dafür entschädigen die Wettereffekte und der animierte Himmel. In klaren Nächten kann man den Sternenhimmel bewundern und wenn die Sonne hinter den Bergen versinkt, bleibt mal schon mal stehen, um den Augenblick zu geniessen. Was ich mir gewünscht hätte, wären lebendigere Wälder, zwar hört man Vögel in den Bäumen zwitschern und Getier auf dem Waldboden kreuchen und fleuchen, aber es ist keine Spur von ihnen zu sehen.
+
+Die Geräuschkulisse ist den Piranhas gut gelungen und atmosphärisch ein wichtiger Stützpfeiler des Spiels. Das Wasser in Flüssen gurgelt vor sich hin, der Wind pfeift durch leere Burgen und abends knistern die Feuer in den Lagern. In diesen stehe oft Menschengruppen zusammen, welche Diskussionen führen oder Kämpfe des Spielers kommentieren. Leider wiederholen sich diese "Gesprächsfetzen" zu oft, so dass es doch ein wenig unecht wirkt. Musikalisch wurde auch gute Arbeit geleistet, nur die "Kampfmusik" war mir einfach zu nervig! Die Dialoge der Charaktere in Gothic sind komplett und sehr gut synchronisiert, mich dünkt, man hat die eine oder andere bekannte Stimme aus Film und Fernsehen für das Spiel gewonnen.
+
+Das Dialogsystem hingegen ist mehr schlecht als recht. NPCs reagieren nicht auf spielentscheidende Ereignisse, zum Beispiel sagt niemand etwas, wenn ich Gomez, den Anführer des Alten Lagers, töte oder anderes Beispiel, die Sektenmitglieder wollen ein Minecrawlersekret für die Beschwörung des Schläfers besorgen, obwohl dessen Beschwörung fehlgeschlagen ist und die alte Mine, der Bezugsort des Sekrets längst eingestürzt ist. An vielen Stellen lassen sich solche und andere Logikfehler finden.
+
+Desweiteren ist Gothics grösstes Manko die Anzahl der Bugs. Grundlose Abstürze, Verschwinden von Gegenständen, ohne die man im Spiel nicht weiterkommt oder die endlosen Lade- und Speicherzeiten versalzen einem oft das Spielvergnügen, was Gothic ein hohes Frustpotential verschafft. Ebenfalls passiert mir zu wenig im Spiel, mir fehlen Ereignisse, die nicht im Zusammenhang mit der Story stehen. Es wäre es doch eine gute Idee gewesen, wenn der Spieler durch den Wald maschiert und sieht wie ein NPC von Wölfen angegriffen wird und man entscheiden kann ob man zur Hilfe eilt oder nicht. Ein wenig Romantik hätte vielleicht auch nicht geschadet, warum fragt der Charakter immer nach der Frau, die mit ihm ins Gefängnis gebracht wurde, wenn er sie nicht befreien und mit ihr flüchten kann?
+
+Leider bietet Gothic keinen Multiplayermodus, denn es wäre sicherlich interessant gewesen mit Freunden die Welt von Gothic zu erleben.
+
+Letztendlich kann man sagen, dass Gothic ein wirklich gutes RPG ist, welches man aufgrund der drei Parteien, durchaus öfter durchspielen kann und wird. Atmosphärisch ist Gothic ein Meisterwerk, dessen Glanz aber durch die massiven Fehler im Programm verdunkelt wird. Traurig, das dieses Spiel aufgrund von Bugs nur durch die Hilfe eines Piranha-Mitarbeiters (thx @ Michael Hoge) und Cheats zu beenden war. So muss ich leider sagen, dass mein Eindruck der ersten Demo und meine Befürchtungen hinsichtlich der Verkaufsversion fast der Wahrheit entsprachen. Es ist mir zwar verständlich, dass nicht alle Fehler bei einem solch einem komplexen Spiel ausgemerzt werden können, aber ein oder zwei Monate Entwicklungs-/Beta-Testzeit hätten noch drin sein müssen.
+
+Eingefleischte Rollenspieler können ohne Bedenken zugreifen, denn unsereins ist ja mit Bugs aufgewachsen. Hardcore-RPG'ler werden nach spätestens 60 bis 70 Spielstunden, Neueinsteiger nach minimum 100 Stunden die Welt von Gothic durchwandern.
+
+Anmerkung: Aufgrund der Patches (neu: Patch auf Version 1.08h), die Piranha in Höchstgeschwindigkeit rausgegeben hat, erhöhen wir unsere Wertung von 4 auf 5 Sterne. Und das nicht nur, weil verbleibende Bugs mit einer Lupe gesucht werden müssten, sondern auch, weil Piranha ein gutes Beispiel für Support abgibt und sich auch weiterhin um ein veröffentlichtes Produkt mit Sorgfalt kümmert, was heutzutage leider sehr, sehr selten ist.
+
+
+Bewertung
+Fünf von fünf Sternen 

@@ -1,0 +1,84 @@
+mystics.de 02/2001
+
+20.02.2001 (6 screens)
+
+
+Von Nicole am 20. Februar 2001
+
+Vorgeschichte
+
+Gerade erst hat das Land Myrthana den Kräfte zerrenden Krieg gegen das Reich Varant siegreich überstanden, als sich schon eine neue Bedrohung durch die Orks ankündigt. Die Armeen und Verteidigungsanlagen sind geschwächt und würden gegen die wilden Horden der Orks nicht lange standhalten können.
+
+[img]
+
+Letzte Hoffnung sind neue Waffen, geschmiedet aus dem Erz der Minen von Khorinis. Dieses Erz, richtig geschmolzen, verleiht einer Waffe Schärfe und Härte, die keine Rüstung und kein Orkschädel widerstehen kann.
+
+Aber viele der Gefangenen, die für den Erzabbau in den Minen eingesetzt werden, nutzten die Wirren der letzten Zeit, um zu fliehen...
+
+Der König rief daher zwölf Magier zu sich, sechs vom Kreis des Wassers und sechs vom Kreis des Feuers, um mit ihrer Hilfe eine magische Barriere um die Minen zu errichten und damit weitere Fluchten zu verhindern.
+
+Die Magier verrechneten sich jedoch bei der Ausführung und errichteten eine Barriere, die eine weitaus größere Fläche umfaßte, als geplant. Auch die Fläche, auf der sie gerade selber standen.
+
+Die Gefangenen rebellierten und wendeten sich gegen die mit eingeschlossenen Wachen. Die Magier allerdings ließ man in Ruhe, da sie die einzige Hoffnung auf die Vernichtung der Barriere waren.
+
+Das Leben mußte jedoch irgendwie weitergehen und schon bald arrangierte man sich mit der Situation und ein reger Handel zwischen dem Königreich und den Minen, Erz für Waffen gegen Waren, die unter Barriere nicht zu erhalten waren, entstand.
+
+[img]
+
+Doch nicht alle waren mit diesem Arrangement einverstanden und schon bald spaltete sich eine Gruppierung ab. Sie errichteten in einer nahegelegenen Mine das Neue Lager, um hier mit Hilfe des Erzabbaus und der Forschung der Magier des Wasserzirkels einen Ausweg aus ihrer Gefangenschaft zu finden. Die Magier des Feuerzirkel blieben in den von da an als das Alte Lager bezeichneten Minen, errichteten dort eine streng hierachische Ordnung und trieben weiter Handel mit den König.
+
+Wenig später kam eine neuer Visionär der Freiheit auf, der sich mit seinen Anhängern in den Sümpfen ansiedelte, um dort mit geheimnisvollen Kräften zu experimentieren und auf diese Weise einen Ausweg aus der Barriere zu finden.
+
+Und nun bringt man Dich als neuen Gefangenen unter die Barriere.
+
+
+Männlich, ledig, jung
+
+[img]
+
+Wie im richtigen Leben kann man sich erst mal nicht aussuchen, wer man ist. Stärken und Schwächen werden erst im Verlauf des Spieles durch Stufenaufstieg und Vergabe von Lernpunkten festgelegt.
+
+Hauptaufgabe für den angehenden Helden ist zunächst die Erforschung der neuen Situation und die Erkundung der Umgebung.
+
+Gesteuert wird dabei aus der Tomb Raider Perspektive. Dabei kann man sich zwischen den Fortbewegungsarten Gehen, Joggen, Springen, Klettern und Seitwärtsgang wählen.
+
+[img]
+
+Die Steuerung unterscheidet weiter zwischen Kampfmodus und friedlichen Modus. Dabei sind die ausgeführten Aktionen, vom Modus, in dem man sich befindet abhängig. Wird eine Person im normalen Modus angesprochen, so bewirkt der gleiche Befehl im Kampfmodus einen Angriff.
+
+Gegenstände können im Kampfmodus nicht angewählt werden. Da die NPC jedoch eine gezückte Waffe als Agression verstehen, ist es sowieso keine gute Idee, länger als unbedingt nötig im Kampfmodus zu bleiben.
+
+Aufgesammelte Gegenstände werden im Inventory plaziert. Dabei wird automatisch eine Sortierung nach Waffen, Rüstungen, Tränken, Schriftstücken etc. vorgenommen, so daß das Ganze schön übersichtlich bleibt.
+
+
+Kämpfe
+
+[img]
+
+Das Kampfsystem in Gothic läuft in Echtzeit ab. Den Waffen und Zaubersprüchen können im Inventory Kurzwahltasten zugewiesen werden und sind damit im Bedarfsfalle schnell zu Hand. Hat der Held eine Nahkampfwaffe gezückt, kann über die Cursertasten entschieden werden, ob ein Hieb von links, rechts oder oben durchgeführt werden soll oder ob der gegnerische Angriff mit der Waffe geblockt werden soll. Man kann natürlich auch versuchen dem gegnerischen Hieb mit einer eleganten Seitwärtsbewegung auszuweichen. Dabei muß jede Aktion einzeln ausgeführt werden und erinnert mich damit ein bißchen an das Kampfsystem von Silver.
+
+Humanoide Gegner, die am Boden liegen, sind schwer verwundet und bewußtlos, aber nicht tot. Meint man es ernst, muß man dem Gegner erst noch den Todesstoß versetzen. Allerdings ist das Töten bereits am Boden liegender Gegner verpönt und bringt jeden in der Umgebung, der Zeuge dieser ruchlosen Tat wurde, gegen einen auf.
+
+Will man einen Bewußtlosen ausrauben, muß man aus dem Kampfmodus wechseln und erhält durch Anwählen des Opfers Einblick in sein Inventory, aus dem man sich nach Herzenslust bedienen kann.
+
+Ein guter Grund, seine eigene Bewußtlosigkeit zu vermeiden...
+
+
+Magie
+
+Natürlich kommt auch in Gothic die Magie nicht zu kurz. Das Magiesystem unterteilt sich zum einem in Kreise, vom einfachsten Zauberspruch bis hoch zum schwierigsten, zum anderen in die drei Hauptschulen: Der Magie des Feuerzirkel, des Wasserzirkel und der Psioniker.
+
+Um einen Zauberspruch anwenden zu können, wird die entsprechende Schriftrolle oder Rune benötigt. Beide Anwendungsarten kosten Mana, haben aber unterschiedliche Vorteile: Die Rune bleibt dauerhaft, um sie anwenden zu können, muß der Held aber bereits im entsprechenden Zirkel unterrichtet sein. Die Schriftrolle hingegen verschwindet nach Gebrauch einfach wieder, hier muß der Held jedoch nicht den entsprechenden Zirkel beherrschen.
+
+Der Effekt eines Zauberspruches läßt sich einfach dadurch verstärken, indem man freiwillig mehr Mana aufwendet, als der Spruch mindesten benötigt.
+
+
+Erster Eindruck
+
+[img]
+
+Graphisch macht Gothic einen klasse Eindruck und lief trotz aller Pracht in der Demoversion (bei Einhaltung der allerdings nicht geringen Mindestvoraussetzungen) schön flüssig. Ob das bei größeren Zonen so bleibt, ist abzuwarten.
+
+Die Geschichte verspricht interessant zu werden und auch die Konzeption der KI, vom Tagesablauf der NPC bis hin zum Verpetzen des Helden bei Schandtaten, birgt sicher einige unerwartete Wendungen.
+
+Einziger Kritikpunkt war bis jetzt die Steuerung, über die man aber nicht mehr meckern kann, da die jetztige reine Tastatursteuerung von einer Steuerung mit Maus bis zur Endversion abgelöst werden wird und damit hoffentlich auch bedienerfreundlicher wird. 

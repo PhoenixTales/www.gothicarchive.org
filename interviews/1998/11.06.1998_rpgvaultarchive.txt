@@ -1,0 +1,55 @@
+rpgvaultarchive.ign.com 06/1998
+
+Week of June 7, 1998
+Thursday, June 11
+
+
+A Fast Gothic Update
+====================
+Tom Putzki of the Gothic development team sent me this tongue-in-cheek message about an update to their site.
+
+Good morning,I've just read the mini interview posted at the Vault. It's time for me to ask you and myself if this contact between us is a kind of competition comparing who's the fastest guy on the whole www?! ;-)
+BTW, I've something new for you, too. I've just finished my work on our homepage, it's extended for three new sites: Jobs - Links - Press (with a link to The Vault Network). The German Diary is also updated and I'm working hard at a diary-translation into English, but for me it's _very_ difficult to translate 'cool' German speech into 'cool' English.
+
+No contest, Tom. Old Jonric is just plodding along trying to keep our readers up to date.
+
+
+Exclusive Mini-Interview: Gothic
+================================
+Last Friday, we reported on Gothic, the first game in development from a new German developer, Piranha Bytes. After a look through their website, I arranged for a mini-interview to learn more.
+
+
+Jonric: What are the setting and the main storyline for Gothic?
+Stefan Nyul, Project Manager: There is a fantasy world, there is a kingdom at war with orcs, and there is a prison full of convicts, that have just one function - get the precious ore out of the mines to feed the war outside. The player is unlucky enough to be thrown into this prison and he has to escape. But unfortunately the prison has a magical barrier and inside there are no guards. Total anarchy, self organizing gangs and brutal force govern the prison world. Survival is not common.
+
+Mike Hoge, Lead Game Designer: So before you can afford even planning your escape, you will have to learn to survive, because (guess what!) you are what they call "fresh meat" - in other words, your fighting skills tower above those of a chicken. At the beginning of the game, you will be looking for some guys to teach you how to defend yourself. There are some who gladly will help you - if you can pay them.
+
+When you are strong enough to prevent some mean mother.....s from taking your weapons from you, you will meet some other guys who think you might become a threat to them if you enhance your skills further. At this point of the game, several of the gangs that built up inside the prison will ask you to join them. Which group you may join depends on what you have done before. If you hacked your way through your problems, you will most probably be asked to join some cruel fighting gang. If you acted in another way you might become mage of the fire circle or the water circle, psionic, templar, assassin, thief, soldier or mercenary. The way you choose will have lots of effects on the way people react to you, the way you'll fight your foes and the way you solve puzzles - or don't - if you dislike them.
+
+Stefan: And this is just the start of the game, the setting. There will evolve a totally unexpected story out of that and this story will have an impounding effect to the whole prison world.
+
+Jonric: What are the main features of the game?
+
+Mike: Gothic is a 3D role playing game. We chose the 3rd person view because close combat will be an essential part of the game. It will, however, be no Quake with swords - we emphasize tactical combat. The Monsters will have individual strenghts and weaknesses, and you'll have to know them if you want to succeed. The puzzles are mainly monster-based, that means you won't have the problem "Where can I find the key/switch to open the bloody door", but, more likely "How can I slay the damn beast in front of the bloody door?"
+
+Monsters and their behaviour are a key element of Gothic. The NPC's and their relationships to you and between each other is the second key element. People will live their own lifes and have different points of view. For example, you attack some Magician in the wilderness between two prison camps. A thief comes along on his daily way from his camp to another (he`s going there, because he thinks he might find something of use lying around there) The thief watches the fight, remenbers that he hates mages (because they are so arrogant), recognizes you as a friendly fighter to whom he just has sold a stolen sword and finally decides to help you attack the Mage! If some other guy had come along, he would have acted differently, although those decisions are mainly based on the gang a character belongs to.
+
+Tom Putzki, Level Designer: Another feature is the very simple user-interface. We don't want the player to make his way through hundreds of menus and buttons; we've just tried to make it so simple you don't have to read the manual to master the game. Everyone, even people who have no experiences with RPG's, can easily play Gothic. We plan to support game pads, so you don't need more than a dozen keys to play. And we've planned to give at least 8 Multiplayers the chance to compete in Gothic.
+
+Jonric: What are the main RPG features? Can you tell me a bit about characters in Gothic?
+
+Mike: We have concentrated to simulate a small world rather than a vast continent full of boring clones, like in The Elder Scrolls. We will have round about 200 human characters in our game, so each of them is able to have unique traits. Regarding monsters, we do it the same way. We will rather bring 20 different Monsters into the game and make every species absolutely unique in abilities and action, than to design 100 Monsters which actually don't differ at anything except their strength and appearance.
+
+Our Monsters will be able to learn and improve during the course of the game. If the player is getting to good for them, they will try to avoid him, lure him into a trap or will only attack in groups. Some Monsters hate each other, while others cooperate. Goblins let themselves be thrown over gaps they can't jump across by their collegues, the 12 foot towering trolls. Orcs use some wolf species as watchdogs. They chain them to a wall and torture them to make them agressive. Sneak up to a sleeping watchdog and free it - make absolutely no noise! - then hide in the shadows and wait 'til a bored orc guard comes along to torture the creature a bit... When the beast is busy devouring the remnants of the surprised guard, you may pass by. These are only a few examples, I'd like to tell you more, but this is supposed to be a "short interview", isn't it?
+
+The character development is based on visualization. Every enhancement of your characters skills and attributes will be shown in graphical effects like changing character animations, there are no more character stats. Nevertheless, Gothic is still a roleplaying game, because you will be able to learn up to 30 skills and as many spells. And finally, there are some different character classes. You may become Magician of the fire circle or the water circle, Psionic, Templar, Thief, Assassin, Warrior or Mercenary and later in the game even enter an additional guild. Those higher guilds are partially secret, it will be part of your adventure to discover and try to join them.
+
+Jonric: What's special about Gothic? Why is it different?
+
+Stefan: Gothic is a roleplaying game for everyone. It's so easy to play the game, even my mother could do it, really. Gothic has the most intuitive and easiest user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be seen in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this simplicity, there stands a full roleplaying game and no simple 3D shooter with swords.
+
+Mike: It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out! We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have.
+
+Tom: We founded Piranha Bytes because we wanted to produce games we want to play ourselves - that's what we want to achieve with Gothic.
+
+While Gothic does not yet have a publisher and will ship "when it's done", the announced target release date is the first quarter of 1999.

@@ -1,0 +1,43 @@
+cdmag.com 09/1999
+
+28.09.1999
+
+Gothic
+
+3D 3P RPG
+Published by Piranha-Bytes
+Posted on 09/28/1999
+
+Once upon a time, long, long ago, I was a dungeon master running old fashioned, pen-and-paper role-playing games. Over the months and years of my campaign, the game systems changed, but the story evolved and continued. By the time it ended, only one player (and his attendant character) remained from the inaugural session. By then several years had passed, and yet that most veteran character finally paid the ultimate price for a crime committed on that very first day. The lesson learned was "needlessly trash a man's castle and he will not soon forgive or forget".
+
+Now Gothic, an upcoming title from German developer Piranha Bytes, is attempting to introduce this elusive concept of Consequence to the computer role-playing genre. "The world lives, more than 200 NPCs have a memory," claims 3D level designer Tom Putzki. "NPCs and monsters live their own lives, with daily routinesuntil the player disturbs them. They make alliances, friends and foes, build up gangs and groups of power."
+
+[IMG]
+A neophyte might barely generate heat in his... uh... ah...
+
+The story begins as the player's character is thrown into a mining prison controlled by two rival gangs. The prisoners must exchange ore for food and supplies; the prison itself is enclosed in a vast dome where people can enter but not leave, and only inanimate objects can pass. A pack-like social structure exists within these factionsthe top dog lives like a king, while others eke out a miserable existence. One faction vies for control of the ore, while the other searches for an escape. As the game progresses, character actions will have far reaching effects, and allies and vendettas will develop. NPCs and monsters will remember for better or worse what the player does unto them and tailor their responses accordingly.
+
+The player will choose from the usual assortment of warriors, thieves, and magic users. NPCs and monsters aren't merely set dressing or propsthey'll live their own lives, socialize, and most importantly, communicate. Kill that opposing gang member if you must, but allow a witness to escape and be prepared to show up on more than one NPC's most wanted list. The combination of character types and the cascading effects a player's actions have on the world should ensure that the game will not play the same way twice.
+
+[IMG]
+...while a master can cast something decidedly more offensive.
+
+Gothic will have a completely visual, 3rd person, 3D interface. Gone are the numbers, a staple of RPGs from time immemorial. Instead, increased skills will be visually apparent. Unskilled fireballs may have all the power of a single candle, while a master fireball produces an immense conflagration. Would-be swordsmen will progress from a lumbering hack to a fluid swashbuckler. There is no character creation process; the character will develop as the player chooses, not within artificial constraints and certainly not defined by a spreadsheet. "The player has a constant eye on his character and knows at a glance which armor, weapons and skills he has, without having to rummage through all sorts of menu screens and numbers," Putzki says. "It is important for us to give the player optical feedback, not just meaningless numbers."
+
+[IMG]
+Fluid, 3D animation will support both Direct 3D and Glide
+
+Role-playing without the numbers? One memorable eight-hour pen-and-paper session ended with the realization that not a single battle had been fought, and therefore no stats would increase. The players had been so immersed in the story they hadn't even noticed until the end-of-day tally. A good, adaptive story needs no numbers, a concept the folks at Piranha Bytes seem to understand. Success, however, depends heavily on a compelling story. A good, human dungeon master can generate material on the fly in a seamless manner. Still, many pen-and-paper and computer role-playing games are driven by the lure of statistical improvements. Straying from this tried-and-true path is dangerous and should only be attempted by adept, confident storytellers. Piranha Bytes is taking on this challenge with relish.
+
+[IMG]
+Really, he was like this when I found him! Remember, dead men tell no tales
+
+Technologically, Gothic makes good use of established technology. 3D support for both Glide and Direct 3D are evident. Multiplayer for up to 5 players will be available. The user interface is designed for simplicity, with only 10 keys needed. Gameplay is described as "self-explanatory." Piranha Bytes' focus is clearly on freeing the player to concentrate on the story line with minimum distraction. Yet Gothic is not an "action adventure." In the tradition of classic role-playing games, players may consider their actions before committing to a specific series of events.
+
+[IMG]
+That's a nasty stare the critter on the right is giving you. Perhaps you shouldn't be wearing its brother's pelt
+
+A malleable world with a competent, artificial dungeon master is perhaps the next great road computer role-playing games will travel. Games such as Gothicand Infogrames' Outcast are introducing rudimentary AI routines into non-player characters. Previously scripted and soulless, improvement of NPCs is the next best thing to the social interaction of increasingly popular massive multiplayer games such as EverQuest and Ultima Online. But whether Piranha Bytes truly advances the artificial dungeon master concept will only be seen when Gothic is released this spring.
+
+by Jeff Vitous
+©1999 Strategy Plus, Inc.

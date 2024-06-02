@@ -1,0 +1,90 @@
+PC Joker 02/2000
+
+
+Ein deutsches Rolli im Stil des Kultmovies "Die Klapperschlange", das klingt verschärft. Doch bei Piranha bytes
+wird der ver veröffentlichungstermin immer wieder verschoben. Also sind wir nach Bochum gereist, um einem Piranha
+der ersten stunde auf den zahn zu fühlen Tom Putzki.
+
+"Ich wünsche ultima 9 alles Gute - und hoffe deshalb, dass es vor gothic im laden steht!"
+
+- Tom, was fehlt denn noch, damit unsere rechner endlich gotisch werden?
+TP: Wir feilen gerade an der objektinteraktion damit sich das schwert am schleifstein schärfen, ein herumstehendes
+wasser pfeifchen schmauchen und überm lagerfeuer lecker essen brutzeln lässt. Auch sinnvollere tätigkeiten wie das
+verstecken in einem fass bleiben nicht außen vor. Zudem stecken wir mitten in den kompatibilitätstests für Direct3D
+Grafikkarten. Doch in wenigen wochen werden wir eine Demo fertig haben, das komplette game hoffentlich bis März.
+- Wir reden hier von der deutschen version, ja?
+TP: Richtig. Und die werden wir wohl gegenüber der internationalen fassung dezent entschärfen, um das angepeilte
+USK - rating ab 16 jahren zu bekommen.
+- international wird sich das rollenspiel wohl mit "Ultima 9" messen müssen...
+TP: ich wünsche "Ultima 9" alles gute - und hoffe deshalb, dass es vor Gothic im laden steht. Doch marketingmäßig
+ist uns nicht Bange, immerhin wird beispielsweise die bekannte band "In Extremo" ein Konzert im Spiel geben! Es
+kommen darüber hinaus Actionfiguren sowie ein comic zum szenario heraus und für weitere aktionen casten wir gerade
+Gothic-Gir is
+
+[Bild]
+Während der magier seinen feuerball beschwört, wird er zur leichten beute
+
+[Bild]
+Links der reale Dr.pymonte von der Gruppe In Extremo, rechts sein virtualler auftritt in Gothic.
+
+- Was erwartet den knastbruder dann im Fantasy - Kerker? Denn wo im Film "Die Klapperschlange" eine stadt als
+gefängnis dient, sind es hier ja erzminen - umhüllt von einer riesigen, magischen Barriere.
+TP: Das oberste ziel heißt natürlich überleben. Man muss sich einer bande anschließen und den bestehenden gesellschaftsstrukturen
+anpassen. Die entwicklung des alter egos ergibt sich dann im spielverlauf: Nicht eine klassische charaktergenerierung
+sondern die beim erledigen diverser äuftrage gemachten erfahrungen werden darüber bestimmen ob man eher zum magier
+dieb schwertkampfer etc tendieren will. Und wenn erst mal die werte stimmen, kann der held natürlich einen ausbruch
+in angriff nehmen.
+
+- Wie hat man sich die welt von gothic vorzustellen?
+TP: Da wäre zunächst die oberwelt von rund 1,2 Kilometern durchmesser, in der sich verschiedene hauptlager finden.
+Luxusgüter erhalten die insassen gegen erz, das sie in den verzweigten minenlabyrinthen abbauen. Darunter gibt es
+noch andere höhlen, in denen die Orks leben. Und noch tiefer liegen die geheimnisvollen tempelanlagen. Gegen spielende
+wird dann noch eine spezielle location auftauchen, die für einige überraschungen sorgen durfte.
+
+- Sind noch mehr unerwartete wendungen in der story vorgesehen?
+TP: Aber sicher. Auf das jeweilige ende der sechs kapitel wird man durch tief greifende veränderungen hingewiesen -
+da kommen zum beispiel die orks an die oberfläche und übernehmen eines der großen lager. Das mag jetzt nach einem
+recht linearen handlungsablauf klingen, aber im grunde kann der spieler machen was er will. Durch die Kapitelwechsel
+wird er nur dezent an gewisse sachen herangeführt, in der zwischenzeit geben wir ihm freie hand.
+
+- Wie steht es um die KI der CPU-Knackis?
+TP: Es wird über 200 NPCs geben, doch das sind nicht alles echte individualisten. So mörgen sich etwa zwei von zehn
+Söldnern oder Mitglieder der örtlichen sekte der "Psioniker" schon ziemlich ähnlich sein, aber die werden dann nicht
+zusammen auftreten. Dabei verfügen sowohl die NPCs als auch die monster über verschiedene arten der wahrnehmung: Hören, Sehen und Riechen. Manche besitzen alle drei, andere
+vielleicht nur einen dieser sinne, der dafür dann besonders ausgeprägt ist. Mag etwa die eine kreatur den spieler über die witterung
+aufspüren, kann man sich an hellhörigen Feinden eventuell vorbeischleichen.
+Die NPCs besitzen darüber hinaus ein gutes gedächtnis. Bringe ich also ein mitglied einer der konkurrierenden gruppierungen
+um die ecke, mache ich mir dessen freunde zu feinden - verschaffe mir aber gleichzeitig einen bonus bei den rivalisierenden
+banden. Hinzu kommt die kommunikation der NPCs unterreinander. Wenn ich zufällig bei einem Diebstahl beobachtet
+werde, macht die nachricht wie ein lauffeuer die Runde. So was kann das (über) Leben in gothic mächtig erschweren,
+schließlich entsprechen hier zwei realstunden einem tag.
+
+- Wie soll die atmosphäre den spieler gefangen halten?
+TP: Wir haben bewusst auf endlose textorgien und multiple choice gespräche verzichtet, so was kostet bloß atmosphäre.
+Statt dessen setzen wir auf situationsbedingte dialoge. Ist der held z. B. gerade im rahmen einer mission unterwegs,
+werden die ansprechpartner auch immer automatisch kurz und knapp darauf eingehen ohne ihn mit belanglosigkeiten zu nerven.
+
+- Wird es eigentlich eine online - Variante geben?
+TP: Leider nein. Als wir mit der arbeit an Gothic begonnen haben, war so eine opulente 3D - Präsentation online
+noch nicht denkbar. Mitterweile zeigen zwar "Unreal Tournament" oder "Quake 3 Arena", dass man beim zocken via internet nicht mehr
+zwangsläufig auf schmucke grafik verzichten muss - doch jetzt nochmals alles komplett umzuschreiben, würde den start
+um ein weiteres jahr verzögern. Falls es einen Nachfolger geben sollte, werden wir dem dann aber natürlich auch einen
+Online - Modus verpassen! (Marcel Smuzlst)
+
+[Bild]
+1. Im kampfmodus wird hier die Durchschlags kraft der gewählten waffe angezeigt.
+2. Lebensenergie
+3. Für konventionelle zaubersprüche verfügbares mana.
+4. Willenskraft für psionische magie.
+
+[Bild]
+Die inventories (getrennt nach nahkampf - bzw. Fernkampfwaffen, Rüstungen, Tränke und spezial - items wie schlüssel,
+Fackeln etc.) lassen sich bei bedarf einblenden. die gegenstände werden dabei automatisch nach qualität sortiert.
+-
+Sowohl rüstungen als auch waffen werden direkt über die darstellung der charakter visualisiert.
+
+[Bild]
+"Nein, Gothic wird keinen online - modus haben - der nachfolger aber auf jeden fall..."
+
+[Bild]
+Spielfunktionalität in sachen objektinteraktion: Unser held versteckt sich in einem Fass.

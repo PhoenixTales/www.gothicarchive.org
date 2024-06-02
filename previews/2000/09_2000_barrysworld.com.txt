@@ -1,0 +1,31 @@
+barrysworld.com 09/2000
+
+(03/09) Gothic by Speccy
+
+
+Gothic
+
+Gothic from Piranha-Bytes is a single player, fully 3D, third-person perspective game that has been in development for over 2 years and is due for a November 2000 release. Anyone who has played the excellent, though incredibly laggy, Ultima 9 will recognise the style of this game. In fact when I spoke to Stefan Nyul, General Manager at Piranha, he compared it to this game almost in his first sentence (and a mention of it can also be found in the company`s PR).
+
+Gothic is set on a prison colony planet where the player is sealed in an area of approximately one mile square by a magical barrier. The game is broken down into three major stages, the first (pretty important) requirement being to actually survive in the world when you first arrive. The next task is to become aligned with one of the four alliegences in the game (at which point your character specialises in a particular skill set). The final task is to escape from the prison.
+
+The game attempts to replicate the dramatic 3D scenes seen in Ultima 9 with the addition of the NPC interactivety that was missing from Origin`s game. To demonstrate this, Stefan showed a scene in a small village where he directed the player character to stand in front of an NPC and draw his sword. Interestingly, the NPC reacted to this apparent threat by drawing his own weapon, as did a number of other NPCs in the local area. He then attacked the victim who faught back, joined by some NPCs who were friendly to him. Pointing to behind the fight though Stefan pointed out some more NPCs who were not aligned with the victim who had decided to cheer the fight on (acompanied by actual cheering animations). Another interesting addition that was demonstrated was the NPC reactions to different types of armour - If you walk around wearing the armour of an enemy group you are very likely to be attacked!
+
+NPCs live a complete life in the game, cycling through a daily routine which is impacted by the time of day. The prison world is ruled by organised alliegences (or `gangs` as they are referred to in the game). The various gangs specialise in different skills inclduing fighting, theivery, magic and psionics and, depending on which gang you join, those skills will become available to your character.
+
+Combat is based around the use of bladed weapons, projectile weapons (such as bows) and magic. The projectile weapons include an element of auto-aim provided by the game so they are relatively easy to use, which is often a problem with third-person views. However, its not just a case of killing one NPC at a time. NPCs will assist each other in trouble (or attack aggressive NPCs), others will call out if they see you trying to steal from another, and all NPCs are aware of your actions both within their field of view and their hearing range.
+
+The environment has a similar level of interactivity, and the developers have attempted to make as many objects in the world available for fiddling with, regardless of whether it is needed to advance the game`s plot. I witnessed a torch being lit by a fireball and the player character sitting down to smoke a bong!
+
+shot1.jpg shot2.jpg shot3.jpg
+
+
+Although the game cycles through a day/night phase there isn`t any other environmental effects such as rain and fog. Stefen said that these were unlikely to make it into the game. He demonstrated the player character swimming in a river (which include currents) amd the animations change as the water gets deeper. He even held the player upside down for a while with his feet bobbing out of the water!
+
+The end of the first chapter of the game will see you specialise into one of four skill areas as mentioned above. As your skills increase the player animations used to show those skills begin to smooth out and become more fluid. Instructors in your aligned gang can provide the training necessary to improve your skills as you advance. Numerous sub-quests will also be available in the game which may or may not have an impact on the main plot.
+
+I noticed another similarity with Ultima 9 - During certain scenes when a lot of NPCs were rendered in the area, the framerates dropped through the floor. The developers were quite touchy about this in fact, when I asked what graphics card the demonstration machine was using. They said that they will be optimising it a lot more before the final release. I hope that is the case.
+
+Overall though, Gothic looks fantastic, in a richly detailed world with a huge number of NPCs which actually do something instead of waiting for you to come along and poke them with your stick! One to watch for towards the end of the year.
+
+shot4.jpg shot5.jpg shot6.jpg

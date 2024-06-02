@@ -1,0 +1,137 @@
+Source: https://forum.worldofplayers.de/forum/threads/71813-Gothic-exe-Versionen
+
+NicoDE (03.08.2005):
+List of known Gothic I releases (known to me, incomplete):
+I'm still looking for the Portuguese release, distributed by PlayGames.
+
+
+========================
+Official Gothic I Demos:
+========================
+
+1.04d       Gothic - First Demo (german)
+Gothic.exe, 18552320 Bytes, 2001-01-31 15:58:34, MD5: ee8a865bc74cbc1a21c6f760b2529449
+GOTHIC.DAT, 3417636 Bytes, 2001-02-02 00:41:00, MD5: 5d7642497fac96ad6d4165a8ecbe1cc8
+OU.BIN, 1672682 Bytes, 2001-02-01 23:05:44, MD5: cefbf11b96268dab6ddcdcf2fc0bfa64
+OLDMINE.ZEN, 6081605 Bytes, 2001-02-01 20:12:04, MD5: 91db49fd494d8d93d9c56aa567b4cdec
+
+1.07c       Gothic - Second Demo (german)
+Gothic.exe, 8517568 Bytes, 2001-03-19 21:51:32, MD5: 588bef5848a2e81a016469e5b904f975
+GOTHIC.DAT, 3469098 Bytes, 2001-03-20 15:49:02, MD5: 96f0c05ea8f5fa2fecc1f010f3e50730
+OU.BIN, 1722978 Bytes, 2001-03-20 15:48:42, MD5: 7fe683283f23fc16e15630de16273f29
+worlds.VDF, 20573877 Bytes, 2001-03-20 17:48:16, MD5: f01ab2e58dd6d837cdc069d5f5ae5574
+
+
+1.08j       Gothic - International Demo (english)
+Gothic.exe, 8555836 Bytes, 2001-06-12 19:24:16, MD5: e65ab7ba85ab867fdb4f2407c0791c61
+GOTHIC.DAT, 3485199 Bytes, 2001-06-26 14:33:40, MD5: c21971f74966816acfc38ce7468a5a98
+OU.BIN, 2136414 Bytes, 2001-06-26 12:50:52, MD5: 9ba993e2a3d5276eae1f3a218ec525c9
+worlds.VDF, 20573877 Bytes, 2001-03-20 17:48:16, MD5: f01ab2e58dd6d837cdc069d5f5ae5574
+
+
+===========================
+Official Gothic I Releases:
+===========================
+
+1.06l       Gothic - Goldmaster (german)
+Gothic.exe, 2448594 Bytes, MD5: 978fa669f9ddbd48e425a80b41094c77
+
+1.07c       Gothic - Patch 1.07 (german)
+Gothic.exe, 2654810 Bytes, MD5: c7b9a2ff6a142f92acca38e8fee05e4c
+
+1.08h       Gothic - Patch 1.08 (german)
+Gothic.exe, 2665742 Bytes, MD5: 0e3c0a9b57dd77f3c1bb635ec6e69302
+
+1.08j       Gothic - Kyro II Patch (german)
+Gothic.exe, 2666686 Bytes, MD5: 449717c02c4a766716d7fdadb85ae224
+
+1.08j       Gothic - Release (english/italian/spanish)
+            Gothic - Gold-Edition (german)
+Gothic.exe, 8555996 Bytes, MD5: ecc01566ecd3290ab88a2cf2cd1c13ee
+
+1.08j       Gothic - Softwrap-Release (english)
+Gothic.exe, 5410816 Bytes, MD5: 80bc4d78ac561057fa2834ebd96cb3ee
+
+1.08k       Gothic - ATI-Patch (english/german)
+Gothic.exe, 8580524 Bytes, MD5: d912c18d44c0e2994ff90778fa6ec068
+
+1.08k       Gothic - Release (polish)
+Gothic.exe, 8580524 Bytes, MD5: 9c907748982b7611c4fd78d467eacb62
+
+1.08k       Готика - Release (russian 1C/Snowball)
+Gothic.exe, 8580524 Bytes, MD5: 1d80b958e861f7d64cd3bb4f0398ef76
+
+
+1.08j          哥特帝国 - Release (chinese)
+Gothic.bin,    8555996 Bytes, MD5: 849a208cbb49af250f40675738d95348
+
+1.08k_mod      Готика - Release (russian Russobit-M/Boolat)
+GothicMod.exe, 8518352 Bytes, MD5: 25e30d7f6f8cc7e0e34c0be5169ff672
+                              MD5: b8d6e80f5326436c3bd3715e59da253d (fps)
+
+The official title of the Chinese release is 哥特帝国 ("Gothic Empire").
+An alternate (commonly used) name is 哥特王朝 ("Gothic Dynasty").
+
+
+==============================
+Official Gothic I Player-Kits:
+==============================
+
+1.08mod        Gothic Player-Kit - 1.08h (german)
+GothicMod.exe, 2674586 Bytes, MD5: 98accfc9348f8ab39f220f4f301bb2e1
+
+1.08k          Gothic Player-Kit - 1.08k (bug!)
+GothicMod.exe, 8580524 Bytes, MD5: d912c18d44c0e2994ff90778fa6ec068
+
+1.08k_mod      Gothic Player-Kit - 1.08k (english/german)
+Gothic.exe,    8580524 Bytes, MD5: e0144b8b8cc690cd2e416e473d94d0a8 (dummy)
+GothicMod.exe, 8518352 Bytes, MD5: aff73a93a00bb0f350b8ebeef0cd6244
+                              MD5: b4520bf56711484dc4f04d154e9bd05b (fps)
+
+
+================================
+Unofficial Gothic I Fan-Patches:
+================================
+
+1.08k          GIRussobit Patch (russian Killer-XXX)
+Gothic.exe,    1766912 Bytes, MD5: 1a96603a5ac1398f37bac67d4731d640
+
+
+===========================
+Unofficial Gothic I Cracks:
+===========================
+(there's no need to crack the game, but they happen to exist...)
+
+1.06l       (german)
+Gothic.exe, 4804096 Bytes, MD5: 40b9499d65ac4f816eb933042db00c8d
+                           MD5: b3571567fa34a1dc29b25d4c85faf9ad
+
+1.08h       (german)
+Gothic.exe, 6905856 Bytes, MD5: 8ee628762418d4be1e8d2a50de8b3e65
+
+1.08j       (german)
+Gothic.exe, 6909952 Bytes, MD5: ca0c065a8fdb43961eb0610a03651fb5
+
+
+
+NicoDE (09.12.2005):
+Just for info...
+
+Dateilisten der verschiedenen Versionen sind zu finden unter:
+http://www.bendlins.de/nico/gothic/m...1-versions.zip
+
+Randnotizen:
+* Die Version von Russobit-M enthält keine Gothic.exe
+  (nur die GothicMod.exe und einen modifizierten Starter)
+* Die chinesische Version wird mit der Main.exe gestartet
+  (diese startet die Gothic.bin und injeziert die hookapi.dll)
+
+
+NicoDE (27.02.2006):
+Just for Info,
+
+Die 'neue' 'offizielle' englische Gothic I Demo ist nahezu identisch mit der 'alten' Demo (seit vier Jahren im Download-Bereich zu finden).
+
+Der einzige Unterschied: in der Gothic.ini ist die Sichtweite bereits auf 300% (vorher 100%) und die Auflösung auf 1024x768x16 (vorher 800x600x16) eingestellt.
+
+Da die Änderungen vernachlässigbar sind, werden die o.g. Listen nicht aktualísiert.

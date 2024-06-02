@@ -1,0 +1,54 @@
+PC Action 10/1998
+
+10.08.1998
+
+
+ÜBER-NATÜRLICH
+==============
+
+In der letzten Ausgabe riefen wir verzweifelt nach neuen Spielkonzepten, und es scheint, als wären wir erhört worden. Baut Tempel, laßt Fanfaren erschallen, denn soeben ist ein Wunder geschehen: Aus Bochum ist uns Gothic erschienen, naht die Rettung der Spielewelt?
+Das mit Abstand häufigste Wort bei der Präsentation von Gothic war: "Natürlich!" Tom Putzki, Leveldesigner und Marketing Director der rührigen Newcomer von Piranha Bytes, war ganz in seinem Element. Mit einem verschmitzten Grinsen trotzte er allen Versuchen der Redaktion, eine Schwäche in der ersten Gothic-Alpha auszumachen. "Kann man die Fackel auch werfen?" "Natürlich!", "Bleiben Pfeile auch in Holztüren stecken?" "Natürlich!", "Kann ich die Kiste dort anzünden?" "Natürlich!". Ein paar Tastaturkommandos später flogen Fackeln im hohen Bogen durch die Gegend, steckten gut ein Dutzend Pfeile in der nächsten Tür, und eine Kiste loderte munter vor sich hin. Der geneigten Redaktion klappte indes die Kinnlade herunter. Seit wann ist es denn erlaubt, sich in einer digitalen 3D-Umgebung genauso frei zu bewegen wie im richtigen Leben?
+
+023
+Sie bekommen, was sie sehen! Zur Auswahl des Zauberspruchs rollen Sie in diesem "Menü" den entsprechenden Magieeffekt nach vorn.
+
+026
+Die Schwertkampf-Levels sind unterschiedlich animiert.
+Die Größe des Feuerballs verweist auf die Macht des Magiers.
+Die Größe der Lichtquelle bestimmt den Leuchtradius.
+
+
+Erz-Feinde
+==========
+Dabei ist Gothic doch eingentlich ein waschechtes Rollenspiel und gehört damit einem Genre an, das bisher recht selten von 3D-Engines beleckt wurde. Die Hintergrundgeschichte charakterisiert sich durch eine Mischung aus klassischer Fantasyvorlage und Snake Pliskens Horrortrip aus dem Kinofilm "Die Klapperschlange": Das Königreich der Menschen muß sich eines massierten Angriffs von Orkscharen erwehren, die Waffenproduktion läuft auf Hochtouren. Die Erze dazu liefert eine riesige Strafkolonie, die allerdings völlig ohne Wachen auskommt. Der Grund: Eine magische Barriere umschließt den gesamten Knast, lebende Kreaturen können zwar in die Kolonie hineingelangen, sind dann aber auf ewig gefangen. Nur wenn die Sträflinge ausreichend Erze abliefern, bekommen sie dafür lebensnotwendige Nahrungsmittel geliefert. Im Knast herrscht daher Anarchie. Einige der Knastbrüder haben die Kontrolle des gesamten Erzhandels an sich gerissen und leben in Saus und Braus. Für den Rest vom Fest bleiben nur Brosamen übrig, weshalb sich eine Rebellengruppe gebildet hat, die nicht nur den Erzbaronen das Leben erschwert, sondern auch an Ausbruchsplänen schmiedet. Mit den Rebellen haben sich die Anhänger des Sektentempels zusammengetan, eine Gruppe Spiritueller, die sich auf das Ende der Welt vorbereitet. Die Kräfteverhältnisse im Knast sind also augenblicklich gleichmäßig verteilt, doch jetzt treten Sie auf den Plan.
+
+027
+Die Anzeigen für Lebensenergie und Zauberkraft.
+Die verfügbaren Tastenkombis werden angezeigt.
+Ein Troll mit drei Gobbos hat Sie erspäht. Gleich werden die kleinen Biester über den Graben fliegen und Sie von hinten attackieren.
+
+
+030
+Diese echsenähnlichen Kreaturen haben gegen die zusammenarbeitende Dreiergruppe keine Chance. Hat den Viechern das niemand gesagt?
+
+
+Du kriegst, was du verdienst
+============================
+Nichtsahnend, weshalb man Sie in die Strafkolonie geworfen hat, wagen Sie Ihre ersten Gehversuche in der lebensfeindlichen Umgebung, die nur einen Wunsch in Ihnen wachruft: Schnell wieder raus hier! Als Nobody verfügen Sie aber weder über eine Ausrüstung noch über irgendwelche Erfahrung. Im ersten der sechs Gothic-Kapitel durchlaufen Sie also eine Art Tutorial, bei dem Sie alle Gruppierungen in der neuen Welt kennenlernen. Erst danach können Sie sich entscheiden, ob Sie Ihren Charakter zum Krieger, Magier, Dieb oder Psioniker, eine Art Priester mit einem auf Drogen aufbauendem Magiesystem, weiterentwickeln möchten. Die Charakterentwicklung erfolgt jedoch ohne genretypische Zahlenspielereien. Sie ergattern ein Schwert? Gut, doch am Anfang werden Sie damit herumhacken wie ein Bauer mit seinem Pflug. Wenn Sie allerdings die Fähigkeit Schwertkampf erlernt haben, werden Sie bei Ihrem Helden wesentlich geschmeidigere Animationen feststellen. Piranha Bytes setzt bei Gothic voll auf das optische Feedback, bei sämtlichen Talentsteigerungen sehen Sie sofort die Auswirkungen. Ein ungebildeter Magier entzündet mit seinem Feuerball nur mit Not einen Ast, ein Könner entfacht damit ganze Waldbrände.
+
+031
+Grundsätzlich können Sie jeden und alles in Gothic angreifen und ausplündern, nur mit den Folgen müssen Sie dann leben können.
+
+Verbundene im Geiste
+====================
+Was für alle Talente gilt, gilt genauso für alle Lebewesen der virtuellen Welt. Menschen und Monster führen hier ein Eigenleben, Sie selbst interessieren da nur am Rande. Beobachtet man Sie z. B. beim Bestehlen eines Bandenchefs, wird die gesamte Bande hinter Ihnen her sein. Meucheln Sie den Bruder aber unbemerkt, können Sie seinen Genossen weiterhin gefahrlos gegenüberstehen. Sind Sie einem der 200 NSCs bereit vorher im Spiel begegnet, wird er sich daran erinnern können und sich dementsprechend verhalten. In Gothic werden Sie mit einem kompletten Sozialsystem konfrontiert, sogar einige der ca. 15 Monsterklassen arbeiten zusammen. Werden Sie von einem Troll entdeckt, sind aber von diesem durch einen Graben getrennt, wird dieser seine kleinen Freunde, die Gobbos, herbeirufen und sie einfach über den Graben werfen. Faszinierend! Sämtliche Kämpfe laufen in Echtzeit ab und werden mit Hilfe einer Tomb Raider-ähnlichen Perspektive in Szene gesetzt. Die Kameraführung ändert sich automatisch, und das gesamte Spiel läßt sich mit bescheidenen zehn Tasten des Keyboards beherrschen. Ein Gamepad soll ebenfalls gute Dienste verrichten. Sogar über Multiplayer-Optionen denkt man bei den Bochumern noch nach. Oh Mann, wir können die nächste Version jedenfalls kaum noch erwarten!
+
+Christian Bigge
+
+Verbundene im Geiste
+Voraussichtlich: P200, 16 MB RAM
+Technik: DirectDraw, Direct3D, DirectSound, CD-Audio
+Multiplayer: 4 Sp. LAN
+Sprache: deutsch
+Hersteller: Piranha Bytes
+Erscheint: Mitte 1999

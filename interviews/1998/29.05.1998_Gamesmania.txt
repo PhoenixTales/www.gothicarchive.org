@@ -1,0 +1,73 @@
+29. Mai 1998
+
+Gothic Interview
+================
+PB_team.JPG
+
+Gamesmania: Was für Ziele habt Ihr Euch mit Gothic gesetzt?
+
+Tom: Im Großen und Ganzen zwei Dinge: nachdem die meisten von uns einige Jahre für das Softwarehaus Greenwood Entertainment gearbeitet haben, wollten wir endlich einmal die Art von Games machen, die wir selber gerne spielen möchten. GOTHIC ist dementsprechend ein Spiel, hinter dem das Team geschlossen steht! Zum Zweiten wollen wir zeigen, daß sich deutsche Entwickler auf gar keinen Fall hinter ihren englischen oder amerikanischen Kollegen verstecken brauchen und auch aus unserem Land konkurrenzfähige Titel für den internationalen Markt kommen können
+
+snap004.JPG
+
+Gamesmania: Wo stecken Eure Innovationen?
+
+Tom: GOTHIC wird ein RPG für den Mainstream-User, das heißt alle Leute, die bisher mit Rollenspielen nicht viel anfangen konnten, weil Ihnen die Pen&Paper-Erfahrung; fehlt, können mit dem System von GOTHIC problemlos klarkommen, weil wir alles für den Spieler transparent gestalten. Für alle Skillsteigerungen, bessere Waffen und Ausrüstung wird es ein optisches Feedback geben - der Spieler sieht, wie sich seine Fähigkeiten verbessern...
+
+Mike: Das heißt, wenn dein Charakter lernt, besser zu fechten, wird nicht irgendein popeliger Wert hochgesetzt, sondern Du siehst es an den besseren Animationen. Man kann alle Kampftalente mehrmals steigern, und jedesmal siehst Du eine andere Animation, bzw eine neue kommt hinzu! Auch für die Darstellung der übrigen Talente (Taschendiebstahl, Schleichen, usw.) wird es keine einzige Zahl mehr geben, alle erlernten Talente werden durch neue Animationen dargestellt! (Sorry, Tom, hab dich unterbrochen)
+
+Tom: ...er kann anhand der Optik der Charaktere sehen, wie gut sie bewaffnet und gerüstet sind und daran auch ihre Kampfkraft und Gefährlichkeit realistisch einschätzen.
+
+Mike: Also auch hier gilt: Keine Werte, sondern grafische Darstellung. Eine weitere wichtige Innovation liegt im Monsterverhalten. Bei GOTHIC sollen die Monster raffinierte Gruppentaktiken haben, die... Was? Jaja, das haben schon viele versprochen... Ehrlich! Bei GOTHICwerden die Monster WIRKLICH zusammenarbeiten. Kleine Goblins zum Beispiel werden von ihren 3-4m großen Freunden, den Trollen, über Abgründe hinweg geworfen, über die sie selbst nicht springen können, um kurz den Spieler, der sich auf der anderen Seite in Sicherheit wähnte, anzugreifen! Wir arbeiten gerade daran, dieses Feature ins Spiel einzubauen. Wird man demnächst auf unserer Homepage bewundern können.
+
+snap025.JPG
+
+Gamesmania: Habt Ihr keine Bedenken, daß Gothic zum Nischenprodukt verkommt? Rollenspiele haben ja einen schweren Stand momentan... Glaubt Ihr, daß das daran liegt, daß sie grafisch nicht mit anderen Genres mithalten können?
+
+Stefan: Diese Befürchtung haben wir überhaupt nicht. Diese Gefahr besteht eigentlich nur für klassische Rollenspiele. Unser Ziel aber ist es ja eben, ein RPG für jedermann zu machen. Sofortiger Spieleinstieg, supereinfach zu steuern, keine Tabellenwüsten und alles nachvollziehbar. Auch ohne jahrelange "Rollenspiel-Ausbildung". Was die Grafik angeht, sind Computer-RPGs längst erwachsen geworden. Sie brillieren mit faszinierenden 3D-Engines, tollen Lichteffekten und sich realistisch bewegenden Figuren. GOTHIC wird da keine Ausnahme sein.
+
+Tom: Schau Dir doch nur mal die ersten Screenshots von Ultima IX an. Da gibt's graphisch aber gar nichts mehr zu meckern.
+
+Gamesmania: Was spielt Ihr privat? Was inspirierte Euch zu Gothic?
+
+Tom: Wenn ich denn mal Zeit habe, spiele ich im Augenblick am liebsten die großen Strategie- und Aufbauspiele wie Age of Empires, Starcraft, Anno 1602 oder Demonworld. An Ultima Online traue ich mich gar nicht ran, weil es einfach zu viel Zeit verschlingen wird.
+
+Stefan: Tomb Raider und auch Prince of Persia ließen sich sehr gut bedienen, also wurde ab und zu schon mal ein Auge auf diese tollen Games geworfen; aber auch Unzufriedenheit über nicht so schöne Dinge in anderen Spielen haben Einfluß auf GOTHIC gehabt. Der Kern des Gamedesigns aber waren unzählige lange Nächte, voller kreativer (und manchmal auch hitziger) Diskussionen. Sie haben ein ausgewogenes und faszinierendes Spielkonzept geformt.
+
+Alex: In letzter Zeit hat mich besonders MYTH fasziniert. Ein cooles Spiel, das in der deutschen Version leider etwas "unspektakulärer" ist als im Original. FALLOUT hat mich auch einige Nächte gekostet. Obwohl das Interface echt besch... ist und es 'ne Menge Bugs gibt, Atmosphäre und Grafik sind dafür wirklich klasse. Ein altmodisches RPG im besten Sinne des Wortes.
+
+Mike: Das stimmt! Fallout war cool! Leider gab es bis auf wenige Ausnahmen in letzter Zeit nicht viele Spiele, die mich wirklich begeistert haben. Abe's Odysee zum Beispiel war eins davon. Wirklich gutes Game-Design! Die wenigen Spielelemente sind saugut kombiniert worden und die Grafik zeigt Liebe zum Detail. Tomb Raider II hielt in meinen Augen nicht, was es versprach. Alte Spiele wie Dungeon Master, Ultima Underworld oder SystemShock haben mir wirklich Spaß gemacht, und ich warte schon lange auf eine zeitgemäße Fortsetzung - kommt aber nicht. Also: Selbermachen! : )
+
+snap031.JPG
+
+Gamesmania: Kennt Ihr Eure deutschen Kollegen von Attic, Blue Byte etc. ?
+
+Tom: Einige deutsche Entwickler kennen wir schon, mit manchen sind wir auch in regelmäßigem Kontakt, aber die Szene ist doch erheblich größer, als man meint. Demnächst soll es aber ein Developer-Meeting von deutschen Teams geben, und da lernt man hoffentlich eine Menge neuer und interessanter Leute kennen.
+
+Gamesmania: Was haltet Ihr von deutschen Rollenspielen wie Albion oder DSA? Was hättet Ihr anders gemacht?
+
+Stefan: Albion hat mir ganz gut gefallen und erinnerte mich (wehmütig) etwas an die schönen älteren Ultimas. Die DSA-Titel sind in meinen Augen klassische Computer-Rollenspiele. Hab' ich schon immer gemocht. Aber die haben leider nur ihre eingeschworene Fangemeinde und erreichen zu wenig der Computerspieler da draußen, da sie durch ihre Kompliziertheit Angst machen. In GOTHIC wollen wir die Spieltiefe einfach "spielerfreundlicher" verpacken.
+
+Tom: DSA hat mir gezeigt, wie schön Pen&Paper; doch ist :-)
+
+snap006.JPG
+
+Gamesmania: Was kommt nach Gothic?
+
+Tom: Erstmal ein fürchterlich langer Urlaub ;-)
+
+Stefan: Nur wenn wir die Release-Party überleben, Tom :-) Was danach kommt, steht noch in den Sternen, aber es gibt schon so eine Idee...
+
+Mike: Ich werde mich 3 Tage ununterbrochen in einer Menschenmenge aufhalten, um mich wieder an die Zivilisation zu gewöhnen. Wenn man den ganzen Tag mit 4 Leuten auf 20qm rumhockt, bekommt man Samstag Nachmittags in der Fußgängerzone Paranoia!
+
+Gamesmania: Wirft man einen Blick hinter die Kulissen, wirkt Ihr wie eine gemütliche Runde von Programmiereren, die ihr Hobby zum Beruf gemacht haben. Ist es so?
+
+Tom: Nicht wirklich. Von Gemütlichkeit kann bei der Spieleentwicklung überhaupt nicht die Rede sein; erst recht falsch ist die übliche Meinung: "Cooler Job - den ganzen Tag zocken und fette Kohle dafür kassieren!" Außerdem kann ich bestimmt 'ne ganze Menge, aber mit Sicherheit nicht Programmieren :-)
+
+Alex: Aaargh! Er hat GEMÜTLICH gesagt.
+
+Tom: Nein Alex, nicht schon wieder einen Redakteur fressen...Sorry, aber seit er unsere Monster animiert, ist mit Ihm irgendeine merkwürdige Veränderung vorgegangen!
+
+(Wir blenden nun aus, um unseren Lesern eine möglicherweise blutige Szene zu ersparen.)
+
+Interview: Christian Schutsch

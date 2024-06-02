@@ -1,0 +1,70 @@
+wog.de 11/2000
+
+09.11.2000
+
+
+Unser zweites Interview mit Piranha Bytes.
+Neuigkeiten zum Release-Termin und zum Spiel.
+Lest euch es einfach durch. ;)
+
+
+World of Gothic:
+Wo arbeitet ihr im Moment noch an Gothic?
+Piranha Bytes:
+Wir arbeiten daran die Verbesserungsvorschläge von Externen Testern umzusetzen und BugFixing. Der letzte Punkt der momentan noch bearbeitet wird, ist ein differenzierteres Item System. Das heißt es wird weit mehr Gegenstände geben als wir ursprünglich geplant hatten.
+
+World of Gothic: Stellt Gothic inzwischen niedrigere Hardewareanforderungen?
+Piranha Bytes:
+Nein, die Hardwareanforderungen sind aber für die jetzige Zeit auch nicht wirklich zu hoch gesteckt. Wenn ich mir ansehe, dass dieses System schon nicht mehr zu kaufen ist.
+
+World of Gothic: Ist die Engine eine Eigenentwicklung?
+Piranha Bytes: Die Engine ist eine reine Eigenentwicklung und wird nach Release auch zum Kauf angeboten werden.
+
+World of Gothic: Was ist das besondere an eurer Grafikengine und warum habt ihr nicht einfach z.B. die UT Engine oder ähnliches genommen?
+Piranha Bytes: Die Besonderheiten sind eine sehr hohe Sichtweite und die Möglichkeit sehr organisch Modellieren zu können. Die UT Engine ist sicher gut für Cityumgebungen, aber nicht für unsere Anforderungen. Aber das sind nur 2 Punkte die dafür sprachen eine eigene Engine zu benutzen.
+
+World of Gothic: Welche Grafikmodi und Auflösungen wird die Engine unterstützen?
+Piranha Bytes: Es wird alles unterstützt was DirectX so hergibt. Das heißt man wird die Auflösung selbst wählen können.
+
+World of Gothic: Kann man sich in der großen Welt von Gothic wirklich frei bewegen, ohne dass Levelgrenzen oder sonstiges einen einschränken?
+Piranha Bytes: Ja. Man wird sich sogar überall hinbewegen müssen, wenn man alle Aufträge erfüllen will. Am Anfang wird man erst einmal den größten Teil der Oberwelt kennenlernen.
+
+World of Gothic: Wie linear ist der Spielablauf und wird das Ende immer gleich sein oder kann es je nach Spielweise variieren?
+Piranha Bytes: Da neben den Aktionen des Spielers die Story weiterläuft, wird man immer an gewissen Punkten vorbeikommen müssen. Aber alles in direkter Umgebung des Spielers wird durch ihn beeinflusst. Trotzdem wird es nur ein Ende geben. Der Weg dahin ist aber wahrscheinlich von Spiel zu Spiel unterschiedlich
+
+World of Gothic: Wie ist das Charaktersystem gemacht? Gibt es nur die vier Charaktere (Krieger, Psioniker, Dieb, Magier) zur Auswahl?
+Piranha Bytes: Nein es gibt eigentlich keinen Charakter zur Auswahl. Der Spieler beginnt mit einer Pünte, die nichts kann. Man wird natürlich ein Schwert halten können, aber bis zum Meister der Waffe ist es ein weiter Weg. Im Spiel wird man dann von verschiedensten NPS's (Nichtspieler Charaktere) Aufträge annehmen können. Als Belohnung wird man dann eventuell eine Fertigkeit beigebracht bekommen. So kann ein Kämpfer einem dann das Schwert beibringen und ein Magier einen Zauberspruch. Es ist auch möglich sich erst die Schwertfertigkeit anzueignen und danach noch einen Zauberspruch zu erlernen. Das heißt es ist unwahrscheinlich, dass jemand ein reiner Magier werden wird, außer er entscheidet sich nur Aufträge für Magier anzunehmen.
+Man kann allerdings auch mit den Leuten handeln. Das bedeutet, dass man jemanden finden muss, der einem positiv gegenübersteht und kann ihm Geld dafür geben, dass er einem eine Fertigkeit beibringt. Allerdings ist es sinnvoll einige Sachen richtig zu lernen. Das soll heißen, dass man jede Waffe und jeden Zauberspruch auf verschiedenen Leveln erlernen kann. Lerne ich das Schwert so sehe ich immerhin nicht mehr wie der letzte Bauer aus der eine Klinge in der Hand hat. Lerne ich es dann besser (Level2), dann kann ich schon die erste Combo schlagen und verursache mehr Schaden und ich habe noch eine prozentuelle Chance den 3fachen Schaden zu machen.
+Genauso ist das auch mit den Zaubersprüchen.
+
+World of Gothic: Welche Spiele, Musik, Bücher... haben euch bei der Entwicklung Gothic´s besonders inspiriert?
+Piranha Bytes: Rollenspiele aller Richtungen. Was die anderen Dinge angeht ist hier jeder so individuell, dass ich das hier nicht zusammenfassen kann.
+
+World of Gothic: Wird man mit Hilfe einer Art Editor eigene Welten erschaffen oder per MOD das Spiel verändern können? (so ähnlich wie bei Half-Life)
+Piranha Bytes: Erst einmal ist das nicht vorgesehen.
+
+World of Gothic: Was sagst du zu der Behauptung das Gothic durch den fehlenden Multiplayermodus keine richtige Community im Internet haben wird?
+Piranha Bytes: Das ist Blödsinn. Wenn die Leute Gothic spielen, werden sie sich auch austauschen wollen, da ich es für unwahrscheinlich halte, dass ein Einzelner alle Geheimnisse von Gothic finden wird. Daher wird man gut beraten sein sich one-in-a-while im Internet mit anderen zu unterhalten. Sonst werden einem sicher so manch schöne Stellen entgehen.
+
+World of Gothic: Wie geht ihr mit dem Thema "Zensur" um, da ihr euer Spiel für den eigenen Markt entschärfen müßtet?
+Piranha Bytes: Wir werden Gothic auf jeden Fall für den deutschen Markt so gestalten, dass wir es auch an Leute unter 18 verkaufen dürfen. Zum Glück lebt Gothic nicht vom Blut, sondern vom Spiel an sich. Alles andere wird dann wohl erst bei Erscheinen von Gothic bekannt sein.
+
+World of Gothic: Wie habt ihr das Speicher Problem in Gothic gelöst? So wie in Diablo 2, nur an bestimmten Wegpunkten oder kann man einfach immer speichern?
+Piranha Bytes: Man wird immer Speichern können. Naja nur nicht während verschiedener Videosequenzen.
+
+World of Gothic: Wird es Cheats für Gothic geben?
+Piranha Bytes: lol
+Wer braucht schon Cheats?
+
+World of Gothic: Wann ist der endgültige Releasetermin für Gothic, wir haben da in der Gamestar etwas von einer erneuten Termin Verschiebung gehört?
+Piranha Bytes: Ja es wird eine neue Releaseverschiebung geben. Der neue Termin liegt Anfang nächsten Jahres. Wann genau kann leider nur der Publisher entscheiden.
+
+World of Gothic: Warum mußtet ihr den Termin nochmals verschieben?
+Piranha Bytes:
+Dafür gibt es 2 Gründe. Der erste ist das Gameplay. Wir haben hier inhouse das Game für gut befunden und waren damit zufrieden. Dann haben wir eine neue Testperiode mit Spielern außerhalb unseres Teams gehabt und die haben noch Verbesserungsvorschläge gebracht, die uns so wichtig sind, dass sie auf jeden Fall berücksichtigt werden. Der zweite Grund ist, dass wir uns mit einigen Implementationen zeitlich verschätzt haben. Da wir diese Dinge aber nicht aus dem Spiel streichen wollen, wird es weiter verschoben.
+
+World of Gothic: Wie geht ihr mit eurer Außenseiterolle um, da Gothic ja euer erstes Spiel ist?
+Piranha Bytes: Schon seit längerer Zeit sind wir keine Aussenseiter, nur weil es unser erstes Spiel ist. Was wir bisher auf Messen zeigen konnten, hat unsere Mitstreiter positiv überrascht und wir haben soweit schon bewiesen, dass wir Ernstzunehmen sind.
+
+World of Gothic: Vielen Dank für das Interview. :) :)
+Piranha Bytes: Gern

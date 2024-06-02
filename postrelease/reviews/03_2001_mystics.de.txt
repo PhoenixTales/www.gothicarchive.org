@@ -1,0 +1,97 @@
+mystics.de 03/2001
+
+Von Nicole am 28. März 2001
+
+[img] Version 1.07c
+
+Es herrscht Krieg im Königreich der Menschen: Von Norden her fallen Scharen von Orks in das Land ein. Um die Kampfkraft der königlichen Armee zu erhalten, sind die Schmiede des Reiches unentwegt damit beschäftigt, neue Waffen anzufertigen. All jene, die in dieser Zeit das Gesetz brechen, trifft ein hartes Los: Sie werden zur Zwangsarbeit in der Strafkolonie verurteilt, wo sie tief aus der Erde das Erz fördern, das für die Herstellung der Waffen benötigt wird. Einer Strafkolonie, die durch eine magische Barriere geschützt wird und aus der es kein Entrinnen zu geben scheint. Und hier beginnt auch unser Abenteuer...
+
+Der allererste Auftrag erweist sich als schwierig: Als neuer Gefangener der Strafkolonie soll man einen Brief an einen der miteingeschlossenen Feuermagier übermitteln. Wie das, wenn diese in einer gut bewachten Burg sitzen, in der man als „Frischling“ nicht eingelassen wird?
+
+[img] Mud, der beste Freund des Helden ;o)
+
+Das Spiel führt zunächst ins Alte Lager. Der Charakter hat, genauso wenig wie der Spieler selbst, keinen Schimmer, wie es hier so läuft. Bald stellt man fest, daß man sich in einer Welt der Schutzgelderpressungen und des Drogen- und Frauenhandels befindet. Wer seine tägliche Erzration an Schutzgeld nicht zahlt, bekommt eins aufs Maul, bis er entweder zahlt oder genug Mumm in den Knochen hat, sich nicht mehr verprügeln zu lassen. Da hat man als schwächlicher Neuling ohne ein Gramm Erz in der Tasche einen schweren Stand und muß sich erst mal durch kleine Gefälligkeiten hier und da einen Namen machen. Nur ein Underdog namens Mud ist von Anfang an bereit Freundschaft zu schließen, allerdings ist er die Art von Freund, die keiner haben will. Manche der Insassen sind halt doch nicht ganz ohne Grund inhaftiert worden )
+
+Hier im Alten Lager erfährt man durch „Mitgliederwerber“ gleich auch von zwei anderen Lagern, in denen es sich viel besser leben lassen soll. Aus Neugierde getrieben und immer auf der Jagd nach neuen Erfahrungspunkten, läßt man sich in die anderen Lager führen. Um festzustellen, daß es sich hier nirgends richtig gut leben läßt. Also nichts wie raus hier! Allein kann man das nicht schaffen, also muß man sich entscheiden, welchem der Lager man beitreten will:
+
+[img] Das Alte Lager
+
+[img] Das Neue Lager
+
+[img] Das Lager der Bruderschaft
+
+Diese Entscheidung hat keine großartige Auswirkung auf den Weiterverlauf der Geschichte. Man wird durch die Quests immer wieder auf den gleichen Hauptstrang der Story geführt, alternative Enden je nach Lagerangehörigkeit gibt es nicht. Hat man sich allerdings mal für ein Lager entschieden, ist diese Entscheidung endgültig, wer also von den Templern im Sumpflager trainiert werden will und eine Templerrüstung tragen möchte, sollte nicht Gardist des Alten Lagers werden. Einschränkungen beim Kaufen und Verkaufen von Waren, Waffen und Magie hat man dagegen als Angehöriger eines fremden Lagers nicht zu befürchten.
+
+[img]
+
+Die Charakterentwicklung in Gothic gestaltet sich recht simpel: Mit jedem (erfolgreichen) Metzeln von Monstern und mit jeder (erfolgreichen) Erledigung einer Quest erhält man Erfahrungspunkte. Die Erfahrungspunkte bestimmen den Stufenanstieg. Bei jedem Stufenanstieg werden Lernpunkte frei, die man bei einem Lehrer in eine der Fähigkeiten oder Charaktereigenschaften (Attribute und Talente) investieren kann. Stärke ist dabei für die Schlagkraft mit Ein- und Zweihändern zuständig, Geschicklichkeit verbessert den Umgang mit Fernkampfwaffen, Mana verbessert die Wirkung eine Zauberspruches. Um die Waffe überhaupt gerade halten zu können, sollten in die jeweilige Kampfart auch ein paar Lernpunkte gesteckt werden. Daneben lassen sich noch Fertigkeiten trainieren, die nicht auf dem Charakterbildschirm, dafür aber im Tagebuch erscheinen, wie z.B. das professionelle - und geldsegenbringende - Ausweiden von erlegten Tieren.
+
+Lehrer zum trainieren findet man an verschiedenen Stellen innerhalb der Barriere – jedoch ist nicht jeder bereit neue Talente zu trainieren oder zu verbessern. So kann zum Beispiel ein Magier keinen Schwertkampf mehr erlernen oder ein Gardist des alten Lagers seine Talente nicht bei einem Templer verbessern.
+
+[img]
+
+Waffen werden im Verlauf des Spieles immer besser und durchschlagender, die Anforderungen an die Werte des Charakter jedoch auch immer höher. Dabei hat man leider ein Übergewicht auf die Zweihänder gelegt - man findet im Verlauf des Spieles immer mehr dieser guten Schwerter, aber kaum noch Einhänder. Schilde gibt es in Gothic überhaupt keine.
+
+Menschen werden zunächst nur bewußtlos geschlagen und stehen nach kurzer Erholung wieder auf. Erst mit dem zusätzlichen „Todesstoß“ lassen sich diese vollständig aus dem Weg räumen. Wer sich als Bogenschütze auf die Pirsch machen will, sollte bedenken, daß mit Pfeil oder Bolzen menschliche Gegner gleich getötet werden, ein Bewußtlosschlagen wie mit einem Ein- oder Zweihänder ist nicht möglich. Schade, denn es grenzt die Wahl der Kampfstiles unnötig ein.
+
+Rüstungen bekommt man im Laufe seiner „Karriere“ vom zugehörigen Lager oder durch Lösen von Quests. Zu Anfang ist der begehrte Schutz noch kostenlos; im späteren Verlauf muß man sich diesen verdienen oder teuer bezahlen.
+
+[img] Der Blitz ist einer der mächtigen Zaubersprüche im Spiel
+
+Als Magier oder magiebegabter Templer kann man sich aus den Zaubersprüchen der Feuer- und Wassermagier oder der Psioniker ein Arsenal zusammenstricken.
+
+Die Handhabung ist eigentlich recht einfach: vom Lehrer des eigenen Lagers wird man - sofern man Magier oder magiebegabter Templer ist - in die verschiedenen Kreise der Magieschule eingeführt und kann danach die entsprechenden magische Runen benutzen. Diese funktionieren dauerhaft, sind also eine Anschaffung fürs Leben. Dagegen kann man Zaubersprüche nur einmal benutzen, das allerdings auch als Unkundiger der jeweiligen Magieschule.
+
+[img] Das Handelsmenü mit dem die Waren getauscht werden
+
+Das Handelsmenü ist recht umständlich zu bedienen. Der Handel funktioniert auch nach der zugefügten Maussteuerung nur über die Tasten und erfordert reichliches Blättern und Geduld, da höchstens 10 Posten auf einmal transferiert werden können.
+
+Kaufen kann man in Gothic nichts, hier wird getauscht: Waffen gegen Nahrung, Sprüche gegen Erz, Sumpfkraut gegen Heiltränke... alles läßt sich beliebig gegen andere Dinge eintauschen. Nicht jeder Händler bietet jede Ware, aber akzeptiert wird als Tauschmittel fast alles. Begehrt sind natürlich Waren aus der Welt außerhalb des Gefängnisses, ein „ausländisches“ Bier bringt mehr ein als der selbstgebrannte Reisschnaps aus dem Nachbarlager.
+
+Entsprechende Hardware vorausgesetzt bietet das Spiel einen wirklichen Augenschmaus. Dabei ist Gothic weit, weit weg von einer sauberen und zuckersüßen Welt à la Ultima IX, sondern bietet wirklich verottet aussehende Brücken, über die man lieber nicht gehen möchte, Hütten, die stark nach Einsturzgefahr aussehen (Blick von oben: da kann ich nicht raufspringen, das Dach hält mich doch nie) und Zäune, die mal welche waren. Mehr Wert als auf die Texturen der Landschaft wurde dabei aber noch auf die Gestaltung der Charaktere und Monster gelegt, von der Modellierung der Geschichtszüge bis über die detaillierte Gestaltung der Rüstungen.
+
+[img] Ein unterirdischer Tempel
+
+[img] Nicht schön - aber gefährlich!
+
+In den Settings lassen sich Auflösung, Textur, Sichtweite etc. pp. einstellen und damit auch an weniger leistungsstarke Rechner anpassen. Da die Grafik m.E. aber wesentlich zum Spielgefühl von Gothic beiträgt, verliert das Spiel damit auch ziemlich viel von seinem Reiz.
+
+[img] Goblins sind ähnlich lästig wie Fliegen...
+
+Die Steuerung ist mit Maus jetzt angenehmer, zu Anfang des Spieles als ungeübter Spieler jedoch immer noch hackelig. Das ist gerade am Beginn mit den nach dem Patch zwar verbesserten, aber immer noch quälenden Ladezeiten auf der Oberwelt besonders schmerzhaft, denn bei Gothic kommt es bei der Chance zu Treffen und Auszuweichen nicht nur auf die Werten des Charakters an, sondern auch zu einem Gutteil von der eigenen Hand-/Auge-Koordination und der Fähigkeit mit der Steuerung klar zu kommen. Da Monster nichts von Bewußtlosschlagen halten, wird man als zu aufmüpfiger Neuling am Anfang also des öfteren Gelegenheit zum „Kaffeekochen“ bekommen. Grund für diese Ladezeiten ist die Tatsache, das die gesamte Oberfläche an einem Stück geladen wird: Dadurch kommen, solange man sich auf der Oberfläche bewegt, innerhalb des Spieles keine neuen Ladezeiten zustande, was aber den hippeligen Spieler vor dem Ladebildschirm nicht wirklich tröstet.
+
+Als ärgerlich empfinde ich auch die langen Ladezeiten bis eine Karte angezeigt wird, das Fehlen eines Kompasses (oder habe ich den nur nicht gefunden?) und das Fehlen von Kurzwahltasten für Heiltränken.
+
+Viel Wert wurde im Spiel auf die Weltgestaltung gelegt. Die Bewohner der Lager werden verständlicherweise sehr ärgerlich, wenn man sich unerlaubt in ihren Hütten aufhält, ab und an sieht man, daß einen Gardisten wohl die Blase gedrückt haben muß, über Pfannen kann man sein erjagtes Fleisch braten und nach einer Kurzeinweisung ist man in der Lage seine ersten groben Schwerter zu schmieden. Bei manchen Gegebenheiten komme ich nicht umhin, zu denken, daß wohl der Wunsch hier Vater des Gedanken war, aber es soll ja auch eine Männerwelt sein
+
+[img] Tagsüber zur Unterhaltung der Männer tanzen...
+
+[img] ...und Nachts putzen. Die Frauen haben wirklich ein schweres Los!
+
+Die KI der Monster ist sehr gut gelungen, so bleiben sie nicht auf einer Stelle stehen und warten ab, bis sie abgemurkst werden, sondern umtänzeln einen, um je nach Monsterart schon mal hinterhältig einen Schlag von hinten durchzuführen. Dabei sind sie aber noch dumm genug, sich einzeln aus der Gruppe rauslocken zu lassen...
+
+Man kann „einfach so“ mit gucken und jagen viel Zeit in Gothic verbringen, ohne einem Handlungsstrang zu folgen. Hat man genug entdeckt und erkundet, hilft einem das Tagebuch wieder auf die gedanklichen Sprünge, welche Aufgaben eigentlich noch zu erledigen sind.
+
+[img] Die Band "In Extremo" bei ihrem Auftritt im alten Lager...
+
+[img] ...dabei heizt Charlotte das Publikum mächtig an ;o)
+
+Die Geschichte selbst kommt sehr langsam ins Rollen, wird zum Schluß hin aber nochmal richtig spannend und endet leider (wieder mal) mit einem für meine Geschmack viel zu kurzen Abspann.
+
+[img]
+
+Gothic ist graphisch erste Sahne! Ob man selbst auch in diesen Genuß kommt, hängt zum Großteil von der eingebauten Hardware ab. Wer mit dem Gedanken spielt, sich Gothic zuzulegen, sollte im FAQ der Gothic-Homepage oder im Forum der Fanseite "World of Gothic" nachlesen, ob Probleme mit der eigenen Hardware bekannt sind und sich nicht auf die abgedruckte Mindestvoraussetzung „Grafikkarte mit 16 MB“ verlassen.
+
+Ist man aber in Besitz der entsprechenden „Power“ wird man mit einem erstklassigen Rollenspiel belohnt das sowohl eine wunderschöne Grafik als auch eine spannende Story enthält, die einen mehrere Tage an den Rechner fesselt!
+
+
+
+[img] ...ein sehr unangenehmer Zeitgenosse!
+[img] Ein untoter Shamane...
+[img] Der Zweihänder Uriziel... die wohl mächtigste Waffe im Spiel.
+[img] Warana... bzw. das was von ihnen übrig ist.
+[img] ...aber wie zur Hölle kommt man hier wieder heil runter?
+[img] Im Turm des Dämonenbeschwörers Xardas...
+[img] Der unterirdische Tempel.(1)
+[img] Der unterirdische Tempel.(2)
+[img] Ein unterirdischer Tempel

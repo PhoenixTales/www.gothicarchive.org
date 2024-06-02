@@ -1,0 +1,22 @@
+﻿SPACER VERSIONS
+===============
+
++---------------------------+
+|                           |
+|  Sources can be found     |
+|  at: https://gothic.ga/   |
+|  versions/spacer.php      |
+|  Copyright (c) VaanaCZ    |   
+|                           |
++---------------------------+
+
+
+Spacer 1.29  -
+Spacer 1.32d 09.02.2001 14:07:35
+Spacer 1.33  -
+Spacer 1.33c -
+Spacer 1.41  27.07.2001 12:51:32
+Spacer 1.5   13.08.2001 01:35:48
+Spacer 1.42f -
+Spacer 1.42g 23.10.2001 16:48:44
+Spacer 1.45a 19.08.2002

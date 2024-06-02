@@ -1,0 +1,35 @@
+gothicthegame.funonline.de 08/1999
+
+
+Motion Capturing für GOTHIC
+
+
+PIRANHA BYTES hat vor kurzem Motion Capturings zu GOTHIC machen lassen. Was das ist und wie es war, erzählt uns Alex Brüggemann in einem kurzen Interview.
+
+- Alex, was ist das denn - Motion Capturing?
+- Man nehme einen Darsteller, einen hautengen schwarzen Anzug voller Reflektoren, zahlreiche Kameras und ein bisschen Hardware... Das ganze wird dann dazu benutzt die Bewegungen des Darstellers aufzunehmen.
+
+[bild24klein.jpg] [bild26klein.jpg]
+
+Die Positionen der Sensoren werden dann als Computer-Daten abgespeichert und können später auf einen virtuellen Charakter, wie z.B. den Helden aus GOTHIC übertragen werden. Und dieser bewegt sich dann genau so realistisch wie es der Darsteller getan hat.
+
+- Wie kommen die Aufnahmen ins Spiel?
+- Tja, das ist theoretisch ganz einfach, in der Praxis aber doch recht aufwendig Hier die Kurzfassung: Die MoCap-Daten werden in das Programm importiert, mit dem wir unsere Spielfiguren erstellen. Da der virtuelle Charakter aber meistens nicht genau den gleichen Körperbau hat wie der aufgenommene Darsteller, müssen die Daten noch entsprechend angepasst werden.
+
+[bild20klein1.jpg] [bild20klein2.jpg] [bild20klein3.jpg]
+
+- Welche Bewegungen habt Ihr denn aufgenommen?
+- Jede Menge! Jetzt alle aufzuzählen würde wirklich zu lange dauern. Wir waren insgesamt drei Tage im Studio und haben durchschnittlich ca. 60 Moves aufgenommen. Dabei sind natürlich die wichtigsten Bewegungsabläufe wie Gehen, Rennen, Sprinten und viele Dialoggesten. Außerdem hatten wir eine Tänzerin engagiert, die die Bewegungen für unsere weiblichen Charaktere aufgenommen hat. Ach ja, nicht zu vergessen die wirklich aufwendigen Dinge wie Bogenschießen und Schwertkampf mit zwei Darstellern.
+
+[bild02klein.jpg]
+
+- Schwertkampf? Damit die Bewegungen gut aussehen, müssen das doch Profis machen, oder?
+- Na klar, nicht nur damit es gut aussieht, sondern auch damit sich niemand verletzt! Wir haben echte Schwerter benutzt und wollten natürlich unnötiges Blutvergießen vermeiden Deshalb haben wir echte Profis engagiert, die jahrelange Erfahrung im mittelalterlichen Schwertkampf haben und diesen auch selbst unterrichten.
+
+[bild37klein.jpg]
+
+- Lohnt sich denn der ganze Aufwand?
+- Unbedingt! Natürlich ist es auch möglich, die Bewegungsabläufe von Hand zu animieren, aber die Dynamik echter Schwert-Attacken wird man wohl nie so gut hinbekommen, wie mit echten Darstellern.
+
+Vielen Dank für die Informationen und das nette Gespräch.
+Gern geschehen!

@@ -1,0 +1,128 @@
+rpgdot.com 02/2001
+
+21.02.2001 Gothic First Impressions
+
+
+Gothic Impressions
+by Garrett
+
+This spring, RPG Gamers all over the world can take a look at very ambitious German project. Piranha Bytes has worked for over 4 years on a vision, which now becomes reality with Gothic!
+
+We have received a playable preview version lately, which features two regions of the game: The Oldmine and the Orc Graveyard.
+
+What is this thing anyway ?
+
+For those unfamiliar with the background story of Gothic, heres a short introduction: The world of Myrtana has fallen from the golden ages into a war with the Orcs, and only the magic ore from the mines can provide weapons and armor strong enough to withstand the attackers.
+
+But who is to pick all the ore ? The idea is as simple as building a magic barrier around the mines, which imprisons all criminals into this barrier to pick ore for the kingdom of Myrtana; and only with this ore the prisoners can make a living within the barrier, by delivering the ore they picked to the kingdom and receiving food for it 
+
+And, as fate twists, the player takes on the role of such a prisoner 
+
+By the time the playable preview puts the player in the game, the same has already chosen the side of the new camp, while the old camp and the mages are opposing forces.
+
+For this new camp, our hero chose to live the life of a thief within the magic barrier and has received the quest, to espionage in the temple of the Sect, for they are believed to be very close to discover a way out of the barrier. So he has to gain the trust of the templars, and again has to fulfill some quests, which places us right in the game, in theOld Mines in particular. There, within the Minecrawler Nest, you have to find something, something foreseen in a vision 
+
+[IMG]
+
+Looks nice, really nice  extremely nice, to be specific
+
+When entering the mines, one is truly overwhelmed by the spectacular graphics; seldom before have I seen such large caves in a computer game (nor anywhere else).
+
+While it took me quite some time to get used to the controls, which unfortunalety makes use of the keyboard only, I immediately fell in love with the atmosphere.
+
+But the first beings I met in the Mines were all but cooperative: Move on or Back off, were among the kindest words out of their mouth  but hey, would I attack a group of at least 5 knights and guards ?
+
+So I decided to venture forth into the depths of the Mines, and soon had to find a flaw in the controls  there is no way to adjust the camera position, to see, for example, how deep a pit is or simply enjoy the nice surroundings.
+
+After a little exploration, I found a ladder leading down deeper in the mines; not knowing, what is expecting me there, I draw my sword  only to find a group of guards closing in and threatening me to put away the weapon 
+
+
+Artificial Intelligence, as real as real life
+
+I really tried this several times in different places in the mines, and, as soon as someone sees you with a weapon in your hand, he immediately walks up to you and asks you to put away the weapon  amazing.
+
+A lot of detail has been put into the program: For example, a guard is smoking a cigarette, and, when he is finished, he drops the stub and calms it with his feet  or there are mine workers, talking to each other while others drink beer and play cards. But still they pay attention to our heros actions and stand ready in the blink of an eye.
+
+[IMG]
+
+
+My first encounter
+
+After a while I found the first few minecrawlers, nasty, scorpion-like beasts, so I simply decided to attack them to get know combat in Gothic. But as soon, as you attack them, other minecrawlers gather around and try to surround you  which sometimes leads to a bit confusing view, but after a hard fight I could rid myself of those creatures
+
+As for combat, the AI of the enemies is really truly amazing. Enemies run around, to make it harder for you to hit them, they flee, when injured, and they  dont die  no, really, you have to kill them with a final thrust, else they recover and try to attack you again.
+
+Good thing about this is, that our hero is not dying as well, but can recover after a short blackout.
+
+Speaking of recovery, plenty of food is found everywhere to restore hit points and thus stop the bloody footprints you make, when your hitpoints drop below a certain level.
+
+
+On to the Orcish graveyard or: Did I mention, it looks good?
+
+After not finding anything useful in the mines, I decided to travel to the Orcish graveyard, a place of such graphical beauty  sorry, must be annoying to hear this all over again.
+
+After killing some orcs, the first monsters, that attacked me by themselves, I came to a large cave, where a man fought several orcs. I helped him out, and the man turned out to be Baal-Lukor , a psionic who is crawling the graveyard as well. As two are stronger than one, we formed a party; but while Baal-Lukor is fighting on my site, he is just a NPC, his inventory and his statistics are not accessible and one cannot control him directly.
+
+Speaking of inventory, its extremely well to handle it, even without mouse support, to my surprise. And as for statistics, Gothic proves to be a real RPG, but not a hardcore RPG, with a handful of characteristics and immunities.
+
+Baal-Lukor suggested to search the three ways out of the hall I met him, and so we continue; while one leads to a big hall, the others prove to hold two parchments, that obviously belong together. Baal-Lukor tells me to go back to the big hall, where he felt a strange sensation. Once we arrived there, he gave me the scroll, he made out of the two parchments and told me to cast it in front of a huge, cloes door  and there ends my first Gothic adventure, since the preconfigured demo hero cannot cast yet.
+
+[IMG]
+
+
+What I liked, what I didnt and conclusion
+
+Piranha Bytes has created a very nice piece of game, one, that looks very promising, once the bugs have been eliminated (couldnt light a torch in the preview, this always crashed the game and may have been important in one extremely dark room).
+
+Surely, the graphics, which look even better in motion than on stills together with the highly detailed world and characters add to the atmosphere, which does not have to hide behind Ultima 9.
+
+But also the story seems very compelling; combat is sometimes a bit confusing, which is because of the monsters trying to surround you, so you dont see the whole situation properly.
+
+Another thing I missed would help to fix these confusing fights: Free camera postion, I really missed it, but I have to admit, 50% of the times I did so, was because I wanted to admire the graphics.
+
+I havent seen magic and character advancement in the game yet, but I am almost sure, that Piranha Bytes has handled those well, too.
+
+So, to conclude this little preview, Gothic really seems to have the stuff needed to become a true classic in the genre.
+
+I really hope the English version will be ready very soon, so more people can enjoy Gothic  I will definitely run to my store and pick a copy for me 
+
+
+-------------------------------------------------------
+
+
+25.02.2001
+
+Introducing the character classes in Gothic
+
+[IMG]
+
+With Gothic hitting stores in March in Germany and hopefully everywhere else very soon too, we introduce the 4 character classes in Gothic to you.
+
+First off, be aware that you are not fixed to stay within one of these classes, nor do you create a character before starting to play, but you can choose the course of your hero during the adventure.
+
+You also dont have to stay within a character class, but can choose to play a mix-character, who can fight and cast, for example. To do this, you can either distribute your experience points in the skills you wish to advance or you visit a trainer for the skill. To get an in-depth education you have to a member of that guild, though; thus it will not be possible, to advance to the maximum level in all classes 
+
+The Warrior
+
+The Warrior in Gothic is a classic fantasy fighter, using swords, axes and other heavy slashing, clubbing or stabbing weapons. To train your character in the way of warrior, you have to visit the sword masters, that are located in the old camp and in the new camp.
+
+[IMG] [IMG] [IMG] [IMG] [IMG]
+
+The Mage
+
+There are several sub divisions for the mages, e.g. the Fire Mage, the Water Mage or the Demon Mage. Mages make great opponents with their various spells, but when a mage is attacked while preparing a spell, it fizzles. Therefore, mages want to stay out of close combat.
+
+[IMG] [IMG] [IMG]
+
+The Thief
+
+Of course, thieves can steal; Gothic makes no exception here  but thieves have other talents as well: They can sneak and backstab, lockpick and remove traps and they are very good in using a bow, in fact, better than using a short range weapon  therefore, also thieves may prefer to fight from a distance.
+
+[IMG] [IMG] [IMG] [IMG]
+
+The Psionic
+
+The Psionic uses the paranormal forces of the mind to influence his opponents. He can make a party attack each other instead of him or to flee in terror; he can also calm down an opponent, for example, when he has stolen something and has been caught, a charmed guard wmay not arrest him. Some monster are immune to his psi-powers though 
+
+[IMG] [IMG] [IMG] [IMG] [IMG] [IMG]
+

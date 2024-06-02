@@ -1,0 +1,34 @@
+Power Play 02/2001
+
+28.02.2001
+
+
+Gothic
+
+Es ist geschafft: Nach etlichen Verzögerungen und nach ca. drei Jahren Entwicklungszeit ist Gothic endlich fertig. Maik hat sich sofort freiwillig für euch in die Minenkolonie werfen lassen und verrät Euch in unserem Test, ob sich ein Survival-Trip lohnt.
+
+Ein praktisch denkender König: Für einen grausamen Krieg wird dringend Erz benötigt. Die Arbeiter dürfen Tag und Nacht schuften, um den Nachschub nicht abbrechen zu lassen. Aufseher kontrollieren den reibungslosen Ablauf. Da nach einer Weile die Flüchtlingswelle jedoch sehr hoch ist, wird kurzerhand die Magie zu Hilfe gerufen: 13 Zauberer errichten eine Barriere, der kein Lebewesen entkommen kann. Nach einiger Zeit macht sich der Mehrwert dieses Schildes bemerkbar. Alle Verbrecher, egal was sie getan haben, werden in die Kolonie geworfen, auf dass sie fortan für das Reich Erz fördern mögen. Euch hat es ebenfalls erwischt und seht den Himmel von nun an durch eine andere Perspektive.
+
+Doch während andere sich mit ihrem Schicksal abfinden, gibt es für euch nur einen Gedanken: Ausbruch...
+
+Das Ziel ist klar. Ein Weg hinaus muss gefunden werden. Doch zunächst geht es daran, sich zurechtzufinden und die Machtverhältnisse zu erkennen und am Ende für sich zu nutzen. Drei Lager leben mehr oder weniger harmonisch zusammen und teilen sich das Gebiet. Während das so genannte "alte Lager" mit dem König kooperiert und fleißig für Waren von draußen das Erz schürft, arbeiten die anderen Parteien an Ausbruchplänen. Ihr habt die Wahl, denn jeder Gruppierung könnt ihr euch anschließen. Doch die Aufnahme ist nicht so einfach. Vorher bekommt ihr Aufgaben (Quests), die natürlich erfüllt werden müssen. Auf der Suche nach Anerkennung und dem heißgeliebten Fluchtweg erkennt ihr nach und nach, was in der Strafkolonie wirklich vor sich geht. Das Durchdringen oder Zerstören der magischen Barriere ist nämlich das kleinste Problem, das alle haben...
+
+Gothic läuft halb-linear ab. Was bedeutet, dass Euch anfangs noch mehrere Wege offen stehen. Erst mit der Aufnahme in eines der drei Lager verdichtet sich die Story zu einem expliziten Ende. Die anfängliche Freiheit dürfte gerade Neulingen besonders zu schaffen machen. Ohne den berühmten roten Faden, der durch die Geschichte führt, läuft man mehr als einmal in den sicheren Tod. Zudem ist die Vergabe der Quests unglücklich gelöst. Viele Aufträge sind in den ersten Spielstunden unmöglich zu schaffen, stehen aber sofort zur Verfügung und wirken zu allem Überfluss auch noch wenig gefährlich. Ähnlich verhält es sich mit der Flora und Fauna. Wilde Tiere und Monster sind nicht einschätzbar. Die einzige Möglichkeit besteht im "Trial and Die"-Verfahren, um herauszufinden, an was man sich heranwagen kann. Die KI ist dabei durchweg ordentlich. Gegner greifen nicht immer frontal an, machen schon mal Ausfallschritte, ziehen sich wieder zurück oder versuchen von der Seite anzugreifen. Die Steuerung ist gewöhnungsbedürftig und offenbart gerade im Kampf mit mehreren Gegnern ihre Schwäche. Im Gefechtsmodus dreht sich der Protagonist automatisch mit den Bewegungen eines anvisierten Feindes, wird jedoch ein Schlag ausgeführt, wird der Gegner nicht mehr automatisch verfolgt. In solchen Momenten müsst ihr manuell nachsetzen und das kann und wird oftmals kostbare Sekunden kosten, die über Sieg oder Niederlage entscheiden.
+
+Die NPCs verfügen, entgegen den Ankündigungen, nicht alle über eigene Tagesabläufe. Ein paar Schlüssel-Charaktere gehen komplexeren Aufgaben nach, der Rest wandert zwischen Tages- und Schlafplatz hin und her. Bei den Monstern, wie beispielsweise den Orks, ist das nicht anders, fällt aber kaum ins Gewicht, da die Mehrheit dieser netten Kerle eh nur an dem schnellen Ableben des Helden interessiert sind. Zudem wird der Spielspass dadurch in keinster Weise getrübt. Etwas Kopfzerbrechen könnte dem einen oder anderen die Hardwareanforderungen bereiten. Für einen flüssigen Spielablauf in der Auflösung 1024x768 sollte es schon ein Hauptprozessor in der 800-MHz-Region sein, 256 MByte RAM zur Unterstützung schaden nicht. Eine leistungsstarke 3D-Karte ist ohnehin Pflicht!
+
+
+Meinung von SpiritsNature:
+
+Ich bin positiv überrascht. Insgesamt ist Piranha Bytes mit Gothic ein sehr guter Einstand gelungen. Die Geschichte ist interessant und bietet überraschende Wendungen. Die Steuerung ist gewöhnungsbedürftig, geht aber nach kurzer Einarbeitungszeit leicht von der Hand, während ich die Maussteuerung nicht empfehlen kann. Das Skillsystem ist einfach und logisch konzipiert, auch wenn ich etwas die Vielfalt bei den erlernbaren Fähigkeiten vermisse. Bei den Kämpfen hätten die Designer ruhig noch einen Monat mehr Arbeit investieren können. Zu oft hat man es mit mehr als drei Gegnern zu tun und in solchen Fällen ist es schwierig zu überleben, es sei denn, man hat zuvor eine Passage gefunden, um sie einzeln zu erledigen. Auch dass die NPCs nicht die angekündigte Komplexität in ihrem Verhalten aufweisen, kann ich locker verschmerzen. Doch eine Sache hat mich besonders gestört: Gegen Ende der Story finden sich Logikfehler und zum Schluss bleiben zu viele Fragen unbeantwortet. Dennoch muss sich Gothic nicht vor dem internationalen Vergleich scheuen - eher sollten sich andere Genre-Vertreter wie Ultima IX an dem Erstlingswerk der bissigen Fische eine dicke Scheibe abschneiden.
+
+Infobox
+System: PC
+Genre: Rollenspiel
+Hersteller: Piranha Bytes
+Entwickler: Piranha Bytes
+geplantes Erscheinungsdatum Mitte März 2001
+Altersempfehlung: 12
+Spiel/Anleitung: deutsch/deutsch
+
+Empfohlene Hardware: Pentium III/800, 256 MByte RAM, 3D-Karte mit 32 MByte RAM

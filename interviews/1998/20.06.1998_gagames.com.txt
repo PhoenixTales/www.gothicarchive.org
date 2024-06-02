@@ -1,0 +1,103 @@
+gagames.com 06/1998
+
+06-20-98: Exclusive Interview: Gothic
+The development team at Piranha Bytes, reveals to us a lot of new information about this new upcoming 3D Action/RPG game.
+
+Gothic
+======
+
+Stefan Nyul - Project Leader
+Mike Hoge - Chief Game Designer
+Tom Putzki - 3D Artist / Level Designer
+Dieter Hildebrand - Lead Programmer
+Ulf Wohlers, AI and a-lot-more - Programmer
+Piranha Bytes
+
+Interviewed by Lorien Newman
+Saturday, June 20, 1998
+
+You describe the game as a "3D-Realtime-Fantasy-Roleplaying-Game", mind telling us why?
+
+Tom: Do you want me to explain every word of this long title :-) Not really, eh? We thought about the genre of our game GOTHIC and we came to the conclusion: there's none! So we decided to create a new genre: 3D-Realtime-Fantasy-RPG!!! We have a unique fantasy scenario with magic and monsters and so on, we have a main character with attributes and skills and the chance to develop all personal features, everything, even combat happens in realtime and the whole world is 3-dimensional...put all these elements together and you've got....?
+
+Please describe to us the exact elements of RPG in Gothic.
+
+Mike: Unlike traditional RPGs, character improvement in GOTHIC is no longer displayed by numbers. Everything you learn during the course of the game is visualized via animations and graphical effects. Nevertheless, you'll have a multitude of possibilities to enhance your skills.
+An example: If you improve your fighting skill, you will not only be hitting more accurately, but your fighting style will change: At the beginning of your development, the animations are completely replaced when you improve your fighting skill. Later, we add new fighting moves to the ones you've already learned. You may now think that winning a sword fight in GOTHIC depends on your playing skill... Wrong! Success in combat mainly depends on your character skills, like in traditional RPGs. The main difference is that we visualize EVERYTHING. If you find a new weapon or armor, it will be displayed on your character. If you gain a level, there is no boring number increased by one, but you will gain more respect from other characters and you will gain secret knowledge of the gang you're in (They will teach you advanced skills and show you secret entrances to enemy camps and the like) If you get more Mana you will be able to cast larger Fireballs. If you improve your casting skill, you will have lower costs and additional effects on your spell.
+If you learn to sneak, your walking style changes, if you learn 'Hide in Shadows' your character reflects less light and isn't seen by the monsters, and so on and so on. There will be up to 30 skills and 30 spells to learn.
+We have got two completely different kinds of magic: The conventional magic and the psionic powers. Both have completely different spells.
+The second key element is the Non-Player-Character behaviour. Every character has an attitude towards you and every other character in the game. In addition, every being in GOTHIC will have special likings and certain fears that can be used against them.
+Imagine: You are searching through the abandoned mines to find some forgotten weapon of use. Suddenly, a rogue appears out of the shadows and attacks you. From what you can tell from his huge sword and strong armor, he is a much better fighter than you are. You throw your torch to the ground, while drawing your blade and engage him. A friendly mage hears the combat noise and moves up. He recognizes you (two days ago, you did him a favor). He recognizes the rogue (He belongs to the guys who keep stealing his potions) and decides to help you. The rogue is engulfed by flames and they all lived happily ever after... If someone else showed up, you might not have been so lucky...
+The third key element is the choice of the class, you might become mage, thief, rogue, fighter, mercenary, templar, novice and may later even advance to the highest gangs in the prison. Some of them are hard to find or even secret, so I won't tell anymore.
+
+snap123.JPG snap133.JPG
+
+What Separates Gothic from traditional role-playing games?
+
+Stefan: It's a RPG for everyone. You do not need "experience" to play GOTHIC, you just start to have fun. One additional key element, I think, is the extreme simple user interface. It makes the impossible possible: Very easy handling of a game with many possibilities and great depth of gameplay.
+
+Tom: With GOTHIC we try to create that kind of game which we by ourselves wanted to play all the time...
+How big is Gothics world and what is the main theme surrounding it?
+
+Mike: The place is a magic sphere, 1 kilometer in diameter, its lower half stuck in the earth. Inside is a prison mine colony, its convicts entrapped forever, because something has gone wrong during the casting of the magic barrier. You are thrown into the prison, and your major goal is to find your way out, because certain circumstances (which you'll have to find out by yourself) make it seem to be a good idea to leave this place...
+The sphere contains a vast outside world with 3 prisoner's camps and 3 mines. Below the mines are several natural caves. Below the caves is... No! 
+I don't think you want to know that.
+The prisoners are mainly divided in three camps with different interests, but they all have something in common: They'll eat you for breakfast if you show weakness. Nevertheless, you may find comrades and even your foes may be of use for you if you learn how to handle them.
+
+Will there be parties in Gothic, Can you group with other NPCS?
+
+Tom: Perhaps you can - try it and find out, how other characters react to your behaviour. It is possible to become party members - if they like you, if you don't have anything wealthy, if NPCs don't have anything better to do, if they trust you, if you can avoid being killed - so, simple question, simple answer - yes, it is possible (perhaps ;-)
+
+You claim that you have made the game "easy" to use reducing the amount of statistics, menus etc, but keeping the role-playing elements intact. How will hard-core role-playing fans react to this?
+
+Tom: I call myself a hard-core role-playing fan, especially for Pen&Paper-RPGs.; But the reason why I like this kind of gaming so much is not because I can't live without statistics and menus and stuff like that. I just love to play, to slip into another character, to forget the world around me, to have the brain full of new impressions and images, to interact with my friends and comrades in fantastic surroundings and pass through dangerous situations. That's what I call role-playing! All these points mentioned are possible by stepping into the world of GOTHIC. If you define hard-core role-playing fan like I did above - no problems at all can be expected. If not - I hope these guys will like it, too.
+
+How detailed are the characters going to be? Can you customize the way your character looks?
+
+Mike: We have considered this, but up to now we have only planned to change your appearance during the game depending on which group you join. They will, for example, give you a branding or cut off your hair to show you belong to them...
+
+Tom: And of course, very fashionable right now, you can get tattoos in special sects.
+
+Unlike traditional role-playing games, Gothic claims to be able to show the player skill and level gains visually, can you explain this?
+
+Stefan: Sure, the simple philosophy is: Replace almost all statistics by in-game graphics. Replace the text "sneak talent" by sneaking animations of the character, replace the growing number for improving sword skill by cooler and faster attack animations, replace the entry for level-3 Fireball by a bigger and more pulsating glowing sphere between the mage's hands, and so on... .
+
+I hear that in Gothic the monsters will actually be doing things other then to just stand there waiting for you to kill them. How does Gothic deal with Monster AI?
+
+Ulf: The monsters will use very different tactics during combat. Some sneak from behind and try to assassinate the player insidious, others encircle the player and seal his pitiable fate by being superior in numbers. Some species will call comrades if they notice being inferior, afterwards they'll be malicious pleased about the player hitting the ground very roughly...
+Totally different species of monsters will gang up to set underhanded booby traps: Big Troll guys will grab tiny little Gobbos to establish a kind of 'close contact' to the player by throwing the little ones across alleged obstacles...
+
+snap129.JPG snap137.JPG
+
+Within the areas of Gothic, There are multiple ways of "role-playing" your way through situations. Can you explain this in detail?
+
+Mike: If you start the game, you belong to no one, depending on which missions you accept you will make friends and enemies. After a while, the friendly gangs will ask you to join, but you only may join one group. This is the way in which you define your class. Depending on your class, you will now be able to learn different skills, will have to solve different puzzles and will obtain different missions. A Psionic Novice, for example, will rather try to control a monster and use its abilities to fight others, while a thief will try to lure them into traps or get them from behind.
+There are, of course, also "straight" classes like fighter or combat mage. If you become one of them, you will be able to hack your way through and will have to solve less puzzles.
+
+How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?
+
+Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with you friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...
+
+Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter.
+
+Will Gothic support Direct3D? and which other API's
+
+Stefan: We already support the Glide-Interface for native Voodoo performance. We will support all the other 3D cards via Direct3D as well. But you really should own one of these tiny little hardware accelerators to have real fun in the graphically sophisticated world of GOTHIC.
+Is the gaming engine an in-house development ? if so, would you mind describing it to us.
+
+Dieter: Yes, the whole engine is developed in-house. Special emphasis is put on the development of the 3D-engine "ZenGin". You have never seen a CRPG that was so good looking! The 3D-engine will have every common feature seen in today's first-person-shooters plus some really hot new features, we won't talk about yet. Check out new screenshots regularly!
+Additionally, the 3D-character animation system is defined very carefully. Right now the main-character is animated with over 1000 animations and every race within the game will have a complete different set of animations, giving very life-like and situation dependent character animation.
+Will you only be releasing a PC CD-ROM version?
+
+Stefan: That's not clear at this time. It will also depend on the publisher, but there just emerges a brand new console out of the mist and....OK, we will see.
+
+Tom: BTW, the simple user-interface makes it possible to convert GOTHIC to a console-system without any big problems.
+Mind telling us a little about the team, and their experience in game development ?
+
+Stefan: PIRANHA BYTES will have its first birthday in October this year. But the team members themselves have been into game development much longer. Back then, we have worked on various games for the German market. But we urged for more and so we founded PIRANHA BYTES. With this splendid team we are sailing into international waters and we really have a "heavy load" with us :-)
+
+Tom: Row, row, row your boat.....;-)
+
+Special thanks to the Piranha Bytes development team for sparing us the time for this interview. If the game will be as cool as the team, I expect all you RPG fans out there to have a lot of fun :-)
+Check out the Piranha Bytes website for more information and screenshots.
+The screenshots posted on this page are exclusive for Gagames.

@@ -1,0 +1,105 @@
+gamesdesk.de 03/2001
+
+26.03.2001
+
+Gothic Testbericht
+
+Lange erwartet und erhofft, meldete sich das Erstlingswerk Gothic der deutschen Entwickler Piranha Bytes endlich zum Test in unserer Redaktion. In vielen Meldungen wurde Gothic schon lange vor dem Erscheinen mit Vorschußlorbeeren beglückt. Wir haben die Rollenspiel-Hoffnung unserem Test-Marathon unterzogen und sagen Ihnen, ob wir dabei auf dem Zahnfleisch oder mit offenem Mund unterwegs waren.
+
+Die Geschichte
+
+In der Fantasy-Welt des Königreichs Myrtana herrschte lange Zeit Wohlstand, Zufriedenheit und Sicherheit. Doch das sorglose Leben der eigenen Untertanen rief neidische Nachbarn auf den Plan. Es folgte ein erbitterter Krieg mit dem benachbarten Reich Varant, der letztendlich nur durch die Besetzung des feindlichen Reichs durch König Rhotbars Armee und der Ernennung neuer Stadthalter zu gewinnen war. Nach erbitterten, verlustreichen Kämpfen stand am Ende der Sieg. Doch um welchen Preis?
+
+Der folgende Winter war für das Volk Myrtanas geprägt von Hunger, Entbehrungen und Verzweiflung. Im darauf folgenden Winter verstarb Myrtanas König Rhotbar, gezeichnet von den Schlachten und völlig entkräftet. Sein Sohn, Rhotbar der Zweite, trat ein schweres Erbe an.
+Zu allem Unglück bahnte sich bereits der nächste Konflikt an. Statt sich um den Wiederaufbau des Reichs kümmern zu können, sah sich Rhotbar der Zweite nun den einzigen verbliebenen Feinden des einst mächtigen Reichs gegenüber, den Orks.
+
+Die Orks standen der durch den letzten Krieg noch immer geschwächten Armee Myrtanas zahlen- und kräftemäßig weit überlegen gegenüber. Zudem kündigten sich Probleme in den Minen des Reichs an, in denen das für Rüstungen und Waffen so wichtige Erz abgebaut wurde.
+
+In Zeiten des Krieges wurde jeder, der sich eines noch so kleinen Verbrechens schuldig gemacht hatte, zur Arbeit in den Minen gezwungen. In genau diesen Minen sorgten nun Diebe und Deserteure für eine wachsende Zahl von flüchtigen Minenarbeitern und eine weitere Verknappung des wichtigen Erzes. Vor allem der verminderte Erzabbau in der Minen-Stadt Khorinis macht dem König zu schaffen, denn dort wurde ein besonders kostbares magisches Erz abgebaut. Aus diesem Erz ließen sich von fachkundiger Hand unzerstörbare Schwerter herstellen, denen keine Rüstung widerstehen kann. Nachdem König Rhotbar dem Zweiten diese mißliche Lage bewußt wurde, rief er die zwölf mächtigsten Magier des Landes zu sich, sechs vom Kreis des Wassers und sechs vom Kreis des Feuers. Nachdem man sich ausgiebig beraten hatte, entschloß man sich, um diese wichtige Minen-Stadt eine magische Kuppel zu errichten, die alles Leben hinein aber nicht wieder hinaus ließ. Nur tote Materie sollte die Kuppel in beide Richtungen passieren können.
+
+Doch bei der magischen Formel stimmte etwas nicht. Nachdem die zwölf Magier all Ihre Kraft vereint und den Zauber ausgesprochen hatten, wuchs eine Kuppel, viel größer als berechnet, die auch die Zauberer selbst einschloß. Die Gefangenen erkannten ihre Lage und wurden vom späteren Erz-Baron Gomez zu einer Revolte gegen die Wachen angeführt. Gomez gründete zusammen mit den stärksten Gefangenen innerhalb der Kuppel das Alte Lager und ließ sich seine Erzlieferungen von König Rhotbar dem Zweiten von mal zu mal besser bezahlen.
+
+Doch nicht alle Gefangenen wollten weiterhin für den König arbeiten. So kam es, dass Lee die Magier des Wassers und einige Minenarbeiter überzeugen konnte, ihm in das Neue Lager zu folgen und fortan an einem Weg aus der Kuppel zu forschen.
+
+Eine weitere Gruppe um Y`Berion, dem Erleuteten, zog sich in die Sümpfe zurück, gründete das Sumpflager und lebte vom Anbau und Handel mit Sumpfkraut.
+
+Im Spiel angekommen
+
+In dieser Welt landet unser Protagonist nun als frisch verurteilter Sträfling. Nach einem eher unfreundlichen Empfang durch Diego, einem mächtigen Mann des Alten Lagers, macht er sich auch gleich auf den Weg. Im Gepäck befindet sich nämlich ein wichtiger Brief an den obersten Feuermagier des Alten Lagers.
+
+Doch selbst der Weg zum Alten Lager birgt anfangs bereits genug Gefahren. Nur mit einer Spitzhacke und einem rostigen Schwert ausgerüstet, sind selbst die schwachen Scavenger (vogelähnliche Wesen mit spitzen Schnäbeln), eher eine Gefahr als eine willkommene Mahlzeit für unseren Abenteurer. So bleibt anfangs nur, die Beine in die Hand zu nehmen und sich in eines der drei Lager zu retten.
+
+Handlungsfreiheit
+
+Der Spieler startet im Spiel zunächst als Mensch ohne besondere Fähigkeiten. Völlig ohne vorherige Charakter-Generierung und ohne bestimmte Regeln, baut er die Fähigkeiten seines Helden auf der Suche nach einem Weg aus der magischen Kuppel nach eigenem Ermessen aus.
+
+Jegliche Änderung an der Ausrüstung wird sofort visualisiert - d.h. getragene Waffen und Rüstungen sind auf den ersten Blick sichtbar.
+
+Die weitläufige Kolonie ist zu Beginn zwar komplett begehbar, aber größere Monsterhorden in einigen Abschnitten verlangen nach dem erfahrenen Abenteurer und hindern Newbies z.B. an dem vorzeitigen Rumschnüffeln in Ork-Gebieten oder den weitläufigen Dungeons des Spiels.
+
+Nachdem man sich in den Lagern umgesehen hat, merkt man schnell, dass es um den Respekt der anderen vor einem selbst nicht besonders bestellt ist. Während einige der mehr als 250 NPCs wie unbedeutende Minenarbeiter im Multiple-Choice Verfahren meistens nur standardmäßig befragt werden können, bieten namhafte NPCs eine Vielzahl von Gesprächsmöglichkeiten. Alle NPCs vereinen aber aber zwei Eigenschaften: Ein Gedächtnis und die Gier nach Erz!
+
+So sind die Gespräche sowohl von der Gruppenzugehörigkeit als auch von früheren Handlungen des Spielers innerhalb der Kolonie abhängig. Hat man etwa Schutzgeldzahlungen zu einem früheren Zeitpunkt abgelehnt, wird der Schutzgeldeintreiber der "zahlenden Kundschaft" in Zukunft den eigenen Anteil zusätzlich abknöpfen und sie somit gegen einen selbst aufbringen. Legt man Streitigkeiten friedlich bei, werden einem die ehemaligen Kontrahenten mitsamt ihren Freunden evtl. zu einem späteren Zeitpunkt hilfreich zur Seite stehen. Verschont man einen unterlegenen Gegner, ist er einem wahrscheinlich bis ans Ende seiner Tage dankbar oder schmiedet mit Euren anderen Feinden zusammen Pläne für den nächsten Hinterhalt.
+
+Sollte irgendwann der Tod eines anderen unwiderruflich auf dem Plan stehen, sollte man sich dazu eine ruhige Ecke suchen. Wird man dabei beobachtet, hat man die Freunde des Getöteten am Hals. Aber wo keine Zeugen, da auch keine Fragen...
+
+Besonders das Eigenleben der NPCs wusste im Test zu beeindrucken. Jeder von ihnen hat einen eigenen Tagesablauf und wird tagsüber arbeiten, abends feiern und sich nachts zum Schlafen hinlegen. Sollte ein NPC über eine bessere umherliegende Waffe stolpern, wird er sie aufheben und fortan selbst nutzen. Auch die Monster und Tiere der Kolonie haben feste Tagesabläufe und Charaktereigenschaften. Manche von ihnen verhalten sich nur offensiv, wenn sie sich bedroht fühlen. Andere treiben sich ausschließlich in großen Rudeln durch die Gegend und greifen alles an, was irgendwie appetitlich aussieht. Weiß man um deren Verhalten, ist es möglich, eventuelle Verfolger in deren Klauen oder offene Mäuler laufen zu lassen... Die Welt von Gothic lebt!
+
+Nur durch das Bestehen von einzelnen Prüfungen innerhalb der Lager kann man sich den Respekt und das Wohlwollen der einflußreichen Personen in den Lagern sichern und schließlich in eines davon aufgenommen werden. Dem Spieler bleibt es dabei vorbehalten, sich für eine Zukunft innerhalb der Kolonie als Krieger, Zauberer, Psioniker oder Dieb zu entscheiden oder eine Mischung aus diesen Fähigkeiten zu erlernen.
+
+Hat man in einem Lager genug hochrangige Entscheidungsträger überzeugt, wird man in deren engeren Kreis aufgenommen. Die Zugehörigkeit zu einem bestimmten Lager hat später wesentlichen Einfluß auf den Verlauf der einzelnen Quests innerhalb der sechs Kapitel und gibt den Spielverlauf nur in groben Zügen vor.
+
+Charakterentwicklung
+
+Sowie man durch die Erfüllung einiger Aufgaben und der Jagd erste Erfahrungspunkte und Level-Ups erworben hat, lassen sich diese auch gleich bei entsprechenden Lehrern in neue Fähigkeiten ummünzen.Wer zum Beispiel die Tier-Verwertung beherrscht, kann Felle und Klauen derselben beim Händler gegen Erz, Heilkräuter, Nahrung oder bessere Ausrüstung eintauschen. Im Spiel finden sich aber die wertvollsten Gegenstände und Waffen stets in den Händen von mächtigen Gegnern oder hinter verschlossenen Türen.
+
+Auch Diebestalente, wie Taschendiebstahl oder das Schlösser-knacken, wirken sich im weiteren Spielverlauf unterschiedlich aus. Wer den passenden Schlüssel gerade nicht zur Hand hat, kann das Schloss entweder mit dem Dietrich knacken oder gleich die ganze Tür aus den Angeln treten.
+
+Der Krieger lernt den Umgang mit verschiedensten Waffengattungen wie Schwertern, Armbrüsten, Kurz- und Langbögen oder wertet seine Geschicklichkeit oder Stärke auf.
+
+Ist ein Zauberspruch und Mana in ausreichender Menge vorhanden, darf gezaubert werden. Sucht sich der Magier während der das Spiel dominierenden Kämpfe abseits der Gruppe eine ruhige Ecke, kann er in aller Ruhe seine Sprüche "aufladen" und damit deren Wirkung verlängern.
+
+Steuerung
+
+Anfangs noch ungewohnt und umständlich, werden sämtliche Aktionen fast ausschließlich durch Tastenkombinationen gesteuert. Sowohl sämtliche Bewegungunen des Protagonisten als auch Verwaltung und Handel mit dem Inventar und die Steuerung der Gespräche lassen sich damit aber nach längerer Einarbeitungszeit recht gut handhaben.
+
+Einzig die Steuerung des Blickwinkels und einige primäre Aktionen können, wie aus diversen 3D-Shootern bekannt, wahlweise auch komfortabel mit der Maus gesteuert werden.
+
+Lediglich das Aufrufen von Waffen oder Zaubersprüchen mitten in Kämpfen führt ziemlich unweigerlich zu Knoten in den Fingern und einer Menge Frust, wenn die Kämpfe im entscheidenden Moment an der hakeligen Steuerung scheitern. Objektiv gesehen sind solche Situationen aber eher selten und beeinflussen den Spielspass nur unwesentlich.
+
+Obwohl die Welt von Gothic genügend einprägsame Details bietet, ist es im Spiel auch möglich, Karten zu finden oder zu kaufen.
+
+Selbst nach dem Update auf Version 1.07c braucht es mitunter halbe Ewigkeiten, einen der maximal 15 gesicherten Spielständen zu laden. Ladezeiten im Minutenbereich werden somit bei den meisten Spielern ohne High-End Hardware leider keine Seltenheit sein.
+
+Immerhin sichert der enorme Umfang der gespeicherten Spielstände aber eine Kompatibilität mit folgenden Versionen des Spiels. Zumindest wenn man den Piranhas Glauben schenken darf...
+
+
+Technisches
+
+Infobox
+Hersteller: Piranha Bytes
+Tester: Volker Breetzke
+USK: ab 16 Jahre
+Minimum: PIII / Athlon 500, 128 MB RAM, Grafikkarte mit 16 MB RAM, Soundkarte
+Empfohlen: PIII / Athlon 1 GHz oder schneller, 256 MB RAM, GeForce Grafikkarte mit 32 MB oder gar 64 MB RAM, Soundkarte, Wheel Mouse
+
+Obwohl sich die Grafikdetails und Auflösungen von ganz unten ab 640x480 in 16-Bit mit wenigen Details bis auf 1600x1200 in 32 Bit mit voller Sichtweite und Renderdetails einstellen lassen, ist eine Grafikkarte mit GeForce Chipsatz zum flüssigen Spielen klar von Vorteil. Da die Entwickler Dank T&L für die Darstellung der extrem detaillierten Landschaften, Dungeons und der tollen Lichteffekte aus dem Vollen schöpfen konnten, empfiehlt sich schon alleine für gute Performance eine solche Karte. Der umwerfend simulierte Wechsel der Tageszeit und die ständigen Wetter-Wechsel tun ihr übriges, um dem freundlichen Computer-Händler des Vertrauens zu Umsatz zu verhelfen.
+Die Alternative ATI-Radeon leidet momentan noch an den für ATI typischen verbuggten Treibern, die in der Vergangenheit auch schon Games wie Giants nahezu unspielbar machten. Den Besitzern älterer 3dfx-Karten bleiben hardwarebedingt höhere Auflösungen und Detailstufen ebenso verwehrt. Zudem werden 3dfx User momentan noch von Problemen bei der Darstellung der Schriftsätze heimgesucht.
+
+Musik und SFX sind aller Kritik erhaben und passen atmosphärisch stets zur Handlung und der Umgebung. Wer ein Ticket zum alten Lager hat, bekommt dort an einer Stelle des Spiels noch den Gastauftritt der Band: "Extremo" geboten 8-).
+
+Warum keine Multiplayer-Option?
+Wer sich noch an einige verweifelte Diablo II-Sessions auf der Suche nach dem Horadrim-Würfel erinnern kann, weiss warum. Die unheimlich komplexe Handlungsverzweigung ließe sich Online wahrscheinlich kaum in geregelte Bahnen bringen. Während der eine Spieler schon einen Großteil der Quests gelöst hätte, müssten alle anderen gleichzeitig noch in der Lage sein, sie auf verschiedenen Wegen zu lösen...
+
+Zwar hat Ultima Online bewiesen, dass so etwas möglich ist, aber EA/Origin und die Piranhas spielen beim Entwicklungsbudget sicherlich in zwei verschiedenen Welten. Zudem wurde die Entwicklung von Ultima Online 2 erst kürzlich auch aus finanziellen Gründen eingestellt.
+
+Bewertung
+Grafik: 9/10
+Sound: 9/10
+Bedienung: 8/10
+Spieltiefe: 9/10
+Multiplayer: (nicht getestet) 0/10
+Gesamt: 92 %
+
+Fazit
+Sowohl die technische Umsetzung als auch die nach längerem Anlauf vollends packende Story in einer faszinierenden lebendigen Welt und die unglaubliche Handlungsfreiheit, vereinen das Beste aus Deus Ex und Ultima IX Ascension und setzten noch einen drauf! Sämtliche Kritik prallt an diesem Meisterwerk aus deutschen Landen fast vollständig ab und rechtfertigt die 3 Jahre Entwicklungszeit. Einzige Wehrmutstropfen bleiben die hohen Anforderungen an Mensch und Maschine. Kaum zu glauben! 

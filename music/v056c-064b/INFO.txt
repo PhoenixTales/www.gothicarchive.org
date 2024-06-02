@@ -1,0 +1,20 @@
+#################################
+##     Phoenix 0.56c & 0.64b   ##
+##          Soundtrack         ##
+##      =================      ##
+##      Export:  07.03.21      ##
+##    Copyright: THQ Nordic    ##
+#################################
+	
+OC_DayStd(2:12)
+OC_DayThreat(0:56)
+OC_Fight(0:27)
+OC_NightStd(0:56)
+OC_NightThreat(0:48)
+OW_DayStd(1:39)
+OW_DayThreat(0:21)
+OW_NightStd(1:48)
+OW_NightThreat(0:32)
+VM_Standard(corrupted)
+VM_Fight(0:56)
+VM_Threat(0:23)

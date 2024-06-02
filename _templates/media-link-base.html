@@ -1,0 +1,21 @@
+{% assign urlParts = page.url | append: '.' | split: '/' %}
+{% assign tempDepth = page.url | append: '.' | split: '/' | size | minus: 2 %}
+
+{% if jekyll.environment == "production" %}
+    {% assign mediaLinkBase = 'https://media.gothicarchive.org' %}
+    {% for i in (1..tempDepth) %}
+        {% assign mediaLinkBase = mediaLinkBase | append: '/' | append: urlParts[i] %}
+    {% endfor %}
+{% else %}
+    {% assign mediaLinkBase = '' %}
+    {% for i in (1..tempDepth) %}
+        {% assign mediaLinkBase = mediaLinkBase | append: "../" %}
+    {% endfor %}
+    {% if mediaLinkBase == '' %}
+        {% assign mediaLinkBase = './' %}
+    {% endif %}
+    {% assign mediaLinkBase = mediaLinkBase | append: "media" %}
+    {% for i in (1..tempDepth) %}
+        {% assign mediaLinkBase = mediaLinkBase | append: "/" | append: urlParts[i] %}
+    {% endfor %}
+{% endif %}

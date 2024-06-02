@@ -1,0 +1,67 @@
+gzone.de 03/2001
+
+29.03.2001
+
+Gothic
+Getestet von Daniel Nathem
+
+Piranha Bytes / Phenomedia
+Glaubwürdige Rollenspielwelt mit edler Grafik und Liebe zum Detail
+
+Ein Käfig voller Narren
+
+Strafvollzug der Marke Extrahart: Weil der König im Fantasyland Myrtania dringend Erz für seinen Krieg gegen die Orks braucht, werden sämtliche Übeltäter, vom kleinen Fisch bis hin zum Mörder in ein von Magie abgeriegeltes Tal gesperrt. Dort schuften sie in den zahlreichen Minen, fördern Erz und leben mehr schlecht als Recht in den Tag hinein. Ihr habt es erraten, auch euer Alter Ego hat sich in Gothic schuldig gemacht, und bekommt den unerwünschten Last-Minute-Trip ins magische Gefängnis. Die Barriere, die von Innen nicht durchdrungen werden kann, wurde übrigens auch den Magiern zum Verhängnis, die sie erschufen - sind sie doch selbst darin gefangen.
+Einen kurzen Fall, ein wenig Prügel zur Begrüßung und einige aufmunternde Worte eines Lagerältesten später seid ihr erst einmal auf euch alleine gestellt, und müsst euch in den ausufernden Weiten des Tals zurecht finden. Mit der Zeit lernt ihr die Situation genauer kennen, und erfahrt von der Existenz dreier einzelner Lager, die für unterschiedliche Ausrichtungen und Ziele stehen. Später könnt ihr wählen, welchem dieser Lager ihr dienen wollt, anfangs steht nur das alte Lager als erste Zuflucht zur Verfügung.
+
+Prachtvolle Spielwelt
+
+Auf eurem Weg dorthin habt ihr erstmals Gelegenheit, euch die prachtvolle Welt von Piranha Bytes' Rollenspiel etwas genauer anzusehen. Gigantische Wälder, kleine Seen sowie Hügel und Schluchten prägen das Bild einer realistischen Landschaft. Regenschauer, eine blendende Sonne und herabwehende Blätter vermitteln einem das Gefühl einer lebendigen Umgebung hinter dem Monitor. Mehr als einmal ertappt man sich dabei, einfach stehen zu bleiben, und das rege Treiben um sich herum zu betrachten: Jäger ruhen sich von ihrer Arbeit am Lagerfeuer aus, Wölfe streifen durch das nahe Unterholz, eine Herde der pflanzenfressenden Scavenger hat sich auf einer Wiese einen Schlafplatz zurecht gemacht.
+
+Aber wir sind ja schließlich nicht zum Faulenzen hier, also flugs die ersten Aufträge und Erfahrungspunkte gesammelt. Das RPG-System von »Gothic« ist auf den ersten Blick recht simpel, lässt aber viele Variationen und individuelle Möglichkeiten zu. Steigt ihr bei Erreichen einer bestimmten Erfahrungspunkteanzahl eine Stufe auf, wird nicht nur eure Lebensenergie und Manakraft erhöht, ihr erhaltet auch sogenannte Lernpunkte. Diese Lernpunkte könnt ihr bei wichtigen Personen des Lagers in konkrete Fähigkeiten ummünzen. Beim Dieb um die Ecke erlernt man mit der Zeit das Knacken von Schlössern und das Leeren von Taschen, während der muskulöse Gladiator hilft, gefundene Waffen besser und effektiver einzusetzen. Dabei sind Veränderungen in den Eigenschaften auch sofort am Helden äußerlich sichtbar. Haben wir die Kunst der Akrobatik erlernt, kann er weiter springen, und rollt sich sanft ab, mit einem höheren Talent im Schwertkampf wird die eigene Klinge wesentlich effizienter geschwungen.
+Die Steuerung - eine Mischung aus Maus und Keyboard bietet sich an - bereitet nur in den ersten Minuten Schwierigkeiten. Schnell hat man sich an die entsprechenden Befehle gewöhnt, und gerät auch in Stresssituationen nicht in Panik. Ausnahme: Das Handelssystem ist unkomfortabel, mühevoll muss man hier einzelne Erzbrocken hin und her schieben.
+
+
+Factsheet
+
+Titel: Gothic
+Entwickler: Piranha Bytes
+Vertrieb: Phenomedia
+erhältlich für: Windows 98/2000/ME
+ca. Preis: ca. 70 DM
+max. Spieler: 1
+Connectivity: -
+USK-Freigabe: ab 12 Jahre
+Mindestanforderungen (laut Hersteller): Pentium II 400, 128 MB RAM, 4x CD-ROM, 16MB SVGA, 600 MB HDD, DirectX 7.0
+Empfohlen: Pentium III 800, 256 MB RAM, 8x CD-ROM
+
+Performance Test
+
+getestet auf:
+Pentium III 500, 128 MB RAM, 24x CD/ROM, Voodoo5
+Performance:
+Soviel Respekt vor der Leistung der Entwickler auch angebracht ist - technisch wurde an einigen Stellen gepatzt. Selbst auf einem überdurchschnittlichen Testsystem ruckelt das Geschehen in den Außenregionen oftmals sehr stark. Das Abschalten von Details bringt nur bedingt zusätzliche FPS, es sei denn man wählt den niedrigsten, nicht gerade attraktiven Darstellungslevel. Generell leistet eine GeForce 2 bessere Dienste als eine Voodoo 5, ältere Voodoo-Karten verrichten erst nach Installation des Patches ihre Arbeit klaglos. Absolut kritisch: Das Speichern und Laden von Spielständen dauert regelmässig bis zu drei Minuten (!), auch die Installation des erwähnten Patches schafft hierbei keine Abhilfe.
+
+Leider sind auch in der Verkaufsversion Abstürze keine Seltenheit, fast immer hängte sich unser Testrechner zudem nach dem Beenden des Spiels auf. Der sehr hohe Schwierigkeitsgrad ist leider nicht konfigurierbar, wer Hilfe braucht, sollte sich diesen halb-offiziellen Guide, oder im letzten Notfall die Cheats einmal näher ansehen.
+
+Beherrscht Macht und Magie
+
+Jeder kann durch das erwähnte Charaktersystem selbst wählen, ob er einen tüchtigen Allrounder mit keinen echten Schwächen oder lieber einen spezialisierten Haudrauf heranzüchtet - beides wird in unterschiedlichen Spielsituationen nützlich oder schädlich sein. Stärke und Geschicklichkeit eures Helden sind Meilensteine für das Benutzen von Waffen: Während man als Neuling nur mit einer simplen Keule oder rostigen Schwertern austeilt, lehrt man böse Orks und anderes Getier später mit magischen Klingen und Bögen das Fürchten. Rüstungen schützen vor Schlägen, Pfeilen und Magie, und sind für bare Münze bei einem der zahlreichen Händler zu erwerben, oder einem gefallenen Gegner abzunehmen.
+
+Natürlich kommen auch die magischen Kräfte im Verlauf des Spiels nicht zu kurz, so könnt ihr euch den Schulen des Wassers und des Feuers zuwenden, oder euer Vertrauen in die Kräfte des Schläfers setzen, den Gott des dritten Lagers. Zaubersprüche sind optisch klasse in Szene gesetzt, und lassen den Bildschirm vor Blitzen, Eiszaubern und Feuerbällen erbeben - gegen entsprechenden Mana-Abzug.
+
+Vom Boten zum Auftragsmörder
+
+Die euch anvertrauten Aufgaben werden schnell anspruchsvoller, so wird man von simplen Boten zum Auftragsmörder oder gewieftem Spion. Besonders gelungen: Obwohl einige Aufträge verpflichtend sind, um die Story voranzubringen, habe ich fast immer freie Hand, was meine Auftraggeber angeht. Befolge ich die Weisung des alten Lagers und vermöbele einen Eindringling nach allen Regeln der Kunst, oder lasse ich mich von seinen Argumenten überzeugen und laufe mit ihm ins konkurrierende Lager über?
+
+Bewertung
+Gameplay: 5/5
+Grafik: 5/5
+Sound: 4/5
+Gesamt: 5/5
+Wertung: 87 %
+
+Generell sind die drei Lager ein echter Geniestreich, der »Gothic« eine unglaubliche Tiefe und Entscheidungsfreiheit gibt. Endlich kann ich selbst entscheiden, wem ich mein Vertrauen schenke, und wen ich beim nächsten Aufeinandertreffen sofort attackiere. Was immer ich auch tue, es hat Konsequenzen auf das Verhalten der Menschen mir gegenüber. Beklaue ich einen Lagerkollegen, geht er ohne zu zögern auf mich los; stöbert man in fremden Hütten, dauert es keine zwei Sekunden bis die ersten Drohungen auf den ungebetenen Gast einprasseln. Besonderes Lob in diesem Zusammenhang verdient die Liebe zum Detail, die überall in »Gothic« durchblitzt. So kann ich mit entsprechendem Skill getöteten Wölfen die Krallen abnehmen und an Händler verkaufen, oder auch gefundenes Fleisch über dem Feuer in eine schmackhaftere und mehr Lebenspunkte spendende Form bringen.
+
+Dem Gespräch mit anderen Gefangen kommt in »Gothic« eine große Bedeutung zu. Ihr erhaltet durch Konversation neue Aufträge, treibt Handel und erfahrt mehr von den Hintergründen der Story. Durch Multiple-Choice-Verfahren entlockt ihr eurem Gegenüber auch die letzten Informationen. Vorsicht: Eine falsche Antwort zum falschen Zeitpunkt kann euch mit rasanter Geschwindigkeit unter die Erde bringen. Überhaupt ist der Sensenmann dank des sehr hohen Schwierigkeitsgrades euer ständiger Begleiter. Nur gut, dass jederzeit gespeichert werden kann.
+
+Hier bricht der Artikel ab. Der Rest des Artikels ist leider nicht mehr erhalten.

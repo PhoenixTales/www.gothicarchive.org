@@ -1,0 +1,80 @@
+desslock.gamespot.com 06/1998
+15.06.1998
+
+Preview written by Ken Liang ("Delekhan")
+
+Developer/Publisher:
+Piranha Bytes/To Be Announced
+
+Target Release Date:
+1st Quarter 1999
+
+System Requirements:
+[subject to change] Too early to say for certain but likely a fast Pentium-class or better processor, Windows 95/98, 32 MB RAM (should you be running Win95 with any less?) -- if Quake runs well on your system, that should be sufficient for GOTHIC
+
+Recommended:
+[subject to change] 3D-accelerated Direct3D-compliant video card or 3Dfx (Glide API) video card
+
+
+General Description:
+
+GOTHIC is a third-person perspective single-player/multiplayer 3D role-playing game with action components, set in a sword and sorcery fantasy world. On the surface, this doesn't sound like anything out of the ordinary. While the RPG genre seems to be making a comeback of late, in the past we've seen both multiplayer and action RPGs, not to mention the countless single-player and sword & sorcery themed games. German Developer Piranha Bytes intends to bring all these common elements together in uncommon fashion, providing an in-depth storyline with detailed gameplay but not skimping on the pure eye-candy department as has been the norm for RPGs over the years.
+
+[IMG]
+
+The premise for GOTHIC is deceptively simple: For crimes against the kingdom, you've been handed a life-sentence in the royal prison mining colony. A magical one-way barrier ensures that what goes in alive, doesn't come out the same way. Your goals are, in order of priority, to stay alive and to escape. What could be easier? There's one additional little detail you might also like to know. This prison is self-administrating.
+
+That is to say, the inmates run the asylum...
+
+
+Key Features:
+
+# Easy-to-use controls & interface. The development team has decided to forego the traditional RPG's numerous menus of character statistics in favour of optical feedback. In other words, if a character trains to be more proficient at wielding a sword, you will actually see him use the blade in a more expert fashion. And while player controls will also be simplified, RPG gameplay will not comprise of finding keys to open doors and killing orcs.
+
+# What-you-see-is-what-you-get. You'll see the actual weapons being carried by characters, rather than a generic graphic. The same goes for armour and clothing. This is a further example of optical feedback, which obviates the need for more statistical menus.
+
+# Real-time melee-combat. Currently being implemented is a unique melee-combat system that promises to be "fun to play". However, for the time being, the programmers are hush-hush on specific details of how it will work.
+
+# Meaningful NPC and creature AI. Computer-controlled denizens will actually have a life of their own to lead. No more will monsters simply be standing around waiting for you, the mighty hero, to send them to their doom.
+
+[IMG]
+
+# Multiplayer built-in. Both antagonistic and cooperative options are planned. In fact, cooperative play will be required to solve certain problems, and that doesn't mean two players ganging up on one poor orc.
+
+# 3D accelerated graphics. A true 3D engine will be used with 3D hardware support planned for 3Dfx Glide and Direct3D. Characters are polygon-based and feature very fluid animations. Player perspective will be third-person.
+
+# Detailed storyline. There will be an in-depth storyline with numerous quests and puzzles, the solutions to which will vary depending on the type of character being played. Players will have multiple paths to reach the ending.
+
+
+The Good:
+
+# Superior 3D graphics. Even in a gaming industry now bursting with 3D-accelerated visuals, GOTHIC's work-in-progress graphics are top-notch. This proprietary 3D engine has all the typical features now considered de rigeur, including dynamic coloured lighting and smart camera. Other RPGs in development are also embracing 3D-acceleration and if GOTHIC is any example, no longer will the RPG genre be the "poor cousin" in the graphics department.
+
+# Multi-pathed storyline. Some linearity cannot be avoided when one is trying to tell a certain story. However, allowing players different ways to achieve similar goals indicates thoughtful design on the part of the development team.
+
+# Simplified controls & interface. Too often the learning curves for RPGs are so steep as to discourage any but the most "hard-core" role-playing gamers. GOTHIC promises to make it easy to start playing but hard to stop. The challenges will reside in the gameplay and storyline rather than wrestling with a recalcitrant interface or control scheme.
+
+[IMG]
+
+# Multiplayer-options built into the storyline. In the past, if you wanted to play a multiplayer RPG, you were mostly limited to massively-multiplayer online games, be it text-based Multi-User Dungeons or graphic extravaganzas like Ultima Online. Those desiring a more limited multiplayer RPG experience were usually out of luck. Yes, Diablo helped fill the void but many were quick to note that it wasn't a true RPG. Cooperative-mode Heretic, Hexen, and Hexen II, though fun dungeon romps, were little more than sword-and-sorcery versions of Doom or Quake. GOTHIC promises to change all that with sections specifically designed with multiplayer solutions in mind.
+
+The Bad:
+
+# System requirements. All this eye-candy must take some robust hardware in order to run well. The minimum requirements haven't been determined yet but expect them to at least call for the fastest Pentium-class processors and 3D-accelerator video cards. While the typical 3D action gamer has no doubt surpassed these basic necessities long ago, many RPG enthusiasts have tended to regard them as frivolous expenditures while making do with creaky 486's or first-generation Pentiums. The good news is that 3Dfx Voodoo cards, Pentium 200s, and even Pentium IIs are very affordable now. It's finally time to upgrade...
+
+# Crowded playing field. Last year, it hardly seemed like anyone was making computer RPGs anymore. What a difference a year makes. Not only is RPG development heating up but the genre is jumping into 3D video acceleration like it was trying to make up for lost time. Then there's the matter of that other 3D action-RPG with the near-identical name Gothica from Tinman Studios...
+
+# Real-time melee-combat? It's been tried before with varying degrees of success. The trade-off seems to be between having versatile combat options or an easy interface. But both at the same time? We'll have to wait and see.
+
+[IMG]
+
+# No stats screens. A plus for some but the traditionalist may cry foul. What's a role-playing game without reams of character and equipment stats? However, if the optical feedback feature works as designed, we may never miss those stats screens again.
+
+# Multiplayer-options built into the storyline. X-Wing vs TIE Fighter was roundly-criticized for leaving out true single-player mode. GOTHIC's answer to this is to design unique single-player and multiplayer solutions to challenges in the game, with the promise that it can be played and solved all alone. Single-players may make use of Non-Player Characters with enhanced Artificial Intelligence. However, past history shows few games that successfully provide superior gameplay for both the soloist and the team player. Will this be one of the exceptions? Time will tell.
+
+
+The Bottom Line:
+
+It's still much too early to come to any firm conclusions on GOTHIC. Current screenshots already compare favorably to the best produced by higher-profile developers. And some of the planned features have not been seen before in any game. When we can better assess the gameplay, we'll issue an updated report. One thing's for sure, Piranha Bytes looks to push the envelope in computer RPGs, a genre that has long relied on the old tried-and-true.
+
+June 1998

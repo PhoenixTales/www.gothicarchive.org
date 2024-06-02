@@ -1,0 +1,61 @@
+soulofgothic.4players.de 05/2001
+
+10.05.2001 Patch NR. 2 (V.1.08h)
+
+Patch NR. 2 (V.1.08h)
+Der 2. Patch zu Gothic ist erschienen. So unterstützt Gothic nachher auch richtig Soundhardware. Eine Liste der Veränderungen liegt dem Patch als HTML-Datei bei!
+
+Download
+
+Patch Version:
+1.08h
+Erscheinungsdatum: 10.5.2001
+Größe: 8.41 MB
+
+|  Anzahl Downloads 26073
+|  Dateigröße 8,41 MB
+|  Systemanforderungen PII 400 Mhz, 128 MB Ram, 16 MB-Grafikkarte
+|  Support www.gothic.de
+|
+|  Beschreibung
+|  Gothic Patch 1.08h (dt.)
+|  Zweites Update für das epische Rollenspiel Gothic.
+|  Die Liste der Verbesserungen und Änderungen liegt dem Patch als HTML-Datei bei.
+|
+|  gothic_patch_108h.zip
+
+
+..............................
+
+
+16.05.2001 Звуковые файлы
+
+Endlich hat Piranhabytes Teile der Hintergrundmusik in Gothic veröffentlicht!!! Die Files sind in MP3- Format und alle in wunderbarer Qualität!
+
+Oeffnen der Sounddateien von Gothic:
+
+Um die Sounddateien des Spiels zu öffnen, braucht ihr einen "ANX Game Audio Player" den ihr hier downloaden könnt (560 KB / .zip )
+
+Nach dem entpacken öffne die Datei Gap.exe. Klicke hier das rote Playlist-Symbol an. Dort klickst du auf Scanfiles und wählst die Datei Gothic\Data\sound.VDF an und öffnest diese. Nun kannst du die Playlist wieder schliessen und per >>| Knopf die diversen Dateien anwählen. Das versteckte Easteregg ist Datei Nr. 184. Du kannst die Dateien auch zu .wav Dateien konvertieren. Dadurch im Playlistmenu einfach auf "save file.." klicken.
+
+MP3:
+Gothic Theme (2 MB)
+The Orcish Hordes (2,55 MB)
+Final Prayer (3.5 MB)
+Installations Music (1.8 MB)
+
+Waves:
+Easteregg, last euch überraschen (2.6 mb)
+"Bäume", Sprach-WAV von Baal Netbek (Psioniker) (500kb)
+"Erwache", Sprach-WAV von Cor Angar (Guru) (240kb)
+"Macht der Magie", Sprach-WAV von Corristo (Magier) (460kb)
+"Sumpfkraut", Sprach-WAV von Dexter (Schatten) (130kb)
+"Die Kolonie", Sprach-WAV von Diego (Schatten) (480kb)
+"Besorg dir Erz", Sprach-WAV von Graham (Buddler) (200kb)
+"So manche Gefahr", Sprach-WAV von Grimes (Buddler) (470kb)
+"Ulu Mulu", Sprach-WAV von Ur-Shak (Orksklave) (430kb)
+
+СКАЧАТЬ mp3.rar (8,5 mb)
+
+СКАЧАТЬ Waves.rar (1,7 mb)
+(отсутствуют: 1) "Easteregg, last euch überraschen", 2) "Sumpfkraut")

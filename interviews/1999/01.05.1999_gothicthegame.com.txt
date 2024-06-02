@@ -1,0 +1,43 @@
+gothicthegame.com / 
+gothicthegame.funonline.de
+
+01.05.1999
+
+
+Das Entwickler-Interview mit den Machern von GOTHIC
+
+- Wer ist PIRANHA BYTES?
+Stefan Nyul: PIRANHA BYTES gibt es seit Oktober 97 und hat sich zum Ziel gesetzt, richtig gute Computerspiele für den internationalen Markt zu erschaffen. Dabei konzentrieren wir uns auf den Massenmarkt und setzen nicht auf kleine Nischengenres. Besonders wichtig wird bei uns der Teamgedanke hochgehalten. Wir vermeiden den Aufbau von Einzelpersonen zu "Stars", der in der Branche häufig anzutreffen ist, denn nur ein gut harmonisierendes Team ist heutzutage noch in der Lage, ein großes, modernes Spiel auf die Beine zu stellen. Die Tage der "lone wolves" sind gezählt.
+Tom Putzki: Wir haben 1997 mit vier Leuten angefangen, an GOTHIC zu arbeiten; inzwischen sind wir 22 Mann mit steigender Tendenz.
+
+- Wie entstand die Idee zu GOTHIC?
+Alex Brüggemann: Alle PIRANHAs stehen auf das Fantasy-Genre. Aber "Fantasy" bedeutet oft, daß putzige kleine Feen über Blumenwiesen schweben und das ist definitiv nicht das, was uns an diesem Genre gefällt. Also entwickelten wir ein bedrohliches, düsteres Szenario. Die Ideen dazu sind zum größten Teil unseren kranken Hirnen entsprungen und diese wiederum haben wir vorher mit unzähligen Büchern und Filmen gefüttert. Das grundsätzliche Setting eines riesigen Gefängnisses, in dem jeder auf sich allein gestellt, ist wurde durch den Film "Die Klapperschlange" inspiriert.
+Tom: Blumenwiesen, ich glaub's ja nicht ;-)
+
+- Warum habt Ihr Euch gerade für ein RPG entschieden?
+Alex Brüggemann: Das Genre erschien uns als das geeignetste, um möglichst viele unserer Ideen verwirklichen zu können.
+Tom Putzki: Hey, ist doch klar: RPGs sind die Königsklasse der Spiele. Außerdem sind die meisten von uns begeisterte Rollenspieler, sei es vor dem Rechner, klassisches Pen & Paper oder sogar Liverollenspiele.
+
+- Gibt es ein Vorbild-Spiel?
+Alex Brüggemann: Nicht direkt. Es wäre wohl auch fatal zu sagen, Spiel X ist unser Vorbild und wir möchten auch sowas machen. Diese Vorgehensweise ist zwar nicht unüblich, führt aber leider dazu, daß es sehr viele ähnliche Spiele auf dem Markt gibt, bei denen man neue Ideen mit der Lupe suchen muß. Natürlich gibt es einige Spiele die wir cool finden, aber das müssen dann nicht unbedingt RPGs sein.
+
+- Wie sieht die Welt von GOTHIC aus?
+Tom Putzki: GOTHIC spielt in einer abgeschlossenen Gefängniswelt, die von einer magischen Barriere sowohl ober- als auch unterirdisch umhüllt ist. Das heißt es gibt ein ca. 1 Quadratmeile großes Stück Landschaft mit Bergen, Flüssen, Wäldern, Siedlungen, Festungen usw. und dazu noch jede Menge Dungeons wie Minen, Höhlen und alte Tempelanlagen, in denen der Spieler dann die GOTHIC - Unterwelt erkunden und überleben muß!
+
+- Welche verschiedenen Lebewesen gibt es?
+Tom Putzki: Naja, zuerst einmal den Helden, der sich in vier Richtungen im Laufe des Spiels entwickeln kann: Krieger, Dieb, Magier oder Psioniker. Dann jede Menge Sträflinge und Gauner, die die Gefängniswelt als ihr Zuhause betrachten; alle in verschiedenen Banden und Gilden organisiert. Dazu kommt das volle Programm an Tieren, Monstern und Dämonen, die alle dafür sorgen, daß dem Spieler bei GOTHIC nicht langweilig wird!
+
+- Was hat GOTHIC an KI zu bieten?
+Tom Putzki: Eine dynamische, lebendige Welt, nicht mehr und nicht weniger! Die NSCs leben wie schon gesagt innerhalb verschiedener Banden und Machtgruppierungen, die alle untereinander in Relation stehen. Der Spieler kommt in die Welt von GOTHIC, und sobald er sich für einen Weg entscheidet ( Krieger, Dieb, Magier, Psioniker) und damit auch für eine der Banden, greift er massiv durch seine Präsenz und seine Handlungen in das Gleichgewicht der Kräfte ein - und so ein Gleichgewicht kann etwas sehr instabiles sein... Alle NSCs und auch alle Monster haben ihren Tagesablauf, dem sie normalerweise nachgehen, es sei denn, irgend etwas außergewöhnliches (wie beispielsweise der Spieler) zwingt sie dazu, auf die neue Situation zu reagieren. Wenn man also vorsichtig ist, wird man überall in der Lage sein, selbst die widerlichsten Monster bei ihren ganz normalen Alltagsgeschäften aus einer Deckung heraus zu beobachten - bis sie einen dann plötzlich entdecken....
+
+- Gibt es einen Multiplayer-Modus?
+Tom Putzki: Aber klar doch! Zusammen mit seinen Freunden und Kollegen ein richtig gutes Spiel zu zocken, bringt doch noch mehr Fun als alleine vor dem Rechner zu hängen.
+
+- Welches Feature war bisher besonders schwer zu realisieren?
+Tom Putzki: Das war mit Sicherheit die KI, die uns doch mehrfach an den Rand des Wahnsinns getrieben hat....alllein die unterschiedlichen Vorstellungen bei uns im Team, wie denn ein NSC plausibel zu reagieren hat, füllen schon Bände - und das alles auch noch umzusetzen...
+
+- Auf was seid Ihr bisher besonders stolz?
+Tom Putzki: Darauf, daß coole, aber teilweise doch sehr utopische Ideen, die man in langwierigen Diskussionen erarbeitet und ausgebrütet hat, plötzlich am Rechner zum Leben erwachen!
+
+- Welchen Stand hat das Projekt und wann wird GOTHIC fertig sein?
+Stefan Nyul: Wir sind schon weit, aber noch lange nicht fertig :-) Ich weiß das ist keine sehr genaue Antwort. Es sind noch ein paar wenige Systeme wie z.B. Cutscene-Handling oder DirectX-Renderer zu implementieren, und es fehlen noch viele Levels und einige Monster. Alles in allem wird GOTHIC Anfang nächsten Jahres das Licht der Welt erblicken.

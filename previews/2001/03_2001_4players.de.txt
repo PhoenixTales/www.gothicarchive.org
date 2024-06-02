@@ -1,0 +1,96 @@
+4players.de 03/2001
+
+Vorschau: Gothic (Rollenspiel)
+von Katja, 13.03.2001
+
+Am 16. März kommt GOTHIC also endlich in die Läden. Das 3D-Rollenspiel aus deutschen Landen hat ja schon für einiges an Aufsehen gesorgt, teilweise auch durch die etwas dunkel geratenen Screenshots der ersten Presse-Demo auf Internet-Sites. 4Players hat sich die Demo-Version vorgenommen, die vor kurzem auf einigen PC-Magazinen zu finden war.
+
+Zu den Screenshots und unserem Eindruck auf der nächsten Seite.
+
+
+GOTHIC-Preview
+
+Am 16. März kommt GOTHIC also endlich in die Läden. Das 3D-Rollenspiel aus deutschen Landen hat ja schon für einiges an Aufsehen gesorgt, teilweise auch durch die etwas dunkel geratenen Screenshots der ersten Presse-Demo auf Internet-Sites. 4Players hat sich die Demo-Version vorgenommen, die vor kurzem auf einigen PC-Magazinen zu finden war.
+
+Hardware-Voraussetzungen
+
+GOTHIC basiert auf einer 3D-Engine, die Piranha Bytes selbst entwickelt hat, und die in der Demo (in einer Mine spielend) zum einen zu beeindruckenden Licht- und Raucheffekten beiträgt, und zum anderen zu wunderschönen Texturen und flüssigen Bewegungen der Lebewesen.
+
+Allerdings ist die Engine kompromisslos auf die neuesten 3D-Grafikkarten ausgelegt, und Euer Rechner sollte möglichst mit einer 800 MHz-CPU und soviel RAM wie möglich ausgestattet sein. Das Spiel dankt es mit völlig ruckelfreien Kamerafahrten in jeder Lage - mit Ausnahme der Kampfszenen: Trachten Euch mehrere Monster nach dem Leben, dann verlangsamt sich das Gameplay schon einmal spürbar.
+
+Die Story der Demo:
+
+GOTHIC ist ein Rollenspiel, in dem Ihr den Helden aus der 3rd-Person-Perspektive seht und spielt in einer mittelalterliche Welt, in der der Held ein Verbrecher ist, der im Gefängnis seine Strafe abzuarbeiten hat. Da zu dieser Zeit aber ein Krieg gegen die Orks tobt, werden alle Gefangenen in die Minen geschickt. Um jede Flucht unmöglich zu machen, hat der König eine magische Barriere errichten lassen. Diese lässt Lebewesen nur hinein, aber nicht wieder heraus.
+
+In dieser Minenwelt gibt es drei Lager: Das Alte Lager, das Neue Lager und das Sektenlager. Für diese Demo-Version hat sich der Held für das Neue Lager entschieden und ist als Spion in das Sektenlager geschickt worden. Dort hat er sich durch das Erfüllen eines Auftrages die Gunst des Gurus YBerion erworben.
+
+Um tieferen Einblick in die Geschehen des Sektenlagers zu erhalten, lässt er sich für eine zweite Mission anheuern. In dieser muss er mit den Spinnereien der Sektentempler fertig werden. Sie erzählen von einer Vision, in der Sie in der alten Mine im Nest der Minecrawler etwas zu finden glauben, dass sie dem Ausbruch aus dem Gefängnis näher bringt. Also wird der Held in die alte Mine geschickt, um dort im Nest der Viecher einen Gegenstand zu finden. Der Held ist bereits in der Alten Mine direkt am Eingang. Und hier beginnt die GOTHIC Demo.
+
+Gameplay
+
+Die vorliegende Version ließ sich leider nur über die Tastatur spielen, die aber immerhin frei belegbar ist. Eine für die fertige Version angekündigte Maussteuerung war in der Demo noch nicht implementiert. Die Steuerung funktioniert solange gut, wie Ihr nicht mit mehreren Monstern kämpft. Die Leute bei PB haben eigentlich eine gute KI für die Gegner entwickelt, die sich um den Held zusammenrotten, auch mal ausweichen und nicht immer von vorne angreifen.
+
+Der Nachteil ist leider, dass im Echtzeitkampf gerade in der Mine die Monster so spät sichtbar werden, dass sie den Held meist überfallen. Hat er dann nicht zufällig Verstärkung durch die Templer in der Nähe, sondern ist - was häufig vorkommt - allein in einem breiten Gang ohne Ausweichmöglichkeiten, dann ist der Kampf meist vorüber bevor er beginnt (ein makabres Schmankerl: wenn der Held tot am Boden liegt, ist nicht sofort ein Game Over-Bildschirm zu sehen. Ihr könnt also zuschauen, wie die Minecrawler weiterhin aufgebracht auf dem Helden herumkrabbeln).
+
+Denn wenn der Held zuschlägt, verliert er den Gegner aus der Auto-Zielerfassung. Das kostet beim Nachsetzen die Sekunden, die den Helden schnell zur Leiche machen. Darum ist es PB hoch anzurechnen, dass der Spielstand überall flüssig gespeichert werden kann.
+
+Bevor Ihr Euch also aufmacht, in das Nest der Minecrawler einzudringen, solltet Ihr kleinere Aufgaben im Hauptschacht der Mine lösen (meist mit Hilfe von Gesprächen), um ein paar Erfahrungspunkte zu erhalten, die sich beim Level-Aufstieg in Lernpunkten niederschlagen, die wiederum zum Erlernen der notwendigen Fähigkeiten gebraucht werden.
+
+Ist in der Demo der Pfad des Helden schon bestimmt, so könnt Ihr im richtigen Spiel durch die Wahl eines der Lager Euren Held in Richtung Dieb, Magier, Kämpfer oder Psioniker ausbilden lassen, was die Mehrfach-Motivation steigern sollte.
+
+Der Held kann seine Welt eigentlich kontinuierlich und physikalisch korrekt manipulieren. Das heißt, wenn Ihr unbedarft auf einen der vielen, schlecht sichtbaren Abgründe in den Minen zuhüpft, wird Euch das Spiel nicht am Rand aufhalten. Entweder Ihr rutscht den Steilhang hinab, oder Ihr prallt voll auf den Boden - tot oder angeschlagen, je nach Tiefe des Sturzes und Höhe des Hitpunkte-Kontos. Gerade in den Minen, wo selbst die Fackel nicht sehr weit hilft, solltet Ihr die abgelegenen Wege also nur sehr vorsichtig betreten, und Euch immer wieder nach oben und unten absichern.
+
+Ausblick
+
+Kleinere Rechtschreib-Schnitzer in den Dialogen werden hoffentlich im fertigen Spiel behoben sein, aber sie beeinträchtigen das Gameplay kaum. Was wirklich Not tut, ist die generelle Anhebung des Lichtpegels in den Minen, die einen großen Teil der Schauplätze von GOTHIC ausmachen - da hilft auch die umfangreiche Grafikkarten-Manipulation und die Einstellung der Gamma-Korrektur in der Spiel-Konfiguration wenig. Mal sehen, wie viele der versprochenen Features von den Entwicklern in die Tat umgesetzt werden können. Die optisch beeindruckenden Locations und die Reaktionen der NPCs (wenn Ihr ein Schwert zieht, drohen Euch z.B. die Wächter) können allerdings schon jetzt begeistern.
+
+Zu den geballten Screenshots (4Players exklusiv).
+
+
+.....................................
+
+14.03.2001 Gothic-demo 1
+
+Endlich, Piranha Bytes hat die erste Demo zu Gothic veröffentlicht! In der Demo könnt ihr verschiedene Abenteuer in einer Erzmine erleben, und euch mit den Grundzügen des Spiels vertraut machen.
+
+Hintergrundgeschichte:
+
+Der Held wurde als Spion in das Sektenlager geschickt. Dort hat er sich durch das Erfüllen eines Auftrages die Gunst des Gurus YBerion erworben. Um tieferen Einblick in die Geschehen des Sektenlagers zu erhalten, lässt er sich für eine zweite Mission anheuern. In dieser muss er mit den Spinnereien der Sektentempler fertig werden. Sie erzählen von einer Vision in der Sie in der alten Mine im Nest der Minecrawler etwas zu finden glauben, dass sie dem Ausbruch aus dem Gefängnis näher bringt.
+Also wird der Held in die alte Mine geschickt um dort im Nest der Viecher einen Gegenstand zu finden. Der Held ist bereits in der Alten Mine direkt am Eingang. Und hier beginnt die GOTHIC Demo.
+
+Mindestvoraussetzungen:
+
+GOTHIC benötigt mindestens:
+Windows 98/2000
+128 MB Hauptspeicher
+16 MB Grafikkarte
+Pentium 400 (oder voll kompatibel)
+350 MB Festplattenspeicher
+DirectX soundfähige Soundkarte (z.B. Sound Blaster)
+
+Demo downloaden! (89.4 mb)
+
+|   Anzahl Downloads 2380
+|   Dateigröße 89,4 MB
+|   Systemanforderungen: PII 400 Mhz, 128 MB Ram, 16 MB-Grafikkarte
+|   Support (Infos): www.gothic.de
+|   Beschreibung
+|   Nach knapp vier Jahren Entwicklungszeit hat Piranha Bytes das epische Rollenspiel Gothic nun erfolgreich abgeschlossen. Wer sich vor dem Kauf erst einen kleinen Eindruck der wunderschönen Grafik und der exzellenten Interaktion der einzelnen Charaktere verschaffen möchte, der sollte sich diese Demo auf keinen Fall entgehen lassen.
+|
+|  Zu beachten ist allerdings, dass in der Verkaufsversion das Spiel wesentlich weiter entwickelt ist. So ist z.B. auch eine Maussteuerung integriert.
+|
+|  gothic_demo.zip
+
+ Wichtig! Lest die Readme-Datei des Spiels, darin wird unter anderem auch die Steuerung erklährt!
+
+
+.....................................
+
+News 15.3.2001
+
+So, endlich ist die Site wieder online!
+Ihr könnt nun hier die geile Demo zu Gothic downloaden! Die Hintergrundgeschichte und die Demo selbst findet ihr hier
+
+So wird das Cover der Gothicpackung aussehen!
+
+Hier könnt ihr die Meinung der Presse zu Gothic nachlesen!

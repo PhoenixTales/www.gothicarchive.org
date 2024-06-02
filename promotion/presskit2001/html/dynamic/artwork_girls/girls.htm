@@ -1,0 +1,144 @@
+<html>
+<head>
+<title>Gothic - The Game - Photos mit Kurzbeschreibung</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../static/style.css">
+</head>
+<script language="JavaScript">
+<!--
+
+/* ---------------dhtml/Browser-Notation-----------*/
+
+  if (document.all)
+  {
+    ebene="document.all.";
+    stil=".style."
+  }
+  else
+  {
+    ebene="document.layers.";
+    stil="."
+  }
+
+/* ---------------Bewegt die Textebene-----------*/
+
+  var startPosTBM=0,schicht=0,eMov=-6
+
+
+  function moveUpM()
+  {
+    eval(ebene+'rahmen'+stil+'top=startPosTBM');
+
+    if(startPosTBM > -1200)
+      startPosTBM += eMov;
+
+    timer1=setTimeout("moveUpM()",70);
+  }
+
+
+
+  function moveDownM()
+  {
+    eval(ebene+'rahmen'+stil+'top=startPosTBM');
+
+    if(startPosTBM < 10)
+      startPosTBM -= eMov;
+
+    timer1=setTimeout("moveDownM()",70);
+  }
+
+
+
+  function sprung(punkt,weite)
+  {
+    eval(ebene+'rahmen'+stil+'top=punkt');
+    startPosTBM=weite;
+  }
+
+//-->
+</script>
+<body background="../../static/images/bg/bg_2.jpg">
+<div id="rahmen" style="position:absolute; width:400px; height:400px; z-index:1; left: 150px; top: 0px"> 
+  <table width="400" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr align="center"> 
+      <td class="headline" colspan="3">Photos mit Kurzbeschreibung</td>
+    <tr align="center">
+      <td colspan="3"><img src="{{ mediaLinkBase }}/../../l.gif" width="1" height="40"></td>
+    <tr align="left"> 
+      <td colspan="3">Die Bilder sowie jegliche Informationen �ber die Girls, 
+        die diesem Presskit zu entnehmen sind, d�rfen nur in Zusammenhang mit 
+        dem Produkt Gothic verwendet werden. Eine Ver�ffentlichung in anderweitigem 
+        Zusammenhang ist untersagt und wird strafrechtlich verfolgt.</td>
+    
+    <tr> 
+      <td colspan="3"><img src="{{ mediaLinkBase }}/../../l.gif" width="1" height="40"></td>
+    </tr>
+    <tr> 
+      <td><img src="{{ mediaLinkBase }}/images/girls/alex_text.jpg" width="193" height="298"></td>
+      <td><img src="{{ mediaLinkBase }}/../../l.gif" width="10" height="8"></td>
+      <td valign="top"> <span class="standardbold">Alex<br>
+        </span> ist gelernte Fachkosmetikerin, die nach der Er�ffnung ihres eigenen 
+        Kosmetikstudios einfach noch mehr machen wollte. So begann sie zun�chst 
+        als �berzeugende, ausdrucksstarke Show-T�nzerin und wurde hierdurch als 
+        Model entdeckt. Heute modelt sie in Shows, f�r Fotos und auf Events. </td>
+    </tr>
+    <tr> 
+      <td colspan="3"><img src="{{ mediaLinkBase }}/../../l.gif" width="10" height="20"></td>
+    </tr>
+    <tr> 
+      <td><img src="{{ mediaLinkBase }}/images/girls/alice_text.jpg" width="193" height="287"></td>
+      <td><img src="{{ mediaLinkBase }}/../../l.gif" width="10" height="20"></td>
+      <td valign="top"><span class="standardbold">Alice</span><br>
+        ist geb�rtige Deutsch-Amerikanerin, die bereits als Kind ihre Liebe zum 
+        Ballett entdeckte. Neben dem klassischen Ballett begann Alice bereits 
+        vor vielen Jahren ausgiebigen Fitnesssport zu betreiben und ist heute 
+        als Fitnesstrainerin t�tig. Sie modelt f�r Mode, Werbung und nat�rlich 
+        Sport. </td>
+    </tr>
+    <tr> 
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td><img src="{{ mediaLinkBase }}/images/girls/jennifer_b_text.jpg" width="193" height="300"></td>
+      <td><img src="{{ mediaLinkBase }}/../../l.gif" width="10" height="20"></td>
+      <td valign="top"><span class="standardbold">Jenny</span><br>
+        ist die exotische Schwester von Alice und somit ebenfalls Deutsch-Amerikanerin. 
+        Auch Jenny hat Tanz und Fitness betrieben und modelt nun schon seit mehreren 
+        Jahren mit internationalen Engagements. </td>
+    </tr>
+    <tr> 
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td><img src="{{ mediaLinkBase }}/images/girls/jennifer_text.jpg" width="193" height="294"></td>
+      <td><img src="{{ mediaLinkBase }}/../../l.gif" width="10" height="20"></td>
+      <td valign="top"><span class="standardbold">Jenny B</span><br>
+        Geboren an der sonnigen K�ste Portugals kam Jenny bereits als Kind nach 
+        Deutschland. Hier hat sie ihre Leidenschaft zum Beruf gemacht und arbeitet 
+        als Fitnesstrainerin und Model f�r Werbefotografie und Events. </td>
+    </tr>
+    <tr> 
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td><img src="{{ mediaLinkBase }}/images/girls/julia_text.jpg" width="193" height="295"></td>
+      <td><img src="{{ mediaLinkBase }}/../../l.gif" width="10" height="20"></td>
+      <td valign="top"><span class="standardbold">Julia</span><br>
+        hat soviel Energie, dass sie st�ndig in Action lebt. Das Energieb�ndel 
+        arbeitet nach ihrer Ausbildung in der Werbeszene D�sseldorfs und modelt 
+        nebenbei f�r Mode, Werbung und Events. </td>
+    </tr>
+    <tr> 
+      <td colspan="3">&nbsp;</td>
+    </tr>
+  </table>
+</div>
+<div id="hoch" style="position:absolute; width:50px; height:49px; z-index:2; left: 570px; top: 40px"><a href="#" onmouseover="moveDownM();" onmouseout="clearTimeout(timer1);" ondblclick="sprung(100,0)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_hoch.gif" width="40" height="40" border="0"></a></div>
+<div id="runter" style="position:absolute; left:570px; top:100px; width:50px; height:49px; z-index:3"><a href="#" onMouseOver="moveUpM();" onMouseOut="clearTimeout(timer1)" onDblClick="sprung(-1200,-1200)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_runter.gif" width="40" height="40" border="0"></a></div>
+<div id="Layer1" style="position:absolute; width:200px; height:30px; z-index:1; left: 610; top: 530"><a href="../../start.htm"><img src="{{ mediaLinkBase }}/../../static/images/haupt.gif" width="126" height="23" border="0"></a></div>
+<div id="Layer2" style="position:absolute; width:32px; height:31px; z-index:10; left: 568px; top: 530px"><a href="index.htm"><img src="{{ mediaLinkBase }}/../../static/images/back1.gif" width="23" height="23" border="0"></a></div>
+</body>
+</html>

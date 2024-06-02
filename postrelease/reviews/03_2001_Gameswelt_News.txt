@@ -1,0 +1,18 @@
+Gothic Patch & Webseite
+20.03.2001 / F. Mannhardt
+Der erste Patch für das 3D-Rollenspiel 'Gothic' wird nach der Aussage eines Piranha Bytes Mitarbeiter gegenüber unserer Networkseite World of Gothic sehr bald erscheinen. Er soll unter anderem die Story an mehreren Stellen verbessern und möglicherweise das ATI Problem beheben, da ATI bereits an neuen Treibern sitzt. Noch ist leider nicht sicher ob es schon in diesem Patch gefixt werden kann.
+Letzte Nacht erreichte uns im Forum noch die frohe Nachricht das die Grafikfehler auf Voodoo Karten im nächsten Patch definitiv gefixt sind.
+Außerdem haben die Entwickler eine rundum erneuerte Webseite ins Netz gestellt die jetzt hoffentlich etwas aktueller als die vorherige ist.
+
+Erster Gothic Patch veröffentlicht!
+21.03.2001 / F. Mannhardt
+Der erste Patch zum 3D Action-Rollenspiel 'Gothic' ist auf gamesweb.com und worldofgothic.de erschienen. Der von den Fans sehnlichst erwartete Patch ist ungefähr 4 MB groß und behebt unter anderem die Grafikfehler mit Voodoo 3 Grafikkarten und verbessert die Peformance leicht.
+Die Grafikfehler auf älteren ATI Grafikkarten konnten leider noch nicht gefixt werden, da es ein Treiberproblem ist und ATI noch einen neuen Treiber programmieren muss. Als kurzfristige Lösung könnt ihr mit einem Texteditor den Eintrag 'zFogDisabled=0' in der gothic.ini auf 'zFogDisabled=1' zu ändern.
+Weitere Informationen im gamesweb.com Downloadbereich.
+
+Gothic - Patch v1.07c
+
+Zweite Gothic Demo erschienen
+27.03.2001 / F. Mannhardt
+Eben ist die zweite Demo zur Rollenspiel-Überraschung 'Gothic' des deutschen Entwicklerteams Piranha Bytes erschienen. Die zweite Demo basiert auf dem Code des letzte Woche veröffentlichten Patches und beeinhaltet die gesamte Oberwelt und das Alte Lager.
+Die mit 249 MB sehr groß ausgefallene Demo findet ihr im Download Bereich von gamesweb.com.

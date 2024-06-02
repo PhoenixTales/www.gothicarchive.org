@@ -1,0 +1,27 @@
+gamerspulse.com 10/2001
+
+03.10.2001
+
+Jim (Ripclaw) Broach October 09, 2001
+
+Gothic
+
+Set in a time long ago, there stands a kingdom ravaged by wars and now on the brink of collapse from wave upon wave of orc warriors. No male of age is exempt from service or punishment in the kingdom. You just happen to be the latest convict to be condemned to serve in the King’s mines.
+
+Long ago during turbulent times the King called upon twelve mages to come forth and create a magical barrier around the mining colony of Khorinis to prevent any escapes. The barrier works in a simple way - you may enter but you can never leave the mines. There you will spend the rest of your life mining ore to aid the King in holding back the waves of orc invaders.
+
+As the mages worked their magic and created the barrier, the convicts struck out and killed the guards around the mines. Unfortunately the barrier was completed before any convicts were able to escape - in fact the barrier was created larger than intended, trapping the mages inside as well. Once the King realized the situation inside the barrier and the lack of any guards, he was forced to provide the convicts with anything they needed, from food to women, in order to insure delivery of the much valued ore.
+
+Gothic is the upcoming RPG game by Piranha Bytes that places you in the midst of a massive prison environment where you must search out the mages to deliver a message from the King himself. Inside the barrier, life has formed a somewhat tense balance between survival and work, with three main camps forming the play area of the game.
+
+Each camp has things to offer your player and the camp you choose to live in effects how your character progresses through the story. Beyond staying alive and living through enemy camps raiding your home, your primary goal is to seek out the mages and deliver the message.
+
+Gameplay is in a story telling mode similar to Baldur's Gate. Players who speak to key NPCs throughout the game will be given multiple options to choose from as their conversation progresses. By speaking to these characters your quest, your goals, and you very life could be affected, so think wisely before making a choice. Because of this story style questing no outcome is ever the same and replayability is higher than normal. Ah, but you ask, surely there is a point at which the replayability has to come to an end? Yes, any game must end but with over 500 NPC characters you begin to grasp the possibilities of multiple sequences and paths to best complete your mission.
+
+Keys are used to accomplish movement forward, backwards, left, and right, while holding down combinations of keys allows players to sidestep or climb up ledges. Those familiar with the action genre will have little trouble learning the various keys to complete their desired actions. Camera control is limited to an overhead chase model when in third person, but by toggling into a first person perspective you will have the ability to look around. This did distract from ease of movement and combat at times, but was not so much of a bother as to prevent me from defeating the enemy or finding that nasty critter hiding around the corner.
+
+In the build we played the graphics engine was looking very good, and provides some very nice details while playing. From the shanty camps to the rundown mining buildings, players will find a very pleasing and somewhat dilapidated environment to travel through. The use of the colors and clean textures created a dark environment that is what any traveler would expect from a forest-surrounded mining camp. The detail given to the creatures, effects, weapons and viewable depth also create a very believable environment to keep players interested in the story and in game completion.
+
+During most visits to camps players will be playing while there are multiple NPCs or creatures on the screen. With all this action we had suspected we would see a drop in framerates, but after playing through it several times I can safely say we were pleased to not see any form of slowdown or framerate loss - in fact, with the amount of colors and textures present, we found the coding to be very stable.
+
+From what we were able to play, Gothic will provide a visually stunning and deep gameplay experience, utilizing the most up-to-date graphics and action controls, along with a detailed, multiple ending storyline to provide a unique adventure in new uncharted lands.

@@ -1,0 +1,51 @@
+rpgvaultarchive.ign.com 10/1999
+
+01-16.10.1999
+
+
+Week of September 26, 1999
+Friday, October 1
+
+Gothic Comic Announced
+
+We received a media advisory this morning announcing a new tie-in for Gothic, the 3D fantasy RPG currently in developmeny by German Studio Piranha Bytes:
+GOTHIC: THE COMIC
+GOTHIC - the comic series: A new addition to GOTHIC the 3D-action-role-playing-game will be presented at this years "Frankfurt Book Fair" (13.-18. October / Stand: 6.2 B 0325).
+The production of GOTHIC - the comic series is the first collaboration of IDEENSCHMIEDE ( IPP-WORLD-COMIX) and the publisher EHAPA (EGMONT INTERACTIVE). At the fair (Stand: 6.2 B 0325) a first look at the comic is presented alongside a new demo version of GOTHIC the 3D-action-role-playing-game.
+As a kind of a prologue, the comic's story takes place at a time before GOTHIC the game. Yet, the product design is kept in a the purest GOTHIC way. The story and the coloration is produced by Thorsten Felden, the artwork and drawing of the comic by Henrik Fetz. The team from IPP-World is well known in the comic scene for their products: HELDEN, INCUBATION, DIE VERGESSENEN (www.ipp-world.com).
+GOTHIC - the comic will be released ahead of GOTHIC the 3D-action-role-playing-game in the first quarter of 2000 with a limited edition of 15.000 copies at an affordable price of DM 9,95 ( 4,50 Euro ). All 48 pages will be in full coloration. EGMONT EHAPA plans to release a whole series of GOTHIC- the comic within the next few years.
+There hasn't been much buzz about Gothic on this side of the ocean yet, probably because a publisher has not yet been named. However, you can learn more about it from the official site and from our extensiveGothic interview this summer, then share your reactions, suggestions and questions on our VN Gothic Board.
+
+
+Week of October 3, 1999
+Tuesday, October 5
+
+Gothic Infobit
+
+Alex Brüggemann of developer Piranha Bytes answered a question on the importance of stats over at our VN Gothic Board:
+Hi Doom,
+OK, you asked Tom, but here are my two cents, just in case Tom ist too busy to answer at the moment.
+Yes, stats are important if they are the only feedback the player gets about the progress of his game-character. What we want to do in GOTHIC is to keep the stats that are presented as lines of text and numbers to a minimum by using as much optical feedback as possible. If your character improves in swordfighting you will see the difference. No need to switch to a stats-screen to see a number increase.
+But nobody should say that we don't listen to the gamers. In addition to this visual feedback it will also be possible to switch to some kind of stats-screen that shows a brief summary of all your skills, attributes and magic spells ;-)
+Alex's responsibilities include animation, 3D character modeling and game design. Gothic is a real-time 3D fantasy RPG to be published by Germany's Egmont Interactive. 
+
+
+
+Week of October 10, 1999
+Saturday, October 16
+Gothic Team Interview At Glide Underground
+Gothic is the subject of a team interview today at Glide Underground, with Michael Hoge, Kai Rosenkranz, Mario Roeske and Alex Brüggemann as the interviewees. Here's a quote from Kai on sound effects and music:
+Sound and music play an important role in supporting the game's atmosphere. Without a well balanced sound ambience, the world of GOTHIC would never be able to engulf the player the way we want it. A sound designer's main task in making the world more alive is to create sounds that don't attract the players attention too much. The ambient sounds are not meant to be heart consciously, that would be the wrong effect. We try to keep them in the background, so that they fit into the szene without diverting the player. We don't want him to notice neither the sounds nor the music, we want him to say "Cool, this world seems so f**king realistic."
+The realism is supported perfectly by our 3D sound environment. Players who own the required hardware can hear doors closing behind them, a giantic waterfall around them or the squeek of a meatbug next to them.
+We are using a dynamic music system that allows us to influence the music's intensity during the game. When the player gets into a dangerous situation or sees a well-armed enemy approaching, the music raises up like in a movie. It gets to the climax when the player kills the enemy or the disarms the trap, and finally it returns to the normal level. Composing this kind of music is very difficult since the situation the player is in can change from one second to the other. We don't want the transitions to be heart, so the whole music is constructed like a puzzle. The score consists of thousands of single melody elements that are combined in realtime. Each of this elements needs to fit at the end of many of the others. But no matter how hard the process of creating the music is, the result sounds cool and that's the point.
+Spotted at Voodoo Extreme. Gothic is a real-time fantasy RPG in development at Piranha Bytes for German publisher Egmont Interactive.
+
+
+Monday, October 11
+
+Gothic To Show At Frankfurt Book Fair
+
+We just received a media notice reminding us that Gothic will be on view at the Frankfurt Book Fair later this week:
+GOTHIC: INVITATION TO THE FRANKFURT BOOK FAIR 11. October 1999
+We'd like to invite you to visit GOTHIC at this year's "Frankfurt Book Fair" (Franfurter Buchmesse) held from October the 13th - 18th. You'll find GOTHIC on the EGMONT EHAPA Stand, Number: 6.2. B 0325. A new addition to GOTHIC the 3D-action-role-playing-game will be presented at this years "Frankfurt Book Fair" (13th-18th October / Stand: 6.2 B 0325): GOTHIC THE COMIC. At the fair, a first look at the comic will be presented alongside a new demo version of GOTHIC the 3D-action-role-playing-game.
+If you're not familiar with Gothic, which has not received much publicity in North America, you might want to check out the official site and our comprehensive Gothic team interview this summer. 

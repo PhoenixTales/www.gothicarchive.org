@@ -1,0 +1,93 @@
+rpgvaultarchive.ign.com 03/2000
+
+02-25.03.2000
+
+
+March 2, 2000 - March 3, 2000
+March 3, 2000
+
+Gothic Progress Report & Character Render
+We hadnt heard from the Gothic team at Piranha Bytes for a while, so we checked in and were fortunate enough to receive this brief status report from team member Tom Putzki:
+GOTHIC is almost done, we're in beta testing, bug fixing and fine-tuning right now. All features are implemented, the world really lives, the NPC are living in their daily routines, they're talking, fighting, building allies and hunting creatures and monsters....
+
+Our publisher Egmont Interactive is in talks with international partners for the US and other territories; GOTHIC will be presented on the E3.....
+As a bonus, Tom was also good enough to send along a screenshot showing a rendering of a rather imposing troll:
+
+And for a bit of fun, you might also want to check out another version, namely the troll action figure, about four inches tall, thats available from the official site.
+
+
+March 2, 2000
+
+Gothic Report At GameSpot
+GameSpot has also posted a news story reporting that Gothic is set for a summer release. This is the majority of the text:
+
+Egmont Interactive and Piranha Bytes plan to release Gothic for the PC in July 2000. According to the publisher, the single-player action-RPG title is set in a prison world and requires the player to survive in a hostile environment of competing factions. To do this, players must make allies and work their way up through the ranks of the organization by performing various tasks.
+
+The game is expected to include an innovative and complex social environment, in which the players' actions will have a lasting effect on their alliances. Both the environment and the inhabitants are supposed to change over time, in some cases independent of the players' actions, which the developers feel will reduce the chance of playing the same situation twice. In addition, the motion-capture animation used in the game is expected to appeal to a wider audience than just RPG fans.
+
+Gothic is a real-time fantasy RPG being developed by Germany's Piranha Bytes, with Egmont serving as publisher.
+8:41 PM - TruthSword
+
+
+March 3, 2000 - March 6, 2000
+March 6, 2000
+
+Gothic Announcement
+
+We heard there was a recent press release on the status of Piranha Bytes upcoming Gothic, and lo and behold, it landed in our inbox today:
+Gothic Conquering PCs in July 2000
+
+Egmont Interactive, in conjunction with Piranha Bytes, is releasing Gothic for the PC this summer. The title is a hybrid real-time 3D action RPG in which the player is forced to survive in a prison world divided into competing factions. As the player is mercilessly thrust into the prison world, he must choose to be one of four character classes and develop in that faction, moving up through the hierarchy and fighting new battles.
+
+The main character must evolve and develop, battling ever changing enemy factions and attempting to move up through the callous hierarchy. In the beginning, the character is a merely a newcomer  an outsider  and must fulfill menial, insignificant tasks in order to make allies and survive. As time passes and the character accomplishes various tasks, he achieves a higher reputation among the others. As his reputation improves, other members will ask him to perform increasingly important tasks. Eventually, he is an influential, powerful member of the penal colony.
+
+Gothic showcases a number of unique features including the actual physical evolution of a character's skillset and animation as he moves through the game. As the character's strength and skills improve, the development and evolution of those skills will be visible in his movements and choices. Gothic also presents the player with a world that houses a very complexly intertwined social system  if the player defeats a certain member of another faction or kills a specific monster, that will be apparent in the player's next encounters. If the player kills a group member, the group will be hostile and attempt to exact revenge. Monsters, too, will cooperate with one another in certain situations and as events occur, alliances and enemy lines shift accordingly.
+
+The environment and the beings within (NPCs, monsters) develop and change without depending on the actions of the main character so the player will likely never wander into the same situation twice. Gothic is a single-player title.
+
+Gothic is scheduled for US release in July 2000, but will be presented by Egmont and Piranha Bytes at E3 in Los Angeles in May. Egmont Interactive and Octagon Entertainment are currently seeking a worldwide publishing partner for Gothic.
+
+Frank Delbrügge, Marketing Manager at Egmont, says, "RPGs are one of the most popular genres worldwide  like action genres. So it's only natural to combine these two strong genres, which is what we decided in publishing this title. I believe Gothic will experience great success with its cutting-edge graphics and the complete motion-captured animations of everything from the main character to NPCs and monsters  and any distractingly beautiful vixens you might meet in the game."
+
+Kirk Owen, agent at Octagon says, "Gothic will bring the RPG genre to an entirely new market through its innovative animation. We are very excited about the title's upcoming release."
+Piranha Bytes is a German development studio. Gothic is its first project, although members of the team have game development experience elsewhere.
+
+
+March 18, 2000 - March 21, 2000
+March 21, 2000
+
+Gothic Announcement & Screenshots
+
+We received an advisory today confirming what we had heard from team members 10 days ago at the Game Developers Conference, that Gothic will be showcased at E3 in May and released this summer:
+GOTHIC CONQUERING PCs IN SUMMER 2000
+
+Egmont Interactive, in conjunction with Piranha Bytes, is releasing Gothic for the PC this summer. The 3D-Action-RPG will be presented by Egmont and Piranha Bytes at E3 in Los Angeles in May.
+
+Gothic showcases a number of unique features including the actual physical evolution of a character's skillset and animation as he moves through the game. Gothic also presents the player with a world that houses a very complexly intertwined social system - if the player defeats a certain member of another faction or kills a specific monster, that will be apparent in the player's next encounters. If the player kills a group member, the group will be hostile and attempt to exact revenge. Monsters, too, will cooperate with one another in certain situations and as events occur, alliances and enemy lines shift accordingly.
+
+Frank Delbrügge, Marketing Manager at Egmont, says, "I believe Gothic will experience great success with its cutting-edge graphics and the complete motion-captured animations of everything from the main character to NPCs and monsters - and any distractingly beautiful vixens you might meet in the game."
+In addition, we saw that the official site has been updated with a total of nine screenshots showing facial animations and characters. 
+
+
+March 24, 2000 - March 27, 2000
+March 25, 2000
+
+Gothic Preview At 3D Action Planet
+
+3D Action Planet has tossed up a first look preview of Gothic. It's a summary of known information which includes this excerpt:
+Gothic is played from a third person perspective similar to Heretic II or Tomb Raider. The game is primarily action based but will have a heavy dose of Role Playing thrown in for good measure. However, the number of menus and screens that you will have to traverse through to control and arm your character will be minimal relative to most RPG's. Also unlike most RPGs, advances in certain abilitites will be made apparent by your character's getting better as opposed to an increase in a number. For example, your character will begin the game swinging his sword like a lumberjack but as he gets better at wielding a sword you will visually see him becoming more proficient with the sword, you won't have to refer to a menu that shows a number increase in swordplay. The same applies for all of the other classes, you don't want to try casting a fireball spell before you are ready because the spell will most likely backfire with a tragic outcome. This system keeps the player from trying to do more than he/she is capable of doing as well as allowing for a noticable progression as the game progresses. Arming and Armoring yourself will be quick and easy and like many RPGs there will be an abundance of weapons, magic items, and other useful and sometimes not-so-useful items.
+Gothic is a real-time fantasy RPG in development by Germany's Piranha Bytes for publisher Egmont Interactive. 
+
+
+March 27, 2000 - March 29, 2000
+March 27, 2000
+
+Gothic PS2 Speculation At FGN Online
+
+Our network affiliates at Fastest Game News Online are reporting that Gothic may be ported to the PlayStation2 according to game designer and PR representative Tom Putzki. Here's the bulk of the story:
+Gothic is slated for PC release in summer 2000, but could also be headed to PlayStation2 according to Putzki. "Egmont Interactive -- our publisher for Germany, Austria, Switzerland and Scandinavia -- has its own PlayStation development team in Scandinavia," he says. "We presented Gothic to them. Gothic is programmed and built up so that it will be easy to convert for PlayStation2, but of course this depends on our publisher."
+
+Gothic's gameplay attempts to remain faithful to its title, as Putzki explains, "There is a functioning social system on the prison world where you begin the game, so you will be forced to take sides in certain situations. Almost everyone in the world is evil to some degree, similar to Escape From Manhattan with Kurt Russell -- the first one of course not the second one.
+
+"This gothic-fantasy scenario means that everyone in this prison world is trying to survive. They join one of several gangs that rival each other, and the player is thrown into this prison world. Events in the world take place whether the player's in it or not, and so the player has to react to how the world is functioning and not the other way round."
+Gothic is a 3D fantasy RPG in development by Germany's Piranha Bytes. Publisher plans for North America are unknown at this time. 

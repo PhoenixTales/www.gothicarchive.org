@@ -1,0 +1,105 @@
+﻿GOTHICZ.NET
+http://www.gothicz.net/serie-gothic/mike-hoge-talks-about-gothic/
+
+Mike Hoge talks about the Gothic series
+
+Released: 3.4.2011
+
+Mike Hoge is one of four co-founders of Piranha Bytes and the only one who still works in the team. We asked him a few things about the first parts of the series and Mike was so kind to send us his answers.
+
+Gothicz.net: March the 15th is the 10th anniversary of the release of Gothic 1. What comes to your mind when you think of this jubilee?
+
+Mike: I always used to plan in 5-year steps. Now another of these steps reaches its conclusion with Risen 2. After that, I REALLY would like to do a different kind game - at least a different kind of setting. Pirates are cool but still too close to the fantasy setting imho, which i have been working on for 10 years now.
+
+Gothicz.net: At that time you and the other guys were working on the story. Could you shortly describe the origin of the story? What of its part comes from your head?
+
+Mike: I designed the whole story of Gothic 1. We were of course several dialogue writers but all of the guilds, background, setting and most of the main characters came from me. It took 3 years to get that all together and I have applied major changes to the main plot even 4 months before the goldmaster.
+
+Gothicz.net: Of course we cannot forget on the Nameless hero, whose face is actually yours. Please, tell us something about the background of the selection hero's face. Why you?
+
+Mike: I chose the Hero texture out of about 100 face textures that we had. I tried to pick a face which imho suited the nameless hero's character. The face was there. I only picked it. I didn't inted it to look like mine, I guess I did it subconciously. :)
+
+Gothicz.net: The hero's look changed a bit in Gothic 3? I assume, you were not the model any more, right? :) Were you disappointed?
+
+Mike: Not at all. He looks more like Horst now (Who was responsible for the design in G3) - which is okay :)
+
+Gothicz.net: We already know from articles at WoG.de, that after Gothic 1 was released some part of your team was working on the addon for G1. Although you were not involved in that, do you possibly remember anything from development of this addon? For example the story? Then the addon was canceled. Are any of its features used in G2?
+
+Mike: No. We used only tiny bits. When the addon was cancelled, we couldN't use much - we had to start from scratch.
+
+Gothicz.net: Gothic 1 contains many mysteries and mysterious places and things. For example the light in swamp, orc "temple", houses at the bottom of the New camp's dam, and so on. Can you tell us anything about these mysteries in Gothic? Are they only some "random" ideas without any deep meaning, or there is a background story hidden behind each and every mystery?
+
+Mike: There is a lot to say to that, so let me pick one example. The new camp's dam was a Design decision i made out of several reasons.
+
+Every camp should have had their way of supporting themselves with food, the old camp would exchange ore with the outside world, the sect camp would trade their drugs for food with the other camps (those guys didin't eat much anyway, because they were high all the time) and the new camp would grow their own food. I tried to find different ways to do things for each camp.
+
+Then I thought about what food the new camp should grow, and I thought that rice terraces would be the best approach beacause the plants were not so difficult to display like e.g. a wheat field would have been and you could have a massive dam for the water supply. I addition, the dam made the otherwise kind of small new camp look bigger.
+
+Gothicz.net: When Gothic 1 was released, was the game completely according to your vision, or you could use some additional time to finish what you wanted?
+
+Mike: It is never enough. Apart from that, I think Gothic 1 could have used more polishing in the camps dialogues during the last parts of the game. People were still talking the same crap as they were doing in the beginning of the game and the hero could pick choices like "Hi! I'm new here..." in the 6th chapter. That was crap.
+
+Oh, yes, and there were the 4 Frineds of the Hero, which were supposed to have a secret meeting later in the game which never occured becauce we had no more time. Other than that (an a coouple of bugs) I'm quite satisfied with our first work.
+
+Gothicz.net: What were your intensions with the bandit camp near the troll's canyon in G1?
+
+Mike: It should have increased the variety of opponents. You were always fighting against monsters, so I thouhgt it would be nice to fight against some bandits as well. Moreover, the whole new camp intenal comflct came too short imho and I thought there should be independent bandits who do not give a damn about what Lee says. Applying a quest to it would have been nice, though.
+
+Gothicz.net: Gothic 1 contains an arena, but there are no fights. You implemented arena fights into G3 and Risen, however what about arena, where hero can bet on two fighting men and earn some gold only by watching? Have you ever considered this option?
+
+Mike: Not really. It became clear to us that we could not implement all the features that we wanted to, so we dropped that thought quite early.
+
+Gothicz.net: How much cost the development of G1 and G2? Was your salary as developers different when you were working on first two parts and then on Gothic 3?
+
+Mike: No. We do not earn much. But we have a job that we are glad to do. That's a reward in itself.
+
+About the development cost. Gothic 1 cost several millions and brought back only a few of them. With Gothic 2 we got that money back and achieved our break-even. With the addon, we actually started to make a bit of money.
+
+Gothicz.net: In the german version of G1 there is this In Extremo show. Who came with this idea? Is there a possibility, that you use this feature in any your future game again? Because let's admit that it was a great idea.
+
+Mike: The idea was Tom Putzki's. He was responsible for our whole internal PR and marketing and he knew the guys from a concert he went to. The idea was indeed great. With modern technology, you regrettably would have to put a much bigger effort (more money (lots and lots of it) to it than "back in the day...")
+
+Gothicz.net: What RPG games were your inspiration during the development of Gothic? What RPGs had you played before Gothic?
+
+Mike: Ultima 6, 7 Dungeon Master and the like. Practically everything I could lay my hands on. I do it today, in spite of having a family. Sometines I go to "Do Not Disturb Mode" to enjoy games like Fallout 3.
+
+Gothicz.net: There is not many women in the Gothic series. Don't you feel, that you owe something to the fans concerning this fact?
+
+Mike: No. :) Please forgive me if I do not elaborate on that. It would be worth a thread an a philosophers' forum.
+
+Gothicz.net: As we know, the magic barrier in G1 was created by twelve magicians plus Xardas. In the Colony we can find precisely the same count of them, however the fire mage Milten came in to the Colony after the Barrier was created. So we are missing one fire mage. It seems to me quite impossible, that you would overlook this disharmony. So what happened to this unknown mage?
+
+Mike: The Magic barrier was created by 12 magicians, Xardas being one of them! When Xardas left the old camp, there were only 5 Mages left.. So they took Milten as an apprentice, when he was thrown into the prison after the barrier had been created. There is a dialogue in the game where one of the mages gets the numbers wrong. I think it was Saturas... I noticed that error, fixed it and some ex-team member of mine "fixed" it back because he didn't understand the background. There is no missing mage. The guy just messed it up :)
+
+Gothicz.net: Have you ever thought about the past of the Nameless hero? I mean like what crime he commited etc. Or you just picked a random man without the past and put him into the Colony?
+
+Mike: Nobody is innocent.
+
+Gothicz.net: Could you please make clear the connection between the Undead dragon from G2 and the Nameless hero?
+
+Mike: The Nameless Hero is the Avatar of Adanos. The Undead Dragon is the Avatar of Beliar, carrying the "energy" of the sleeper.
+
+Gothicz.net: Why did you choose Raven as the main enemy of the Night of the Raven addon? Why not Gomez for example?
+
+Mike: We felt Gomez to be too prominent - most of the people would have killed him and remember that perticular moment - Raven might also have been killed, but he was not so prominent and therefore his death was not so prominent in the player's memory.
+
+Gothicz.net: You were planning Gothic as a trilogy, but despite of that Gothic 3 had an open ending. Why did you make this decision? Was JoWooD involved in it, because they might not wanted to end a series, which was actually on the top that time?
+
+Mike: Lack of time.
+
+Gothicz.net: What is your opinion on the mods developed for first two Gothics? I mean it is mainly thanks to these people behind mods (and your tools of course), that especially Gothic 2 is still widely played. And I think it is really incredible after all these years. It is obvious, that Risen can never achieve anything like that. I know, it is more likely a question for the publisher, however, why you won't release tools for modding when you have such a great example how a game with mods is still widely played even after a decade right in front of your eyes? Is there a chance, that the support of modders as in Gothic 2 will ever come again?
+
+Mike: Problem is, that the publisher isn't willing to pay fo that - and we coldn't afford to, because we had to work on the first milestone of the NEW project and needed the money to pay our team. Personally, I think it's a great idea to have a modkit out, but it's so much more work to do it than "simply releasing the tools".
+
+Gothicz.net: What is your opinion on today's trend of developing role-playing games? RPGs are simplier than before and the grapics is mostly the most important game feature. And that's wrong, I think. Do you think it is today possible to release a successful old-school RPG at all?
+
+Mike: Play Fallout 3 - or New Vegas - or both. Then you have your answer.
+
+Gothicz.net: Mike, last question. If you had a chance to win the rights for Gothic back, would you consider it? Is there a possibility, that you ever develop another Gothic?
+
+Mike: We get the rights to Gothic back when we have finished Risen 2. Why? Because we did only sell them to our ex-publisher for a certain amount of time ;)
+
+Wise move.
+
+Thanks for the questions, see you on the net.
+Mike

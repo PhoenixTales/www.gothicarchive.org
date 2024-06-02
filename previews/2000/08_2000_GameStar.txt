@@ -1,0 +1,26 @@
+GameStar 08/2000
+05.07.2000
+
+
+Flucht aus der Zone
+
+Gothic
+
+Im Herbst entrinnen Sie einem magischen Gefängnis und erleben dabei eine wunderschöne Fantasy-Welt.
+Stellen Sie sich vor, Sie müssten in einem Areal leben, das gerade mal zwei Kilometer iom Durchmesser misst. Durch eine magische Barriere von der Außenwelt isoliert, tobt dort ein Kampf auf Leben und Tod - in Gothic, dem Rollenspiel "Made in Germany".
+
+
+Gefahr im Wald
+
+Auf den ersten Blick wirkt die Landschaft wie eine einzige Idylle. Grüne Hügel, liebliche Täler - in der Natur rauscht ein Bach. Die Grafik von Gothic ist wirklich ein augenschmaus. Doch kaum haben Sie einen der dichten Wälder betreten, stoßen Sie auch schon auf einen dicken Troll. Der stürzt sich mit Gebrüll auf Ihr detailliert gestaltetes Polygon-Ego. Jetzt sind schnelle Reaktionen gefragt., wenn Sie dem Monstrum ausweichen und versuchen, es mit dem Zweihänder zu erledigen.
+
+
+Freund und Feind
+
+Etwas ganz besonderes haben sich die Gothic-Macher mit dem Freund-Feind-System vorgenommen. Die Welt wird von mehreren Clans und Gilden beherrscht, die sich untereinander spinnefeind sind. Deshalb sollten Sie darauf achten, mit wem Sie sich anlegen. Denn wenn ein Charakter Sie beobachtet, wie Sie einen seiner Freunde töten, wird er das weitererzählen. Dadurch verhält sich eine andere Spielfigut feindlich, die Ihnen nie zuvor begegnet ist. Das System soll sogar soweit gehen, dass die Gefolgsleute eines Clanlords Sie allein schon deshalb attackieren, weil Sie die rüstung Ihres Anführers tragen.
+Sie steuern Ihren Helden immer aus der klassischen "Von-hinten"-Sicht. Dadurch werden Sie jederzeit sehen, welche Rüstung und welche Waffe ihr Charakter trägt. Magiebegabte Helden sollen sogar Gegner übernehmen und eine Zeitlang in deren Haut schlüpfen können. Damit dem Spieler kein wichtiges Detail der gothic-Welt entgeht, wird der Spielverlauf häufig von kleinen Zwischensequenzen unterbrochen. Mit den Mitteln der Grafikengine werden Ihnen durch vordefinierte Kamerafahrten bestimmte Örtlichkeiten gezeigt - etwa der Eingang eines Dungeons.
+Momentan optimieren die Programmierer noch die 3D-Engine. Denn bislang werden rund 256 MByte RAM für eine flüssige Darstellung benötigt. Ziel ist es, dass Gothic bis zum Release auf einem Pentium II/400 mit 128 MByte RAM gut läuft.
+
+Fazit Mick Schnelle
+
+"Die schöne Grafik von Gothic lädt geradezu zum Losspielen ein. Allerdings war von der Story und den Quests bislang nur wenig zu sehen. Wenn das 'Ich erzähle alles meinem Freund'-System wirklich funktioniert, könnte Gothic dem Genre neue Impulse geben."

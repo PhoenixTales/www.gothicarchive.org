@@ -1,0 +1,9 @@
+{%
+assign urlLength = content | size | minus: 8 %}{%
+assign url = content | slice: 3, urlLength
+
+%}<!DOCTYPE html>
+<link rel="canonical" href="{{ page.url }}" />
+<meta http-equiv="refresh" content="0; url={{ url }}" />
+<script>window.location="{{ url }}"; document.body.remove()</script>
+<a href="{{ url }}">{{ url }}</a>

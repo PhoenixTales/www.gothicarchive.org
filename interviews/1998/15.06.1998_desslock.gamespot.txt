@@ -1,0 +1,279 @@
+desslock.gamespot.com 06/1998
+
+15.06.1998
+
+Src: https://web.archive.org/web/20020205084123/http://desslock.gamespot.com/features/gothic/interview.html
+
+
+Interview with...
+=================
+
+Piranha Bytes
+Stefan Nyul (Project Leader)
+Michael Hoge (Art Director)
+Alex Brüggemann (Animations)
+Tom Putzki (Level Design)
+
+conducted by
+Ken Liang ("Delekhan")
+
+
+The Gothic Development Team...
+==============================
+
+Delekhan: Can you tell us the origin of Piranha Bytes? Who are the key individuals involved in the creation of GOTHIC? Have we encountered your work elsewhere?
+
+Stefan Nyul: We are a team of 10 out of the middle of good old Germany. At Piranha Bytes there is just one key individual and that's the team. Everybody's work for GOTHIC is vital and so it would be unfair to elevate someone above the others.
+
+Alex Brüggemann: Elsewhere? If you don't live in Germany, probably not. I've worked for Greenwood Entertainment a lot, and their Games were published mainly in Germany (some of them also in a few other european countries).
+
+[IMG]
+
+Tom Putzki: We worked on football simulations (ran trainer and ran soccer), economic simulations (MAG and Mad TV 2), action car shooter (D.O.G) and a strategical Battletech simulation (Metalizer).
+
+Michael Hoge: Forget about all the stuff we did before. I see myself as some kind of "experienced newcomer". I worked for Greenwood Entertainment as well, but there, I had to carry out other people's instructions and ideas if I were confident with them or not. Mostly, I wasn't. That's why I got started with Piranha Bytes.
+
+Delekhan: What experiences have been important influences for you in terms of games, programming, writing, art, music, etc.?
+
+Tom Putzki: I'm an absolute fantasy freak. Tolkien's Lord of the Rings and Eddings' Malloreon-, Belgariad- and Elenium-legends are my favorites.
+
+Stefan Nyul: I like Tolkien too, but to forget the world around me, I need the fantastic Moorcock novels of The Eternal Champion. Concerning computer games: The older Ultimas from Origin are my favorites.
+
+Michael Hoge: Spending night by night in front of my small monitor when I was young might have had some influence...
+
+
+The World of Gothic...
+======================
+
+Delekhan: Why did you decide to make a role-playing game?
+
+Tom Putzki: All of us are enthusiastic role-playing gamers... Pen and Paper, on Computer and LARP's. So, what was the best choice for our first game as PIRANHA BYTES?
+
+Michael Hoge: I always wanted to play "Ultima Underworld" via network. Nobody did me the favor to produce it, so we´ve got to do it on our own. Actually, our game won't be too similar to "Underworld", but after all, it will be a 3D-RPG with action elements, so it would at best be compared to it than to any other game.
+
+[IMG]
+
+Delekhan: I'm not familiar with the term "LARP"...
+
+Tom Putzki: LARP stands for Live Adventure/Action Role Playing - that means you spend whole weekends somewhere in the forest or on a castle, dressed like a medieval knight, mage or whatever you want to look like and kill orcs and other evil beasts - like in every good Pen&Paper-RPG but LIVE. No dice - your character is able to do what you are able to do - if your character wants to sneak - you by yourself have to be very quiet, if your character wants to climb on a tree - o.k., go for it; if your character wants to survive a fight against 5 well-armed mercenaries - you have to be very talented in real sword-fighting. That's LARP!
+
+Stefan Nyul: Indeed, Piranha Bytes is collecting money for some real plate mail for Tom. This is an emergency program to keep our valued team member alive throughout the whole project.
+
+Tom Putzki: Really.....???
+
+Delekhan: That sounds insane...and like a lot of fun... sort of like Paintball for the RPG crowd...
+
+Tom Putzki: Yeah, absolutely right. Sometimes even Paintball-guns are used to simulate magic effects...it's lot of fun!
+
+Delekhan: Why did you choose the medieval swords and sorcery genre?
+
+Stefan Nyul: Few genres allow to build up such a dense atmosphere. I think dynamic and mighty swordfighting is much more of experiencing than turning to the enemy and hitting the trigger of his blaster. In addition to that, the fantasy genre allows a wide variation for the player character. The mighty close combat-swordfighter, the clever and elusive archer, the vile cutthroat, the sinister fireball caster or the mystic controller of minds. Very different ways of mastering all the dangers.
+
+Michael Hoge: When we started with GOTHIC, everyone used 3D engines to develop a 1st person shooter in a reality or sci-fi scenario and I was fed up with that. We liked the atmosphere of 3D games but wanted to bring a new aspect to it. Seems some other guys had the same idea. Fortunately, no one came too close to our vision of a 3D-RPG by now...
+
+[IMG]
+
+Delekhan: As this is a swords and sorcery type of game, what kinds of weapons, armour, magic spells, and artifacts can we expect? Can you give us an idea of the game's creatures, monsters, and NPCs (non-player characters)? What sort of monster AI (artificial intelligence) will gamers encounter?
+
+Stefan Nyul: Cool ones. No really, there will be a wide range of melee weapons like the mighty two-handed sword, the double-bladed great axe (they all love it most) but also smaller ones like the classic broadsword, the clumsy club or the swift dagger. Of course bows and crossbows can be used too. But what you will really love is, that all weapons are displayed with their individual graphic regardless of what you do with it. Take the great axe from the floor, put it into your inventory, ready the weapon so that it can be seen on your back, draw the "monster" an hit them all. In every situation you will see YOUR axe and no dummy graphics.
+
+Michael Hoge: Don't forget the magic spells! We have got two completely different kinds of spells: The Magic and the Psionic Powers.
+
+Stefan Nyul: Monsters will be the central element of GOTHIC. You watch them doing games or talk with each other, you try to sneak by, you battle them, you will use them against each others (very popular among the team). Unfortunately for the player some monsters cooperate with each other or lure the unsuspecting player into ambushes. There have also been heard rumors that orcs pull levers while the clueless player is standing on top of a trap door just to laugh at him while he falls into the pit. They will be REALLY nasty.
+
+Michael Hoge: The monsters and NPCs build the foundation of the puzzles. In GOTHIC, the main question is not: "Where can I find the bloody key to this door?" but: "How can I slay the bloody beast in front of it?" or: "The bloody beast is 5 foot taller than me, where can I get someone to help me kill it".
+
+Delekhan: Can you elaborate on the Magic and Psionic Powers?
+
+Michael Hoge: As a Magician you will be able to cast a range of combat spells like the traditional Fireball as well as turn people into stone or turn yourself into an animal. As a Psionic you will mainly gain control of other beings to use their abilities, but you'll also be able to attack mentally or manipulate other people's minds. The Magic/Psionic Powers are a very important story thread: Some people seem to gain psionic powers, and not even the mages can explain that... Of course, there is an explanation for it, which I'm afraid you'll have to find out by yourself...
+
+[IMG]
+
+Delekhan: "GOTHIC" is an interesting choice for the name of your game. Is it just a working-title or the actual title? Are you aware that there's a 3D RPG currently in development by Tinman Studios with the name "Gothica"?
+
+Tom Putzki: Yeah, it's great, isn't it. GOTHIC is the actual title of our game. I like that kind of music and people, the black scene. It's dark, gloomy, mysterious, creepy and magic - that's GOTHIC. BTW, yeah, we recognized Gothica from Tinman a few weeks ago, looks like very cool stuff. Hope they like our GOTHIC too.
+
+
+The Storyline...
+================
+
+Delekhan: Can you give us an idea of the storyline for GOTHIC?
+
+Michael Hoge: Well... You are thrown into the royal prison mine colony, which is surrounded by a magic barrier to prevent every sane being from escape. There are no guards needed - the prisoners run the mines by themselves. The precious ore that they get out of the mines is traded to the outside world in exchange for food, medicine, drugs and even some small luxuries. The mightiest fighters and mages among the prisoners have the privilege to distribute those goods among their comrades. Many of the prisoners earn their measly share by working in the mines, but there are also some of them who give a shit for the kingdom and its wares, they try to survive on their own. You'll have to find your way out of the prison, but your first goal will be to survive! The prison is full of jerks who will gladly cut your throat when they realize that your weapon is better than theirs. But if you know how to handle them, you won't have to kill them but could even join company with them to achieve your goal.
+
+[IMG]
+
+You will soon realize that something is wrong with the magic barrier. The mages in the prison will tell you, that, when the king's master mages built the barrier, something must have intervened with the fragile web of magic, for the properties of the barrier are unusually strong and any attempt to destroy it from the inside showed no success. Moreover, some people start to develop psionic abilities. They form the "Followers of the Sleeper" and believe in an entity which soon will awaken and save them all...
+
+There are 12 different groups to join and each of them has got its own goals and point of view. It would be too much to explain the whole storyline now, but when you're interested in more, I would like to invite you to our home page: www.piranha-bytes.com.
+
+Delekhan: Will we be able to proceed through GOTHIC in a non-linear fashion? Is there more than one possible ending?
+
+Michael Hoge: There are certain "milestones" in the story that you have to pass. But how you achieve these main goals depends on which character class you are and in which way you act. The ending is just one of these "story milestones". Although the end goal of the game will be similar for every character class, you'll have to find different ways to get there and will have different results of your final effort, but the deed has to be done, for it's written in the old scrolls that it will happen. No, really, the story of GOTHIC will deal with the question if fate is avertable or not...
+
+Delekhan: Are you planning on implementing various quests and sub-quests? Will there be multiple solutions to any given problem or puzzle?
+
+Alex Brüggemann: Yes, GOTHIC will be filled with Quests. Depending on the character you play many puzzles can be solved differently.
+
+Tom Putzki: If you're clever enough to find some dude making the wetwork for you, several quests should be no problem, until he feels exploited!
+
+
+The Player Character...
+=======================
+
+Delekhan: Will this be a single-character game or will the player control a party of characters?
+
+Alex Brüggemann: You control only one character, but NPCs may join for particular Quests. They can be helpful in solving Quests that are especially designed for multiplayer, but you can't trust them blindly. They are individuals that follow their own rules. If you do something very stupid, like attacking some Orcs with bare Hands, don't expect your companion to help you. He may decide that it's a better idea to run the other way.
+
+Tom Putzki: Of course it will be a better decision...
+
+[IMG]
+
+Delekhan: Are characters pre-generated or will the player be able to custom-design them?
+
+Alex Brüggemann: Both are true. The game starts without designing a character first. The custom-design of the main character takes place while playing GOTHIC. In the beginning your character is totally average in every aspect. Depending on the quests you solve you gain experience and the ability to upgrade special skills. So if you wanna be a fighter, do some jobs for them and they'll help you to improve your fighting-skills. You can also learn things from other gangs like the Magicians, the Psionics or maybe the Thieves, if you find them. But sooner or later you have to decide which gang to join.
+
+Delekhan: How is character development and advancement handled? What skills will player-characters possess?
+
+Stefan Nyul: There will be no abstract attributes or skills. Learn the "sword-skill" and your character will hit cooler and faster, improve the sword-skill and you will make even faster double-attacks. Learn "hide in shadows" and you disappear in darker corners, learn to "sneak" and the walk-animations are replaced by sneaking ones, learn "acrobatics" and your character never again falls from knockback after being hit hard.
+
+Michael Hoge: Everything you wear or use will be displayed on your character. Skill improvements are displayed by new animations. It will not be sufficient to collect a mighty two-handed-sword. If you don't have learned the appropriate skill or, worse, aren't even strong enough to wield the weapon, your blows will not only be slower and not so powerful, but you will see how your Character has got problems even raising the mighty weapon! So you've got attributes like strength and dexterity as well as many skills and spells, and every single one of them will have a different animations or additional effects when you learn or improve them.
+
+
+The Game Engine & Graphics...
+=============================
+
+Delekhan: Could you describe the technology behind your 3D engine? Is it proprietary or licensed from a third-party? What are the special features of this engine?
+
+[IMG]
+
+Alex Brüggemann: The game-engine is completely developed by our programmers. It features dynamic, colored and animated lighting, a skeletal animation system and all the other stuff that makes a cool engine.
+
+Stefan Nyul: ...Which is: A super-flexible scripting language for monster behavior, riddles, events and quests as well as a very smart 3rd person camera system.
+
+Delekhan: What are the system requirements for GOTHIC? Will 3D video accelerator cards be required or just recommended? Will there be support for card-specific APIs (Glide, Rendition, PowerVR) or general APIs like Direct3D and OpenGL?
+
+Alex Brüggemann: Video accelerator cards will be highly recommended. At the moment we have direct support for 3Dfx (Glide-API) and we plan to support Direct3D.
+
+Delekhan: I'm assuming you will also include a software-renderer mode for those who are 3D-hardware-challenged. What's the minimum processor required with and without video hardware acceleration?
+
+Stefan Nyul: You really should be equipped with 3D-hardware-acceleration to play GOTHIC. Whether this is from 3Dfx or from another chip manufacturer. There will be a broad base of installed 3D-cards by the beginning of the next year, so nobody will want to play GOTHIC with a software renderer by then. The final need for processor speed is very difficult to estimate. Of course we will work hard to support slower machines (better to say what will be 'slower' at the beginning of 1999). This is even more important if you consider, that GOTHIC will be a game for everyone. But right now it's definitely too early to speak of hardware requirements.
+
+Delekhan: Are characters and objects polygon-based or sprite-based?
+
+Alex Brüggemann: All our characters are polygon-based. They are animated with a skeletal system and we use motion-capture and traditional keyframing for the character-animations.
+
+Tom Putzki: All your weapons, the complete armory, inventory items, carryable, moveable and throwable objects are modeled with Lightwave.
+
+[IMG]
+
+Delekhan: Skeletal system animation, motion-capture, traditional keyframing for character-animations -- could you expand on that a little?
+
+Alex Brüggemann: I'm sure that everybody knows what motion-capture is, but here's a short definition, just to be sure that we're talking about the same thing:
+
+1. An actor is attached to lots of wires and some ultra-expensive devices.
+2. He does a lot of hopefully cooool moves that are recorded on (to?) a HardDisk.
+3. The recorded motions are used to animate the characters for the game. Obviously this method is only recommended when you intend to use natural-looking motions and have some professional actors to perform them. Keyframing an animation means that the characters motion is completely done by hand. We use this technique for animations that need to have an exact length or other requirements that are difficult to achieve when using mocaps. Beyond that, keyframing is used to animate most of the monsters. We tried to attach the mocap-devices to crocodiles and such but the results were disappointing. Well-trained, professional performing creatures are too hard to find.
+
+
+The Interface & Gameplay...
+===========================
+
+Delekhan: Is this game played from a 1st person or 3rd person perspective? Is there multiplayer support or is this a single-player only game?
+
+Tom Putzki: Due to our optical feedback for the Player in all parts of the game 3rd person perspective is the best way to play GOTHIC.
+
+Michael Hoge: As mentioned above, we want to make a network game. In GOTHIC people can play both against and with each other. Playing together will pay, for there will be some extra puzzles that require at least 2 players.
+
+Delekhan: How are player-characters controlled? What input devices are supported? Is gameplay real-time or turn-based?
+
+[IMG]
+
+Tom Putzki: We're working at PC Dash, Gamepad and Forcefeedback Joystick support.
+
+Michael Hoge: An easy interface is one of the most important assumptions for good gameplay. You will only need 8 keys to control most of the game. (Ctrl, Alt, Shift, Spacebar and the arrow keys)
+
+Tom Putzki: GOTHIC is a 3D-realtime-action- fantasy-RPG - nice title, isn't it?
+
+Delekhan: You refer to "easy interface" and "easy to use controls", yet melee-type combat is somewhat more complex than the more commonly-used range-combat. How will you address this problem?
+
+Alex Brüggemann: That's right. At the moment we're knee-deep in implementing and fine-tuning the melee-combat. Michael created a combat-system that's very different from the things you have seen in other games. I'd like to tell you some details but we want to be absolutely sure that it's fun to play before we talk about it in detail.
+
+Tom Putzki: Let me tell you just this: testing the melee-combat-system with Michael really is dangerous for your health...
+
+Delekhan: Why did you decide to include Forcefeedback joystick support?
+
+Alex Brüggemann: Forcefeedback is supported by a vast range of flight-sim and racing-games. We wondered if this technique wouldn't be as much fun in our game. We'll test this and if it's cool it will be in.
+
+Tom Putzki: Imagine your character is forced to fight with his broadsword. Wouldn't it be cool if you could feel every knockback of your weapon in your hand in different strength whether you miss your opponent and hit the stone wall next to him, hit his parrying shield or his weak body when you hit him directly...great!
+
+Stefan Nyul: Argghh...my muscles are aching just when you mention this. In any way, if supported, you will be able to switch it off.
+
+Delekhan: How will dialogue be handled in the game?
+
+[IMG]
+
+Alex Brüggemann: We plan to use digitized speech for all the NPC-dialogues. The Hero, of course doesn't have to talk very much.
+
+Michael Hoge: I think nowadays there aren't many people who like reading long texts too much. In addition, you simply can bring more atmosphere to the game by using real speech.
+
+Delekhan: How will health regeneration work? Will there be a need for sleeping or feeding?
+
+Alex Brüggemann: No need for sleeping in our game. Although this may not be realistic, it's much more fun. Only the NPCs have to sleep sometimes and this is your chance to do all the things you can't do while they're awake. Eating gives you a health bonus, but you don't have to eat to stay healthy.
+
+Tom Putzki: This is a fantasy game in a fantasy world - who wants to be realistic?
+
+Delekhan: Can you comment on the automapping, note-taking, and savegame features?
+
+Alex Brüggemann: It's planned that you can make savegames at any time.
+
+Michael Hoge: We plan to generate levels that don't need automaps. Tomb Raider, for example, has got no automap, and nobody cares, because the levels are varied enough in color and shape.
+
+Delekhan: For the average player, how many hours do you estimate it will take to complete GOTHIC?
+
+Michael Hoge: It should take the average player over 100 hours to end the game. If he liked it, he can restart with another character, so that he can explore the abilities and puzzles of another character class.
+
+
+The Cinematics & Music...
+=========================
+
+Delekhan: Will you be using non-interactive "movies" anywhere in the game?
+
+Tom Putzki: Absolutely no renderings. If you want to watch a movie, go to the cinema!
+
+Michael Hoge: Yes, that's damn right. Every cutscene (made with the game-engine) in GOTHIC will be integrated in the game so that you can interact with the characters at any time
+
+Delekhan: Have you decided on the music format (MIDI or redbook audio) and the style or type of music you'll use in the game?
+
+Michael Hoge: No, not yet. We plan to integrate a dynamic music system, which changes the themes depending on location and situation.
+
+
+And last but not least...
+=========================
+
+[IMG]
+
+Delekhan: How far along are you in the development of GOTHIC? What's the planned released date?
+
+Michael Hoge: We are now reaching the end of the design phase, that means we are tuning the camera, combat timing, synchronization of animations and static world and such things. When the design phase is ended, we will start to create the game data of which now only prototypes and design reference graphics are completed.
+
+Tom Putzki: The release of GOTHIC will be in the first quarter of 1999.
+
+Delekhan: Will there be any add-on modules? Do you plan to release a scenario or level editor?
+
+Michael Hoge: There might be any add-on levels, but that decision can only be made in the future. Right now, we concentrate fully on finishing the game itself.
+
+Delekhan: In recent years, many have sounded the death-knell for computer role-playing games. Lack of quality led to fewer sales in a genre already perceived as targeted at only a small group of hardcore gamers. However, a quick glance at our upcoming RPGs release list seems to indicate an amazing resurgence in developer interest in this genre. What do you make of this whole situation? And with so many RPGs coming out in the next 18 months, what do you think will make your project, GOTHIC, stand out in the hearts and minds of RPG fans?
+
+Stefan Nyul: They will love it, because they don't have to learn the game. They just have to play it. No roleplaying game has ever had such easy to use controls while still having very deep gameplay. You start the game with very easy quests that every player can accomplish though having a hard job to finish the game. One of our philosophies is called the "Magic Quarter". The first fifteen minutes are the most important minutes of the game. They have to grip, no they have to devour the player totally. Only then he will give the rest of the game a chance to draw him into another world.
+
+Michael Hoge: Yes, some guys seem to work on swordfighting games and the like. Honestly, I believe that we can be in the top three titles from all of those. Why? We think we can differ a good idea from a bad one.
+
+[IMG] Piranha Bytes team
+
+Delekhan: Thanks for taking the time to answer these questions.
+
+Mike: Thanks for asking.
+Tom: No problem.
+Alex: Let's go to work again!
+Stefan: Cya on the screen.

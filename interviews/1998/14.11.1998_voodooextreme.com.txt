@@ -1,0 +1,125 @@
+voodooextreme.com 11/1998
+
+14.11.1998
+
+
+Gothic: The Interview
+=====================
+By MadBard
+
+
+With: Tom Putzki, Stephan Nyul, Micheal Hoge, and Alex Bruggemann
+
+In the dark corners of your mind lurks terrors and adventures you never knew existed. Deep down in those recesses is where the guys from Piranha-Bytes are looking to dig in. They want to bring out that excitement and place you in their world filled with Fighters, Magic users, and everything else in the book of Fantasy. Except this time with a twist....you are stuck in Jail with all of them and no way out. Welcome to your new Hell... Welcome to Gothic.
+
+- Stefan Nyul, Project Leader
+- Alex Brüggemann, Animations
+- Michael Hoge, GameDesign/2D-Artist
+- Tom Putzki, 3D-Artist/Marketing
+
+
+MadBard: Tell us a little about Piranha Bytes the company? And what are your is your background in computer gaming and RPGs?
+
+Stefan: Hi there! We always wanted to do great computer games but great games have to be international games and most of our team members previously worked for a German developer on titles for the German market. To achieve our goal, we had to found a new label and so PIRANHA BYTES was born.
+So there we are, working on a really great title, having much fun with that and somtimes forgetting, we are living creatures that also need some sleep :-)
+
+Tom: And food, and spare time and so on...it's time to put the armor on, take my 2handed sword with jagged blade and go to the woods looking for some trouble...time for the next LARP ;-)
+
+MadBard: The story around Gothic is an original that is centered around being jailed in a huge prison that is magically cut off from the outside world. What gave you the idea for such an interesting concept?
+
+Michael: First, we wanted to create a Fantasy-scenario that was dark and hostile (and no colorful fairy-tale-adventure). A Prison full of cutthroats seemed rather appropriate. Secondly, we needed to limit the size of the world, therefore we planned to place the prison on an island, but then we decided in favor of the magic barrier, because it emphasizes the feeling of being imprisoned. Our goal to create a real, living world would have never been achieved if we would have had to display too many characters - in GOTHIC, therefore there are "only" over 200 NPCs, each of them with his/her own character, behaviour, name, skills, friends, background story and more. So, come to think of it, 200 NPCs aren't THAT inconsiderable.
+
+MadBard: The idea of actually seeing the improvements of a character's skills such as sword fighting played rather then just having a slight number increase is something that will appeal to many gamers. Could you tell us a little about that?
+
+Alex: I think it adds a lot to a games atmosphere to visualize as many aspects as possible. If you improve your skills in sword fighting you will actually see the difference while fighting. You don't have to switch to a character-screen showing you some increasing numbers. All that stuff that you know from the more "classic" RPGs.
+
+MadBard: What kind of social structure will there be in Gothic? Will there relationships between characters? And how do your actions affect the world around you?
+
+Michael: In fact, social structure is the most important innovation compared to former RPGs. If you, for example, attack someone, and there is another person witnessing the fight, it depends on this person's attitude towards you, towards your opponent and how he judges his odds in battle. If you steal something not only the owner will notice that but also his friends will. There is a lot to say about NPC reactions, but I'm afraid for details you'll have to wait for the first demo.
+
+MadBard: How is the artificial intelligence in Gothic? Do the monster do more then just attack and flee?
+
+Tom: Yeah, they really do. They have also relations between each other, some even interact with other races like the good old Troll throwing little Gobbos over a canyon towards the Player; they hunt each other, they even play with each other...they live their own lives with their own problems and the Player is just another creature disturbing their circles...
+
+MadBard: The screen shots that you have released are very impressive. Tell us about the 3D engine your using to make Gothic.
+And what type of 3D hardware will Gothic support?
+
+Tom: The engine is developed by our programmers and will be on top of the genre..but please remember: we're not going to make a 3D shooter. We're using Glide for supporting Voodoo cards, all other 3D accelerators will be supported by using Direct 3D.
+
+MadBard: What type of sounds can gamers expect in Gothic? Also how do you view 3D sound along gaming lines?
+
+Michael: 3D sound offers you the possibility to recognize at once from which side an unseen attacker is approaching. Whoever played Quake-style-deathmatch will find this vital. Moreover, it is a great step towards drawing the player into the game, therefore we're working at 3D sound for GOTHIC.
+
+MadBard: One aspect of gaming that is always on the minds of our readers is multiplayer? How does multiplayer work in Gothic, and over what platforms can Gothic be played in multiplayer mode?
+
+Stefan: We figured out a very smart design for the multiplayer mode. This will be something absolutely unique, never done before. But let us finish the implementation before talking of details.
+
+Tom: What can be said right now is the fact that GOTHIC can be played in a local network with up to five players. And about this unique feature I want to say...
+
+Stefan: TOM !
+
+Tom: But Stefan, I just wanted to...
+
+Stefan: TOOOOM !!!
+
+Tom: Sorry about that, guys. Maybe next time ;-)
+
+MadBard: It has been rumored that there will be no character statistic screens in Gothic. First, is this true? And second what made you decide to approach an RPG title in this way?
+
+Michael: In GOTHIC we have strength, dexterity, mana, psi-power and of course hitpoints. These can of course be reviewed in some kind of "character screen", but it won't hardly be necessary, because everytime one of these attributes becomes relevant it will be displayed on the screen. In addition, we have many skills to learn, each of them visualized with a new animation. So the basic concepts of RPG remain unchanged while they were converted in something we consider more popular and more pleasing. Still, no one should be worried about losing game depth. There will be a multitude of quests and riddles and those 200 guys talking to you...
+
+MadBard: What type of combat system is there in Gothic? Will the action take place in real time or is it turn based?
+
+Michael: Its real-time, but with one important difference: The combat system primary bases on the characters skills, not the players capabilities.
+That means if your character has the defensive power to block a monster, he WILL block it, no matter how clumsy you are. We still prefer the real-time combat, because you simply have quick fun and can engage opponents or quit a fight whenever you want.
+
+MadBard: How does magic work in Gothic? Will there be lots of spells or will Gothic be more of a fighters game?
+
+Tom: We have two different kinds of magic: The 'common' magic system with fireballs and lightnings and stuff like that for the players who wants to be a classical mage, and the psionic magic system with more mental spells like the human control spell, with which the psi mage can control other human and human like characters. But our mages know also to handle a sword, and our warrior is able to use a simple healing spell as well.
+
+MadBard: How does character generation work? Is it the traditional "pick a class and hope it works out" or do you have something different in mind?
+
+Michael: Indeed. The first hours of playing will be your character generation. You will be able to learn the possibilities of GOTHIC before you decide wihich class to pick or which skills to learn. Everyone starts the game with the same attributes, only during the course of the game you will change your outfit, equipment, skills and you may even find your way of talking a bit influenced by the ones you spend most of the time with.
+
+MadBard: Will there money in Gothic? If so will there be places to purchase items?
+
+Michael: No. In the prison, the only items worth something are the ore (this would be too much to explain now, if you are interested in story details please visit our homepage), weapons, food and stuff like that. You may exchange items with other prisoners or ask others to "acquire" certain things for you
+
+Tom: Of course other prisoners are highly interested in things you've got.
+
+MadBard: Do characters need to eat in Gothic?
+
+Michael: No. But you can eat to regain small amounts of Hitpoints.
+
+Tom: What's so much fun about eating an apple?
+
+MadBard: Will players be able to save the game anywhere in Gothic?
+
+Stefan: Yes, of course. In our opinion total freedom of movement also implies saving anywhere in the world. If you would have to run to some savepoint before finishing this would be no fun. And having fun is the "prime directive".
+
+MadBard: Give some examples of the types of skills a character can learn in Gothic?
+
+Tom: As an example: For the warrior's way fighting skills are most important. Wether you prefer 1handed or 2handed weapons, sword or axe, melee or distance combat, bow or crossbow...everything can be learned, and each skill can be upgraded, visualised by better, cooler and faster animations, more damage and faster attack.
+
+MadBard: What type of machine will I need to run Gothic?
+
+Stefan: We try to keep the minimum configuration as low as a Pentium I 200. Although you will need to have a 3D-Graphics-Accelarator. But we support Direct 3D so it's not important which type of card you actually have.
+
+MadBard: Is there a DVD version of Gothic planned?
+
+Alex: We don't rely on lots of pre-rendered, non-interactive, video-scenes. So it doesn't make too much sense to do a special DVD version.
+
+MadBard: I know it's still early in development but what percentage of Gothic is completed so far?
+
+Stefan: There is still lots of work to be done. We have implemented most of the features but not too much of game data. So this quesiton is very difficult to answer because there is always the question "percentage of what?" Overall, I would say we have completed 40% of the game.
+
+MadBard: Is there anything else you want our readers to know about Gothic?
+
+Stefan: Yes, of course. Visit our website to keep informed. We constantly update it and there are often some new diary entries. But don't take them too serious :-)
+If you have any suggestions, you can find an email address on our website too. Let us know, what you think about our game.
+
+Mike: I think it's most important that any of you reading this writes his honest opinion about what we plan to do. We don't want to create a game for our own amusement - we want to give the players around the world a game worth its while - and to finally go one step beyond dozens of boring shooters and command&conquer clones!
+
+Tom: That's it. Drop us a line, tell us your suggestions and have a good time!
+
+Thank you very much.

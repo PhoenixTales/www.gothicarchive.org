@@ -1,0 +1,83 @@
+wog.de 06/2000
+
+12.06.2000
+
+
+Unser erstes Interview mit den Gothic Entwicklern, die meisten Fragen sind allgemein gestellt. Informationen über das Gameplay und das Relasedatum von Gothic.
+
+
+World of Gothic: In welches Genre kann man Gothic einteilen?
+
+Piranha Bytes: 3D-"Action" Rollenspiel
+
+World of Gothic: Welche Charaktere wird es in Gothic geben?
+
+Piranha Bytes: Wenn du damit die Chars meinst aus denen der Spieler wählen kann sind das Krieger, Dieb, Magier, Psioniker..zumindest sind das die groben Oberbegriffe...im Spiel gliedert sich das noch viel feiner auf. Die Charklassen der ganzen Welt gehen vom Erzbaron bis hin zum Buddler.
+
+World of Gothic: Wird der Spieler die Möglichkeit haben eine Gruppe von NSC um sich zu versammeln und wenn ja wie wird dies ablaufen?
+
+Piranha Bytes (Horst Dworczak): Nein er kann kein Party bilden ...eine Gruppe von NSC"s kann er mit leichtigkeit um sich versammeln ..er muss sich nur ins Oldcamp stellen und wild mit dem Schwert rumfuchteln..dann dauert es sicher nich lange bis er von einer "Gruppe" umgeben ist....aber das war wohl nicht gemeint ;)
+
+World of Gothic: Werden die NSC auch untereinander kommunizieren?
+
+Piranha Bytes (Mike): Und wie :)
+Ich denke, das ist eine der größten Stärken von Gothic. Die Jungs merken sich genau, was du ihnen oder ihren Freunden angetan hast UND sie erzählen es weiter.
+Wenn du also nicht willst, daß der Typ, der gerade zufällig vorbei kam, als du im Wald einen seiner Kollegen kaltgemacht hast, ins Lager rennt und das petzt, gibts nur eins: keine Zeugen... Aber das soll euch jetzt nicht verleiten alle Leute abzuschlachten (wird auch praktisch nicht möglich sein, dafür sind die Jungs wohl zu gut...), denn es gibt andere Möglichkeiten, sich einen Namen zu machen oder Leuten Respekt beizubringen.
+Wenn man nicht gerade einen fetten Feuerball auf einen Gegner losläßt, macht man die Menschen meistens nur bewußtlos und kann sich entscheiden, ob man den Typen kaltmacht oder leben läßt. Erzfeinde nutzen das vielleicht später aus - normale Leute merken sich das und kuschen danach - es sei denn sie sind viel stärker... Es gibt ne ganze Menge von solchen Sachen in Gothic.
+
+World of Gothic: Ist das Spiel in Missionen unterteilt oder darf sich der Spieler frei in der Welt bewegen?
+
+Piranha Bytes (Mike): Du wirst fast überall hingehen können, wofür du stark genug bist. Natürlich ist so etwas wie das magische Portal zur Hölle nicht von Anfang an auf - da muß man dann schon mal die eine oder andere Mission lösen ;)
+
+World of Gothic: Gegen wieviele Gegner/Monster muß der Spieler antreten?
+
+Piranha Bytes (Mike): So etwa 25 verschiedene - und noch teilweise mehrere Unterarten. Es gibt von 1 Meter großen Goblins bis zu Trollen mit 3m Schulterhöhe so ungefähr alles, was man aus klassischen Rollenspielen kennt.
+Wir haben bewußt vermieden noch schiefere, kronkeligere, abartigere und unproportionalere Wesen zu designen, als unsere Vorgänger.
+Viele haben das vor uns versucht, aber ich denke die klassischen Monster haben immer noch am meisten Atmosphäre, weil fast jeder was damit verbindet. In der Natur bei Gothic gibts auch viele "Tiere", z.B. Wölfe aber auch Fantasy-Kreaturen
+
+World of Gothic: Mit welchen Waffen kann der Spieler diese besiegen?
+
+Piranha Bytes (Horst Dworczak): Es gibt eine Vielzahl von Waffen in Gothic:
+Schwerter (1Hand/2Hand) Äxte,Armbrust,Bögen aus diesem Sortiment kannst du dir was "aussuchen" und in den Kampf ziehen. Allerdings würde ich z.B. bei Skeletten nicht unbedingt den Bogen nehmen ;) ..ausser den Waffen gibts natürlich noch die Magie.
+It's your choice.
+
+World of Gothic: Wie werden Kämpfe ablaufen, im Rundenmodus wie bei DSA 3 oder in Echtzeit?
+Piranha Bytes (Mike): Echtzeit!
+Aber da Gothic ein Rollenspiel ist, gehen die Kämpfe etwas gediegener ab, als bei reinen Action-Titeln. Es kommt in erster Line auf Bewaffnung und Talente an. Du kannst die Steuerung noch so gut beherrschen - gegen einen Leibwächter der Erzbarone hast du am Anfang keine Chance.
+Umgekehrt ist das Spiel so gemacht, dass man auch als Action-Niete gewinnt, wenn man gegen Schwächere antritt. (Sonst müßte man sich schon ganz schön blöd anstellen)
+Interessant wird der Kampf bei ungefähr gleichstarken Gegnern. Da kommt dann etwas "Geschick" ins Spiel, aber weniger bei Drücken von Tasten als vielmehr beim Eischätzen der Situation.
+Es ist eben keine gute Idee, alleine gegen drei gemeine Jungs mit spitzen Waffen anzutreten...
+
+World of Gothic: Wie steuert der Spieler seinen Charakter im Kampf und im Spiel?
+
+Piranha Bytes (Mike): Mit den Cursortaste, Ctrl, Alt, Shift, wie man"s halt kennt. Das Spiel kommt ohne Maus aus. (so wie TombRaider) Mit der Maus kann man sich eventuell noch umsehen - mal sehen.
+Für die Positionierung der Figur gibt es zahlreiche Hilfsmechanismen, denn uns hat immer genervt, daß man sich mit seiner Figur GANZ genau hinstellen muß, bevor man etwas aufheben/benutzen kann.
+
+World of Gothic: In welcher Perspektive spielt man Gothic?
+
+Piranha Bytes (Horst Dworczak): In der 3rd person view.
+Diese Ansicht hat den Vorteil das wir dem Spieler viel optisches Feedback zu seinem Charakter geben können....es macht doch spass zu sehen wie die Kampfmoves besser werden....wie Imposant mann in der neuen Rüstung aussieht, wie toll sich das neue Schwert am Halfter macht.....u.s.w.
+
+World of Gothic: Wird es Erfahrungspunkte und Charakterwerte für jeden einzelnen Charakter geben?
+
+Piranha Bytes (Horst Dworczak): Ja. Die Werte werden bei Gothic aber eher im Hintergrund stehen. Man soll das Spiel auch spielen können, ohne auf seine Statistiken zu achten, da man ja anhand der Animationen und der eigenen Figur sieht, welche Talente man hat.
+Trotzdem bauen wir für die "Freaks" eine Extra Seite ein, die man auf Tastendruck aufrufen kann, und in der die "internen" Werte des Charakters präsentiert werden. (Es gibt natürlich Stärke, Geschicklichkeit, Mana, Lebensenergie eine Auflistung der Talente und Zauber, die aktuellen Missionen und so'n Zeug)
+
+World of Gothic: Warum meint ihr, dass Gothic besser wird, als andere Spiele aus dem Genre?
+
+Piranha Bytes (Horst Dworczak): Wir haben einen großen Teil der Arbeit in die KI gesteckt, so dass sie plausibel reagiert....dass sie sich merkt, was der Spieler gemacht hat..Dass die NSC's einen Tagesablauf haben und somit nicht 24 Stunden auf der Stelle stehen oder Tag und Nacht im Topf rumrühren...dass Monster gefährlich sind....nicht weil sie in rauhen Mengen kommen, sondern weil sie halt wissen wie man kämpft.
+Ein weiter Punkt war/ist das wir nicht wie in vielen anderen Rollenspielen die Grafik vernachlässigen, sondern auch hier einen gewissen Qualitätsstandard entsprechen wollen, der über den meisten anderen Spielen dieses Genres liegt.
+
+World of Gothic: Spielt ihr in eurer Freizeit Pen und Paper Rollenspiele?
+
+Piranha Bytes (Tom Putzki): ..aber hallo, nur bitte: Was ist Freizeit?
+
+World of Gothic: Wie hoch sind voraussichtlich die Systemanforderungen?
+
+Piranha Bytes: Einen PII-400 64Mb-Ram ne Riva-TnT oder vergleichbares....sollte man schon haben.
+
+World of Gothic: Wann erscheint Gothic oder eine Demo?
+
+Piranha Bytes (Tom Putzki): Erscheinungstermin: Anfang September, Demo ca. 1 Monat davor
+
+World of Gothic: Vielen dank für dieses Interview!

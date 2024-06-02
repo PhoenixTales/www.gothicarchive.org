@@ -1,0 +1,22 @@
+body {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+table {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+tr {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+br {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+p {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+form {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+input {font-size: 12px}
+select {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #FFFFFF}
+
+a:link { color:#FFFF00; }
+a:visited { color:#FFFF00; }
+a:active { color:#FF0000; }
+
+.standard {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF;  text-decoration : none;}
+.standardschwarz {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;  text-decoration : none;}
+.standardbold {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; font-weight: bold}
+.headline {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #FFFFFF; font-weight: bold}
+.headlinebig {  font-family: Arial, Helvetica, sans-serif; font-size: 25px; color: #FFFFFF; font-weight: bold}
+.bu {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF}
+#linkohne {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #FFFF00;  text-decoration : none;}
+#abc {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF;  text-decoration : none; }

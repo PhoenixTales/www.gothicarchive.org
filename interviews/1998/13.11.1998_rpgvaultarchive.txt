@@ -1,0 +1,21 @@
+rpgvaultarchive.ign.com 11/1998
+
+13.11.1998
+
+Week of November 8, 1998
+Friday, November 13
+
+
+Altered Worlds: Gothic Interview
+================================
+Altered Worlds sent along word that they have interviewed the members of the Piranha Bytes team developing the upcoming RPG, Gothic. The interview features Project Manager Stefan Nyul, 3D modeler/animator Alex Brüggemann, Art Director Michael Hoge, and 3D-level modeler Tom Putzki. Here are some interesting bits:
+
+Michael on concept design: First, we wanted to create a Fantasy-scenario that was dark and hostile (and no colorful fairy-tale-adventure). A Prison full of cutthroats seemed rather appropriate. Secondly, we needed to limit the size of the world, therefore we planned to place the prison on an island, but then we decided in favor of the magic barrier, because it emphasizes the feeling of being imprisoned. Our goal to create a real, living world would have never been achieved if we would have had to display too many characters - in GOTHIC, therefore there are "only" over 200 NPCs, each of them with his/her own character, behaviour, name, skills, friends, background story and more. So, come to think of it, 200 NPCs aren't THAT inconsiderable. :)
+
+Alex on visual cues for skill improvement: I think it adds a lot to a games atmosphere to visualize as many aspects as possible. If you improve your skills in sword fighting you will actually see the difference while fighting. You don't have to switch to a character-screen showing you some increasing numbers. All that stuff that you know from the more "classic" RPGs.
+
+Tom on monster AI: Yeah, they really do. They have also relations between each other, some even interact with other races like the good old Troll throwing little Gobbos over a canyon towards the Player; they hunt each other, they even play with each other...they live their own lives with their own problems and the Player is just another creature disturbing their circles...
+
+Stefan on multiplayer: We figured out a very smart design for the multiplayer mode. This will be something absolutely unique, never done before. But let us finish the implementation before talking of details.
+
+Point your browser here for the full interview. 

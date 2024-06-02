@@ -1,0 +1,33 @@
+Power Play 05/1999
+
+
+GOTHIC
+======
+
+Die Gefängniswärter von PIRANHA BYTES kommen allmählich voran - das Neueste aus der Strafkolonie im Bergwerk!
+
+[IMG]
+Eines der ersten Monster, das die Programmierer eingebaut haben. Noch kann es nicht viel mehr als schaurig aus der Wäsche schauen...
+
+Die GOTHIC-Truppe (wir berichteten in der PP 9/98) ist guter Dinge, denn erstens hat sie kürzlich mit Egmont Interactive einen potenten Distributor für ihr kommendes 3D-Action-Rollenspiel aufgetrieben, zweitens macht auch das Game selbst erfreuliche Fortschritte. Inzwischen sind die Programmierer längst aus der Phase heraus, in der sie nur mal einen ersten Probe-Level erstellt hatten (um etwas herzeigen zu können und grundlegende Funktionen auszuprobieren). Stattdessen gingen sie dazu über, das Hauptlager der Sträflinge einzubauen. Dieses Herzstück ist mittlerweile praktisch fertig, nur die Inneneinrichtung der Gebäude besteht noch aus simplen Platzhaltern. Ansonsten aber - von den Mithäftlingen bis zum Tag- und Nachtwechsel (samt Mond und anderen Gestirnen) ist schon alles da, was da sein soll.
+
+[IMG][IMG] 
+In solchen Räumen probieren die Piranhas, ob ihr Held mit Bodenunebenheiten, Treppen oder Erdspalten zurechtkommt
+
+Der nächste logische Schritt ist natürlich das Implementieren der Dungeons und Monster - damit ist PIRANHA BYTES gerade intensiv beschäftigt. Einige Viecher konnten wir anläßlich des Besuches bereits in Aktion bewundern; besonders heftige Gänsehaut erzeugte eine widerliche Riesenspinne, die wohl nicht ganz zufällig an die Scheusale aus 'Starship Troopers' erinnerte. Aber auch anderes Gekreuch tat schon seine Schuldigkeit, wie z. Bsp. ein Troll, der den Spieler aus der Ferne mit kleinen Goblins bombardiert - damit die ihn hinterrücks attackieren können. Nach etlichen und dauerhaften Belästigungen zeigten uns die Programmierer schließlich sogar ihre virtuellen 'Testräume' - dabei handelt es sich um Höhlen und Gänge, die besonders schwierig zu bewältigen sind. Dort werden dann die Bewegungsroutinen auf Herz und Nieren geprüft: Kommt der Held mit unebenem Boden zurecht? Wie weit kann er springen? Wo und wann klemmt er sich in den engen Räumen fest? Besonders beeindruckend fanden wir jedenfalls schon jetzt die Animationen und die enorme Liebe zum Detail!
+
+Wo sonst begegnet man einer Torwache, die nebenher mal eben in die Ecke pinkeln geht? Oder wo sonst zeigt der Mond sein richtiges 'Mondgesicht'? Vom ausgefeilten und veränderlichen Outfit der Spielfigur ganz zu schweigen... jn
+
+[IMG]
+Der Bereich des Lagers ist schon ziemlich komplett - mitsamt Wachen, die auch nachts nicht schlafen
+
+
+Gothic - der Background
+=======================
+Das Königreich der Menschen ist in diesem Spiel unter Beschuß geraten: Von Norden her drängen Orks und Konsorten ins Land. Der König benötigt also nichts so dringend wie Erz, mit dem er die Waffenschmieden versorgen kann - alle Gesetzesbrecher werden daher automatisch in ein magisch gesichertes Bergwerk geworfen, in dem die Gefangenen sich weitgehend selbst überlassen sind. Hier gilt letzten Endes nur eine Regel: Lebensmittel von außen gibt es ausschlich gegen entsprechende Förderquoten! Eine haarige Situation für den Spieler, der nichtsahnend und unvorbereitet als Häftling eingeliefert wird...
+
+
+Gothic
+Genre: Action-Rollenspiel
+Hersteller: Piranha Bytes / Egmont
+Erscheinen geplant: Ende '99

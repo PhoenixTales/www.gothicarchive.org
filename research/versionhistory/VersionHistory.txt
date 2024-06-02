@@ -1,0 +1,3239 @@
+﻿Game v1.08h - 30.04.2001
+**************************************
+
+= = = = = = = = = = = = = = =
+26.04.01 Edenfeld
+ * Soundprovider Checks sicherer gemacht,
+ * AIPlayer Sprunghänger Bug gefixt
+ *
+24.04.01 18:49 Edenfeld
+ * 1.08: Ausgabe des aktuell selektierten Spruches bei Benutzung eines
+ * Shortkeys
+ * 
+24.04.01 17:33 Edenfeld
+ * Patch 1.08a
+ * 
+17.04.01 17:44 Edenfeld
+ * Null Pointer Crash Patch 1.08 abgefangen
+ * 
+12.04.01 17:27 Edenfeld
+ * Patch 2 (1.08): Änderungen fürs Sound System (Menu)
+= = = = = = = = = = = = = = =
+
+
+Game v1.07? - 19.03.2001
+**************************************
+
+Game v1.07b - 19.03.2001
+**************************************
+
+= = = = = = = = = = = = = = =
+19.03.01 21:28 Edenfeld
+ * Demo Kastration einfacher/rückgängig gemacht. 
+ * 
+19.03.01 18:47 Edenfeld
+ * Demo2 Crash Bugfix
+ * 
+19.03.01 6:36 Edenfeld
+ * Wld_PlayEffect()
+ * 
+18.03.01 18:49 Edenfeld
+ * Demo Geschichten
+ * 
+18.03.01 18:48 Edenfeld
+ * Nochn potentieller Magie Crash gefixt
+ * 
+18.03.01 18:47 Edenfeld
+ * "User32.dll::BindKeys()" not found Bugfix unter Win95 gefixt
+= = = = = = = = = = = = = = =
+
+Game v1.07a - 17.03.2001
+**************************************
+= = = = = = = = = = = = = = =
+17.03.01 23:13 Edenfeld
+ * Fix Dialogcamera und unsichtbarer SC wenn kurz vorher First Person
+ * Kamera aktiv
+
+
+= = = = = = = = = = = = = = =
+13.03.01 Wohlers
+ * Patches 1.07 1.Teil
+ * 
+12.03.01 Edenfeld
+ * 3D Provider Fix Teil 1
+ * 
+12.03.01 19:59 Edenfeld
+ * Magie Crash Teil !
+ *
+12.03.01 Edenfeld
+ * Reverb für Indoor
+= = = = = = = = = = = = = = =
+
+
+Game v1.06l - 18.02.2001
+**************************************
+
+= = = = = = = = = = = = = = =
+17.02.01 Wohlers
+ * Bodystate Dead wird gesetzt, wenn NSCs in s_fallen oder s_fallenb
+ *
+16.02.01 19:35  Wohlers
+ * Blutfix. zCAIPlayer hat nichts von Skriptbluttextur erfahren.
+ * 
+ 16.02.01 19:16 Wohlers
+ * Waffe aus dem Laufen ziehen/wegstecken reagiert jetzt auf Loslassen der
+ * "nach vorne" Taste
+ * 
+16.02.01 18:53 Moos
+ * Klau-Fix
+ * 
+16.02.01 18:04 Edenfeld
+ * Telekinesis Fix Blablabla 
+ * 
+16.02.01 16:07 Moos
+ * Map-Hotkey-Fix
+ * 
+16.02.01 15:58 Moos
+ * F3-Fix
+ * 
+16.02.01 14:01 Moos
+ * Noch mehr Runterfahr-Crashfixes
+ * 
+16.02.01 12:49 Moos
+ * Eisgolem-Crashfix
+ * 
+16.02.01 12:42 Edenfeld
+ * Telekinesis nicht levitier Prob behoben
+ * 
+16.02.01 12:28 Edenfeld
+ * Crashfix Magie: Trvialer Nullpointer
+ * 
+16.02.01 11:39 Moos
+ * NPCs werden nun vor dem Verlassen geshrinkt. Verhindert Abkachler
+ * später.
+ * 
+16.02.01 11:36 Moos
+ * zCCacheBase::S_ClearCashes() implementiert
+ * 
+ 16.02.01 7:37 Edenfeld
+ * Plotkiller Telekinesis Scroll Bugfix
+ * 
+16.02.01 5:01 Edenfeld
+ * Chainlightning Scroll-verschwindet-nicht-Bug gefixt
+ * 
+16.02.01 2:49 Hildebrandt
+ * die Wahnsinns Barriere am Start!!!!!!!!
+ * 
+16.02.01 3:32 Edenfeld
+ * DialogCamera Schwenk Fix
+ * 
+16.02.01 2:21 Edenfeld
+ * Im ZS_Dead werden alle Perceptions des NPCs gelöscht. Behebt ZS_Zapped
+ * Hänger beim Blitz Spruch
+ * CamModRun -> CamModNormal smoother
+ * 
+16.02.01 2:19 Edenfeld
+ * Telekinesis: Target fällt durchs Mesh FIX
+ * 
+15.02.01 22:14 Moos
+ * SurfaceAlign-Entzumpelung
+ *  
+15.02.01 22:13 Moos
+ * SurfaceAlign-Aktivierungsfix
+ * 
+15.02.01 19:46 Moos
+ * Fix der Check-Routinen für den Transform-Spell
+ * 
+15.02.01 13:23 Moos
+ * Aufräumarbeiten
+ * 
+15.02.01 13:21 Moos
+ * Durch Fixes in oCMagic unnötig gewordenen Hack entfernt
+ * 
+15.02.01 13:20 Moos
+ * Konsistenzchecks, Aufräumarbeiten und fixes für mysteriöse Bugs
+ *
+15.02.01 3:37 Hildebrandt
+ * fix in SetLight(), incorrect handling of ambient lights
+ * 
+15.02.01 1:43 Wohlers
+ * Kampftuning Versuch 1
+= = = = = = = = = = = = = = =
+
+
+Game v1.06b - 14.02.2001
+**************************************
+14.02.01 23:16 Speckels
+ * zerr.Message durch Makro ersetzt
+ * 
+14.02.01 23:12 Speckels
+ * zerr-Warnings in Makros verwandelt
+ * 
+14.02.01 22:37 Edenfeld
+ * LookBack Fix
+ * 
+14.02.01 20:57 Hildebrandt
+ * fixed load saveGame crash (falsely opening unnamed chunk)
+ * 
+14.02.01 19:43 Moos
+ * Verschwundende Magie-Runen wiedergefunden: Sie hatten einfach noch kein
+ * Visual...
+ *
+14.02.01 13:58 Moos
+ * Cache-Aufräumen richtig gemacht
+ * 
+14.02.01 13:57 Moos
+ * RingBuffer auf Relaxen umgestellt
+ * 
+14.02.01 4:13 Edenfeld
+ * LookBack Cam
+
+
+= = = = = = = = = = = = = = =
+13.02.01 Hildebrandt
+ * display of focus name without popping
+* 
+13.02.01 Moos
+ * Durch-Wände-Schlag-Fix
+ * 
+13.02.01 Integrator
+ * Fingerprints geändert, nichts besonderes
+ * 
+13.02.01 21:12 Edenfeld
+ * Unterwasser Kamera Maus y Achse vertauscht
+ * 
+13.02.01 18:59 Moos
+ * VertexTransform-Fix für die Wasserringe
+ * 
+13.02.01 17:05 Moos
+ * Diego-Bewegt-Sich-Im-OC-keinen-Millimeter-wegen-Höhenangst-Fix
+ * 
+13.02.01 11:38 Moos
+ * vobList- Leakfix
+ * Warnung beseitigt
+ * Sicherheitsfix in Insert()
+ * 
+13.02.01 1:02 Edenfeld
+ * CamModDeath funzt wieder
+ * 
+12.02.01 19:23 Wohlers
+ * Wegsuche : Bessere Reaktion auf Schraegen (Diego-Haenger bei Spielstart)
+ * 
+12.02.01 19:04 Wohlers
+ * Von Manuel: Seltsamer Compilierungsfehler behoben
+ * 
+12.02.01 17:54 Moos
+ * Leakfix
+= = = = = = = = = = = = = = =
+
+Game v1.05q - 11.02.2001
+**************************************
+Game v1.05p - 11.02.2001
+**************************************
+Game v1.05l - 11.02.2001
+**************************************
+
+= = = = = = = = = = = = = = =
+10.02.01 Moos
+ * Slide vs. Falldown-Fix
+ * Crashfixes und Scroll-nichtverbrauch-fixes
+ * Visual-Lazy-Loading fix für die Fackel
+ * Monstermässige Magie-Leakfixes
+ * 
+10.02.01 6:08 Hildebrandt
+ * focus glow tuning
+ * 
+10.02.01 Wohlers
+ * Im Talkmode FokusNpc-Highlighting aus
+ * Wegfindung Kantenhaenger Fix
+ * 
+9.02.01 16:31 Speckels
+ * 2. Parameter von SetState beruecksichtigt
+ * ProcessInput löscht jetzt keine Elemente aus der mapList mehr
+ * Mouse-Button-Events korrigiert (logicalKeys mit SetState gesetzt bzw.
+ * auch gelöscht)
+ * 
+9.02.01 16:30 Speckels
+ * 2.Paremeter von SetState (vorher zREAL) nach zBOOL geändert
+ * 
+9.02.01 Wohlers
+ * Bugfix CorrectAniStates
+ * Ani "S_S0" not found-Meldung entschaerft.
+ * Fix für den FireVobtree-Fix
+ * Leak-Fix für FireVobtrees
+ * Finishing Move Ani Bug gefixed.
+ * EV_Strafe : Beim Strafen das Drehen bei gedrueckter ALT+Taste verhindert.
+ * 
+ 9.02.01 Edenfeld
+ * VisualFX Memleaks work in progress
+ * 
+9.02.01 Moos
+ * Accounting-Insrumentierung
+ * VertexFeature-Sharing beim Laden aktiviert
+ * Leakfix in der Wahrnehmung
+ * AlphaVob-Leakfix
+= = = = = = = = = = = = = = =
+
+Game v1.05a - 08.02.2001
+**************************************
+Game v1.05 - 08.02.2001
+**************************************
+==============
+8.02.01 11:12 Hildebrandt
+ * Von Bert eingecheckt, da Engine-Sourcen  sonst nicht compilierbar.
+ *
+
+
+Game v1.04d - 31.01.2001
+**************************************
+= = = = = = = = = = =
+31.01.01 1:47 Hildebrandt
+ * added ini setting readout (zFogDisabled)
+ * 
+31.01.01 1:37 Hildebrandt
+ * dreck anderer leute weggeraeumt
+= = = = = = = = = = =
+
+Game v1.04b - 30.01.2001
+**************************************
+
+= = = = = = = = = = = = = = =
+29.01.01 0:39 Hildebrandt
+ * removed debug ctor/dtor counters
+ * 
+24.01.01 1:14 Hildebrandt
+ * unbenutzten statischen 5k Buffer entfernt
+ * 
+18.01.01 Moos
+ * Erzeugt
+ * 
+17.01.01 Hildebrandt
+ * methods inlined, autoRoll activated for diving
+ * 
+15.01.01 Keskenti
+ * Added color for grayed text and set default colors to WHITE and GREY respectively
+ * 
+15.01.01 20:56 Hildebrandt
+ * fixed static memory overrun (upped bufferSize, added asserts)
+ * 
+15.01.01 19:07 Hildebrandt
+ * added public zCObject* GetParentObject()
+ * 
+ * 
+12.01.01 Hildebrandt
+ * oCCollObjectCharacter durch zCCollObjectCharacter ersetzt (fuers erste..)
+ * 
+10.01.01 17:47 Hildebrandt
+ * removed ReportCollisionToAI()
+ * 
+9.01.01 13:20 Keskenti
+ * Replaced #include "" with #include <>
+= = = = = = = = = = = = = = =
+
+
+= = = = = = = = = = = = = = = = = = =
+22.12.00 0:23 Hildebrandt
+ * illegale includes von o*.h Files entfernt
+= = = = = = = = = = = = = = = = = = =
+
+
+Game v1.01d - 21.12.2000
+**************************************
+Game v1.01d - 20.12.2000
+**************************************
+
+Game v1.01b - 20.12.2000
+**************************************
+ = = = = = = = = = = = = = = = = = = =
+20.12.00 19:49 Hildebrandt
+ * unnoetige include von o-Files entfernt
+
+= = = = = = = = = = = = = = = = = = =
+13.12.00 Hildebrandt
+ * fixed bad zCLASS_DEFINITION,  zCViewDraw is derived from zCViewObject,
+ * not zCViewBase
+ * 
+13.12.00 18:27 Hildebrandt
+ * added #ifndef __ZTYPES_H__
+ * 
+7.12.00 Moos  
+ * Leakfix; beseitige die Talente
+ * 
+6.12.00 1:13 Speckels
+ * (von Dieter auf Berts Rechner)
+= = = = = = = = = = = = = = = = = = =
+
+
+= = = = = = = = = = = = = = =
+27.11.00 14:05 Moos
+ * Erzeugt, damit Fackeln und Runen gleichzeitig funktionnieren
+= = = = = = = = = = = = = = =
+
+
+v0.99pre - 13.11.00
+= = = = = = = = = = = = = = =
+
+
+v0.97pre - 20.10.00
+= = = = = = = = = = = = = = =
+20.10.00 Moos
+ * Erzeugt, um RefCtr-Ärger zu vermeiden
+
+
+= = = = = = = = = = = = = = =
+18.10.00 17:31 Edenfeld
+ * Multithreading & Wartung
+= = = = = = = = = = = = = = =
+
+
+= = = = = = = = = = = = = = =
+28.09.00 Luesebrink (Max Dennis Lüsebrink - Additional Programming)
+ * interact in wheel
+ * 
+28.09.00 Michael
+VERSION Konsolenkommando wegen Fingerprint
+
+= = = = = = = = = = = = = = = =
+Hildebrandt
+// Revision:
+// -NEW: 27.9.2000
+// - In einige Klassen dazugeschrieben, welche zCEventMessage Klassen sie verstehen (zCTrigger, zCMover, zCCodeMaster)
+// - zCVobScreenFX, zCEventScreenFX
+// - zCEventCommon
+// - zCEventMover
+= = = = = = = = = = = = = = = =
+
+24.09.00 15:13 Alex Brüggemann
+ *  create Walkthrough.htm (??????????? ???? ??????)
+
+Gothic Demo Walkthrough
+ 
+Right after the intro You will find Yourself at the shore of a lake. In front of You is a guy named Diego. (The name will be in the Focus. Means You can see his name above his head) 
+Go to him and talk to him. He will offer to join You on Your way to the Old Camp. Then he will run towards the Old Camp so follow him. 
+Once in a while he will stop. Just talk to him again. He won't hurt You. At the first gate the game will play another cutscene (camera will move and You will loose control over Your character for a while. Do not worry noone can hurt You during these cutscenes). Then Diego will run to a mine that is blocked up. 
+Diego will stop there and ask You to get a weapon. Go up the path and then over the bridge to the left to get a worn-out-sword. Get it and go back to Diego. Talk to him again. He will lead You further downhill. 
+After a few steps there might be a Creature on the way. It is a scavenger. If  it is there Diego will give You an apple and tell You that You either can fight or try to fool the monster with the apple. To fool it throw the apple at the monster. But you can also fight the monster directly. equip the weapon first, toggle to fighting mode and start to attack it. If you’ve killed the Scavenger, go back to Diego. If the Scavenger killed You, press DEL (a cheat-key in this demo) to live again, and give it a second try.
+Talk to Diego and he will lead You further downhill where you will encounter two bandits that will be persuaded by Diego to let go. 
+This is where Diego leaves. 
+Go towards the Old Camp and talk to the guards at the bridge. They won't be friendly, but that's not their job. 
+Go to the main gate of the Old Camp. Again talk to the guards and enter the Old Camp. 
+After the next cutscene a guy will come up to You and ask You for Your sword if You have one. Either You give him Your sword or You can fight him. If You talk to Grim later in the game he will explain his behaviour.
+Whatever decision You made, Thorus will come up to You and will greet You. 
+If You talk to him he will offer You a mission. He will ask you to beat up Mordrag. Mordrag is a bandit and can be found at the marketplace. 
+Turn right and go round the castle to a huge roofed area. Go to Mordrag and talk to him or beat him up right away. If You talk to him he will offer You a deal. 
+After this go back to Thorus and talk to him. If You saved Mordrag's face he will give You a second chance. So go back and hit him. DO NOT KILL HIM.
+After you did so Thorus will offer You a second mission. He asks You to go to Ian who can be found next to the Old Mine. There You shall ask Ian for a List. 
+Because You do not know how to get there, turn around and find a guy named Graham. He is one of the miners.
+He will offer to give You a map for a piece of steel. 
+So make Your way to the smith Huno. Turn left from the entrance, go round the castle and pass the arena. You will find Huno the smith there. Talk to him and he will tell You that he needs ore. You do not have any, so go and get some.
+No one will give it to You for nothing... (steal it, open chests, kick some ass...) Give the ore to Huno and he will give You the steel. For the steel You will get the map. 
+Wow. This is a huge world. And there You can see the Old Mine. 
+Run to the Old Mine and talk to Ian. Take the list and go back to Thorus. Now have a look around the Old Camp.
+Turn to the right and You can find Sly. He will tell You a bit about the Shadows. Go on and You will meet Herek. Talk to him and he will try to hit You. Kick his ass. 
+Then talk to Bloodwyn. If You give him 3 ore he will protect You. 
+Stay on the path and talk to Dusty. Give him some food and he will give You some information. Go to the marketplace. There You can find Canthar. Talk to him and to Gravo. 
+Then talk to Fisk and he will offer You some armor. 
+If You give Bruce what he asks for he will give You a hint where to find a key. Use the key and go to the hut and open the chest.
+Dexter will offer You a sword. If You buy it be careful since it is Jackals sword and he will want it back. Leave the marketplace.
+At the corner You can find Whistler. Talk to him and You will probably get Yourself an axe. Continue Your way.
+Talk to Ryan and then to Fox. Both will talk about the same business in a different way.
+Continue Your way to the smith. Next to the arena You can find Jackel. 
+Go on to Guy. The path will guide You through his hut. This a thing he does not like at all. 
+Then You will be witness as Fletcher asks Jesse for protection money. Since Jesse does not have the ore Jesse will come to You and will try to get the ore from You. After You made Your decision talk to Fletcher. 
+Go to Snaf. He is just cooking something, but he is short of Meatbugs. Go get him 3 Meatbugs (smallest Monsters in game). In return he will give You meatbugragout. 
+Talk to Mud. You have to hit him to get rid of him again. 
+Ok and talk to Fingers, Scatty and to Kirgo to get some useful information.
+And that’s all we’ve prepared for this demo…
+
+22.09.00 0:41 Hildebrandt
+ * fix for zCProgMeshProto lockup when dealing with degenerated meshes
+= = = = = = = = = = = = = = =
+
+
+Engine v0.94 - 21.9.2000
+**************************************
+21.09.00 21:20 Hildebrandt
+ * zenGin 0.94
+ * 
+21.09.00 0:47 Rüve
+ * inteldröhnung
+
+= = = = = = = = = = = = = = =
+20.09.00 22:31 Rüve
+ * intel compilerwarn
+ * typedef
+ * 
+20.09.00 21:50 Rüve
+ * typedef
+ * 
+18.09.00 12:11 Rüve
+ * Opt.
+ * 
+15.09.00 0:36 Edenfeld
+ * GetLevel
+ * 
+11.09.00 13:26 Rüve
+ * cleanup
+ * 
+8.09.00 17:37 Hildebrandt
+ * fixed minor compiler warnings
+ * 
+7.09.00 21:07 Wohlers
+ * RigidBody in GetRigidBody an Engine-Änderungen von Dieter angepasst
+ * 
+6.09.00 20:19 Rüve
+ * warning cleanup
+ * 
+6.09.00 15:24 Rüve
+ * cleanup - unused vars
+ * 
+1.09.00 16:32 Rüve
+ * zerr cleanup
+= = = = = = = = = = = = = = =
+
+
+= = = = = = = = = = = = = = = = = = =
+31.07.00 23:39 Rüve
+ * teufelswerk kommentiert
+ * 
+31.08.00 18:09 Rueve
+ * farben (Sky)
+ * 
+31.08.00 Edenfeld
+ * zCVob & zCParticleFX Memleak behoben
+= = = = = = = = = = = = = = = = = = =
+29.08.00 18:22 Hildebrandt
+ * zCZone::Process..() gets called even if there is just a default zone in
+ * the world
+ * 
+29.08.00 16:05 Hildebrandt
+ * zengin 92j
+
+Game v0.92 - Engine v0.92j - 28.8.2000
+**************************************
+28.08.00 Rüve
+ * divetime init
+ * zRndGlide.h ging nach Hause
+ * 
+28.08.00 Keskenti
+ * Added initialization for aiming variables
+ * 
+26.08.00 Moos (Manuel Moos - Additional Programming)
+ * kleines Leck mit der focuslist gefixt
+ * 
+24.08.00 Moos
+ * new durch zNEW ersetzt
+ * malloc durch zNEW ersetzt
+ * ein zNEW eingefügt
+= = = = = = = = = = = = = = = = = = =
+
+Game v0.91 - Engine v0.92i - 23.8.2000
+**************************************
+* Bugfixes (u.a. Testtrack)
+* Ein zCWorld SaveGames enthaelt nun auch den CutscenePlayer
+* Archiver werden nun ueber eine Factory erzeugt: globale Variable zarcFactory in
+  zArchiver.h. Lokale Archiver Objekte ("zCArchiver arc;") funktionieren nun nicht mehr,
+  stattdessen ist die Erzeugung ueber die Factory noetig. Die Archive()/Unarchive()
+  sind davon nicht betroffen.
++ Neue Files: zCompilerVcWin32.h, zArchiverGeneric.*
+= = = = = = = = = = = = = = = = = = =
+23.08.00 21:06 Wohlers
+ * Items werden nach Gebrauch korrekt aus Inventory entfernt
+ * 
+23.08.00 17:34 Moos
+ * Auf zNEW umgestellt; Wird diese Datei eigentlich noch verwendet?
+
+= = = = = = = = = = = = = = = = = = =
+22.08.00 13:41 Hildebrandt
+ * made 'zCParticleFX::CalcIsDead()' public
+ * 
+17.08.00 Rüve
+ * constants.d aufräumen
+* Bugfix 1694
+ * 
+16.08.00 18:18 Hildebrandt
+ * fixes for zCModelProtoType cleanups (Release() on 0-Ptr)
+= = = = = = = = = = = = = = = = = = =
+
+Game v0.90 - Engine v0.92h - 15.8.2000
+**************************************
+* MemLeaks gefixt (laut Manuels Report)
+* Diverse Bugfixes
+* zCModelAni ist nun von zCResource und somit zCObject abgeleitet.
+* Neue Files: zMemory*.*
+= = = = = = = = = = = = = = = = = = =
+15.08.00 23:54 Hildebrandt
+ * zenGin 0.92h
+ * 
+15.08.00 16:50 Hildebrandt
+ * Alg_IsColinear() fix #2
+ * 
+15.08.00 16:18 Hildebrandt
+ * fixed potential div0 exception in Alg_IsColinear()
+ * 
+
+= = = = = = = = = = = = = = = = = = =
+11.08.00 Keskenti
+ * Fix fuer AI_Ask und AI_WaitForQuestion
+= = = = = = = = = = = = = = = = = = =
+
+
+Game v0.89 - Engine v0.92g - 8.8.2000
+**************************************
+ 8.08.00 0:50 Integrator
+ * Gothic 0.89
+
+
+= = = = = = = = = = = = = = =
+ 31.07.00 23:39 Rüve
+ * teufelswerk kommentiert
+ * 
+31.07.00 18:05 Rüve
+ * (Sky) Farbe abends (So-Untergang, Bug # 1310)
+ * 
+28.07.00 13:33 Edenfeld
+ * Lautstärke Ausblendverhalten gefixt & für ambiente Sounds angeglichen
+ * 
+27.07.00 16:34 Rüve
+ * Fix: Liest ein Byte zuviel aus Datei
+ * 
+27.07.00 12:24 Keskenti
+ * Open/Close Funktionalitiaet
+ * Text-Farbe und -Dauer 
+ * 
+19.07.00 Wohlers
+ * 0.88
+ * 
+12.07.00 Wohlers
+ * Overlay-TA Bugfix
+= = = = = = = = = = = = = = =
+
+Game v0.88 - Engine v0.92f - 11.7.2000
+**************************************
+* Fix: Korrektes Starten von NextAnis in Overlay MDS, wenn die NextAni nicht im selben
+  MDS definiert ist (zCModel::GetNextAni())
+* Fix: korrekte Darstellung zweiseitiger zCDecals
+* Bugfix zCVob::EndMovement() 'RemoveVobFromWorld()'
+* Bugfix bzgl. des zrenderer->SetViewport() (war fuer fehlerhafte Inventory Anzeige verantwortlich)
+* Bugfix zCResourceManager: korrekter Resource TimeStamp nun auch beim ersten CacheIn
+* Anzeige von Klassennamen, Vobnamen und Visualnamen bei aktiverter BBox Anzeige
+  (per Konsole "ztoggle vobbox")
+
+Game v0.87 - 7.7.2000 / Engine v0.92e - 11.7.2000
+**************************************
+! ACHTUNG: der Default-Renderer ist nun D3D mit Device 0 (nicht wie bisher Glide)
+! Geaenderte binaere Formate: .MDM, .MMB, .MRM
+* Archiver: ReadObject() mit objectUseThis: Falls objectUseThis und Archiver Klasse nicht
+  identisch sind, wird dennoch versucht das Objekt aus dem Archiv zu lesen (sollte eh nur
+  selten in Umstellungsphasen und nicht im taeglichen Betrieb auftretten). Das erfordert
+  allerdings dringend, dass die Unarchive() Methoden von Klassen "Default-sicher" sind, d.h.
+  robust gegen auf das nicht-Vorhandensein von Entrys im Archive reagieren und dann Defaultwerte
+  benutzen (i.d.R. sollte die Benutzung der zCArchiver::ReadXXX() Methoden mit Ergebnisvariable
+  als Referenz-Parameter ausreichen).
+* Fix im zCVobLensflare
+* Bugfix Levelchange (Crash im zCBspSector), weitere Fixes..
+= = = = = = = = = = = = = = =
+11.07.00 1:13 Hildebrandt
+ * zenGin 0.92e
+ * 
+10.07.00 16:46 Wohlers
+ * CMag_Book -> oCMag_Book
+ * 
+7.07.00 12:42 Wohlers
+ * Gothic 0.87
+ * 
+4.07.00 12:28 Wohlers
+ * FontMan Bugfix
+= = = = = = = = = = = = = = =
+
+
+v0.92d - 27.6.2000
+******************
+* Bugfix: DrawTile/Slicing von Texturen, die groesser sind als von der Hardware erlaubt.
+* Bugfix: Indoor Portalisierung crashte im OrcCity.3ds
+
+v0.92c - 22.6.2000
+******************
+* zCWorld::TraceRay(): bisher musste das Flag zTRACERAY_POLY_IGNORE_TRANSP angegeben werden,
+  um WasserPolys beim TraceRay unberuecksichtigt zu lassen. Ab jetzt werden WasserPolys
+  per Default vom TraceRay ausgenommen, falls doch erwuenscht muss dies explizit ueber
+  zTRACERAY_POLY_TEST_WATER eingeschaltet werden.
+  Siehe hierzu auch die kompletten TraceFlags zTTraceRayFlags in zCWorld.h. Dort ist auch
+  in Kommentaren ersichtlich, welche Einstellungen Default sind, und welche explizit gemacht
+  werden muessen.
+* Ulf: zCAIPlayer::DetectClimbUpLedge(): Wahrscheinlichkeit, dass gemeldete Ledges auch
+  tatsaechlich erreichbar sind gesteigert (sollte nur noch sehr selten failen, Garantie
+  kann aber leider aus rechnerischen Gruenden nicht gegeben werden).
+  Setzen der Sprunghoehe (nach oben) wie gehabt ueber Angabe der Force oder neu ueber
+  Angabe der Hoehe moeglich (zCAIPlayer::SetJumpUpForceByHeight())
+! Polys mit Alphakanal Texturen werden nun per Default bei TraceRay/Collision Tests
+  beruecksichtigt. Will man dies im Einzelfall nicht, so muss entweder das Material des
+  Polys das Flag "noCollDet" gesetzt haben, oder das entsprechende TraceRay Flag gesetzt
+  werden.
+* Fix: Defect 1210 (Polys mit Alphakanal Texturen)
+* Fix: Defect 1209 (zCMessageFilter reagierte nicht; hatte uebersehen das triggerTarget
+  aus der Klasse zu nehmen)
+* Fix: Defect 1138, 1182 (ResMan Cleanup beim Herunterfahren)
+* Fix: Defect 1010 (Zonen setzten aus nach Kamerafahrt; lag an defekter CamVob-BBox=>Carsten)
+* Fix: Defect 919  (SC beamt bei Fackel/Feuerstellen Benutzung weg)
+  Change in Ulfs Code/Clarification, zCVob::SetInMovement() ist nun private
+* Fix: Defect 1111 (Change in Kurts Code/Clarification)
+* Fix: Defect 1097 (failed assert im zCParticleFX::Render())
+* Fix: Defect 1005 (Spacer Save/Restore VobState(); sharing von Model-Objekten anhand
+  deren Namen in zCVob::SetVisual())
+* Fix: Defect 1033
+* Fix: Defect 1031
+! Defects mergen: 1119 und 1216
+
+Game v0.85a - Engine v0.92b - 14.6.2000
+******************
+* Fix: 1167 Loecher in Model-LODing behoben (Neukonvertierung von .MDMs und .MDLs noetig)
+* Fix: "Missing Mesh" Bug, bei der Neukonvertierung von .MRMs im Spacer verschwanden einige
+  Instanzen von neukonvertierten Objekten (1180)
+* Fix: IndoorPortalize, an Portalgrenzen waren im Game Loecher im Mesh sichtbar
+  (Neu-Compilierung der Level noetig).
+= = = = = = = = = = = = == =  =
+14.06.00 18:31 Wohlers
+ * vobName = InstanzName
+= = = = = = = = = = = = == =  =
+
+v0.92a - 12.6.2000
+******************
+* Fixed defect: 1177 (Crash beim MDS/ASC parsen), 1178 (Crash IndoorPortalize)
+* Fix: Items im Inventory wieder sichtbar
+
+v0.92 - 11.6.2000
+******************
++ Indoor-Occlusion Culling ueber Sektoren/Portale
+* Neue Files: zBspIndoor.cpp
+* Geaenderte binaere Formate: .MDM, .MDL, .ZEN (compilte Level), .MRM
+* Neues Material-Flag "noLightmap", editierbar in Spacer/Material-Props: hiermit laesst
+  sich selektiv fuer einzelne Materialien die statische Beleuchtung ueber Lightmaps
+  ausschalten. Zur Performance-Steigerung bes. in Indoor-Leveln kann hiermit fuer
+  bestimmte Materialien von teurer Ligthmap auf schnellere Vertex-Beleuchtung umgeschaltet
+  werden.
+* Fixed defect: 1168 (verschwundene Objekte/.MDS)
+* Fixed defect: ? (PFX mit AniTexturen waren nicht mehr sichtbar)
+
+v0.91 - 9.6.2000
+******************
++ Objekt-Beleuchtung
+! Falls Objekte deutlich zu hell oder dunkel beleuchtet sind, koennte das daran liegen,
+  dass sich der Mittelpunkt ihrer BBox nicht im Level befindet => Datenkorrektur noetig.
+* Einfache Meshes werden nun in .MRM (multi resolution mesh) Files im MESHES/_COMPILED
+  abgelegt, statt bisher in .MSH Files. .MSH sollten geloescht werden.
+* Window-Handle optional in Methode zCRenderer::Vid_SetMode() (fuer Spacer/D3D)
+* Neue Files: zCamera.cpp, zDecal.cpp, zVertexBuffer.*, zRenderManager.*
+* Geaenderte binaere Formate: .MDM, .MDL (.MSH wird nicht mehr verwandt)
+! Kleine Anpassungen an den beiden Renderern noetig (D3D/Glide => Kurt/Carsten):
+    * Blit Methoden aus Interface entfernt (Blit/Get)
+    * HasCaps: returned jetzt einen 'int', neue Caps, beachte zweites "const":
+        int zCRenderer::HasCapability (const zTRnd_Capability ) const;
+    * ist nicht Teil des zCRenderer Interfaces, wird nicht von aussen aufgerufen, sollte
+      umbenannt werden, falls es intern benutzt wird (oder ganz entfernt falls nicht)
+        zBOOL Vid_SetMode ( int x,int y,int bpp );
+
+= = = = = = = = = = = = == =  =
+5.06.00 22:35 Wohlers
+ * uSrc 05.06.00
+= = = = = = = = = = = = == =  =
+
+
+= = = = = = = = = = = = = = = =
+25.05.00 Wohlers
+ * Levelwechsel / Fernkampf
+
+= = = = = = = = = = = = = = = =
+24.05.00 20:28 Wohlers
+ * Gothic 0.83
+= = = = = = = = = = = = = = = =
+
+Engine v0.90a - 23.5.2000
+******************
+* Schnelleres Light-Preview im Spacer:
+  Die Beleuchtungs-Routinen der zCWorld akzeptieren nun auch eine 'zTBBox3D *udpateBBox3D'. Bei
+  Angabe einer BBox werden die Lightmaps nur im angegebenen Bereich neu berechnet, was guenstig
+  fuer schnelle Previews im Spacer ist. Wenn aber die 'finale' Beleuchtung fuer einen Level
+  berechnet werden soll, darf bei 'udpateBBox3D' nichts angegeben werden (Bert!).
+* Lightmap Generierungs Bug behoben
+* Als statische Lichter sind nun auch Spotlights erlaubt: einfach den lightType "spot"
+  waehlen und einen sinnvollen "coneAngle" waehlen (alles in den Spacer-VobProps). Aber
+  Achtung: Spotlights sind ein wenig teurer als normale PointLights
+* Bugfix: sporadisches auf 0 Setzen des CamLights beim Rendern von PFX
+* Testtracker Fixed Defects: 1005
+! Achtung: Die Level-Zens sollten moeglichst bald wieder mit dieser Engine gespeichert
+  benutzt werden, damit das Einladen der Level zuegiger geschieht.
+
+Game v0.82 - 22.5.2000 / Engine v0.90 - 21.5.2000
+******************
+* Verbesserte Indoor-Performance (erster Teil)
+    * Anzahl generierter Lightmaps verringert, LM-Qualitaet verbessert
+      ACHTUNG: im Spacer wirken sich beim Licht-Compile die LM-Qualitaets Einstellungen
+      aus. Hoehere Qualitaet => laengere Berechung. Geringe Qualitaet sollte fuer
+      "Previews" benutzt werden, hohe Qualitaet fuer Releases.
+    * Lights in BSP Leafs nach dyn/stat sortiert
+* ME: 'herumrutschen' bei aniComb Animationen eliminiert (=> Fackel anzuenden)
+* ME: Genauigkeit bei loopenden Anis die den Vob nicht fortbewegen gesteigert, in Anis
+  wie z.B. "s_Lab_S1", "s_Herb_S1" oder "S_Run" bleiben die Models nun auch nach laengerer
+  Zeit fest an dem Ort stehen
+* Bugfix: sporadischer Crash im Spacer behoben beim Recompile eines Outdoor Levels mit
+  Sektoren
+* Potentiellen Haenger beim Beenden des ResManThreads/Programms behoben
+* Testtracker Fixed Defects: 1033, 1031, 972, 968
+= = = = = = = = = = =
+22.05.00 18:41 Wohlers
+ * Gothic 0.82
+= = = = = = = = = = =
+
+Game v0.81a - Engine v0.89i - 10.5.2000
+******************
++ Neuer CommandlineSwitch fuer Einstellung der Bildschirmaufloesung: "zRes:x,y,bpp",
+  Default bei Nichtangabe ist 640,480,16
+* Bugfix: DrawTile/Slicing (neuer Font wurde nicht korrekt dargestellt)
+* ME: Model sind im Schnitt ein wenig heller beleuchtet
+* ME: Skelett ist nun komplett sichtbar
+= = = = = = = = = = =
+10.05.00 23:27 Wohlers
+ * Gothic 0.81a
+= = = = = = = = = = =
+
+Game v0.81 - Engine v0.89h - 9.5.2000
+******************
+* Texturschwimmen auf NPolys von Objekt-Meshes beseitigt (Neukonvertierung von .MDS,
+  .MDM und .MDL noetig)
+* ProgressBar Update in der zCWorld beim Laden eingefuehrt (zCWorld::Set/GetProgressBar())
+* Bugifx: zCRenderer::DrawTile() Clipping
+* Das "zrenderer->Begin/EndFrame()" ist aus der zCWorld::Render() Methode entfernt
+  worden. Nun ist die Mainloop (higher-level) fuer das korrekte Aufrufen verantwortlich.
+! Das "Monster kommen nicht an Schraegen hoch" Problem sollte damit behoben sein, dass
+  fuer diese Monster das "SURFACE_ALIGN" Flag in den Skripten auf TRUE gesetzt wird.
+  Bei der Uebernahme dieses Flags gab es im Game gab es bis eben noch einen Bug.
+= = = = = = = = = = =
+9.05.00 20:20 Wohlers
+ * Gothic 0.81
+= = = = = = = = = = =
+
+Game v0.80 - Engine 0.89g - 8.5.2000
+******************
++ zCSkyControler::SetFillBackground() fuer Bert/Inventory
+* Bugfix: manche Vobs waren im Spacer nicht anklickbar
+* Einige Div0s eliminiert
+* Verbesserte Precache Strategien fuer Texturen
+* "too many clipped Polys" Meldung disabled
+* Testtracker
+= = = = = = = = = = =
+8.05.00 23:07 Edenfeld
+ * 
+8.05.00 21:14 Wohlers
+ * Gothic 0.801
+ * 
+8.05.00 19:31 Wohlers
+ * Gothic 0.80 - Inventory 
+ * 
+8.05.00 15:02 Wohlers
+ * Waynet CheckConsistency
+ * 
+8.05.00 5:29 Hildebrandt
+ * zenGin 089g
+
+
+= = = = = = = = = = =
+7.05.00 Wohlers
+ * LoadWorld -> zRELEASE Bug bei LevelCompo gefixed
+ * SetCutsceneMode -> SetCutscene
+ * 
+ 6.05.00 17:56 Hildebrandt
+ * zenGin 089f
+ * 
+5.05.00 23:36 Wohlers
+ * Anpassung ZCView
+= = = = = = = = = = =
+
+
+Release Game v0.79b -  - 4.5.2000
+= = = = = = = = = = =
+4.05.00 23:12 Edenfeld
+ * Release 0.79b
+
+
+Engine v0.89f - 4.5.2000
+******************
+* ME: Beim Laden von Overlay-MDS werden nun einige Fehlerfaelle besser kommentiert
+* Bugfix im ZH mit der TexUV Animation
+* Performance Steigerung durch Rendern der Polys nach Material sortiert (und Rendern
+  der Vobs sortiert nach Visual)
+* Verbesserungen bei den Waeldern:
+    * bessere statische Beleuchtung (heller und Fading am Rand)
+    * Portal Tris werden besser zu NPolys zusammengefasst
+    * nicht fadende Portal Triangle Reste entfernt
+    * keine verschwindene Oberwelt mehr ausserhalb des Waldes beim Raussehen
+    * keine verschwindene Vobs mehr beim Herangehen an ein Wabe von aussen
+* Libflag beim zCMaterial::Unarchive() wird nicht mehr aus dem Archive genommen
+
+
+v0.89e - 4.5.2000
+******************
+* Das Laden und Konvertieren von Texturen ist nun thread-sicher (Anpassungen auf Berts Aenderungen)
+* Haenger beim Zeichnen der Vob-Achsenkreuze behoben
+* ME: die Frameangaben *aniEvents bei aniComb's werden nun richtig ausgewertet (und zwar in relativen
+  Angaben)
+= = = = = = = = = = =
+4.05.00 20:16 Hildebrandt
+ * zenGin 089e
+ * 
+4.05.00 17:38 Speckels
+ * CriticalSection fuer DirectoryScans
+ * 
+4.05.00 3:37 Hildebrandt
+ * bugfix: flipping textures on faces
+
+
+v0.89d - 3.5.2000
+******************
+* Bugfix: flippende Textures auf Gesichtern
+* Bugfix: Die BBoxen von Vobs ohne Visual hatten sich bei jedem Einladen ein wenig vergroessert
+  (allerdings konnte ich nur ein Wachsen der BBoxen beobachten, nicht aber ein Verschieben der
+  Objekt Koordinatenkreuze..)
+= = = = = = = = = = =
+3.05.00 23:57 Hildebrandt
+ * zenGin 089d
+ * 
+3.05.00 12:25 Wohlers
+ * zCView Umstellung Polyrendern
+= = = = = = = = = = =
+
+v0.89c - 2.5.2000
+******************
+* Neuer Parameter fuer die Lensflare-Effekt Definition (lensflare.zen) "rangeMax"
++ Das TextureTile-Slicing funktioniert nun (fuer die D3D/Vid_Blit Erweiterung )
+* zCTexture::HasAlpha() funzt, ebenso TextureTiles mit AlphaKanal
+= = = = = = = = = = =
+2.05.00 21:47 Hildebrandt
+ * zenGin 089c
+ * 
+2.05.00 17:41 Edenfeld
+ * zCResource Crash Fix Part 3
+ * 
+2.05.00 15:50 Edenfeld
+ * Get/SetTextureWrapEnabled()
+ * 
+2.05.00 15:28 Edenfeld
+ * DrawPolySimple
+
+= = = = = = = = = = =
+1.05.00 Wohlers
+ * EV_DropVob Bug gefixed
+= = = = = = = = = = =
+
+
+Game v0.79 - Engine v0.89b - 28.4.2000
+******************
++ Fuer die D3D/Vid_Blit Erweiterung:
+    * Das Rendern in eine View (zCCamera::SetView()..) beruecksichtigt nun auch den Offset
+      der View. Nun koennen z.B. die Items im Inventory direkt an den richtigen Ort
+      gerendert werden ohne den Umweg ueber GetRect/Blit_Rect machen zu muessen.
+      Um in diesem Fall allerdings ZBuffer Probleme zu vermeiden, muss an dem Ort, an dem das Item
+      gerendert werden soll der ZBuffer initialisiert werden. Dafuer wird an die Stelle ein
+      voellig durchsichtiges Quad (FrameBuffer Updates mit zCRenderer::SetPixelWriteEnabled(FALSE)
+      temp. abschalten) mit sehr hohem Z-Wert gerendert.
+    + Neue Renderer-Methode (Kurt,Carsten: implementieren!):
+        virtual void DrawPolySimple (zCTexture  *texture, zTRndSimpleVertex *vertex, int numVert);
+    ! Ulf: zCRenderer::DrawTile clippt und rendert eine Textur auf 1 Quad (inkl 'slicing').
+      Hiermit sollten i.d.R. die Views, Poeppels etc. gerendert werden.
+      Die Texturen fuer die Views sollten ueber zCTexture::Load () geladen werden, wobei das Flag
+      zTEX_LOAD_FLAG_TILE anzugeben ist, das intern das Slicing aktiviert, falls die Textur
+      groesser als die durch die Hardware erlaubt sein sollte.
+    ! Das TextureTile-Slicing ist derzeit wegen eines TextureConvert Bugs noch nicht aktiviert
+* Bugfix im zCQuadMark aniTracker (scaleUp)
+* zCSoundFX: ueberfluessigen member 'soundName' entfernt
++ Fuer AI/Ulf: const zSTRING* zCVob::GetSectorNameVobIsIn() const
+  Gibt den Namen des Sektors zurueck, in dem sich ein Vob befindet. Dieser Ptr ist fuer ein und
+  denselben Sektor immer identisch. Ein Sektor-Wechsel braucht also nicht ueber einen String
+  Vergleich festgestellt werden, ein schnellerer Ptr Vergleich sollte reichen.
+===================
+ 28.04.00 Wohlers
+ * Gothic 0.79
+ * Nahkampf AI Phase 2
+
+================
+20.04.00 17:51 Speckels
+ * zSpy renamed to [zSpy]
+ * 
+18.04.00 Wohlers
+ * Kampfsystem Phase 1
+ * Angepasst an ZenGin 0.89a
+================
+
+Engine v0.89a - 16.4.2000
+******************
+* PFX: Kleiner Bugfix im ZH mit ppsvalue
+* Binaeres internes Format des Materials hat sich geandert und dadurch auch:
+  .ZEN (Level), .MSH, .MDM, .MDL, .MMB
+* TexUV animierte Polys brechen nun an den Kanten nicht mehr auf (=> z.B. Wasser)
++ TexUV animierte Wasserpolys uebertragen ihre Bewegung auf PC/NPCs (erstmal 1:1), zCAIPlayer
++ Neues zCMaterial Flag "noCollDet". Mit diesem Material-Flag gekennzeichnete Polys
+  nehmen nicht an der Kollisionserkennung teil (z.B. nuetzlich fuer Wasserfaelle).
+  Ist im Spacer im Material-Prop Dialog editierbar.
+
+= = = = = = = = = = =
+14.04.00 (???????? ??????? 14.05.00) Wohlers
+ * 0.77d - Fernkampf, GoRoute-MetadatenBug behoben
+= = = = = = = = = = =
+
+Engine v0.89 - 12.4.2000
+******************
+! Neue Files: zThread.*
+! Die Engine/Game (Spacer sowieso) sind nun multithreaded, dafuer im DevStudio
+  folgende Anpassung machen:
+  C/C++ => Code-Generation => Laufzeit-Bib => MultiThreaded (ggfs. debug)
++ Resource-Management/dynamisches Resource-Caching/load on demand (derzeit: Tex,Sounds)
+  Vorteile: wesentlich weniger Laufzeit Speicherbedarf, geringere Levelstartzeiten,
+  erhoehte Ingame-Performance (OS-Swapping wird weniger strapaziert)
++ Neues Konsolenkommando "ztoggle resManStats"
+* zCTexture und zCSoundFX sind nun von zCObject=>zCResource abgeleitet
+* Bugfix: zCBspTree::DisposeTree() hatte nicht die sectorList entleert.
+* zCTexture: veraendertes Interface zum aufzaehlen von Texturen (wird nun von
+  zCObject Methoden erledigt)                                                             
+* zCWorld::SearchVob..() nun schneller durch Hashtable (beschleunigtes Ingame und Levelload)
+* zCVob::GetVobName() liefert nun einen 'const zSTRING&' zurueck
+* Entfernt:
+  virtual zCOLOR zCTextureExchange::GetAverageColor ();
+          zCOLOR zCTexture::GetAverageColor         (); und zCTexture::averageColor
+* Parameterliste fuer die virtuellen zCWorld::SearchVobByName() und
+  zCWorld::SearchVobListByName() haben sich geaendert.
+  ULF: Bei der Ueberschreibung in oCWorld ist eine Anpassung noetig!
+! ULF: ueberschriebene zCWorld Methoden VobAddedToWorld/VobRemovedFromWorld sollten die
+  Methoden der Basisklasse aufrufen!
+= = = = = = = = = = =
+12.04.00 16:06 Speckels
+ * Threadsafe Errorclass (first try)
+ * 
+
+= = = = = = = = = = =
+7.04.00 Wohlers
+ * Msg-Metadaten GOTOFP
+ * Day and Hour werden an Cutscenes uebergeben
+ * 
+5.04.00 Wohlers
+ * EV_PLAYANI_NOOVERLAY 
+ *
+4.04.00 Wohlers
+ * Parser-Class-Offset-Check
+ * 
+3.04.00 Wohlers
+ * uSrc 0.76b
+= = = = = = = = = = =
+
+
+= = = = = = = = = = = = =
+30.03.00 Wohlers
+ * Bugfixes ( Wegnetz, TAs etc. )
+ * 
+29.03.00 Wohlers
+ * Various Fixes ( Klettern, Wayneteigenschaften, GoRoute )
+ * 
+24.03.00 20:45 Hildebrandt
+ * fixed zCBspTree::DisposeTree() not disposing it's sectorList
+= = = = = = = = = = = = =
+
+v0.88b - 23.3.2000
+******************
+* Bugfix in zCWorld, Lightmap-Generierung: potentieller Haenger beseitigt
+* Neue Methoden in zCWorld, damit abgeleitete Klassen auf Hinzufuegen und Entfernen
+  von Vobs reagieren koennen:
+  (Ulf => oCWorld!)
+    virtual void VobAddedToWorld        (zCVob *vob);// is called for every vob that is added to the world, opportunity for derived classes to plug in own code, called AFTER the actual addition
+    virtual void VobRemovedFromWorld    (zCVob *vob);// is called for every vob that is removed from the world, opportunity for derived classes to plug in own code, called BEFFORE the actual removal
+= = = = = = = = = = = = =
+23.03.00 20:10 Hildebrandt
+ * fixed potential lightmap-generation hangup
+ * 
+
+v0.88a - 22.3.2000
+******************
+* Geaenderte binaere Formate: .MSM, .MDM, .MMB, .ZEN (binaere Level-Anteile)
+* Neue Files: zEngine.cpp, zCSession.*
+* Methoden zum Rendern des Waynets nun in der zCWorld
+= = = = = = = = = = = = =
+22.03.00 2:58 Hildebrandt
+ * zenGin 088a
+
+
+= = = = = = = = = = = = = = = =
+Hildebrandt
+// Revision:
+// -NEW: 16.3.2000
+// - zCMoverControler
+// - zCTriggerUntouch
+// - zCCodeMaster
+// - zCMessageFilter
+// - zCTriggerBase
+// - zCTriggerWorldStart
+// - changed: zCTrigger
+// - changed: zCVobAnimate
+= = = = = = = = = = = = = = = =
+
+= = = = = = = = = = = = =
+16.03.00 Wohlers
+ * Anpassung Engine 0.88
+ * 
+16.03.00 13:50 Edenfeld
+ * Anpassungen an Engine 0.88
+ * 
+15.03.00 16:42 Hildebrandt
+ * zenGin 088
+= = = = = = = = = = = = =
+
+v0.88 - 10.3.2000
+******************
+* Engine Klassen Dokumentation von "zDieter.cdf" in "zDieter.sph" umbenannt (SpacerOnlineHelp)
+* EventSystem:
+    * Folgende Methoden im "Event-Interface" um Parameter "zCVob *vobInstigator" erweitert:
+        virtual void    OnTrigger   (zCVob* otherVob, zCVob *vobInstigator);
+        virtual void    OnUntrigger (zCVob* otherVob, zCVob *vobInstigator);
+      "otherVob" ist der direkt vorhergehende Vob, von dem die Message stammt
+      "vobInstigator" ist der erste Vob, von dem die Message urspruenglich ausgegangen ist
+        ("instigator"= Anstifter)
+    * Dynamische zCVobLights koennen ueber OnTrigger/OnUntrigger ein- und ausgeschaltet werden
+    * Kleinere Fixes bei zCTrigger, zCTriggerList, zCMover,..
+    * zCTrigger, zCMover: koennen ein- oder ausgeschaltet sein (enabled, disabled). Ueber Messages
+      steuerbar (zCEventCommon). Bsp: ein disabled zCTrigger reagiert auf keine Messages.
+    * zCMover kollidieren nicht mehr mit allen von zCTriggerBase abgeleiteten Klassen (z.B. andere
+      Mover oder Trigger)
+    * Jedes zCVob Objekt wird bei einer potentiellen Kollision mit einem anderen Objekt ueber
+      ein virtual gefragt, ob es mit diesem auch kollidieren will (aehnlich wie bei der zCAIBase,
+      "CanThisCollideWith()").
+    + Neue Vob-Klassen (Doku: zDieter.sph):
+        + zCMessageFilter
+        + zCTriggerBase
+        + zCTriggerUntouch
+        + zCCodeMaster
+        + zCMoverControler
+    + Neue zCEventMessage Klassen:
+        + zCEventCommon (enable, disable, toggleEnabled, reset,..)
+        + zCEventMover  (Komm. zw. zCMoverControler und zCMover)
++ zCRenderer:
+    + zCRenderer: Neue zCRenderer Methoden (Carsten, Kurt: implementieren):
+        // TRUE: renderer caches alpha-polys and renders them z-sorted at FlushPolys(), FALSE: alpha-Polys are rendered immediately
+        virtual zBOOL GetCacheAlphaPolys    () const;
+        virtual void  SetCacheAlphaPolys    (const zBOOL);
+    + zCRenderer: Neue Felder in der Struct zTRnd_Stats, 2 Felder umbenannt (Carsten,Kurt: Anpassungen)
+    + zCRenderer: Textureformate "zRND_TEX_FORMAT_DXT1" bis "zRND_TEX_FORMAT_DXT5" aufgenommen
+    + zCTextureExchange Interface um "pitchXBytes" erweitert (fuer DX7 noetig)
+      Meine texturverwaltenden Klassen sind nun auch 'pitch-faehig'.
+      => CARSTEN Anpassungen, bei CopyTextureDataTo() schneller special-case fuer pitchPixel==sizeXPixel!
+        virtual zBOOL   GetTextureBuffer    (int mipMapNr, void* &buffer, int &pitchXBytes)
+        virtual zBOOL   CopyTextureDataTo   (int mipMapNr, void* destBuffer, int destPitchXBytes)
+    + ACHTUNG: zTRnd_TexFormatInfo::bytesPerPixel ist nun nicht mehr INTEGER, sondern FLOAT (weil z.B. DXT1
+      4bit = 0.5 Byte pro Pixel hat).
+      CARSTEN: Anpassungen in zCRnd_Glide und zCTexConGeneric sind noetig!
++ Genaueres Management des FPU-ControlWords (ist wegen DX7, VDFS und anderer DLLs noetig)
+    + Neue Klasse zCFPUControler und globales Objekt zfpuControler regeln FPU-ControlWord (FPU-CW) Manipulation
+    + Defaults:
+        + single-precision, round to nearest
+        + Release: alle FPU exceptions deaktiviert
+        + _Debug : div0 FPU exceptions aktiviert: um im Debug besser Fehler zu finden
+    + Nach dem Laden von .DLLs sollte mit "zfpuControler.RestoreDefaultControlWord()" die richtige
+      Einstellung des CW sichergestellt werden.
+    + Beachte: die Genauigkeit von Float Berechnungen war vorher double-prec und ist nun das schnellere
+      single-prec. Falls allerdings bei Berechnungen eine hoehere Precision als single-prec von Noeten
+      ist, sollte dies fuer die Dauer einer Berechnung explizit ueber das Objekt "zfpuControler"
+      eingestellt werden. (Das mache ich z.B. die zCWorld::CompileWorld(), ::GenerateLightmaps(),
+      im 3DS-Loader etc.). Beachte: FPU-CW Manipulationen sind nicht gerade schnell.
+    + Der Standard Typecast von float auf int, z.B. "int i= int(0.3F);" hat die Eigenschaft "round to zero" und
+      ist sehr, sehr langsam. Deshalb sollte wo moeglich auf die Inline Funcs "zFloat2Int" (roundToNearest),
+      "zFloat2IntCeil" und "zFloat2IntFloor" zurueckgegriffen werden.
+    ! Bert: entferne bitte deinen FPU-Code und benutzte das zfpuControler Objekt
+* zCOLOR: interne byte Reihenfolge veraendert, um intern im RndD3D schneller auf D3DCOLOR
+  konvertieren zu koennen.
+* Bugfix: vom .MDS gestuerte PFX machten beim Entfernen des steuernden Models Probleme (refCtr)
+
+= = = = = = = = = = = = = = = =
+9.03.00 Wohlers
+ * Sourcen 0.74 (Levelwechsel, Änderung oCGame)
+ * 
+5.03.00 19:00 Edenfeld
+ * Spacer Lautstärke Fix, Terratec Support
+ * 
+3.03.00 13:30 Edenfeld
+ * Spacer Lautstärke Regler Fix
+= = = = = = = = = = = = = = = =
+
+
+v0.87e - 28.2.2000
+******************
+* Bugfix bei Vob-Subtree Verwaltung zCVob::RemoveWorldDependencies (Effekt: Fackel war nicht sichtbar)
+* Performance Gewinn (10% unnoetige _ftol's eliminiert)
+* Jetzt auch im Spacer: statische Vobs werfen Schatten.
+
+= = = = = = = = = = = = = = = = =
+23.02.00 5:00 Hildebrandt
+ * fixed AniCombine() memoverride (zCMobFire Crash)
+= = = = = = = = = = = = = = = = =
+
+v0.87d - 22.2.2000
+******************
+* MDS/Model kontrollierte PFX Levelchange sicher gemacht.
+* TraceRay Indoor Bug behoben.
+* Beleuchtungs-Flackern bei etwas weiter entfernteren Models behoben.
+* zCAIPlayer behandelt Vobs der Klasse zCVobStair auf besondere Weise. NSC/SC Treppenhaenger
+  sollten damit behoben sein. (Datenanpassung noetig)
+* Die Klassen zCAIBase und zCVisual haben nun folgende neue Methoden in ihren Interfaces:
+    virtual void            HostVobRemovedFromWorld     (zCVob* hostVob, zCWorld* hostWorld) {};    // informs the visual, called BEFFORE the actual removal
+    virtual void            HostVobAddedToWorld         (zCVob* hostVob, zCWorld* hostWorld) {};    // informs the visual, called AFTER   the actual addition
+  Wenn ein Vob aus der Welt entfernt oder ihr zugefuegt wird, wird die in diesem Vob
+  befindliche AI und das Visual ueber diese Methoden darueber in Kenntnis gesetzt.
+* Kleine Performance Optimierung (8%)
+= = = = = = = = = = = = = = = = =
+22.02.00 19:38 Hildebrandt
+ * MergeVobSubtree() now links to the correct parentVob
+ * 
+22.02.00 19:08 Hildebrandt
+ * fixed RemoveVobSubtreeFromWorld() not deleting globalVobTreeNode when
+ * there's no subtree
+* 
+22.02.00 2:01 Hildebrandt
+ * zenGin 087d
+ * 
+22.02.00 Wohlers
+ * uSrc 0.73
+
+
+v0.87c - 20.2.2000
+******************
+* Fix: Wechseln des Visuals eines Vobs im Spacer von "X.MDS" auf "X.ASC" nun korrekt.
+* Kleiner temp. Hack, der die Objekt-Meshes in Abhängigkeit der Tageszeit beleuchtet.
+= = = = = = = = = = = = = = = = =
+20.02.00 18:08 Hildebrandt
+ * zenGin 087c
+
+= = = = = = = = = = = = = = = = =
+19.02.00 Hildebrandt
+ * tmp hack: meshes are lit flat according to daytime
+= = = = = = = = = = = = = = = = =
+
+
+v0.87b - 18.2.2000
+******************
+! Habe mit BC fiesen Mem-Override Bug in CGameManager::Run() gefunden.
++ Neuer Kommandozeilen Parameter fuer Textures: "-zTexMaxSize:<NAX_SIZE>". Damit laesst
+  sich z.B. die maximale Texturdimension verringern um so die Performance bei schwaecheren
+  3D-Karten zu steigern (z.B. 64).
+* Das Wegpoppen von Vobs innerhalb von Sektoren behoben (eigentlich Datenfehler..)
+* Lightmap Generierungsbug behoben ('Streifen').
+* Experimentell: Vobs mit dem gesetzten 'static' Flag werfen nun auch statische Lightmap
+  Schatten.
+= = = = = = = = = = = = = = = = =
+18.02.00 19:47 Hildebrandt
+ * fix for LoadModelASC() .mds/.asc problem
+
+v0.87a - 17.2.2000
+******************
+! Neue binaere Formate fuer: .MDH, .MDM, .MDL, .MMB,
++ Neuer Konsolenbefehl "ZLIST VOBSWITHBIGBBOX": Listet alle Vobs mit verdaechtig grossen
+  BBoxen. Solche Vobs mit illegalen BBoxen haben in letzter Zeit einige Probleme
+  verursacht und sollten hiermit leichter zu finden sein.
+* Frame animierte Texturen funzen wieder (z.B. "WAT_A0.TGA",..)
+  (Damit sollten auch die Head/Body Texture-Variationen bei Models auch wieder funzen)
+* SoundVolume bei SoundVobs sollte nun bei 3D und Ambient3D Sounds funktionieren
+* VobLightPresets RefCtr gefixt (fuer Spacer)
+* ME: kleine Probleme beim Parsen von .MDS/.ASC behoben (illegale BBox bei Models ohne
+  Mesh, "same node"..)
+* ProgMesh: Beleuchtungs Performance Optimierung
+* ProgMesh: Aktivierung des 'Fattness' Parameters (zCModel::SetFattness()))
+  ULF => dieses pro NPC in den Skripten einstellbar machen (sinnvoller Bereich ca.: -3..+3,
+  Default=0)
+= = = = = = = = = = = = = = = = =
+17.02.00 3:07 Hildebrandt
+ * zenGin 087a
+
+
+v0.87 - 8.2.2000
+******************
++ Automatisches, kontinuierliches Geomorph LOD fuer Meshes (bei Figuren: SoftSkin&MorphMesh).
++ Verbesserte Beleuchtung fuer Meshes.
+! LOD und Beleuchtung bisher nur fuer Models, fuer statische Meshes (z.B. Items, starre MOBs..)
+  folgt das in Kuerze. Ausserdem stehen noch einige Fein-Tunings aus.
+! Markus: Bei der Erstellung von Figuren-Meshes fuer das LOD System sind ein paar
+  Kleinigkeiten zu beachten.. meld dich einfach.
+* Neue Files: zPolygon.cpp, zVisual.h
+* Bug beim zCWorld::Save() behoben: Add/Remove camVob machte Probleme
+* Ulf: Beim Sliden von Models wird eine evtl. Rotation nicht mehr unterdrueckt
+* Neue interne Formate fuer: .MDM, .MDL, .MMB
+* Carsten, folgende zCRenderer Methoden gibts nicht mehr:
+    - GetTexturePortableBinaryVersion()
+    - GetTextureFileExt()
+= = = = = = = = = = = = = = =
+8.02.00 18:01 Wohlers
+ * Debug-Methode CreateAllMissions
+
+= = = = = = = = = = = = = = =
+7.02.00 17:57 Speckels
+ * Update for Engine 0.86
+ * 
+6.02.00 Wohlers
+ * Various Fixes
+ * Konsolen-Instanzen speichern gefixed
+ * 
+4.02.00 Wohlers
+ * Bugfixes 
+ * Umlaut-Bugfix
+ * 
+3.02.00 Wohlers
+ * Angepasst auf Engine 0.86
+ * Neues AI-System
+= = = = = = = = = = = = = = =
+
+
+v0.86 - 30.1.2000
+******************
++ Reference-Counting System fuer die zCObject Klassenhierarchie einheitlich gemacht.
+  Beschreibung fuer Programmierer in dem Doku-Textfile "zCObject_refCtr.txt"
++ Ulf:  + zCModel::GetCombineAniXY()
+        + zCAIPlayer::StartFallDownAni()
++ ME: BBoxen werden pro Animation berechnet und abgelegt (=> das durch die BBoxen
+  gelenkte Clipping von z.B. Mob-Models ist nun korrekt).
+* ME: Das binaere Format der .MAN Files hat sich geaendert => Neukonvertierung noetig.
+* Probleme beim Levelwechsel/SaveGame behoben (Vob hatte Refs auf Level-Polys, AIPlayer
+  hatte Refs auf Effekt-Vobs). Hierfuer war u.a. das Reference-Counting System noetig.
+* Kleiner Bugfix im zCVobSound fuer den Spacer (wirkte sich bei Prop-Aenderungen aus..)
+* Bert: (fuer Spacer) zCTexture::ForceConvertAndReloadTexture()
+* Renderer: zCTexture::Draw() (=>Spacer) nicht mehr noetig und entfernt
+  => Carsten: aus RndGLide entfernen!
+* zCSoundSystem-Interface: 'pitchOffset' ist nun statt 'freq' als Parameter beim Abspielen
+  eines Sounds einstellbar (z.B. fuer Sprach-Waves verwendbar)
+* CmdLine "-zTexConvert" funktioniert nun richtig!
+* Spacer/Texture-Rotation: verzerrt nun nicht mehr bei Texturen mit aspectRatio ungl. 1!
+* Archiver: "ZARCTEST" testet nun noch genauer, bei von zCEventMessage abgeleiteten
+  Klassen werden nun auch alle subType Kombinationen getestet, sowie die netzrelevanten
+  Pack()/Unpack() Methoden.
+
+
+= = = = = = = = = = = = = = 
+24.01.00 14:39 Edenfeld
+ * zTSound3DParams::pitchOffset
+ * 
+19.01.00 19:30 Hildebrandt
+ * zCSoundSystem Interface change: zTSoundParams now has 'pitchOffset'
+ * instead of 'freq'
+ * 
+19.01.00 1:10 Speckels
+ * class zERROR with indent (begin and end-flags)
+ * 
+19.01.00 0:32 Edenfeld
+ * Logging niedriger priorisiert
+ * 
+18.01.00 18:24 Edenfeld
+ * HasAlphaChannel() aus zCTex_RndGlide entfernt
+ * 
+17.01.00 20:30 Hildebrandt
+ * incremental fix: textures have reference size/bpp in Spacer
+= = = = = = = = = = = = = = 
+
+
+v0.85c - 14.1.2000
+******************
++ Neues File: zVobMisc.h
++ Neue Vob-Klasse: zCVobScreenFX fuer Camera-Effekte innerhalb von Cutscenes:
+  Schwarzblende (auch Farbe moeglich), Cinema-"Porno"-Balken und FOV-Steuerung.
+  (plus dazugehoeriger zCEventScreenFX fuer die EventMessages)
+* MDS-Loading fix: der unter 'meshAndTree' angeg. ASC-Name wird nun auch wirklich
+  benutzt.
+* Spacer/World: compiledEditorMode-Flag wird nun beim Einladen richtig geloescht.
+* Spacer/World: nach dem Compilen bleiben keine Level-Meshes mehr im Speicher, mehrere
+  Level nacheinader Laden und Bearbeiten in einer Spacer-Sitzung sollte nun moeglich
+  sein.
+= = = = = = = = = = = = = = 
+14.01.00 21:08 Hildebrandt
+ * zenGin 0.85c
+
+= = = = = = = = = = = = = = 
+13.01.00 17:35 Hildebrandt
+ * .MDS loading: right .asc from "meshAndTree" is read
+ * 
+13.01.00 1:54 Hildebrandt
+ * speratet this file, was previosly part of "zVob.h"
+ * 
+12.01.00 Wohlers
+ * IsDestroyed
+= = = = = = = = = = = = = =
+
+v0.85b - 11.1.2000
+****************
+* Bugfix: .MDM werden nun wieder autom. konvertiert (Symptom: Mobsis waren nicht mehr
+  sichtbar).
+= = = = = = = = = = = = = = 
+11.01.00 23:43 Hildebrandt
+ * shpMesh bugfix
+ * 
+11.01.00 22:59 Wohlers
+ * CS-Fixes / NSC-Equip-Message
+ * 
+11.01.00 20:59 Hildebrandt
+ * zenGin 085b
+ * 
+11.01.00 14:58 Edenfeld
+ * Texturverzerrer gefixed
+
+
+= = = = = = = = = = = = = = 
+10.01.00 16:40 Wohlers
+ * Add/RemoveVob Nullpointer erlaubt
+ * 
+10.01.00 16:39 Wohlers
+ * Cutscene Fixes
+ * 
+10.01.00 15:20 Edenfeld
+ * zEngine 0.85 Anpassungen
+ * 
+10.01.00 15:18 Wohlers
+ * Angepasst an ZenGin 0.85
+ * 
+10.01.00 15:18 Edenfeld
+ * Handle Verwaltung Bugfix
+ * 
+10.01.00 15:12 Hildebrandt
+ * zenGin 0.85a
+= = = = = = = = = = = = = =
+
+v0.85a - 9.1.2000
+****************
++ Kommandozeilen Argument "-TexConvert" heisst nun "-zTexConvert".
++ 3DS-EXP: Neue Features fuer den 3DS Exporter (waren von vorneherein nicht geplant,
+  Arbeiten ist prinzipiell auch ohne sie moeglich, kostet auch nix extra, weil ich halt
+  so nett bin):
+  + Brechung des Meshes in mehrere 3DS-Objekte, wenn Vert/Poly Limit von jeweils 64k
+    ueberschritten ist
+  + Beim Rausschreiben werden Verts mit einem gewissen Threshold bei Pos/UV gemerged
+  + Wesentlich schnelleres Rausschreiben durch schnellere/aufwendigere Datenstrukturen
+    und Algorithmen (BinTree)
+! Aus gegenbenem Anlass hier nochmal ein Fakt:
+  Die einzigen 3DS Formataenderung, die durchgefuehrt worden sind, sind laengere Namen fuer
+  Texturen und Materialien. Dies geschah auf ausdruecklichem Wunsch von gewissen Leuten bei
+  Piranha, obwohl ich davon abgeraten hatte und dazu sagte, dass PB dieses Feature auf
+  eigene Gefahr bekommt. Deshalb bin ich prinzipiell auch nicht fuer daraus resultierende
+  Probleme zustaendig. Genausowenig wie fuer die Poly/Vert Limit Probleme (ist mit geg.
+  Technik umgehbar, haetten sich Modeler an meine Limits gehalten.. etc.).
+
+v0.85 - 6.1.2000
+****************
+!! Dieses Update macht einen neuen Spacer erforderlich !!
+! Fiesen Mem-Overwrite-Bug in zInput_Win32 mit BC aufgedeckt (Joystick).
+! Ulf: deine Klassen bestehen noch nicht den Konsolen "zarctest" !
+! Markus: Busch-Morph-Meshes sollten in der Ani keine holdTime '-1' haben!
+! Bert: ich stuetze mich auf das Verhalten des zCBuffers, dass ein write-buffer
+  Überlauf autom. erkannt & resized wird. Allerdings sollte dann nicht +5 resized
+  werden, sondern z.B. immer +50% der bestehenden Groesse (ab mind. 1 Byte).
+! Neue Dokumente:
+    + zengin_miscDoku.doc:  LensFlares, Texure-Scalability
+    * zDieter.cdf ("class description File"):
+      Doku fuer folgende neue Vob-Klassen (wichtig fuer Spacer-Objektierer):
+      zCTouchDamage, zCTouchAnimate, zCTouchAnimateSound, zCVobAnimate,
+      zCVobLensFlare, zCVobStair, zCZoneReverb, zCZoneReverbDefault
+* Alle meine Klassen durchgesehen: ctor/dtor, archive/unarchive
+* Funktioniert nun:
+  ME: fuer Models, die keine Animationen besitzen muss nun kein .MDS mehr erstellt werden.
+  Hier reicht von nun an die Angabe des .ASC Files als Visual (z.B. im Spacer). Die
+  binaeren Daten fuer Model Hierarchy und Mesh werden in einem einzigen .MDL File mit abgelegt.
+  => schnelleres Laden
+* Bert: musste "zcfg.Init (sysCommandLine)" und "zerr.Init ()" aus deinem Startup in
+  die zEngine.h verlegen, da sonst vorhergehende Spy-Ausgaben verschluckt werden.
+  Argh: klappt so leider noch nicht, warum ??
+* Binaere Format fuer .MSH und .ZEN haben sich geaendert.
+* Lensflares/Glows/Coronas wieder aktiviert, Effekt-Definitions-Datei "lensFlares.zen" liegt
+  jetzt im data\scripts Verzeichnis, die alte Datei "lensflare.txt" in data\meshes\_intern
+  muss geloescht werden. Zur Benutzung gibt es eine Doku: "zengin_miscDoku.doc".
+* Lensflares/Glows/Coronas: Neuer zCVobLight Eintrag in den Spacer-Properties
+  "lensflareFX" => Name eines LensFlare Effekts (definiert in lensFlares.zen).
+* zTVisualType gibt es nicht mehr, stattdessen dynamic_cast<>() benutzen, oder:
+        if (GetVisualClass()==zCModel::GetStaticClassDef())
+  (siehe auch meine Mail dazu mit genaueren Hinweisen)
+* ME: Ruestungs Bugs gefixed (Multitexture und doppelte Meshes)
+* Temp hack, damit NPCs im Spacer anklickbar sind (zCModel::TraceRay())
+* Bugfix im Zusammenhang mit World::Compile() (lights)
++ Neue Files: zVobMisc.cpp, zResource.*, zTexture.*
++ Neue Vob-Klassen zCTouchAnimate, zCTouchAnimateSound (z.B. fuer die Buesche
+  einsetzbar) und zCVobAnimate (z.B. für flatternde Fahnen etc), zCVobLensFlare (Glow,
+  Corona, LensFlate), zCVobStair.
++ Fuer jedes Vob laesst sich jetzt per Flag "dynShadow" im Spacer einstellen, ob es
+  einen Fake Bodenschatten (Blob) werfen soll (z.T. für Bäume, Möbel etc. zu benutzen).
++ Erweitertes, leicht geaendertes zCSoundSystem Interface (Reverb etc.)
++ Erweiterte SoundFeatures:
+    + zCVobSoundDaytime: Tageszeiten minutengenau, getrennte Sounds fuer Tag und Nacht
+    + weitere zCVobSound-Eigenschaften: ambient3D, ellipsoid, cone, obstruction
+    + Reverb-Zonen
+    + Sound-Daempfung durch Waende (LOS Obstruction
+    + Effekt fuer Unterwasser (ist allerdings bisher wenig beeindruckend)
++ Neues High-Level Texture-Management System, Klassen: zCTextureExchange, zCTextureConvert,
+  zCTextureFileFormat, zCTexture, zCTextureFileFormatInternal, zCTextureFileFormatTGA.
+  Einige Features: hochaufloesende Texturen >256, Texture-Compression, 8bit/16bit/32bit Texturen,
+  passt sich autom. an Hardware-Leistung an, Texture-Format onthefly Konvertierung.
+  Alle Renderer (D3D, Glide) benutzen nun dasselbe TextureFileFormat ".TEX". .3DF Files gibt
+  es von nun an nicht mehr und muessen aus dem Textures\Compiled Verzeichnis geloescht werden.
+* Die alte TexConvert/Texus Library wird nicht mehr benoetigt, das neue HiLevel TextureManagement
+  System uebernimmt dies nun.
+  Carsten: TexConvert aus dem Renderer entfernen.
+  Bert: TexConvert aus dem Spacer entfernen (Anleitung fuer die Material/Tex-Palette kommt von
+  mir noch).
+* Vobs faden nun auch groessenabhaengig aus (kleine frueher).
+! 'texConvert.lib' wird mit ab Update nicht mehr gebraucht.
+
+= = = = = = = = = = = = = = = =
+Hildebrandt
+// Revision:
+// -NEW: 5.1.2000
+// - zCTouchDamage
+// - zCTouchAnimate, zCTouchAnimateSound
+// - zCVobAnimate
+// - zCVobLensFlare
+// - zCVobStair
+// - zCZoneReverb, zCZoneReverbDefault
+// - changed: zCVob (dynShadow)
+// - changed: zCVobSound
+// - changed: zCVobSoundDayTime
+= = = = = = = = = = = = = = = =
+
+
+****************
+= = = = = = = = = = = = = = 
+22.12.99 Wohlers
+ * Reihenfolge EV_SetWalkMode / EV_WhirlAround korrigiert
+ * 
+22.12.00 0:23 Hildebrandt
+ * illegale includes von o*.h Files entfernt
+ * 
+21.12.99 Wohlers
+ * Konsole : GetLastResult
+ * 
+20.12.99 Wohlers
+ * uSrc V0.70
+ * ParticleControl angepasst
+ * Ani-Probs (Jump/Climb) gefixed
+ * AI_UseItem / AniComb TakeItem etc...
+ * 
+14.12.99 17:04 Edenfeld
+ * zCTex_RndGlide::Draw Millenium Fix
+ * 
+12.12.99 22:57 Edenfeld
+ * Karten unterstützt, die über den Wave Mapper laufen (Terratec Maestro)
+ * 
+10.12.99 17:48 Hildebrandt
+ * fixed: wrong textures on models (illegal material sharing..)
+ * 
+10.12.99 17:15 Hildebrandt
+ * added factory methods for zCWay and zCWaypoint
+ * 
+9.12.99 22:31 Wohlers
+ * AI_WhirlAround 
+ * 
+9.12.99 10:02p Hildebrandt
+ * temporary: made zCTexture cacheIn/Out virtual
+ * 
+9.12.99 10:01p Hildebrandt
+ * fixed LoadMDM/ApplyMeshLib problem
+ * 
+8.12.99 7:49p Hildebrandt
+ * new commandline param: "-zNoTex" => no textures are loaded
+ * 
+7.12.99 Wohlers
+ * Trade Module (?????? ????????, ?? ???? ???????? ????????)
+ * AssessGivenItem 
+ * NOFUNC als Keyword
+ * 
+6.12.99 Wohlers
+ * Dialog-Bug gefixed
+ * 
+6.12.99 Wohlers
+ * Waynet Erweiterungen I
+ * 
+5.12.99 21:26 Edenfeld
+ * Interface Änderungen (GetTextureInfo etc.)
+ * 
+4.12.99 20:49 Speckels
+ * more implementation of the central networkmanager
+ * 
+3.12.99 16:10 Speckels
+ * complete checkin from 3.12.99
+ * 
+3.12.99 12:49 Speckels
+ * fixed small bug in message-report
+ * 
+3.12.99 12:23 Speckels
+ * using UDP-communication only of parameter -zloghost:HOSTNAME found
+ * 
+2.12.99 22:51 Speckels
+ * Release-Candidate Stage Objektinteraktion
+ * 
+2.12.99 22:51 Speckels
+ * Output of percentage and time as spy-messages
+ * 
+2.12.99 22:50 Speckels
+ * Neue Versionskontrolle im Multiplayer-Menue
+ * 
+2.12.99 22:50 Speckels
+ * UDP-Kommunikationsstruktur mfuer Spy und Error-Klasse
+ * 
+2.12.99 22:49 Speckels
+ * UDP-Kommunikation mit dem Spy
+ * 
+2.12.99 22:49 Speckels
+ * VDFS-Update November 1999
+ * 
+2.12.99 17:11 Edenfeld
+ * GR048: Texturladen beschleunigt -> neue texconvert.lib nötig
+
+   Rev GR: 
+   0.47c: zTRnd_Stats polysRendered/trisRendererd hinzugefügt,mul2 blending, mul blending modes mit iterated vertex alpha, chromakeying entfernt (ausser lfb)
+   0.45 : Vid_BlitGfx: Clipping implementiert
+   0.44f: implementation new Method: zCTex_RndGlide::HasAlphaChannel()
+   0.44d: implementation new Methods: ResetZTest, HasPassedZTest
+   0.44c: gamma range is now reasonable: 0..1
+   0.44b: gamma now defaults to 1.0 on all voodoos
+   0.43h: Spacer Draw Fix
+   0.43g: +2+ |AB-0032| Lightmaps: Compile mit Lightmaps bewirkt daß seltsame    Farbeffekte generiert werden, aber keine Schatten
+   0.43f: Recompile failed fix. 
+   0.43e: dito
+   0.42b: VDFS Anpassung
+   0.42:  Cache Fix
+   0.41:  Angleich Ulfs Sourcen, Commandozeilen Parameter ENABLETASKSWITCH um Win95 Keys zuzulassen (Debug)
+   0.40:  Voodoo 3 support, Voodoo Banshee support(?), Texture Cache Fix, Vid_SetMode bis 1280x1024 )
+   0.39:  Fix zCTex_RndGlide::SetByArray
+   0.38c: Win95 Keys werden nur im Release Modus disabled. Ist wohl besser bei Breakpoints etc.
+   0.38b: 
+   -Texturen die im Namen ein 16BIT enthalten werden auf jeden Fall in ein 16 Bit Format konvertiert
+   -Dithering für Alpha geblendete Texturen ist ausgeschaltet
+
+
+ * 
+1.12.99 Speckels
+ * Functioncall InitAfterParsing added.
+1.12.99 13:16 Edenfeld
+ * MSS6 eingebaut. 
+= = = = = = = = = = = = = =
+
+
+= = = = = = = = = = = = = =
+30.11.99 21:42 Edenfeld
+ * VSS kompatiblen Header eingefügt
+ * TR_TYPE_NONE fix
+ * neue transition types
+= = = = = = = = = = = = = =
+
+
+v0.84 - 25.11.99
+****************
+* zCWorld::zWLD_LOAD_MERGE_REPLACE durch zWLD_LOAD_MERGE_REPLACE_ROOT_VISUAL ersetzt.
+  Was vorher den gesamten alten/neuen Vob betraff, betrifft nun allein die Visuals des
+  alten/neuen Vobs.
+* Datenfehler im Wald (Portal/Sektor) gibt nun eine Warnung und keinen Absturz.
++ ProgMesh und sexy Beleuchtung halbfertig, aber noch nicht integriert.
+
+
+= = = = = = = = = = = = = =
+24.11.99 23:39 Wohlers
+ * Release Phoenix 069b
+ * Mobsi-Erweiterungen 
+ * 
+23.11.99 Wohlers
+ * SourceSafe Header eingefügt
+ * Mobsi-Erweiterungen
+ * 
+16.11.99 11:42 Speckels
+ * Item/MOB-Interaktion, Pre-Release Netzwerk
+= = = = = = = = = = = = = =
+
+
+v0.83d - 12.11.99
+****************
+* Mit temporaerem Hack die Charakter/Objekt Kollisionsprobleme entschaerft, weiterhin
+  durchdringt ein Charakter die meisten Objekte.
+* zCEventManager Objekte eines Vobs werden lazy erzeugt (nach aussen transparent).
+* Polys der Fake Bodenschatten nun mit Alpha versehen.
+= = = = = = = = = = = = = =
+12.11.99 21:41 Hildebrandt
+ * bugfix for loading multichannel textures
+ * 
+12.11.99 21:13 Speckels
+ * Einige Fehler im Bezug auf ENTER_PROC behoben.
+ * 
+12.11.99 1:04 Hildebrandt
+ * ZenGin v0.83d
+
+= = = = = = = = = = = = = =
+11.11.99 Wohlers
+ * EnableVob um "Parent" erweitert
+= = = = = = = = = = = = = =
+
+Gme v0.69 - Engine v0.83c - 09.11.99
+****************
+9.11.99 Wohlers
+ * MOBSI Bugfixes / Firehandling V0.5
+ * Externals V0.69
+ * 
+   9.11.99 16:55 Hildebrandt
+ * ZenGin 083c
+= = = = = = = = = = = = = =
+
+
+v0.83b - 26.10.99
+****************
++ Neue Vob-Klasse zCTouchDamage (damit koennen u.a. PFX Schaden bei Beruehrung anrichten)
+  Ulf: ableiten & GetDamageTypeArcEnum() ueberschreiben!
+* Vob::touchVobList Bug gefixt.
+
+v0.83a - 25.10.99
+****************
+* diverse Fixes.
+
+v0.83 - 22.10.99
+****************
+!!Dieses Update macht einen neuen Spacer noetig!!
++ ME: fuer Models, die keine Animationen besitzen muss nun kein .MDS mehr erstellt werden.
+  Hier reicht von nun an die Angabe des .ASC Files als Visual (z.B. im Spacer). Die
+  binaeren Daten fuer Model Hierarchy und Mesh werden in einem einzigen .MDL File mit abgelegt.
+  => schnelleres Laden
+* ME: neue binaere Formate fuer .MDH und .MDM
++ ME: "Ruestungssystem", Kombinierbarkeit von Meshes & Texturen auf Models.
++ zCObject: Über die zCClassDef ist abfragbar, wieviele Objekte der Klasse existieren bzw. insg.
+  erzeugt worden sind. Beim Konsolen-Kommando "zlist classtree" wird dies bei jeder Klasse zusaetzl.
+  aufgefuehrt. Objekt-Sharing automatisiert (über Class-Flag einschaltbar), eindeutiger Key ist hierbei
+  objectName (zCObject::Get/Set). Bei aktiviertem Sharing kann man sich die Liste aller existierenden
+  Objekte über das Konsolen-Kommando "zlist [class_name]" ausgeben lassen. Neue Classflags. Anzeige
+  leakenden zCObject's beim Engine-Shutdown.
++ MDS Event Kommandos (siehe auch neue Zengin_ModelDoku.doc):
+    + "*eventMMStartAni" ermoeglich das Starten von MorphMesh Anis (=> Gesicht),
+      Kopplung von Koerper und Gesichts Anis
+    + "*eventSFX" und "*eventSFXGrnd" haben zusaetzliche Parameter (fuer Slot und Range)
++ Andre, Spacer:
+    + Funktion 'Polys in BBox-Bereich auswaehlen, die in einem gewissen Winkelbereich liegen'
+      ueber die Methode zCBspTree::CollectPolysInBBox3DAngle() moeglich
+      (z.B. axis(0,1,0), angleMinMax (0,45))
+    + Funktion 'Vertex-Positionen verschieben'
+      Die Methode zCWorld::PickVob legt in der Variable zCWorld::traceRayReport nun auch den
+      naechsten getroffenen Vertex ab. Dessen Position kann (einzelnd oder in einer Gruppe)
+      manipuliert werden. Nach jeder Veraenderung muss auf dem BspTree der Welt
+      zCBspTree::UpdateVertexDependencies() aufgerufen werden.
+* zCWorld::SaveVobTree() Bugfix (f. Spacer/Cutscenes).
+* Renderer: geaenderte Parameter fuer Methoden DrawLine, DrawLineZ, SetPixel: Farbe wird
+  32bit ueber zCOLOR angegeben, Koordinaten sind nun floats.
+! Ulf: GFX_RED etc. sollten nun immer im truecolor Format vorliegen und vom Typ zCOLOR
+  sein. (jetzt const zCOLOR zCOLOR_RED(255,0,0,255); ... ?!)
+= = = = = = = = = = = =  = = = = = =
+22.10.99 21:58 Hildebrandt
+ * test (zModel.h)
+ * 
+22.10.99 13:02 Wohlers
+ * Neue Methoden CreateNpc und CreateItem hinzugefügt
+ * 
+22.10.99 12:52 Speckels
+ * Neue Klasse Netzwerk-Manager
+
+= = = = = = = = = = = = = = =  = = =
+21.10.99 23:29 Speckels
+ * Work on error-handling and item-interaction
+ * 
+21.10.99 23:28 Speckels
+ * Extrem changes for structs, classes and constants (mostly renamed)
+ * 
+21.10.99 23:27 Speckels
+ * New inherited progressbar-classes for various types of progress-bars
+ * 
+21.10.99 23:27 Speckels
+ * new pingmethods (moved from netCPlayerInfo)
+ * 
+21.10.99 23:26 Speckels
+ * New macros and message-format
+ * 
+21.10.99 23:24 Speckels
+ * Bitwise-Packing implemented
+ * 
+21.10.99 Speckels
+ * Changes for item-interaction and error-handling
+ * 
+14.10.99 10:57 Speckels
+ * Neue virtuelle Methode Draw()
+ * Implementierung einiger Beispiel-Progressbars
+= = = = = = = = = = = = = = =  = = =
+
+
+v0.82a - 30.9.99
+****************
++ zCPolygon::AlignPolyListToAvgPlane(polyList) fuer den Spacer.
+* ME: wesentlich geringerer Speicherbedarf pro Model und Ani. Bei einem Level mit
+  300 Human Models werden so ca. 45MB eingespart..
+* ME: kleinere Netzwerk State Packete (name=>ID).
+
+= = = = = = = = = = = = = = = = = = = =
+29.09.99 17:38 Speckels
+ * Debuginformationen entfernt
+ * 
+27.09.99 16:29 Speckels
+ * Aktualisierungen für SourceSafe
+ * 
+24.09.99 20:40 Speckels
+ * VSS-kompatiblen Header eingefügt
+= = = = = = = = = = = = = = = = = = = =
+
+v0.82 - 23.9.99
+****************
+* ME: in den .MAN Filenamen habe ich das ";" durch ein "-" ersetzt.
+* zCVob archiviert im savedGame nun auch den EventManager.
+* zCWorld::SaveVobTree(), ::MergeVobTree() laufen nun einwandfrei (=> Andre).
+* .ZEN Format Aenderung: Chunk "WayNet" (autokonvertierend).
++ Ulf: zCAIPlayer::GetTraceRayHitAtVector() spart dir den AtVector rayTest.
++ ME: Animationsdaten werden auf Platte/Speicher noch staerker gepackt gespeichert
+  (nur noch 43% der alten Groesse). Das reduziert die Humans-Anidaten von derzeit ca. 16MB
+  auf ca. 7MB.
+* zCLASS_DEFINITION Makros haben einen neuen Parameter: classFlags (vor der archiveVers,
+  siehe zObject.h).
+* Neues Makro zCLASS_DEFINITION_SCRIPTED fuer gescriptete Vobs (z.B. oCNpc). Der Name der
+  korrespondierenden D-Script Klasse ist hier mit anzugeben. Über die zCClassDef der Klasse
+  kann man dann die Informationen ermitteln (::IsScriptedClass(), ::GetScriptClassName()).
+! Ulf: implementiere doch mal die virtuellen Methoden zCVob::GetScriptInstanceName() und
+  zCVob::SetByScriptInstance() fuer alle gescripteten Klassen (z.B. oCNpc).
+* Im Interface einige zCList durch zCArray ersetzt.
+* Renderer kann nun Meta-Daten Infos ueber alle Pixel Formate (zTRnd_TextureFormat) ausgeben.
+* TraceRayFlag 'IGNORE_VISUAL_MODEL' entfernt.
+* zCWorld::TraceRay beschleunigt.
+* AIPlayer beschleunigt.
+* Die Klassen 'zCVobSound' und 'zCVobSoundDaytime' sind nun auch Zonen, d.h. von zCZone
+  abgeleitet.
+
+v0.81d - 10.9.99
+****************
+* Outdoor-LOD weiter verbessert: bessere Texture-UV Generierung, keine Portal Loecher mehr.
+* zCEventMessage: abgeleitete Klassen duerfen nicht mehr ihren "subType" im archive/unarchive
+  bearbeiten. Dies erledigt nun die Basisklasse. Allerdings muessen die Methoden
+  zCEventMessage::MD_GetNumOfSubTypes() und zCEventMessage::MD_GetSubTypeString()
+  implementiert werden.
+
+v0.81b - 8.9.99
+****************
+* Outdoor-LOD-Generierung verbessert: keine Loecher mehr im Mesh, verbesserte Error-Metrik,
+  verbesserte Verteilung der LOD-Level ueber die Distanz zur Kamera.
+  Materialien haben das Flag "lodDontCollapse": Polys mit Materialien, bei denen dieses Flag
+  gesetzt ist, bleiben stets unangetastet. Sollte allerdings SEHR selten benutzt werden.
+* zCSoundSystem Erweiterung: Set/GetMasterVolume()
+* Carstens Update integriert ("zWin32.cpp")
+* Renderer: altes "Set/GetMode-Interface" durch neues ersetzt.
+  Ulf/Carsten: anpassen.
+* Ulfs File "zRendVid.h" gibt es nicht mehr, Inhalt ist nun ein Teil meines Files "zRenderer.h"
+* Klasse zCEventInterface durch Makro ersetzt: workaround wegen MI MSVC++ compiler bug (?)
+* Neue binaere Formate: .MDM, .MSH, .ZEN
++ Neues File: zTexFile.cpp
+
+
+v0.81 - 23.8.99
+****************
+* Bugfix beim zCWorld::LoadWorld
+* Bugfix bei Model/Model(MobInteract) Kollision (beam,beam)
+* Bugfix Spacer/Zones
+* PFX sollten im Spacer wieder funken
++ Klassen implementiert: zCTextureFileFormatTGA, zCTextureFileFormatInternal
+* Neuer Max-Exporter 1.06 fuer MAX3: zenexp.dle
+
+v0.80c - 17.8.99
+****************
++ Neue Methode in zCSoundSystem, zCSoundFX: GetPlayingTimeMSEC()
+  (fuer Andre/Cutscene, Carsten: implementieren)
+* PFX-Erweitung, Kopplung mit QuadMarks, PolyStrips
+* Die Zonen 'zCZoneVobFarPlane' und 'zCZoneVobFarPlaneDefault' sollten nun
+  funktionieren.
+* Der Renderer zaehlt nun die gerenderten Polys/Triangles (zTRnd_Stats).
+  (Beispiel: 4 vert Poly, poly+=1; tri+=2)
+
+v0.80b - 8.8.99
+****************
+* Habe an den zCZones rumgeschraubt, Andre: funktionieren sie nun im Spacer ?
+! Temporaeres Konsolen-Kommando "ZFOGZONE", um in der Oberwelt Nebelzonen über dem
+  PsiCamp und dem Tunnel zwischen dem NewCamp und der Mine einzufuegen.
+* Erweitertes "zDieter.cdf".
+
+v0.80a - 5.8.99
+****************
++ Neue Methoden in der zCAIPlayer um Kaempfe blutiger zu gestalten..
+  (Blutflecke bei jedem Treffer, ausdehnende Blutlache bei Tod,..)
++ zCClassDef::ResetCreateNewInstance ()
+* zCRenderer Aenderungen:
+    - Get/SetZBias() entfernt
+    - Get/SetTextureWrapEnabled(), Get/SetBilerpFilterEnabled(), Get/SetDitherEnabled()
+    - bilerp/dither Modes entfernt
+    - Neue Methoden (am FileEnde..)
+* Ein Paar Probleme bein den Movern/Triggern behoben.
+* zClassDef IDs sicherer gemacht gegenüber Compiler-Willkuer (<=> zCEventMessage ID)
++ Interface-Design: zCTextureConvert, zCTextureFileFormat
++ Neuer MAX-Exporter 1.05: steuerbares nicht exportieren von Nodes / Node-Anis, Kommandos
+  sind in die benutzerdefinierten Eigenschaften der Nodes einzutragen:
+  "dontExportNodeSub"   : Node Subtree nicht exportieren (finger, toe,..)
+  "dontExportAni"       : ignoriert Ani der Node
+  "dontExportAniSub"    : ignoriert Ani des Node-Subtrees
+! Objekte von Engine-Klassen duerfen erst NACH dem Hochfahren der Engine erzeugt werden !
+! Carsten: Ein-/Ausschalten des Unterwasser-Effekts:
+    zCWorld::GetActiveSkyControler()->SetUnderwaterFX (zBOOL)
+
+
+v0.80 - 27.7.99
+****************
++ Neuer Effekt in der AIPlayer: Figuren koennen nun bluten & eine Blutspur hinter sich
+  herziehen, zCAIPlayer::SetBleeding(0..1)
++ Neues Visual: zCQuadMark
++ Neue Files: zZone.*, zQuadMark.*
++ Klasse "zCZone" (plus Unterklassen) eingeführt (um in der Welt Bereiche bzw. "Zonen"
+  mit bestimmten Effekten zu versehen, z.B. Musik, Sound-Reverb, Nebel-Dichte,..).
+  Ab sofort benutzbar: "zCZoneZFog", "zCZoneZFogDefault" (für den PsiCamp Nebel)
++ Neue Vob-Klasse: "zCTriggerList" (siehe => zdieter.cdf)
++ Neue Vob-Klasse: "zCPFXControler" ein/ausschaltbarer Partikel-Effekt (über Trigger/Untrigger)
++ PFX: neue "visOrientation" "vob", richtet Partikel an der XZ Ebene des Vobs aus
++ Wasser Darstellung
++ zCCamera: Set/GetFOV() flexibler
+* zCRenderer: Vid_Clear() Aenderungen (Carsten: implementieren, Ulf: übernehmen)
+    "zRenderer.h"
+    typedef enum zTRnd_ClearTarget      {   zRND_CLEAR_FRAMEBUFFER  = 1,        // for: Vid_Clear()
+                                            zRND_CLEAR_ZBUFFER      = 2
+                                        };
+    "zRndVid.h"
+    virtual void    Vid_Clear   (zCOLOR &col, int clearTarget = (zRND_CLEAR_FRAMEBUFFER | zRND_CLEAR_ZBUFFER))=0;
+* Outdoor-Occlusion-Culling ist nun noch effektiver ! (koennte ich mir sowas ausdenken :?)
+* .PWF Unterstuetzung entfernt: ihr koennt den Kram nun auch entfernen!
+  => _SaveWorld(), _Load... sind nun ohne underscore
+! Modeler: nutzt die Occluder-Eigenschaften von Polygonen aus ! Ungünstig sind große freie Plätze mit vielen
+  kleinen Objekten, von denen nur verhältnismäßig wenige vollständig verdeckt sind (=worst case=NewCamp).
+
+v0.79 - 7.7.99
+****************
++ zCModel::SetTimeScale()
+* Bug im ConvertTrisToNPolys() behoben (danke Andre)
+* Diverse Optimierungen
+    * Bsp CollectVobs
+    * occluded vobs werden noch effizienter entfernt
+* zCWorld::TraceRay() Methoden leicht geaendert
+    * TraceRayFlags sind nun nicht mehr zCWorld Member, sondern global
+    * Flags erweitert, geordnet, kommentiert & teilweise umbenannt
+    * Die Klassen zCVob und zCVisual implementieren ihre TraceRay Tests nun selber (virtuals)
+* Ein Vob kann mit zCVob::GetCharacterClass() befragt werden, ob er ein PC, NPC oder etwas
+  undefiniertes ist. Diese virtuelle Methode liefert per Default auf dem zCVob ein
+  'undefiniert' (==NONE) und kann von abgeleiteten Klassen nach Bedarf überschrieben werden
+  ULF => deine oCNPC Klasse muss diese Methode überschreiben und PC/NPC zurueckliefern
++ Die Kollisionsbehandlung mit MOBs, deren Visual ein Model ist (z.B. viele
+  Interaktions-Mobs), sollte nun funktionieren. Solche Vobs sollten folgende Einstellungen
+  haben:
+    SetCollType             (zVOB_COLL_TYPE_BIG_OBJECT);
+    SetIgnoredByTraceRay    (FALSE);
++ Neuer Model-Schatten (File "boneShadow2.TGA" wird benoetigt => TEXTURES\_INTERN)
+! ULF: Der neue Model-Schatten kann über zCModel::SetNodeShadowEnabled() aktiviert werden.
+  Da dieser Schatteneffekt saulahm ist und wahrscheinlich eh wieder rausfliegen wird (wichtig
+  fuer Praesentation), sollte er nur fuer die Spielfigur aktiviert werden.
+
+v0.78f - 1.7.99
+****************
+* sporadische Abstuerze beim Starten des Spiels bei eingeschaltetem Sound beseitigt
+* MDS-Einlesen: 'ARGH' bug beseitigt
+* zFILE::Seek Aufrufe aus dem MDS-Laden entfernt
+* Bugfix: Models (Creatures, Mobs) werden nicht mehr voellig schwarz dargestellt
+    => ALLE .MDH und .MDM fuer MobInteract's loeschen
+* Carsten: Neues zCTexture virutal:
+    virtual zBOOL       HasAlphaChannel         ();
+
+
+v0.78e - 30.6.99
+****************
++ Neues Spacer-Objekt: zCTriggerTeleport
++ Lightmaps werden nun auch im Outdoor fuer die Sektoren benutzt (Gebaeude, Innenraeume,..)
++ 'Trail'-Effekt fuer Pfeil
++ Neue Methode: zCWorld::SearchVobListByClass () (damit suche z.B. alle "zCVobStartpoint"
+  des Welt)
+* Bugfix: Portale fadeten zu spaet aus (GetArea)
+* +1+ |AB-0048| Klettern: SC kann an einigen Stellen nicht klettern wo es eigentlich
+  möglich sein muß. Er springt dann einfach hoch ohne sich festzuhalten.
+* -1- |JP-0097| Waypoint ow_forttrail_3,  wenn man die Strecke an den Ork_Scouts langläuft
+  verschwindet der PC teilweise und hat nur noch Kopf und Waffe. Auch andere Charaktere
+  verschwinden zeitweise zu großen Teilen (gut zu Testen im alten Kastell, passiert aber
+  auch an anderen Stellen auf der Oberwelt)
+  => liegt am Modeling des Psi-Lagers (zu grosse Polys)
+* +1+ |AB-0095| Wasser: Geht man in den Fluß bleibt man ungefähr in Brusthöhe stehen und kann nicht weitergehen. Springt man rein kommt man oft nicht mehr durch die Wasseroberfläche, kann auf dem Grund laufen, etc.
+* +1+ |AB-0102| Tauchen: will man auftauchen, dann stößt der SC von unten an die Wasseroberfläche, poppt ein Stück nach unten und bewegt sich automatisch durch's Wasser
+* +1+ |AB-0002| Oberwelt: An vielen Stellen im Fluß slidet der SC wenn man aus dem tiefen Wasser gehen will ins Wasser zurück. Das ist dann auch OK, aber daß er danach immer unter Wasser steht darf nicht passieren.
+* +1+ |AB-0071| Kollision /Bounding-Box?: Dreht man sich mit einer Figur (z.B. Gobbo mit Knüppel) die direkt an einer Wand steht auf der Stelle, so wird diese weit von der Wand weggeschoben. Der Gobbo kann nicht mehr nah genug an der Wand positioniert werden um hochzuspringen.
+* +1+ |AB-00874| Auto-Roll: Der SC bleibt sehr häufig in Schräglage stehen. Diese wird erst dann wieder korrigiert wenn man während des Rennens die Richtung ändert. Drehen auf der Stelle und geradeaus rennen sind danach auch in Schräglage möglich (Testlevel: An der ersten Treppe vom Pool aus gesehen im Treppenraum einfach gegen die Seite rennen) -> Würde es nicht reichen, den SC "gerade hinzustellen", sobald er stehenbleibt?
+* ..
+
+v0.78c - 25.6.99
+****************
++ Neues File: zPolyStrip.cpp
+* Haenger im Model-AutoRoll beseitigt
+! Carsten: zCPolygon::PrepareRendering() Aufruf entfernen
+! Carsten: keine Spy-Messages mehr bei zCRenderer::GetStatistics() !
+! Neue zCRenderer Methoden:
+    virtual zBOOL   GetPixelWriteEnabled() const;
+    virtual void    SetPixelWriteEnabled(const zBOOL);
+    virtual void    ResetZTest          ()                                      {};
+    virtual int     HasPassedZTest      ()                                      { return TRUE;  };
+  Neue Capabilities: guard band, ztest
+
+v0.78b - 22.6.99
+****************
+* zCArchiver: buffer/binary bugfix
+* zCArchiver: ein Archiv merkt sich nun, ob es ein SaveGame ist, Eigenschaft beim
+  Lesen eines Archivs über zCArchiver::InSaveGame() erfragbar
+* zCRenderer: 'zRND_ALPHA_FUNC_NORMAL' heisst nun 'zRND_ALPHA_FUNC_BLEND'
+* zCRenderer::SetPixelAA() entfernt
+* 'ditherMode' und 'bilerpFilterMode' aus zCMaterial entfernt
+
+v0.78a - 21.6.99
+****************
++ Andre: neue Methoden zCObject::CreateCopy(), zCVob::Get/SetVobPresetName()
++ Vob-Render Optimierung (Occlusion-Culling mittels ZTest): Vobs werden nicht gerendert,
+  wenn sie durch andere Objekte voellig verdeckt sind (wenn 3DAccel dies unterstuetzt)
+* Frustum Culling/Clipping optimiert
++ PolyStrip/Blitz Visual angefangen
++ zCArchiver::TestClassIntegrity() testet automatisch alle registrierten Klassen auf
+  die Integritaet ihrer Archive/Unarchive() Methoden (d.h. stimmt Anzahl & Anordnung der
+  Daten). Über die Konsole kann der Test über 'ZARCTEST' gestartet werden. Der Test kann
+  natuerlich nicht alle Fehler aufspueren, duerft aber trotzdem nuetzlich sein..
+
+v0.78 - 16.6.99
+****************
+* kleinen Bug im Camera-Tremor behoben
+* ME: 'toe'-Nodes eines Models werden nicht mehr autom. entfernt
+* ME: Kleinigkeit im MDS ist nun anders.
+    Human/Monster .MDS sollten nun ein etwas anderen 'meshAndTree' Eintrag haben:
+        meshAndTree ("Human_irgendwas.asc" DONT_USE_MESH)
+    Bei .MDS fuer z.B. Mobs sollte es so aussehen:
+        meshAndTree ("chest.asc")
+    Bei gesetztem Flag 'DONT_USE_MESH' wird das im MeshAndTree File enthaltene Mesh
+    nicht automatisch eingesetzt. Macht bei Humans Sinn, bei denen das Mesh per
+    Skript ganz indivduell zusammengesetz wird.
+* Bert: damit im Netzwerk-Spiel beim Laden eines .zen Files statt oCNpc-Objekten die
+  noetigen oCNetNpc-Objekte erzeugt werden, ist folgende Zeile noetig
+  (einmalig beim Hochfahren, analog fuer oCItem etc.):
+    oCNpc::GetClassDef()->OverwriteCreateNewInstance (oCNetNpc::GetClassDef());
+* 3DS-Loader auf zFILE umgestellt
+* Rendern von Lightmaps geht nun wieder
+! An alle Programmierer: Tips zur effizienteren Nutzung der zSTRING Klasse:
+  Im Grunde geht es hier darum unnoetige Constructoren/Destructoren/Copy-Operationen
+  zu vermeiden.
+  Links der schlechte, rechts der verbesserte Code:
+  - zSTRING a = b;                  zSTRING a(b);
+  - a = "";                         a.Clear();
+  - if (a=="") {..}                 if (a.IsEmpty()) {..};
+  - zSTRING Function();             const zSTRING& Function();
+  - void Function(zSTRING a);       void Function (const zSTRING& a);
+  - schlecht:
+          for (int i=0; ... ) {
+            zSTRING a; a= ..;
+          };
+    besser:
+          zSTRING a;
+          for (int i=0; ... ) {
+            a= ..;
+          };
+
+
+v0.77g -
+****************
+* Die zCWorld entfernt vor dem Speichern nun immer autom. den Camera-Vob aus der Welt
+  und setzt ihn danach wieder hinein (das ist der Vob, der in der zCCamera registriert
+  ist).
+* zCVobSound: Bugfix,  neue Volume Eigenschaft, Script-Instanzen als Sounds moeglich
+  ("NAME.wav": wav-File, "NAME": Script-Instanz)
++ zCVobSounDaytime eingefuehrt (Soundquellen in Abhaengigkeit von Tageszeit)
+    Zu den Parametern:
+    sndRadius: Angabe in cm
+    sndRand..: Angabe in secs
+    sndVolume: 100=default laut
+    sndStartTime/sndEndTime: Angaben in Stunden (13.5 = 13:30 !)
+* +1+ |U-0942| Smoothing muß auch zwischen verschiedenen Materialien funktionieren (Man könnte den höheren(!) Smooth-Winkel
+  zugrundelegen)
+* Schwimmen im Outdoor 'verbessert'.
+* ..
+
+v0.77f -
+****************
+* Das binaere Format fuer .MSH/.PWF/.ZEN hat sich geaendert.
+* ..
+
+v0.77e - 8.5.99
+****************
++ Klasse "zCVobSound" in Betrieb genommen
+* MorphMeshes: Das Referenz-Mesh kann nun mehr Verts/Polys haben, als die Meshes
+  der Animationen
+* MorphMeshes: Neue Flags..
+  'S' wie 'Shape':
+  Falls eine Ani dem Mesh eine komplett neue Form geben soll (z.B. Sofa,
+  Quader, Mutant, ..), dann muss diese Ani mit dem Flag 'S' gekennzeichnet werden. Der
+  Layer ist bei diesen Anis ohne Bedeutung. Beim Starten der Ani wird diese bei entspr.
+  Blendzeiten eingefadet. (fuer spezielle Situationen, in denen der Morph sichtbar sein soll).
+  'R' wie 'referenceShape':
+  Ähnlich wie Anis mit dem 'S' Flag, allerdings werden diese Anis nicht ein/ausgefadet,
+  sondern sind ab dem StartAni immer sofort aktiv. (alle Kopfformen sollten wahrscheinlich
+  über Anis diesen Typs realisiert werden)
+
+v0.77d - 6.5.99
+****************
++ Optimierung: BSP-basierte fruehe Zurueckweisung von Vobs mittels vobFarPlane
+* Bug im Outdoor-BSP Compiler behoben (dieselben Portals wurden Sektor mehrfach zugeord.)
+* Bug in zCMesh::Load bzgl. LevelMeshes behoben (Spacer)
+* Bug behoben, der fuer das Beamen von Vobs an den Welt-Ursprung verantwortlich war
+* Bug im zCMaterial::Archiver behoben
+* Outdoor-Renderer 'Wald-faehig' gemacht
+* ..
+
+
+v0.77 - 21.4.99
+****************
++ Gemeinsame Basisklasse (zCObject) einiger wichtiger Klassen (zCVob, zCVisual,..).
+  Diese zentralisiert Runtime-typeinfo, Persistenz und SharedObjects/RefCtr.
++ zCObjectFactory und globale "zfactory" Variable eingefuehrt.
++ Neues Persistenz-System (zCArchiver, zCObject). Es gibt ein neues Fileformat fuer
+  Levelfiles mit der Endung .zen, dass die bisherigen .pwf's abloest. In einer
+  Übergangszeit sind beide Formate weiterhin verfuegbar.
+* Die LightpresetList wird im neuen Format gespeichert ("lightpresets.zen").
+* Die Umstellung der Matlibs auf das neue Format muss bereits jetzt gemacht werden, da
+  das alte hierfuer nicht mehr zur Verfuegung steht.
+* Folgende Vob-Typen werden von der Engine nicht benutzt und muessen auf Game Ebene
+  als 'richtige', von zCVob abgeleitete Klassen deklariert/definiert werden.
+  (class zCVobSpot : zCVob, class zCVobCamera ..)
+  Nicht die zCLASS_DEFINITION(), zCLASS_DECLARATION() vergessen !
+    zVOB_TYPE_SPOT,
+    zVOB_TYPE_CAMERA,
+    zVOB_TYPE_STARTPOINT,
+    zVOB_TYPE_MARKER,
++ Neue Klasse "zCChecksum16" => liefert im Gegensatz zur "zCChecksum" eine 16 bit CRC
+  (weniger Speicherbedarf, dafuer etwas weniger sicher)
++ ..
+! Neue Files: zObject.cpp, zArchiver.*, zVob.h (war vorher Teil von z3d.h)
+! ME: binär Formate für .MDH, .MDM und .MAN haben sich geandert und muessen neu konvertiert
+  werden
+! C++: Wer's noch nicht wusste: Ein "memset (this, 0, sizeof(*this))" ist in einer Klasse,
+  die virtuals enthaelt katastrophal. Sie loescht naemlich auch den C++ internen ptr auf
+  die Liste der virtuellen Methoden (aua!).
+
+
+v0.76c - 31.3.99
+****************
+- MorphMesh Bug behoben (Anis mit mehr als einem Frame, z.B. Talk klappen wieder)
+
+v0.76b - 27.3.99
+*****************
+* Ulfs Troll Bug behoben: Troll verschwand (zCModel::SetNodeVisual(), => illegale BBox)
+* Andres Spacer Bug behoben: Models verschwanden einfach (=> illegale BBox)
+* Berts zCBuffer wird benutzt
+
+v0.76a - 26.3.99
+*****************
++ Neue Files: zWorld.h, zBSP.h, zBSPBuild.cpp, zObject.h
+  (=> man muss nun wohl oft ein #include<zWorld.h> aufnehmen, wo sonst ein z3d.h gerreicht
+  haette..)
+* ME: Troll, Goboo, Shadow und Crawler laufen nun (Bugs im MDM Loader, ASC-Mat-Reader)
+  Hatte leider keine Zeit fuer einen mega-erschoepfenden Test.. wird bis zum naechsten
+  Update nachgeholt.
+* ME: Apply/RemoveMDSOverlay ist nun robuster (alle laufenden Anis werden gestoppt)
+* zCWorld::FindVob.. heisst nun zCWorld::SearchVobBy.. besser, Bert ? ;)
++ CRC Checksummen Berechnung: Klasse zCChecksum aus der zTools.h
+  [zCChecksum::BeginChecksum(), ::CalcChecksum(), .., ::EndChecksum()]
+* Mesh-BoundingBoxen sitzen nun besser
+! Alex: per Konsolen-Kommando "zmodel printtree <MODEL_NAME>" kann man sich die Hierarchie
+  eines Models auf dem Spy ausgeben lassen. Manchmal sind daraus Fehler ersichtlich..
+! In den MSDev Project Settings muss ab jetzt RTTI aktiviert werden (typeid, dynamic_cast<>()).
+
+v0.76 - 9.3.99
+*****************
+! Kompatibel (mind.) mit Ulfs Sourcen 0.57, Berts 0.78 und Andres Sourcen vom 25.2.99
+* Ulfs zCRenderer Aenderungen eingearbeitet (Vid_*)
+* Glide-Abhaengigkeiten entfernt
++ MorphMesh Animations-System (gelayerte Animationen, Blendings zw. Anis, Lerp zw. den Frames
+  einzelner Anis): z.B. für die Gesichts-Animation, den Bogen, etc. Objekte der Klasse
+  zCMorphMesh sind vom zCVisual abgeleitet. MorphMesh's sind durch .MMS Script-Files definiert
+  und werden in .MMB Binaer-Dateien abgelegt. Die programmtechnische Benutzung ist aehnlich
+  der Benutzung des zCModel. Ein zCMorphMesh wird mit zCMorphMesh::Load ("*.mms") geladen,
+  Animationen werden mit zCMorphMesh::StartAni (aniName/Ptr) gestartet.
+  Ulf: Ansteuerungs-Details bei mir erfragen, sobald du soweit bist
++ Neue Files: zMorphMesh.*, zMesh.cpp
++ ME: SoftSkins ("Ganzkörper-Meshes"/ "Single Mesh Skeletal Deformation"): Import aus MAX,
+  das Abspielen in der Engine und das Speichern in .MDM Dateien. Der Import reduziert Vertex
+  N-Links auf derzeit 3-Links.
+* ME: verringerter Speicherbedarf
+* ME: Neues MAX-Exporter-Plugin v1.04 ! (alle Mesh-ASC's muessen neu konvertiert werden !)
+* ME: In der zCModel Klasse sind Rueckgabewerte/Parameter der Form "zCTree<zCModelNodeInst>"
+  durch "zCModelNodeInst*" ersetzt worden. Statt "SearchNodeTree()" nun "SearchNode()" benutzen.
+* ME: MDS: "meshEnum"-Bloecke sind aus den MDS' komplett zu entfernen, genauso die erste Ani
+  "treeAndMesh". Stattdessen gehoert nun in jedes .MDS vor dem "aniEnum" der Eintrag
+  "meshAndTree (ASC_FILE)". Im Grunde ist das ASC File dasselbe File, das vorher bei der ersten
+  Ani angegeben wurde und erfuellt auch denselben Zweck. Dies alles gilt sowohl fuer normale als
+  auch fuer Overlay-MDS.
+* ME: beschleunigtes Laden von Models, beschleunigte MDS Model-Overlays
++ PFX: per Parameter "flyCollDet_B" kann Collision-Detection und Response fuer die einzelnen
+  Partikel eingeschaltet werden. ACHTUNG: kostet Performance !!
+! PFX: neues Script "ParticleFXDef.d"
+* Schnellerer IntersectionTest BBox3D/Ray
+* "zCArray::GetArray()" statt "zCArray::array" benutzen ! Statt "zCArray::GetNumInList()" kann man
+  nun auch das kuerzere "zCArray::GetNum()" benutzen. Ausserdem neu: "zCArray::MarkNumAllocUsed()"
+! Alle interne binaeren Formate haben sich geaendert. Am besten ANIMS/_COMPILED und
+  MESHES/_COMPILED komplett loeschen.
+! Auf Tiffi in Phoenix liegen relativ aktuelle ASC Files und mein aktuelles ANIMS/_COMPILED VZ
+
+
+v0.75 - 19.2.99
+*****************
+* Files "zTree.*" in das sinnvollere "zContainer.*" umbenannt.
+* 3 fiese Bugs gefixt (MDS-Load, PWF-Load, zCVob::BeginMovement()/EndM())
+* Achtung: zCModelNodeInst::GetBBox3DWorld() ist langsam und sollte vermieden werden
+  (ebenso "zCModel::StartAni (string)", "zCModel::SearchNode(string)").
++ Camera-Shake/Tremor Effekt, fuer z.B. Explosionen, zu-Boden-Fallen sehr schwerer Dinge (z.B.
+  Gobbos), Troll-Fusschritte, Magie-Effekte,..
+    zCCamera::AddTremor(posWorldSpace, radiusSquare, timeMsec, amplitude);
+    zVEC3 amplitude: Heftigkeit des Tremors in (positiven) maximal X,Y,Z Koordinaten
+        (X und Z sollten klein gewaehlt werden, Y am groessten)
+* ...
+
+v0.74 - 4.2.99
+*****************
+! Der von Andre gemeldete Spacer/OCPickBug: scheint an fehlerhaftem OldCamp-Mesh zu gelegen zu haben
+  (argh). Bei Neucompilierung unter Benutzung des neuesten, korrekten Meshes schien alles ok.
+* Neues "ParticleFXEngine.d", neue Himmels/Planeten Texturen => zip.
++ Mike/Tom: Consolen-Befehl 'ZRNDSTAT' gibt einen Renderer-Status auf dem Spy aus.
+  "texture memory used" ist der komplette Tex-Mem Bedarf der aktuellen Szene.
++ Tageszeitenwechsel:
+  dyn. Sonnenbeleuchtung, 2 Sky-Tex Layer (poly o. skybox), Sternschnuppen, Fog (abh. von
+  Höhe und Tageszeit), Himmelskoerper (Mond, Sonne mit Lensflares&Blend), Wolkenschatten
+! Der Tageszeitenwechsel wird ueber die Klasse zCSkyControler angesteuert (Basisklasse). Ein Objekt
+  dieser Klasse bekommt man mit zCWorld::GetActiveSkyControler(). Dieses Objekt kontrolliert nun
+  die Fog-Ranges, Clip-Ranges, Fog-Color, Screen-Clears inkl. Farbe. Pro Frame ist die aktuelle
+  Tageszeit mit SetTime() zu setzen (0..1, 0=12h, 0.5=24h, 1=12h). Fuer das Game/höhere Schichten
+  gibt es in der Benutzung keinen Unterschied zw. Indoor und Outdoor.
+! Der Aufruf 'zrenderer->Vid_Clear()' ist aus den Mainloops zu entfernen !
++ Neue Files: zSky.h/cpp
+* ME: kleinere Aenderungen/Bugfixes.
+  Alex: a) hat sich das 'Timing-Verhalten' der Anis verbessert ? b) interessanterweise hat das
+  Ani-Blending (zw. versch. Anis mit BlendZeiten>0) in letzter Zeit gar nicht richtig funktioniert,
+  dafuer jetzt aber !
+* |U-00870| Animationen: "s_Pee" und "s_Spit" (mit Partikeleffekten verbunden) beamen den NSC zum Nullpunkt des Levels (sobald der angehängte Partikeleffekt mit dem Level kollidiert?). "Beamen" passiert auch oft beim Spielen solcher Anis mit dem PLAY ANI Befehl, wenn die Kamera dicht bei der Figur steht.
+* |U-00871| Oberwelt: Will man mit JumpUp an einer Hütte hochspringen, bleibt der SC sehr oft in der JumpStand-Pose stehen statt tatsächlich zu springen. Manchmal springt er auch ein kurzes Stück nach oben, und fällt dann wieder runter (testbar an den Koords -5304/162/-1325 und an zahlreichen Hütten und anderen Stellen im Alten Lager).
+* |U-00872| Oberwelt: SC bleibt in tieferem Wasser hängen und zappelt dann nur noch auf der Stelle (Testen indem man in einen Fluß auf der Oberwelt reinläuft oder reinspringt)
+
+
+v0.73 - 20.1.99
+*****************
+* PFX: animierte Texturen gingen gar nicht, dafuer aber jetzt ! Neue Test PFX mit Ani-Tex (debris)
++ PFX: ein PFX kann (mit einer bestimmten zeitl. Verzoegerung) weitere PFX am eigenen Ursprungs-
+  Ort erzeugen. Hiermit lassen sich beliebig lange PFX-Ketten erzeugen (Vorsicht vor
+  Rueckkopplung!). So laesst sich z.B. fuer eine Explosion a) Feuer, b) Rauch und c) Truemmer über
+  den Start eines PFX ausloesen (=> Ueberlagerung verschiedener Effekte am selben Ort). Siehe PFX
+  "zztest_Expl", "zztest_Expl_Debris", "zztest_Expl_Smoke".
+  Im D-Script: "ppsCreateEm_S" ist der Name des zu startenden Emitters, "ppsCreateEmDelay" dessen
+  Verzoegerung in msec.
+* PFX: Neue "ParticleFXEngine.d" und neue Partikel-Texturen fuer das Verz. PARTICLE_TEX (=> .ZIP).
+* ME: ASC-Import: MAX' Multimaterialien funktionieren nun
++ ME: Model-Scaling, wird über zCModel::SetModelScale() gesteuert (X,Y,Z getrennt regelbar)
+  (Ulf=> als Script-Var rauslegen, Achtung: nach einem SetModelScale() sollte auf der AIPlayer
+  das SetVob() ausgefuehrt werden, damit interne Konstanten auf die neue Groesse angepasst
+  werden).
+! Ulf: Aenderungen in der AIPlayer
++ ME: fuer jede MDS-Ani mit ASC-Angabe kann mittels "SPD:x" der Abspielgeschw. angegeben werden,
+  wobei 'x' fps sind (aehnlich wie "FPS:x" zu benutzen)
++ Outdoor-Renderer: Ghost-Occluder Polys eingefuehrt, diese werden über den speziellen Material
+  Namen "GhostOccluder" gekennzeichnet. GO werden nicht gerendert, bzgl. ihrer Verdeckungs-
+  Eigenschaft sind sie nicht "2-sided". Wichtig ist bei GO nicht deren Flaeche, sondern deren
+  obere Kanten (oben = Y+). Falls ihr dazu Fragen habt..
++ Tom/Mike: Neuer Kommandozeilen Parameter "-zSector:<SECTOR_NAME>". Beim compilieren eines
+  Outdoor-Levels werden alle Sektoren ausser <SECTOR_NAME> nicht erschaffen => schnelleres
+  Testen der Integritaet eines bestimmten Sectors.
+
+v0.72 - 12.1.99
+*****************
+! Neue Files: zSoundMan.*, zAI.cpp
++ Collision-Sounds, Zerstoerungs-Sounds, Slide-Sounds
+  Diese Sounds werden durch die Klasse 'zCSoundManager' angesteuert. Wichtige Methoden sind
+  dort: StartHitSound(), StartAttackSound(), StartDestructionSound(), StartSlideSound().
+  Das Ausloesen dieser SFX ist allerdings nicht auf Engine-Ebene angesiedelt, SFX sollten
+  ueber den SoundManager vom Game aus gestartet werden (um groessere Flexibilitaet zu haben).
+  Ulf: Fuer diese neuen Sounds ist es nun noetig 'Objekt-/Item-Materialien' einzufuehrenm, die
+  per Skript einem Obj zuzuordnen sind und mit gewissen Kuerzel-Definitionen in der sfx.d
+  korrespondieren. Über diese Objekt-Materialien werden dann auch die spezifischen Zerstoerungs-
+  Sounds und Zerstoerungs-Partikel-Effekte ausgeloest.
+  (neue Klassen: zCAiBaseSound, zCSoundManager).
+
+v0.71e - 11.1.99
+*****************
+* BBox/Plane Tests, BSP/BBox-Queries beschleunigt (signbits, axial/octree)
+* Bug in zCModel::UnpackStateBinary() behoben, der sich bei "S_TORCH" zeigte, 'aniComb's
+  uebertragen nun auch die Lerp-Koordinaten (Auto-Aim)
+! Ulf/?: zum Netzwerk-Packete packen benutze ich aus zTools.h die Klassen zTBufferRead/Write,
+  die auch die Quantisierung von Werten erlaubt und demnaechst sogar bitweises packen
+  zulaesst.
+
+v0.71d - 1.1.99
+*****************
++ ME: Der Austausch von Teilen des Model_Mesh ist nun .MDS gesteuert moeglich. So koennen
+  z.B. in Abhaengigkeit von bestimmten Anis die Meshes fuer die Haende ausgetauscht werden
+  (flach, Faust, Zeigefinger,..). Allerdings sind auch beliebige andere Mesh-Wechsel moeglich.
+  So waere es mit diesem Feature z.B. moeglich eine sehr einfache, ani-gesteuerte Gesichts
+  Animation zu steuern => Monster koennten bei Kampf-Anis ihre Gesichter verziehen..
+  Ein Mesh-Austausch wird rueckgaengig gemacht, sobald die Ani, aus der heraus der Austausch
+  gestartet wurde, beendet wird. Mehrere Mesh-Wechsel sind auch gleichzeitig moeglich, wobei
+  bei Ueberlagerungen die durch die Layer der steuerenden Anis gegebenen Prioritaeten wirksam
+  sind. Pro Ani darf 1 solcher Event definiert sein.
+    "*eventSetMesh (frameNr "ASC_NAME")"        // ASC_NAME ohne Endung .ASC
+* zCVob/zCModel: Un-/PackStateBinary() fuers Netz geaendert.
+
+
+v0.71b - 31.12.98
+*****************
++ zCVob::CheckModelLimbCollision() erkennt nun auch Collisions von Limbs mit nicht-Models
+* Outdoor-BSP Compiler ist nun adaptiv/Data-sensitiv
+* Model-Lande-Staub passt sich der Groesse des Models an (Ulf=> zCAIPlayer::End())
+* Meatbug kann (in begrenztem Masse) auf Schraegen laufen
+  (Ulf=> zCAIPlayer::CollisionDetectionAndResponse())
+* ME: Model-Beleuchtung verbessert, rendern beschleunigt
+! Methoden zCVob::Net_.. und zCModel::Net_.. sind noch nicht eingebaut !
+
+v0.71a - 22.12.98
+*****************
++ Der erste Teil des LOD-Systems ist integriert (=> Vobs faden ab ca. 40m weg)
+* BE: Beleuchtungs-Gleichung fuer die Oberwelt geaendert (ist nun auch heller und hat nicht
+  mehr diesen Rot-Touch)
++ Testweise eine zweite Himmelsschicht eingefuehrt (UnrealNightsyk2.tga, UnrealCloud1.tga)
++ Massnahmen getroffen, um das Textur-Flimmern zu mildern (zCPolygon::TexCorrectUV())
+* Verschiedene Probs im Zusammenhang mit Treppen im Outdoor geloest.
+! Dazu: muessen die Treppen wirklich alle als 'Mob-Instanzen' definiert sein ? Warum ist
+  das noetig ? Beachte: Treppen brauchen das Flag 'vobStatic (1)'
+* Ulf: zCAIPlayer::DetectClimbUpLedge() hat sich geaendert
+- Software-Renderer nun offiziell aus dem Projekt entfernt, folgende Files werden nun nicht
+  mehr gebraucht: zRndSoft.*, zScan.*, zSBuffer.*
+! Ulf: "zRndSoft_Vid.cpp" ist somit aus dem Projekt zu entfernen (natuerlich an anderer
+  Stelle das File noch aufbewaren).
+! Typecasts der Art "(zCRndGlide*)zrenderer" haben im Code nix zu suchen !
+! Ich habe eine kleinere Weihnachts-Ueberraschung fuer euch in Vorbereitung ! Mehr wird nicht
+  verraten !
+
+v0.71 - 13.12.98 
+*****************
+* PFX: Partikelsystem erweitert, neue MDS-Befehle zur Ansteuerung (*eventPFX, .., => Doku)
++ PFX: Doku erstellt ("ZenginParticleFXDoku.doc")
++ PFX: Einige Partikel-Effekte erstellt, und: unsere Models koennen jetzt auch pinkeln !
+  try this:
+    ani         ("S_PEE" ... )
+    {
+        *eventPFX       (110 1 "zPee" "BIP01" ATTACH)
+        *eventPFXStop   (180 1)
+    }
+! Ulf: Der Effekt für Metal trifft auf Metal (Schwert/Schwert) heisst "ZMETALSPARKS" und kann
+  z.B. für die Parade benutzt werden
+! Ulf: Folgende PFX koennen wieder aktiviert werden:
+  Pfeil-Collision-Staub, Model-Lande-Staub, Model-Wasser-Splash, Model-Blut
+! Andre: Die Funktionalitaet des Editierens von Partikel-Effekten ueber die Parser-Console
+  kann nun in den Spacer aufgenommen werden. Hierbei kannst du dich an den Funktionen
+  "SelectActivePFX()", "EditActivePFX()" und "StartActivePFX()" orientieren, die sich im File
+  tengine.cpp befinden. Nicht ganz offensichtlich ist sicherlich, wie man neue Effekte
+  erzeugt.. Ruf' mich an, wenn du Fragen hast!
+* ME: Doku erweitert ("ZenginModelDoku.doc")
+* Bzgl. der Erlaubtheit der Bewegung von Vobs hat sich die Regel ein wenig geaendert:
+  Es darf sich nur 1 Vob zu Zeit im Movement-Block (::BeginMovement, ::EndMovement)befinden,
+  der eingeschaltete Coll-Flags hat. Nur Vobs, die KEINE Coll-Flags gesetzt haben,
+  duerfen auch zeitgleich bewegt werden (das ist neu).
+* Model-Bewegungsprobleme im Outdoor behoben
+  (Ulf => Aenderungen in der AIPlayer, changes am File-Anfang)
+* einige MemLeaks eliminiert
+
+
+v0.70c - 6.12.98
+*****************
++ Neues, erweitertes Partikel-Effekt-System (PFX). Details dazu spaeter.
+  Bis zum naechsten Update sollten alle Generierungen von Partikel-Effekten auskommentiert
+  werden.
+  Neue ParticleFX-D-Scripte:
+  SCRIPTS\ParticleFX.d
+  SCRIPTS\CONFIG\ParticleFX.d
+  SCRIPTS\_INTERN\ParticleFXDef.d       // darf nur von mir geaendert werden
+  SCRIPTS\_INTERN\ParticleFXEngine.d    // darf nur von mir geaendert werden
+* CollDet bugfixes (=> Meatbugs & Gobbos sollten als zCVob::zVOB_COLL_TYPE_SMALL_OBJECT
+  geworfen werden und bleiben nun nicht mehr an Waenden haengen).
+* WallSliding: klappt nun im Wasser, ist im ganzen weniger ruckelig
+
+
+v0.70b - 23.11.98
+*****************
+* Anderes Model-Collision System, Neuerungen in der zCAiPlayer, alle Collision-Probs laut
+  Liste geloest.
+* Anderes Vob-Collision System
++ Meshes werden nun bei Bedarf in ein internes Format konvertiert (.MSH, meshes\_compiled)
+* Der CmdLineSwitch "-zAutoConvertAnis" ist deaktiviert. Neu ist dafuer "-zAutoConvertData".
+  Bei Aktivierung dieses Switches werden Files aus folgendenden internen File-Formaten beim
+  Einladen auf Aktualitaet geprueft und ggfs. neu konvertiert: .MDM, .MAN, .MSH
++ neues File: zzDieter.cpp
++ Neue Konsolen-Kommandos
++ Materialen bekommen autom. die Durchschnittsfarbe der Textur
+* Fuer Spacer: PickVob/Light sollte nun wieder klappen, zCVob::SetByScript() beruecksichtigt
+  nun auch wieder die evtl. enthaltenen Visuals
+
+v0.70a - 13.11.98
+*****************
+* ME: kleiner bugfix in zCModel::SetModelMesh() ("Schulterklappen")
++ zCModel::SetIgnoreXZPosDelta() fliegt raus, dafuer gibt es jetz SetAniTransScale(zVEC3).
+  Hiermit kann die Bewegung des Models in jeder Dimension getrennt skaliert werden, default
+  ist (1,1,1). (0,1,0) haette dann denselben Effekt wie das alte SetIgnoreXZPosDelta(),
+  (0,0,0) wuerde das Model festhalten. Natuerlich ist auch eine dynamische Variation des
+  Scale-Wertes pro Frame moeglich => Wenn z.B. alle 3 Dimensionen kontinuierlich von 1 auf 0
+  gescalet werden, bremst das Model langsam ab, bis es still steht.
+* zzBert.h in zEngine.h aufgenommen
+* Outdoor: das Finden von Innenraum-Sektoren ist nun wesentlich schneller
+* LightPresets Save/Load sollte nun wieder funktionieren
+! .MDM steht uebrigens fuer 'Model-Mesh'.
+
+v0.70 - 8.11.98
+*****************
++ Texture-Laden beschleunigt
++ Renderer: neue Methode GetTextureFileExt() => Carsten, in RndGlide integrieren
+  ( zSTRING GetTextureFileExt   () const { return zSTRING(".3DF"); }; )
+* ME: MDS 'R'-Flag/Drehschlaege: Anis mit Rotationen rotieren das Model nun um den exakten Wert
++ ME: Der MDS-Befehl 'combineAni' akzeptiert nun auch Anis mit 2 oder 3 Posen (also nun insg.
+  2,3,4,9), die man sich vertikal linear angeordnet vorstellen kann und Programmtechnisch ueber
+  die y-Koordinate angesteuert werden:
+  2:    0   3:  0   4:  0---1   9:  0-1-2
+        |       1       | x |       3 4 5
+        1       2       2---3       6-7-8
+  Desweiteren koennen nun die Posen einer combineAni animiert sein, muessen allerdings alle
+  exakt dieselbe Framezahl haben.
+  Ulf: Die Ansteuerung einer combineAni erfolgt nun ueber die Methode
+  zCModelAniInst::SetCombineAniXY(xc,yc).
++ ME: ASC Files, die Meshes enthalten werden nun im internen Format .MDM gespeichert
+  (ANIMS/_COMPILED). Falls sich das Quell-ASC File geaendert hat, wird autom. das .MDM erneuert.
+  Der Test daraufhin kostet allerdings Zeit & muss explizit ueber den Switch "-ZAUTOCONVERTANIS"
+  aktiviert werden. (=> die Startup-Zeit ist nun geringer, Ruestungswechsel sind schneller).
+  Die 'meshEnum' im MDS ist nun bedeutungslos/nicht mehr noetig. (kann aber fuers erste trotzdem
+  noch weiter benutzt werden, um Limbs als .3DS zu exportieren.)
++ ME: Ein Overlay-MDS kann mit "zCModel::RemoveModelProtoOverlay()" wieder entfernt werden.
+  Zu beachten ist dabei, dass nach "ApplyModelProtoOverlay()" und "RemoveModelProtoOverlay()"
+  Ptr-Referenzen auf ausgewechselte Animationen (zCModelAniInst) ungueltig sein koennen,
+  und diese ueber das zCModel neu aufgeloest werden muessen.
++ zCWorld::CompileWorld(): Neuer Parameter 'editorMode'. In diesem Mode ist das Texturieren
+  und darauffolgende Speichern des Level-Meshes auch im compilierten Modus moeglich. Allerdings
+  sollte genau diese Dinge im Spacer disabled sein, wenn nicht im Editor-Mode compiliert wurde.
+  Dieser Zustand kann mit zCWorld::IsCompiledEditorMode() erfragt werden.
+* kleinere 'Spacer' bugfixes
+! Alex: Das Snapper-Ruckeln in "Sna_Amb_M01.asc" tritt nur auf, wenn auf der Ani ein "FPS:"
+  liegt. Die Routine, die bei "FPS:" Angaben Anis zusammenstaucht, verschlechtert
+  anscheinend die Qualitaet der Ani. Warum weiss ich noch nicht genau, vermute aber, dass
+  die Routine verbesserbar ist. Fuers erste bedeutet dies allerdings, dass Anis, bei denen
+  unerklaerliches Ruckeln auftritt, nicht mit "FPS:" Angaben versehen werden sollten. Das
+  heruntersamplen sollte dann in MAX geschehen.
+! Andre: du solltest im Spacer die Translation/Rotation von Level-Komponenten Vobs sperren.
+! Ulf: denkst du an den CmdLine-Switch, der einen Start im Windowed-Mode erzwingt ?
+! Ulf: das PrelightModel() nach dem SetModelMesh() sollte nicht mehr noetig sein.
+
+v0.69 - 1.11.98
+*****************
++ ME: Individual(Overlay) Anis
+    + Ein Individual(Overlay) MDS hat dieselbe Form wie ein normales "Basis"-MDS. Dort
+      werden dann allerdings nur die Anis angegeben, die andere Anis ueberschreiben oder
+      deaktivieren sollen. Nicht aufgefuehrte Anis des Basis-MDS bleiben unangetastet.
+      Es ist sogar moeglich nacheinander mehrere Overlay-MDS ueber ein Basis-MDS zu
+      schichten, die sich auch gegenseitig teilweise ueberlagern koennen.
+    + Um eine Basis-MDS Ani zu deaktivieren genuegt folgende Zeile (im aniEnum Block):
+        aniDisable ("ANI_NAME")
+    + Was in einem Overlay-MDS nicht vorkommen darf: meshLib
+    + Was im Overlay-MDS nicht vergessen werden darf: erste Ani "meshAndTree"
+    + Ulf => uber Scripte verfuegbar machen, um ein Overlay-MDS auf ein Model anzuwenden
+      benutzt man "zCModel::ApplyModelProtoOverlay()". Zu beachten ist dabei, dass nach
+      einem solchen Aufruf Ptr-Referenzen auf ausgewechselte Animationen (zCModelAniInst)
+      ungueltig sein koennen, und diese ueber das zCModel neu aufgeloest werden muessen.
++ ME: Random Anis
+    + Haben im MDS das Prefix "R_"
+    + Jeder beliebigen Ani (zCModelAniInst) kann eine Menge von im MDS definierten Anis als
+      Random Anis zugeordnet werden, inklusive einer Haeufigkeits-Wichtung (1=normal oft, 2=
+      doppelt sooft etc). (So koennte man z.B. dem Kraetze Kurt auch Kratz TK-Anis an seinen
+      Walk-Loop haengen).
+    + Fuer jede Ani, die zugeordnete Random-Anis besitzt, kann die Frequenz (Anis per Second)
+      angegeben werden, mit der Random-Anis gestartet werden.
+    + Ulf => Zuordnung von Rand-Anis zu NPC-Prototypen/Instanzen via Script-BuildIns
+* outdoor: occluder-Poly bugfixes
+
+
+v0.68e - 25.10.98
+*****************
+! Ulf, die Fackel sollte nun klappen (abprallen), noch 'n paar Hinweise:
+  - Benutze jetzt wieder MERGE_REPLACE statt MERG_ADD
+  - ein Torch.PWF darf KEINE Levelkomponente enthalten (vtype 0), und die CDs sollten 0 sein
+  - 'ResetRotations()' in deiner Shoot-AI ist potentiell evil ! Kommst du drauf ?
+* MDS-Sounds: ".wav" entfernt, kann allerdings nix testen, da Carsten seinen Krempel
+  bei mir nicht zum Laufen bekommt.
+* B: ein paar LM Fixes
++ B: In der Regel wird ein Indoor-Level mit Lightmaps gerendert, wenn solche vorhanden
+  sind. Mit zCWorld::SetWorldRenderMode() kann allerdings explizit zwischen Vertex-
+  Beleuchtung und Lightmaps gewaehlt werden. Das macht evtl. spaeter als grafischer
+  Detail-Level Sinn: schwaecherer Rechner benutzen Vertex-Licht.
+! Die binaeren Formate werden sich sehr regelmaessig und oft aendern (insb. PWF). D.h.,
+  dass man sich nicht auf den compilierten Files ausruhen kann. Trotzdem bleiben die
+  Daten natuerlich lesbar und weiterhin neu compilierbar. Eine Spy-Meldung
+   "Skipping BSP/Mesh Chunk, old format" weisst auf soetwas hin.
+! Zum Thema "ich mache mir Partikel-Texturen selber":
+  a) Partikel-Texturen duerfen i.A. nur die obere linke Ecke, also genau 1 Viertel der
+     Flaeche einnehmen. Sie muessen aber trotzdem so gross sein, dass 3/4 der Flaeche
+     leer=schwarz ist. Warum ? Die Textur soll schliesslich auf ein Triangle passen.
+  b) Partikel-Texturen muessen i.A. einen 1-Bit ALPHA-KANAL haben, den mann einer
+     normalen Textur z.B. in Photoshop verpassen kann und ins TGA mit ablegt.
+     => Mike weiss wie das geht.
+
+v0.68d - 24.10.98
+*****************
++ RndGlide35c
++ Laden&Speichern von Lightmaps ins PWF (liegen dort im statischen 'compiled' Teil).
+* diverse kleinere bugfixes (Dank an meinen unfreiwilligen Helfer Andre)
+! Zur Zeit gibt es leider noch Probleme mit den Lightmaps, die erst in dem krummen,
+  undichtem Demo1.3ds Level sichtbar wurden (meine vorhergehenden Ergebnis mit Quake1
+  Leveln waren wesentlich besser). Zur Zeit ist die Qualitaet mit im Demo1.3ds LMs
+  dargestellt werden zu schlecht. Ich hoffe, dass ich das am Samstag beheben kann.
+
+v0.68c - 23.10.98
+****************
++ 3DS-Loader: Vertices werden nun gemerged, die sich in geringerer Entfernung zueinander
+  befinden (zur Zeit 1mm). Das macht den Loader allerdings auch langsamer.
++ Fuer's Outdoor temporaere Beleuchtung von Vobs eingfuehrt
+* Die Fackel/SubVobTrees bleiben bei Coll. nun zusammen.
++ ME: mit zCModel::SetIgnoreXZPosDelta() kann pro Model eingestellt werden, ob es sich
+  unabh. von den gerade laufenden Animationen von der Stelle bewegen koennen soll.
+  (Ulf: kann man den nicht z.B. kurz _vor_ dem Erreichen eines WayPoints die entspr.
+  Stop-Ani starten ?).
+* kleinere bugfixes
+
+v0.68 - 21.10.98
+****************
+! Als neue Endung fuer das Fileformat, dass jetzt die .ppf's ersetzt, schlage
+  ich ".pwf" vor: Phoenix WorldFile (damit man nicht alte/neue Daten durcheinander
+  bekommt).
+! Das ppf-Format hat sich geaendert. Ab jetzt befinden sich im neuen ".pwf" Format:
+  die Vob-Daten, das Level-Mesh/BSP, Lightmaps. Das .zsp gibt es jetzt nicht mehr.
+! In den Basisklassen zCVob, zCVirtual und zCAI gibt es nun virtuelle Load/Save
+  Methoden, die eine Klasse ueberschreiben kann, falls sie ihre Zustands-Daten in das
+  .pwf File gschrieben/draus gelesen habe moechte. Dabei wird ein FileIOMode
+  uebergeben. Dieser gibt einen Hinweise darauf, aus welchem Kontext die jeweilige
+  Load/Save Routine angesprungen worden ist:
+  zWLD_FILEIO_STARTUP_STATE :
+  sollte moeglichst textuell/in leicht wartbarem Format gehalten werden. Dies ist das
+  Level-Definitions/Startup Format (z.B. beim Spielstart, oder starten eines neuen
+  Levels).
+  zWLD_FILEIO_SAVED_STATE   :
+  sollte moeglichst binaer/in schnell und kurzem Format gehalten werden. Dies ist das
+  Saved-Game Format.
+!
+! Allerdings ist es sehr, sehr zu empfehlen, dass jede Klasse, die etwas in ein PWF
+! File schreibt, am Anfang die Kennung ablegt, in welchem Format sich das folgende
+! befindet (STARTUP oder SAVED) und in welcher Versions-Nr sich die Daten befinden.
+! Bei irgendwelchen Format-Aenderungen und eben schon beim Format-Design muss man
+! sich vor Augen halten, dass die Load/Save Mechanismen portabel und robust gegenueber
+! Format-Aenderungen sein sollten ! Man kann es sich wohl nicht leisten, kurz vor
+! Release Date alle PWF wegschmeissen zu muessen, nur weil ein Programmierer das interne
+! File-Format eines Visuals geaendert hat und sich daraufhin das Programm weigert das
+! PWF einzuladen.. Ein Load Virtual sollte einen Block in einem File, das sich in einem
+! alten Format befindet entweder auto-konvertieren oder skippen koennen.
+!
+! Falls Schichten oberhalb der Engine die zCVob Klasse beerben, muessen diese der
+  zCVob Basisklasse einen Constructor-Callback fuer die jeweils neuen Klassen zur
+  Verfuegung stellen (zCVob::RegisterVobConstructor()). Falls ein solcher den
+  uebergebenden VobType nicht erzeugen kann, muss er 0 zurueckliefern.
+! Die Modi fuer zCWorld::LoadWorld/SaveWorld() haben sich geaendert und erledigen nun
+  das laden/speichern von .pwf Files. Ueber den Modus wird festgelegt, ob der
+  dynamische Teil (VobHierarchie), der statische (Level Mesh/BSP) geladen werden soll,
+  und was im Falle des Ladens mit in der Vobhierarchie evtl. enthaltenen LevelCompos
+  geschehen soll.
+    zWLD_LOAD_GAME_STARTUP,         // dyn + stat, remove levelCompos
+        Laden eines neuen frischen Levels
+    zWLD_LOAD_GAME_SAVED_DYN,       // dyn       , remove levelCompos
+        Laden eines Spielstandes in demselben Level, in dem man sich gerade befindet
+    zWLD_LOAD_GAME_SAVED_STAT,      //       stat, remove levelCompos
+        Wechsel waehrend des Spiels in einen neuen Level, fuer den es bereits einen
+        Spielstand gibt, der separat geladen wird
+    zWLD_LOAD_EDITOR_COMPILED,      // dyn + stat, deactivate levelCompos
+        Spacer
+    zWLD_LOAD_EDITOR_UNCOMPILED,    // dyn       , activate   levelCompos
+        Spacer
+    zWLD_SAVE_GAME_SAVED_DYN,       // dyn
+    zWLD_SAVE_EDITOR_COMPILED,      // dyn + stat
+    zWLD_SAVE_EDITOR_UNCOMPILED,    // dyn
+    zWLD_SAVE_COMPILED_ONLY,        //       stat
+! Hi Andre: zCWorld::CompileWorld: Der erste Parameter legt fest, ob es sich um einen
+  Indoor o. Outdoor Level handelt.
++ B: Erstellung & Darstellung von Lightmaps.
+    + Lightmap Generierung ueber Raytracing oder Radiosity. Letzteres ist leider
+      noch nicht praktisch zu gebrauchen.. mein WindowsSystem schmiert leider weg,
+      sobald der Speicherbedarf ueber 200MB waechst. Ok.. wird aber noch !
+    + Compiliert wird die statische Beleuchtung eines Levels mit der Methode
+      zCWorld::GenerateStaticWorldLighting(). Dabei kann man noch als Param
+      angeben, ob nur das Vertlight, oder auch Lightmaps berechnet werden sollen.
+      Bei Lightmaps kann dann noch die Qualitaet/Geschwindigkeit festgelegt werden.
+      LO = Raytracing, keine Filter, MID = Raytracing, Filter,
+      HI = Radiosity mit allen Schikanen (ueber ein VisualBasic Plugin von Peter ;)
+* B: dyn. Vertex-Beleuchtung repariert & beschleunigt
++ ME: aniEvents koennen nun auch an aniBlend's geknuepft werden
++ ME: aniAlias Anis benutzen nun die aniEvents der Ani, auf die sie verweisen
+  (ich find' das nicht so sinnvoll, aber wenn du das so haben willst, Alex..)
+* Sound: Ani/Grnd MDS Sounds auf die Benutzung der sfx.d umgestellt.
+! Die Benutzung von Sound und das Laden von Soundeffekten ist ueber den Cmd-Param
+  "-ZNOSOUND" abstellbar.
+! Der alte Cmd-Switch "-SkipAniAutoDetect" sollte jetzt nicht mehr benutzt werden.
+  Per default ist nun diese Auto-Detect Funktionalitaet ausgeschaltet und muss halt
+  von Leuten, die dies benoetigen explizit ueber den neuen Switch "-ZAUTOCONVERTANIS"
+  aktiviert werden.
+! Beim mir klappt das Rendern im uncompilierten Modus.. Falls ihr immer noch Probleme
+  damit haben solltet: was genau funktioniert denn nicht ?
+
+v0.67 - 7.10.98
+****************
+* Model/Model Collision-Bug behoben (durch 066e eingefuehrt)
++ Binaeres Format fuer Meshes eingefuehrt: ".MSH" (zCMesh::LoadMSH()/SaveMSH()).
+  .MSH Files liegen im VZ MESHES/_COMPILED
++ Binaeres Format fuer BSP-Tree (indoor&outdoor) eingefuehrt: ".ZSP"
+  (zCWorld::LoadBspTree()/SaveBspTree())
+  .ZSP Files liegen im VZ MESHES/_COMPILED.
+  Im Game-Zusammenhang gesehen gehoert zu jedem .PPF File (=ein Spiel-Level) ein
+  .ZSP-File. Beide Files haben DENSELBEN FILENAMEN allerdings eine andere Endung.
+  Also z.B. "demo2.PPF" und dazugehoerig "demo2.ZSP"
+
+v0.66e - 4.10.98
+****************
++ Sound: Animations & Untergrunds SFX integriert.
+  MDS-Befehle (frameNr 0 = erster Frame der Ani, -1 wie gehabt der letzte):
+    *eventSFXGrnd   (frameNr    SOUND_NAME)
+    *eventSFX       (frameNr    SOUND_NAME)
+  Bei einem *eventSFXGrnd und einem beispielhaften SOUND_NAME = "human_run_left" wird nach den entsp.
+  mit den MaterialGruppen-Namen verknuepften wav-Files auf Platte gesucht:
+  human_run_left_undef.wav, human_run_left_METAL.wav, human_run_left_STONE.wav, ...
+! Ulf: in tEngine.cpp gibt es die Methode MarkOccluderPolys(mesh). Kannst du es provisorisch als
+  Cmd-Line (oder via Console) verfuegbar machen, dass nach dem World-Compile auf dem World-Mesh
+  (zCWorld::GetBspTree()->mesh) diese darauf ausgefuehrt wird ?
+! => Andre: obiges sollte spaeter ein Feature fuer den Spacer sein
+
+
+v0.66d - 31.9.98
+****************
++ ME/MDS: modelTag() und *eventTag() eingefuehrt (u.a. um individuelle Model/Anis Kampflimbs
+  anzugeben). Als "*eventTag"-FrameNr kann eine "0" angegeben werden, auch wenn z.B. die Ani erst
+  ab Frame 9 beginnt. In diesem Fall wird der Tag-Frame autom. auf den ersten Frame der Ani gesetzt.
+  TAG_NAMEs werden zw. Ulf/Alex ausgemacht. Alex setzt sie dann ins MDS und Ulf fischt sich dann
+  die Argumente des Tags ueber Angabe des TAG_NAMEs heraus.
+  MDS-Befehle:
+      aniEnum
+      {
+        modelTag        (TAG_NAME       ARG_1   ..  ARG_N)
+        modelTag        ("DEF_HIT_LIMB" "ZS_RIGHTHAND")
+      }
+      ani (...)
+      {
+        *eventTag       (frameNr    TAG_NAME        ARG_1   ..  ARG_N)
+        *eventTag       (0          "HIT_LIMB1"     "ZS_MOUTH")
+        *eventTag       (0          "HIT_LIMB2"     "ZS_TAIL")
+      }
++ zCWorld::CompileWorld: Der erste Parameter legt fest, ob es sich um einen Indoor o. Outdoor
+  Level handelt.
++ BSP: Outdoor:
+    + Octree-Build/TraceRay
+    + Autom. Finden von Sektoren (= z.B. Haus-Innenraeume) innheralb von Outdoor-Meshes
+    + Sektoren werden bei steigender Distanz weggeblendet (inkl. enthaltener Vobs)
+    + verbundene Sektoren (z.B. Raeume in Haeusern) und deren Inhalte werden ueber Portal-HSR
+      gerendert.
+    + Autom. Klassifizierung von "Occluder-Polys"
+    + hierarchisches LOD (autom. Generierung und Anwendung)
+      (Bug: teilw. werden noch Loecher in die "de-generierten" LODs gerissen..)
+    + provisorische Outdoor-Beleuchtung
++ Mesh: Filter Triangles => nPolys
+  (Bug: Schlaufen-Entferner ist noch buggy, deshalb werden manche Merges nicht durchgefuehrt)
+* Interne Vob/BSP-Verwaltung umgestellt.
+* zCArraySort:
+    - die Parameter der SetCompare() Fkt. haben sich geaendert (nun kompatibel mit qsort())
+    - Insert() sortiert nun nicht autom. ein, dafuer ist InsertSort() noetig
+    - auf dem Array kann ein QuickSort() ausgefuehrt werden
+* BSP: effizientere ClipFlag Ausnutzung & Tree-Traversals
+* ME: zCModel::SearchAni() sucht nun binaer und ist xmal schneller (=>startup)
+! Argh! Ein Compiler (FloatingPoint/Release) hat mich locker 2 Tage gekostet.
+! Die dyn. Beleuchtung ist zur Zeit leider "beschaedigt" und wird demnaechst wieder gerichtet.
+
+
+v0.66b - 28.8.98
+****************
++ zSound.h/.cpp: das Soundinterface festgelegt
++ JumpLow/Mid implementiert.
+* Bugs bei der Schwimm/Tauch Collision behoben.
+* B: Lichtberechnung im compilierten Level ist nun um ein vielfaches schneller als uncompilert.
++ BSP: Outdoor-Renderer (HSR), allerdings: die HSR-Methode unterstuetzt outdoor nicht 6DOF. Rot
+  um die lokale ZAchse sind nur sehr gering erlaubt.
+* Keine BSP-Splits mehr noetig im Indoor-BSP.
++ ..
+
+v0.66a - 7.8.98
+****************
++ PE: Model/Model CD laeuft nun über Zylinder statt BBoxen, damit Models in Bewegung aneinander
+  abgleiten koennen.
+
+v0.66 - 5.8.98
+****************
++ zCAIPlayer:
+    + Model Wasser-Kollision
+    + Model Wasser Verhalten verbessert, provisorische Wasser-Partikel Spritzer
+    + AutoRoll-Feature fuer Rennen, Tauchen, ..: a la TombRaider kann sich nun das Model
+      bei kombinierter Bewegung/Turn in die Kurve legen.
+      (z.B. beim rennen, oder unterwasser immer..)
+    + Model-Collision Haenger behoben (Sphere/Huefte/90° BodenWandKante)
+    + Konstanten => Parameter (::Setvob())
++ Neue zCRenderer Methoden: Set/GetPolySortMode(),Set/GetZBufferWriteEnabled(),Get/SetGetZBias()
+  (=> muss Carsten implementieren)
+* BBox3D::Transform effizienter
+* ME: Beim Einlesen von MAX-ASCs werden "*HELPEROBJECT"s nun genauso wie "*GEOMOBJECT"s behandelt.
+* zCWorld::TraceRay hat neue Option: zTRACERAY_IGNORE_TRANSP_POLY (=Polys mit AlphaFunc!=NONE)
+
+
+v0.65a - 11.7.98
+****************
+* ME: Bugfix, der bei den Torch Anis auf hoeheren Layern stoerte (masterAni war illegal)
+* ME,MDS: FPS/Sample (siehe 0.65) laeuft nun korrekt (kranker MSVC++ Bug)
++ ME: zCModel::FadeOutAnisLayerRange() & zCModel::StopAnisLayerRange() fuer Ulf.
++ zCDecal: "decalOffset (xoff yoff)" ist in den zCDecal/zCVob-Properties hinzugekommen und muss
+  z.B. fuer Feuer/Fackel Decals korrekt gesetzt werden.
+* Wenn die BBox eines Vobs angezeigt wird, dann wird nun auch das lokale Koordinatensystem
+  mit 3 Strichen (up-weiss, at-gelb, right-orange) angezeigt.
+! Vob-Hierarchien, die im Spacer zusammengebaut werden, sollten so tief wie noetig und so
+  flach wie moeglich sein (Feueressen => das Licht sollte man nicht ans decal, sondern ans
+  Mesh packen). Hat halt weniger overhead.
+
+v0.65 - 8.7.98
+***************
++ ME: Animationsdaten werden auf Platte/Speicher gepackt gespeichert
+  (nur noch 43% der alten Groesse)
+* zCWorld::PickVob: beruecksichtigt das Vob-Flag "GetIgnoredByTraceRay()" nicht mehr(=>Spacer).
++ World/Vob-Management bzgl. 'vobSubtrees' (z.B. torch, firebowl, magicSword, etc):
+  vobSubtrees sind (kleine) Vob-Hierarchien, die nun auch ausserhalb einer zCWorld existieren
+  koennen: zCWorld::RemoveVobSubtree() cuttet einen Subtree aus der zCWorld, und
+  zCWorld::AddVob..() fuegt einen solchen wieder ein. Von Platte kann dieser wie gehabt mit
+  zCWorld::MergeVobSubtree() geladen werden.
+* Coronas faden beim Erreichen des Cam-FarClipZ.
+* Partikel-System: Rendern der Partikel beschleunigt, Funktionalitaet erweitert
+  (=> z.B. nun moeglich: Rauch (wie in der alten Engine), Feuer-Schweife/FlammenWurf etc,
+  Wasserfontänen, Explosionen, lokaler Regen/Schneefall, ..)
++ Partikel-Visuals stehen nun auch dem Spacer/.ppf zur Verfuegung. Hierzu muss bei einem Vob in
+  den Props bei Visual einfach "visual (FX_NAME.pfx)" angegeben werden. FX_NAME bezeichnet dabei
+  den Namen eines Partikel-Effekt Presets. Eine Aufzaehlung dieser Effekte kann Runtime per
+  zCParticleFX::particlePresetList abgefragt werden (=> Bert, Spacer.)
+  Zur Zeit implementierte Effekte: "ZFIRE1.PFX", "ZBLOOD1.PFX", "ZSMOKE1.PFX", "ZTEST1.PFX".
+* zCParticle/zCDecal setzen per Default auf dem Vob mit dem sie verbunden sind ein
+  zCVob::SetIgnoredByTraceRay (TRUE).
++ ME: Mit zCModelPrototype::Get/SetAutoConvertAnis() kann eingestellt werden, ob beim Einlesen
+  von .MAN Files geprueft werden soll, ob diese uptodate sind. Ein Nicht-Pruefen sorgt dafuer,
+  dass der Game-Startup *doppelt* so schnell verläuft (=> Ulfi, als CommandLine-Switch einbauen).
+* ME,MDS: Fehlerabfrage: eine aniAlias-Ani darf keine aniAlias-Ani referenzieren.
++ [folgendes ist leider noch buggy, argh, ist beim naechsten mal aber 100%]
+  ME,MDS: Beim Konvertieren von .ASC nach .MAN kann nun eingestellt werden, wieviel der Samples
+  aus dem .ASC wirklich verwendet werden sollen. Ein (optionales) "FPS:15" am Ende in der MDS-Zeile
+  "ani (NAME LAYER NAME .... FPS:15)" sorgt z.B. dafuer, dass vom ASC nur 15 SampPerSec genommen
+  werden auch wenn diese im .ASC z.B. mit 25 FPS definiert ist. Die Folge: die Anis verbraten
+  im Speicher & auf Platte weniger Speicher (u.A. schnelleres Einladen von Platte).
+  Und: mit folgender MDS-Zeile kann ein Default MaxFps Wert für das gesamte .MDS festgelegt werden,
+  der immer benutzt wird, wenn keine "FPS:x" Angaben vorhanden sind. (na, Alex, alles genutst ?)
+  aniEnum
+  {
+    aniMaxFps   (15)
+    ..
+  }
+! Berts zSTRING Update wird benoetigt.
+
+
+v0.64 - 27.6.98
+***************
++ zCTexAniCtrl: Set/GetOneShotAni() hinzugefuegt.
++ Partikel-System, neue Files: zParticle.h/.cpp.
+  (=> Ulf, zCAIPlayer: "Waffen-Coll-Det").
+* Die Abfrage auf Einhaltung folgender notwendiger(!) Bedingung ..
+  "zVob(zCVob::BeginMovement): only one moving vob allowed at a time" ..ist nun konsequenter.
+* Ein paar kleine Hacks fuer die Demo2 eingebaut.. (~zCModel => proto->Release()).
+* Ein zCDecal::Release() loescht nun auch korrekt das Decal (delete).
+
+v0.63j
+******
+* Ptr-Probleme beseitigt, wenn Vobs innerhalb von AIs geloescht werden.
++ zCVob: staticVob-Flag eingefuehrt (fuer z.B. statische Fackelhalter etc., => Vob-Properties)
++ zCVob: Set/GetIgnoredByTraceRay() - Flag (nicht in Props), ist bei Decals per Default auf TRUE.
+* zCWorld::CompileWorld(): per Param koennen Level-Komponenten erhalten bleiben (=> Spacer)
+* zCWorld::LoadWorld() etc. => Die Callbacks werden nicht mehr ueber Params, sondern ueber
+  zCWorld::Get/SetLoadWorldCallback() angegeben !
++ Ulf : Um ein bestehendes Vob durch ein ppf-Visual zu ueberschreiben (richtiger Constructor!):
+    MergeVobSubtree (ppfFileName, createdVob, zCWorld::zWLD_LOAD_MERGE_REPLACE);
+  Aber: Beim Laden eines PPFs duerfen ppf-Visual Angaben NICHT auf diese Weise expandiert werden.
+  Nur im Spacer darf durch obigen Befehl expandiert werden.
+  (weil sonst: Childs sind bereits im PPF vorhanden und wuerden durch obigen Befehl nocheinmal
+  eingefuegt werden).
+
+v0.63g - 22.6.98
+****************
+* ..
++ zCWorld::LoadVobSubtree()/SaveVobSubtree(), ReloadWorld() (= Level-Reset).
+  (=> Bert, benutze bitte erstes Funktionen-Paar, um 'Mini-PPFs' zu speichern).
+* zCDecal-Materialien werden nun korrekt behandelt.
+
+v0.63d - 18.6.98
+****************
++ Decal-Properties erweitert (texAniFPS, AlphaBlendFunc)
++ ME: Ab einer gewissen Distanz werden Anis nicht mehr interpoliert (schneller) und 'idle-
+  Anis' gar nicht mehr abgespielt (I-Flag im MDS, z.B. "S_STAND" o. "S_RUN").
+* ...
++ ME: MDS: bei jeder Aenderung wird das .MAN neu erstellt/geparsed.
+* MM: gehen/Wand Verhalten sollte nun angenehmer sein (oops-wall-slide-forceModelHalt)
+  (=> Ulf, zCAIPlayer)
+* B: fiesen Bug gefixt (clipped smoothed Polys).
+* ME: Autoaiming mit 9 Posen geht nun.
+* Model-Model-Collision-Beam-in-die-Luft Bug gefunden.
++ Mit zCRenderer::GetRendererType() ist der Typ des aktiven Renderers abfragbar.
++ Erweiterungen im zCRenderer: GetFog..() Methoden (=> Carsten).
++ P: Model-Model-Collision.
++ zCVob::GetLightColorAtCenter()
++ ME: .MDS, aniBlend mit blendIn/Out: "aniBlend ("t_dive_2_diveF" "s_diveF" 0.1 0.1)"
+* ME: ErrorChecking beim Ani-Parsen (illegal Nodes, NodeNames).
++ Lensflares, Coronas komplett.
+! Model-Animationen finde ich generell noch zu lahm (besonders walk/run)
+! Carsten: SetRendererType (zRND_TYPE_GLIDE) => in den zRnd_Glide Constructor.
+! Der SoftwareRenderer laeuft nicht mehr. Scheint an geaendertem Init/Setup (=>Ulf, Carsten,
+  Grade, Glide) zu liegen. Habe micht nicht drum gekuemmert.
+! Fake-Model-Bodenschatten: je heller die grndshd.tga im Zentrum, desto dunkler der Schatten.
+  Meiner Meinung nach ist der Schatten zur Zeit noch zu dunkel (Zentrum=weiss).
+
+v0.63 - 9.6.98
+****************
++ Decals: benutzerfreundlicher. Angabe eines "visual (texture.tga)" in den Vob-Properties
+  moeglich. Festlegung der Groesse ebenfalls dort ueber "decalDim (xdim ydim)"& "decal2Sided"
++ B: VobLightPresets. Werden als "lightPresets.txt" in data/textures/matlibs gespeichert.
+  ( => Bert, Verwaltung dafuer in den Spacer).
++ Alg_ClipAtZ0() clippt 3D-Linien an der Z=0 Plane.
+* Mit zCVob::UpdateVisualDependencies() teilt mann einem Vob mit, dass sich z.B. die Groesse
+  seines abhaengigen Visuals geaendert hat.
+* Model-Movement(MM): 'head touches ceiling' bug behoben (zAIPlayer).
+* ME: aniSync-Bug behoben (s_bowwalk => s_bowaim, frame out-of-range)
+* ME: 'R'-Flag Bug gefixt (nur bei n-Anis, Func-Reihenfolge, numActiveAnis<=1)
+* ME: Model-Bewegung sollte nun noch runder/ruckelfreier sein (vobTrans=0 Situationen).
+
+v0.62 - 1.6.98
+****************
+* RndGlide 0.24
+* B: Einige kleinere Beleuchtungs-Bugs gefixt.
+* zCWorld::TraceRay Bugfix und schneller (hatte Auswirkung, wenn ein Model sich an einer
+  Kante hochziehen wollte).
+* Model-Fake-Bodenschatten: wird nun nach dem Bodenpoly ausgerichtet. Schatten wird
+  nun mit multiplikativem Alpha ohne Chromakeying gerendert. Die grndshd.tga Textur sollte
+  ungefaehr so aussehen: in der Mitte schwarz/grau, zum Rand hin vollkommen weiss werdend.
+* Model Wall-Sliding ist nun korrekt (nur im Rennen wirksam, Oops funkt nicht mehr
+  dazwischen) (=> Ulf, zCAIPlayer).
+* Model-Collision-Haenger bei schraegen Waenden beseitigt.
+* BSP: score-Berechnung nun korrekt.
+* ME: 1-Frame-Ani Bugs gefixt, beim .ASC Einlesen und beim abspielen (hoffentlich..)
+* ME: das combine von Anis (Auto-Aiming) geht mit 4 und (neu) auf mit 9 Ani-Posen
+  (zCModel::CombineAni, "aniComb" im MDS).
++ Model-Floor-Sliding (Rutschen an beliebigen Haengen) ist nun drin (spassig!).
+  (=> Ulf, zCAIPlayer)
+    ani ("s_slide"              1   "s_slide"       0.3 0.3 M.  "slide.asc"         F   3   4)
+    ani ("s_slideb"             1   "s_slideb"      0.3 0.3 M.  "slideB.asc"        F   3   4)
++ Model: Haengen an Klippe im Sprung ist nun moeglich (=> Ulf, zCAIPlayer).
+! Zum Thema "Pfeil schwabbelt auf Bogen beim Auto-Aiming":
+  Es ist nun auch moeglich das AutoAiming mit 9 Posen zu machen. Obs hilft weiss ich nicht,
+  da mein Ani-Material nicht korrekt war. Alex: ueberpruef bitte auch mal deine Ani-Posen auf
+  100%-Korrektheit.
+
+
+v0.61a - 25.5.98
+****************
++ zCRenderer & zCTexture Schnittstelle um einige Set/GetModes erweitert
+  (alpha, bilerpFilter, dither, chromaKeying).
++ ME: Mit zCModelPrototype::SetIgnoreAnis() kann das Einladen von Anis aus den MDS'
+  verhindert werden (=> Bert, fuer den Spacer & Scripter sinnvoll).
+* ME: kleine Bugfixes.
+* zCVob::SetShowVisual(FALSE) funktioniert wieder.
+
+v0.61 - 21.5.98
+****************
++ ME: Die Pos-Samples aus der MAX-Ani, die fuer die Bewegung verantwortlich sind, werden nun
+  auch lin. interpoliert.
+  => bei FPS-Rates groesser der FPS-Rate der Ani sollten die Model-Bewegung glatter
+     erscheinen und weniger ruckeln. Desweiteren koennte es sein, dass hiermit auch Carstens
+     Camera-Ruckeln behoben ist.
++ BSP: Leak-Detector geschrieben. Bei CompileWorld kann ein Ptr auf ein Poly-Array angegeben
+  werden. Gibt es Leaks, dann gibt es auch LeakPolys, die hier uebergeben werden.
+  Zur Zeit werden Leak-Polys gruen eingefaerbt.
+  (=> Bert: im Spacer 2 Optionen ermoeglichen: a) compile b) compile & detect leaks).
++ zCPolygon::TexShearU/TexShearV auf Mikes Wunsch hin implementiert
+  (=> Bert, in den Spacer; Werte um +/- 0.01 machen Sinn)
+* ME: 'Schweben' der Models ueber Boden behoben, 'Ruckeln' gemindert.
+* NW: PackStateBinary() muss nun der Speicher uebergeben werden + kleiner bugfix.
+(+ "visualCamAlign" )
+(+ "lensflareFX" lensflares.txt )
+! Falls mann denn Model-Bodenschatten (temporaer) entfernen will: einfach das File
+  "groundShadow.3ds" aus dem data/meshes Pfad entfernen.
+
+v0.60 - 16.5.98
+****************
++ Network (NW): Binary State Packing/Unpacking fuer Berts Netzwerk.
+  (a. vob dir/pos (24), b. model-ani (min,max: 7,88)).
+* zCWorld::TraceRay(): nun auch '*ignoreVobList' neben '*ignoreVob' moeglich.
+* Meshes mit 'Null-Dimensionen' werden nun wieder dargestellt (Toms Decal Bug).
+* B: Unterscheidung zw. stat. und dyn. Lights, Lights koennen versch.
+  Stufen der "Qualitaet" haben (=> Vob Properties).
+! B: Es sei nochmal darauf hingewiesen, dass Lichtberechnungen schneller laufen (sowohl
+  on- als auch off-line), wenn die Licht-Radien (ranges) klein sind. Also: Licht-Ranges
+  so klein wie moeglich und so gross wie noetig halten.
+
+v0.59 - 5.5.98
+****************
++ Beleuchtung (B):
+    + dyn. Vertex-Beleuchtung fuer stat.Level & dyn.Vobs (SCALEPRELIT o. EXACT).
+    + dyn. Licht-Parameter koennen animiert werden: rangeAni, colorAni (=> Vob-Properties).
++ Fake Bodenschatten fuer Models
+  (groundShadow.3ds, grndShd.tga aus tiffi-server VZ Dieter in DATA/MESHES/_INTERN kopieren).
+* Einige kleinere Optimierungen hier & da (thanks, VTune).
+* ME: 'sharing ModelPrototype...' geht nun wieder.
+* Statischer Speicherbedarf bei Nicht-Benutzung des Software-Rnds um ~1MB geringer.
+* Grade98-114
+* 'delete zrenderer' in zEngine_Close().
+* Komplett neuer Poly/Ray-Test. Schneller und hoffentlich jetzt robust genug..
+
+
+v0.58 - 23.4.98
+****************
++ PE: Wall-Sliding fuer Models.
++ PE: Collision Intervall-Suche interpoliert bei Bedarf nun auch die Rotation.
+* ME: Anis verschiedener MDS interferieren nicht mehr (.MAN Files haben jetzt als Prefix den
+  Namen des MDS).
++ ME: Import von MAX1 und MAX2 ascii-Files moeglich. MAX2-Files muessen allerdings mit dem
+  von mir speziell modifiziertem Konverter exportiert werden (ASCIIEXP.DLE) und tragen
+  ebenfalls die Endung .ASC (statt .ASE). Die alten MAX1 ASCs bleiben weiterhin lesbar.
++ zCWorld: TraceRay/PickVob findet nun auch Models (allerdings nur die BBs).
+* Neue Quelltext-Files: zModelProto.cpp
+! Es duerfen keine .ppf Files in die Engine eingelesen werden, in denen sich entweder dyn.
+  Objekte gegenseitig durchdringen oder dyn. Objekte den stat. Level durchdringen. Bald wird
+  es dafuer eine Funktion im Spacer geben, die dieses sicherstellt. Beim Einlesen in die
+  Engine wird die Richtigkeit dieses Punktes dann nicht mehr geprueft.
+
+v0.57b - 20.4.98
+****************
+* BBs/OBBs tighter (zufrieden, Bert?;).
+* Models sollten nicht mehr an Vobs haengen bleiben.
+
+v0.57 - 20.4.98
+****************
++ ME: Das Rot-Flag "R" im MDS ist nun implementiert, '*eventHeading' ist dafuer raus.
++ Material-Groups (=>0.55) tauchen nun auch in den Material-Properties auf.
++ PE: neue Tests: Ray/Sphere, Poly/Sphere.
+* zCWorld::TraceRayNearestHit/PickVob gefixt (hatte manche Vobs nicht gefunden).
+* ME: zum Thema "schwimmende Fuesse":
+  Die 'exercise.max' Ani laeuft nun problemlos. Allerdings ist ein "Schwimmen" nie ganz
+  eliminierbar, insbesondere wenn mehrere Anis gleichzeitig gespielt bzw. geblendet
+  werden. Das liegt ganz einfach daran, dass das Animations-System sozusagen ein
+  "mathematisches" und kein "physikalisches" ist. Selbst Lara schwimmt oft..
+! In den Main-Loops ist nun ztimer.ResetTimer() durch zCWorld::AdvanceClock() zu ersetzen.
+  (bei AdvanceClock kann mann auch eine Delta-Zeit in sec angeben => so ist es moeglich,
+  die Welt anzuhalten, nur auf Tastendruck weiterlaufen zu lassen etc.)
+! Ein zCVob ist nun 'Besitzer' des bei ihm angemeldeten AI-Objekts, d.h. wenn ein Vob
+  deleted wird, loescht der Vob das AI-Objekt ebenfalls (falls vorh.).
+! Falls ein AI-Objekt...
+  - den Host-Vob loeschen will: Dieses darf das AI-Objekt in keiner Methode selbst tun,
+    sondern muss dies aus der DoAI() Methode per 'vobDeleted' Ref-Param an den Aufrufer
+    melden.
+  - weitere Vobs ausser dem Host-Vob bewegen will: Host-Vob Bewegungen komplett abschliessen
+    und dann ein vob->EndMovement(). Bewegungen weiterer Vobs sollten dann moeglichst in
+    BeginMovement() .. EndMovement() eingeschlossen sein.
+
+v0.56 - 14.4.98
+****************
++ PE: Collision Detection & Response zw. Mesh/Mesh, Mesh/Level, Model/Level, Mesh/Model.
+  Leider noch etwas wackelig. Desweiteren Intervall-Suche nach exaktem Collision-Ort.
++ PE: Neue Tests: OBB/Poly, BB/Ray
++ Template zCArray<T> in zTree.h. Implementation eines dynamischen Arrays. Ist eine echte
+  Alternative zur zCList<T> und bei vielen Sachen effizienter. (Ich haette die Zeit wohl
+  auch nutzen koennen mich in STL einzuarbeiten..).
+* BSP: ein paar Bugs gefunden (u.a. Texture-Coords Zerstükeler, CollectVobs).
+! Ein Wort an meine Mit-Programmierer (u.a. wichtig fuer Netz-Sync):
+    ! Jegliche Sync mit der tatsaechlichen Frame-Rate sollte ausschliesslich über ztimer
+      erfolgen.
+    ! Für Zufallszahlen sollte nur zRand() und zRandF() aus zTools.h benutzt werden.
+
+v0.55 - 8.4.98
+****************
++ ME: Fuer das Auto-Aiming ist nun das Kombinieren von Ani-Posen in 1 moeglich
+  (zCModel::CombineAni, "aniComb" im MDS).
++ zCVob::GetAziElev() und Alg_CalcAziElev() liefern Azi/Elev Winkel (=>Ulfi!)
++ Material-Gruppen eingefuehrt (zur Zeit Stein, Erde, Holz, Metal, Wasser!,..).
++ zCVob::GetTrafoModelNodeToWorld() bestimmt die Pos/Orient einer Model-Node im Welt-Koords.
+  zCVob::SetTrafoObjToWorld()
+  (Nuetzlich, beim Umsetzen eines Pfeils von Slot/Model nach Vob/Welt, oder dem Ueberpruefen,
+   ob ein Gobbo wirklich in Greifweite des Trolls ist ..:)
+
+v0.54 - 6.4.98
+****************
++ zCAIPlayer erweitert um schwimmen, tauchen, springen, klettern, fallen..
+  (Allerdings klappt die Model/Level-CD noch nicht einwandfrei, am besten ausschalten..)
+* ME: MDS-meshLibs werden nun wieder korrekt abgearbeitet.
+* zCVob::SetHeading gefixt.
++ Jede zCWorld hat nun ein zCWayNet (zCWorld::GetWayNet()) (=> Bert,Spacer).
++ zCWorld::TraceRay liefert auf Wunsch nun auch das getroffene statische Poly.
++ zCWorld::CollectVobsInBBox3D() sammelt aus der Welt Vobs in einer Liste, dessen BBox3D
+  die angegeb. BBox3D schneidet.
+! Ulf: benutze doch bitte die neuen schnelleren Alternativen..
+    + zCVob::SetHeadingY statt der SetHeading/ResetXZ.. Kombo
+    + zCVob::RotateLocalY, statt RotateLocal (0,1,0,..)
+
+
+v0.53 - 26.3.98
+****************
+* Verschiedene Bugs behoben, die Update 052 verursachte.
+
+v0.52 - 23.3.98
+****************
++ PE/Collision-Detection:
+    + OBB-Trees fuer die Coll.Det. implementiert (hierarchische, orientierte Bounding Boxes
+      nach Gottschalk, Sig96), inkluse Interference-Tests.
+    + Intersection-Test: BBox3D/Poly (0/1).
+    + Intersection-Test: Limb(eines Models=Waffe) gegen die Limbs eines zweiten Models(0/1).
+    + Physik-Simulator.
+    * zCVob: SetLinearVelocity(), SetAngularVelocity() sind leider wieder rausgeflogen
+      (erstmal, siehe 0.51). Kommt evtl. spaeter zurueck.
++ BSP: schnelleres BSP-Compiling moeglich durch. => zCWorld::CompileWorld(optimize).
+  "optimize" muss im Bereich 0..1 liegen. Je naeher der Wert an 1 ist, desto mehr Muehe
+  gibt sich der Compiler, einen 'guten' Tree zu bauen, was aber auch laenger dauert.
+  Verdacht: falls ein Level nicht den "Leckfrei-Kriterien" entspricht: je kleiner
+  "optimize", desto mehr verteilen sich Fehler über den gesamten Level.
++ ME: Interpolation zw. den einzelnen Samples einer Ani integriert. => MAX-Anis, die mit
+  5 FPS gesamplet wurden, sehen in der Engine genauso fluessig aus, wie Anis, die mit
+  20 FPS gesamplet wurden (sie brauchen allerdings weniger Mem & sind weniger nuanciert).
+* ME: Das Format der MDS-Files hat sich geaendert (=> Doku 0.02).
+* Poly-Clipping nur noch an den Frustum-Planes, die die BBox schneiden (schneller).
+* Einige neue Quelltext-Files:
+  zScan.h, zPhysics.*, zBVolume.*, zEigen.*, .. was noch ?
+* Andere Schnittstelle fuer Strahlenverfolgungen im zCWorld (=>PickVob, hi Bert !).
+  Diese Routinen (::TraceRay..) sind nun amtlich optimiert und koennen fuer die AI-LOS
+  (NPCs, Cam,..) benutzt werden.
+
+v0.51 - 3.3.98
+****************
++ Physik-Engine(PE): Start der Implementation. Vorbereitungen fuer die Integration des
+  Cam-Systems (=>Carsten).
+    + zCVob: SetLinearVelocity(), SetAngularVelocity(). u.a. fuer Netz-dead reckoning.
+      (B, U: probierts mal aus). Argh. Koennte sein, dass es wieder rausfliegt..
++ Fuer Spacer: zCMaterial::GetUsage () eingefuehrt.
++ Namen fuer Vobs eingefuehrt. (zCVob::SetName(), zCWorld::FindVobName())
++ ME: dynamisches, gelayertes Ani-Blending-System zw. beliebig vielen Anis integriert.
++ ME: Ansteuerung des Spieler-Models durch Tastatur. Teil1. Wird von Ulf uebernommen.
+* ME: "could not load mesh"-Warnungen beim Mesh-Wechsel abgeschaltet.
+* World-ppf-loader: Falls es ein D-Skript gibt, werden die ppf-Visuals ignoriert.
+  Visual-Eintraege sind und *bleiben* im ppf. <= Punkt.
+* Statt teurer zMAT4::Inverse() wird nun schnelle zMAT4::InverseLinTrafo() benutzt. Da
+  Matrizen ohne Skalierung stehts orthonormal sind, koennen diese durch ein billiges
+  Transpose invertiert werden.
+* Texture Frame-Ani Bug behoben
+* Musste 'ConvertTextures()' dummerweise wieder nach zCRenderer legen, da diese Methode in
+  zCTexture 'static virtual' sein muesste, dieses aber (logischerweise) in C++ nicht geht.
+  Sorry.
+! Aus einem Quake2-Tools-Readme:
+  "Quake2 is now using VC 5.0 with service packs one and two.  We are still finding some
+  code generation problems with release builds. All the utilities still have VC 4.2 projects."
+
+
+v0.50b - 12.2.98
+****************
++ ME: Binaeres Engine-Format fuer Model-Animationen eingefuehrt (.MAN). Neues .MAN wird
+  autom. erstellt, wenn es noch nicht vorhanden ist, wenn sich interne Engine-Versionsnummer
+  des .MAN-Formats ändert, oder wenn das Datum des Quell-.ASC-Files sich ändert.
+* Habe die virtuelle Methode 'ConvertTextures()' in die Basisklasse zCTexture gelegt.
+  Carsten: bitte diese Methode aus zCRnd_Glide nach zCTex_Glide bringen.
+
+v0.50 - 09.2.98
+****************
+* Model-Engine(ME): ModelPrototypes werden wieder geshared, also nur 1x Laden pro MDS.
+* World-PPF-Loader: habe den externen LoadWorld Callback geaendert, nun laufen Erschaffung
+  und Init eines Vobs getrennt in 2 Schritten (constructor-CB, init-PPF/File,
+  init-CB/D-Script). Ulfi=> bitte anpassen.
+  => Eintragungen eines D-Scriptes ueberschreiben beim Einladen Eintraege des PPF-Files
+  (z.B. auch Visuals..).
+! ACHTUNG:
+  Das BSP-Compilieren kann sehr viel Speicherplatz benoetigen (50-100 MB?). Falls beim
+  compilieren also dem System die Resourcen ausgehen (auch das Windows-Swap-File..) stuerzt
+  in diesem Fall die Engine (und evtl. auch Windows) ab. Abhilfe: mehr RAM, groesseres
+  Win-Swapfile, keine/weniger andere Programme parallel.
+
+v0.49 - 05.2.98
+****************
++ Model-Engine: ich fange jetzt einen Fehler ab, den Alex in manchen ASC Dateien gemacht hat:
+  Nodes mit demselben Namen (nicht erlaubt!) sorgten bisher immer fuer Abstuerze.
+  (Dies bezieht sich auf das letzte '!' aus 048).
++ zCRenderer-Interface: neue Methode "SetPolyDrawMode()" (material, flat, wire), sorgt dafuer,
+  dass alle folgenden Polys entweder in Material-Abhängikeit gerendert werden, oder eben
+  force_flat /fory_wire.
+  CARSTEN: bitte in zCRnd_Glide implementieren !
+! ACHTUNG:
+  Model-Engine: es darf in einem ASC File keine 2 Nodes mit demselben Namen geben !!!!
+  Slots (ZS_) duerfen nicht an Meshes haengen (ZM_) !!!!
+
+v0.48 - 03.2.98
+****************
+! ACHTUNG: Es gibt noch einen fiesen Bug beim Einlesen von MDS-Models, habe ihn schon fast,
+  mache aber erst morgen weiter. Also noch nix an pb schicken & schoen die Finger von den Models
+  lassen bis zum 049. Zum Einbau der neuen VZ bekommt ihr dieses Update aber schon mal..
++ Umsetzung der neuen Verzeichnis-Struktur + File-Search Feature (courtesy of Bert Speckels):
+  TGA, TEX, 3DF, 3DS, MDS, ASC werden zunaechst in dem Verzeichnis gesucht, in dem sie vermutet
+  werden, danach werden sie im ganzen entsprechenden Directory-Subtree gesucht (also z.B. 3ds im
+  DATA\MESHES, TGA im DATA\TEXTURES). Allerdings: diese Suche kostet Zeit...aber ihr wolltet es so!
++ Texture-Caching: Textures werden erst eingeladen, wenn sie benötigt werden.
++ zCRenderer-Schnittstelle erweitert (Fog, BilinearFiltering)
++ Model-Engine: Quaternion-Klasse erstellt (fuer weiches Ani-To-Ani Blending)
+
+
+v0.47 - 29.1.98
+****************
+* Model-Engine: erweitert/umgebaut, um die Kombinierbarkeit wie abgesprochen in D zu unterstützen.
+! ACHTUNG:
+  In diesem Zusammenhang muss ich folgende KONVENTION/FORDERUNG stellen:
+  Textures, die als 'Haar' Texturen verwandt werden, muessen in ihrem Namen irgendwo das Wort
+  "hair" enthalten, dasselbe gilt entsprechend für die Gesichtstextur ("face").
+* Mehrere kleinere Bug-fixes... (visual= ""; "<name>_0.tga"; etc..)
+* 3ds-Exp: Materialien mit mehr als 16 Chars werden nicht mehr beschnitten (koennen aber Probs
+  verursachen, falls in andere Progs import.)
+
+v0.46 - 23.1.98
+****************
+* Gelegentliches doppeltes Laden eines Visuals unterbunden, war ein Upper()-Bug (Thanx, Bert).
+* Model-Engine: durch die Model-Engine erzeugte Materialien bekommen nun den Namen des ASC
+  Files im Namen vorangestellt, damit diese nicht ungewollt geshared werden.
+  => mehrere Models mit versch. Texturen klappen nun.
+! ACHTUNG:
+  In diesem Zusammenhang:
+  BEI JEDER OBJEKTART DARF JEWEILS NUR EIN OBJEKT MIT EINEM BESTIMMTEN NAMEN BESTEHEN !!
+  Z.B. darf es nicht 2 Meshes 'sword.3ds' geben, auch wenn diese in versch. Verz. sind !
+  Z.B. darf es nicht 2 Materialien 'foot' geben, auch wenn diese in versch. ASC-Files sind !!
+  Weitere Objekte dieser Art: .BSP, .3DS, Materialien, Texturen, Meshes, ppf ... alles..
+* Model-Engine: Destruktoren waren buggy, waren verantwortlich fuer gelegentliche Abstuerze
+  beim 'Deleting Modelprotype'.
+  Allerdings: irgendein 'sharing'-Bug scheint immer noch drin zu sein !
++ Model-Visuals werden nun auch in die zCVob-Properties rausgeschrieben.
+
+v0.45 - 22.1.98
+****************
++ Provisorisch koennen nun fuer 1 Mesh die Light-Werte in ein binäres File rausgeschrieben &
+  wieder geladen werden ('demo1;lightInfo.tmp' File).
+* Model-Engine: die Limb-Meshes werden provisorisch erst mal wieder in das Mesh-Verz.
+  geschrieben. Dadurch sollte der bisherige 'nicht-finden-des-limb-3ds' Bug behoben sein.
+* Bug beim Laden von Multi-Materialien gefixt. (Hey Bert ! Hattest doch recht !)
+! Multi-Mats: in Carstens Texture-Glide-Krempel scheint noch ein Bug zu sein, der das Progr.
+  bei bestimmten Texturen zum Absturz bringt.
+! Konnte keinen Licht Bug feststellen. Auch mit den kompletten PB-Daten. (Bei mir verhaelt
+  sich auch das Licht Nr 229 korrekt, Stefan).
+
+v0.44 - 21.1.98
+****************
+* Licht-Bug gefunden: lag daran, dass fuer alle im ppf eingelesenen Vobs immer nur der
+  Basis-Klassen Constructor benutzt wurde, wobei natuerlich fuer jede abgeleitete
+  Klasse der entspr. Constr. benutzt werden muss !
+  (Das kommt davon, wenn mann sich um die Virtuals herumluegt !)
++ Neue zCWorld::GetNearestVisibleVobR2-Routine (Fokus), die den Player als Zentrum annimmt.
++ Model-Engine: Unsupported ASC-Controler werden nun korrekt ueberlesen.
++ Model-Engine: In 3ds-Max Files kann mann nun Knoten, die in einer Ani still gehalten werden
+  sollen mit dem Namensanhaengesel 'FIX' oder 'FIXSUB' kennzeichnen. Ersteres haelt nur
+  diesen Knoten still, zweiteres den gesamten Subtree.
+! Model-Engine: Der 'shield-Ready'/Layer Bug (wie von Alex berichtet) zeigt sich hier bei mir
+  nicht. Ich habe alles moegliche ausprobiert, versch. Layer, versch. Anis gleichzeitig
+  (Walk, 1H_draw, shield_draw), und ich habe deine Daten verwendet..
+
+v0.43 - 17.1.98
+****************
++ Nicht Finden der Default.Tga wird gemeldet.
+* Potent. Div0-Bug-Stelle gefixt.
+* Materialien haben die Default-Farbe (150,150,150).
++ Phong-Beleuchtungsgleichung geändert, eine preAmbient Konstante pro Material eingeführt.
+  Hierdurch sollten die Schnittstellen zwischen Model-Limbs nicht mehr so krass wirken.
+  (Kann auch noch reguliert werden, TradeOff zwischen Plastizität des Objektes & weichen
+  Übergängen)
++ Im .MDS Reader werden bei aniEvents ungueltige Frame-Nr Angaben abgefangen.
++ .MDS Files sind als visuals in den Vob-Properties und D-Scripten erlaubt.
+
+v0.42 - 16.1.98
+****************
+* Einige Bug-Fixes in der Figuren-Engine.
+  (Node-Scale elimiert; keine Probleme mehr, falls Ani nur ROT_TRACK oder nur POS_TRACK hat;
+   Translation in der Ani-Matrix ist nicht mehr noetig)
+* Schnellerer BBox3D / Frustum Test.
+
+v0.40 - 15.1.98
+****************
++ Glide Support integriert, allerdings noch Schwierigkeiten mit der Low-Level-Video Ebene
+  (=>Ulf, Carsten).
++ Multi-Texture-Support (<name>_X0_Y0<..>.TGA)
++ Animierte Texturen (Frame-Animation, UV-Animation)
++ Licht wird nun farbig im 32-Bit RGBA berechnet.
++ Das Smoothing in Abhängigkeit vom Material (& SmoothAngle) ist drin. Wird allerdings erst
+  bei einer Neuberechnung der statischen Vertex-Beleuchtung der Welt berücksichtigt.
+
+
+v0.06 - 15.12.97
+****************
++ Figuren-Engine (Teil I), Einladen von 3DS-MAX Animationen & Meshes, sowie Abspielen
++ 3ds-Export (Geometry & Texture-Mapping-Koord.) (getesteter Weg: Engine, 3dsR4 (modify), Engine=>OK)
++ Texturierungs-Features fuer das Spacer-Tool
++ "VobLights" eingefuehrt inklusiver der statischen Vertex-Beleuchtung der Welt durch VobLights
++ Schnittstelle fuer Hardware-Beschleuniger (Teil I) (Glide bereits zum Laufen gebracht)
++ Materialien sind als Scripte lad-&speicherbar
+* 2 ueble Bugs im alten .3ds Importer behoben
+* interne Strukturen umgekrempelt: der statische Speicherbedarf der Engine ist um Megabytes (!!) kleiner
+* Polys koennen nun beliebig viele Verts enthalten. (keine Obergrenze)
++ MOD-Files aus der Engine abspielbar
+v0.05
+*****
++ Die Welt laesst sich in einer beschreibenden Script-Sprache speichern & wieder laden.
+
+v0.04 - 20.10.97
+****************
++ BSP-Tree implementiert (Räumlich kohärente hierarchische Partitionierung der statischen Welt in konvexe,
+  benachbarte Zellen ('leafs') die durch durchsehbare und durchgehbare Portale verbunden sind. Poly-Splits können
+  hierbei vollständig vermieden werden !!)
++ dynamisches Portal-PVS: Portal-Renderer implementiert der den BSP-Tree und die Portale benutzt um dynamisch ein PVS
+  ("potential visibility set", Menge potentiell sichtbarer Leafs/Polygone) in Abhängigkeit von der Sichtposition
+  Frame für Frame neu zu berechnen.
+  Quake-Style-Level     : gute/sehr gute Performance
+  City              : mittlere Performance
+  Terrain/'Psilager'-Style  : sehr schlechte Performance
+  => evtl. bringt ein statische PVS mehr Performance...
++ Vob-Verwaltung und BSP-Tree wurden zusammengeführt (1. Stufe). Operationen auf Vobs sind nun potentiell schneller
+  da sie die hierarchische Struktur des BSP-Trees nutzen können.
++ Erstes einfache Collision Detection: Vob gegen Vob (dyn/dyn, auf der Grundlage von axis aligned BoundingBoxes).
+  (C.D. stat/dyn ist auch bereits möglich, wird von der Demo allerdings nicht gezeigt.)
+  Weitere CD ist erst sinnvoll im Zusammenhang mit der Collision Response und der Physik-Engine.
+
+v0.03 - 14.9.97
+***************
++ Dynamisches, Hierarchisches Vob-System eingeführt
++ 'brute force' line-of-sight Check implementiert, (fuer PickVob, PickPoly durch Angabe von Mauskoordinaten)
++ Quake-BSP File Reader (erste Stufe) implementiert, (Anzeige der Texturen steht noch aus)
+
+v0.02 - 6.8.97
+**************
++ SBuffer eingeführt (fuer Poly-Scan-Conversion, Poly-Sortierung & Overdraw-Eliminierung)
+* 3DS-Mesh Loader ein vielfaches schneller
++ Phong-Beleuchtungsmodell eingeführt
+* schnelleres Texture-Mapping: Perspektivische Korrektur durch lineare Subdivision
++ erweiterte Material/Texture-Verwaltung
++ Verwendung von Standard-Pfaden, die aus Script-File gelesen werden
+* Bug bei der Beleuchtung von Vertices behoben (=> smooth, unsmooth sieht jetzt korrekt aus)
+
+v0.01 - 5.6.97
+**************
+! Ich verwende jetzt n-Polys, wobei das n aber schon zur Compile-Zeit festgelegt ist. (Zur Zeit 6, aber
+  beliebige Werte sind möglich).
+! 3D-Studio Files, die von Lightwave rausgeschrieben werden enthalten keine Texture-Koordinaten! Das
+  ist schlecht ! Diese sind aber unbedingt nötig. Für uns bedeutet das, daß wenn wir Ligthwave-Objekte
+  einlesen wollen, dies nicht über das ".3ds"-Format machen können, sondern daß ich jetzt doch noch eine
+  Einlese-Routine für ".lwo"-Files von Lightwave schreiben muss....
+  Das ist eigentlich der Grund, warum ihr eure Ork-Höhle noch nicht so "richtig" texturiert begucken
+  könnt.
+! Was beim 3DS-Import noch nicht drin ist:
+    - korrekte Interpretation der Mapping-Koordinaten
+      3DS verhält sich in dieser Hinsicht ziemlich krank. Groessere Anstrengungen dieses Problem zu loesen
+      wurden noch nicht unternommen, da noch unklar, ob .3ds das Format der Wahl ist.
+    - Auswertung der "smoothing"-flags.
+! Wenn nun im "SBuffer"-Render Modus noch Poly-Sortierungsfehler auftreten liegt das i.A. daran, dass sich
+  Polygone durchdringen. Korrektes Rendering ist nur gewährleistet, wenn sich Polys *nicht* durchdringen.
+  Beim Modellieren der Meshes muss dieses sichergestellt werden.
+! Hinweis:
+  Man kann beliebige 3DS-Files einladen. Da versch. Meshes verschieden skaliert sind, könnt ihr mit +/-
+  die Schrittweite und die Lichtweite einstellen (falls ihr nichts sehen solltet). Desweiteren könnt ihr
+  mit "r" die Z-Distanz steuern, ab der Polys nicht mehr dargestellt werden.
+

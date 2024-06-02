@@ -1,0 +1,59 @@
+krawall.de 10/2000
+
+08.10.2000
+
+
+
+Exklusives Gothic - Interview
+
+Autor: Niels
+Seite: 1 / 3
+
+[K] Niels: So, zuerst mal: Hallo allerseits!
+
+[P] Torsten: Hallo auch. Ich bin Torsten von Piranha Bytes.
+
+[K] Niels: Na prima, dann zur ersten Frage: Wie seid ihr auf die Idee zu Gothic gekommen?
+
+[P] Torsten: Die Idee zu Gothic ist eher eine langersehnte Umsetzung all der Dinge die immer in Spielen gefehlt haben. Praktisch also eher eine Notwenigkeit.
+
+[K] Niels: Worum geht es eigentlich in der Hintergrundstory von Gothic?
+
+[IMG]
+
+[P] Torsten: Der Hintergrund wird im Gothic Comic beschrieben. Der Held wird zwangsrekrutiert, da eine Orkhorde das Land überschwemmt. Er wird in einer Garnison an der Front eingesetzt und sieht sich schnell der Übermacht der Orks gegenüber. Daher beschließt er zu desertieren. In einem nahgelegenen Dorf wird er dann aufgegriffen, als er stiehlt. Da der Held ein Brandzeichen der königlichen Armee hat, ist sehr schnell klar, dass er desertiert sein muss und wird zum Tode oder einer lebenslangen Haftstrafe verurteilt. Die Entscheidung ist schnell gefällt und so wird er in den Knast geworfen. Dieser Knast ist vor langer Zeit entstanden. Wie genau ist aber ein Teil der Story und wird hier nicht verraten. Sicher ist, dass der Knast von einer magischen Barriere umgeben wird, die alles Leben reinlässt und nichts Lebendes lebend wieder hinaus.
+
+[K] Niels: Könntet ihr uns ein wenig über das Gameplay verraten? Worin genau besteht die Aufgabe des Spielers?
+
+[P] Torsten: Deine erste Aufgabe: Überleben.
+Schon am Anfang weiß der Held dass er ausbrechen will. Es ist eine große Welt und es wird viel passieren. Viele NPCs wollen lieber ihre eigenen Ideen durchsetzen, die aber den Vorstellungen des Spielers entgegenstehen.
+
+
+[K] Niels: Wird es die für Rollenspiele typischen Erfahrungspunkte geben und wenn ja, wie werden sich diese konkret auswirken?
+
+[P] Torsten: Es gibt keine EPs. Das Spiel soll nicht nach gut und böse oder sonstigen Kriterien entscheiden ob es Belohnung gibt.
+
+[IMG]
+
+Der Spieler beginnt als Pünte. D.h. er kann nichts. Im Laufe des Spiels wird der Held verschiedene Aufträge angeboten bekommen und kann sich entscheiden welche er davon erledigen will. Manche Auftraggeber werden anbieten, ihm dafür eine Fertigkeit beizubringen. Wenn dem so ist, wird der Spieler von diesem Auftraggeber nach erfüllen (wie ist egal, und es gibt immer alternative Wege) eine Fertigkeit beigebracht bekommen. Wenn der Auftraggeber ein Kämpfer ist, dann ein Kampftalent und wenn es ein Magier ist ein Zauberspruch oder Mana. Es gibt dann noch den Psioniker und den Dieb. Wenn ich als erstes ein Kämpfertalent erlernt habe, kann ich danach allerdings immer noch einen Zauberspruch erlernen. Dass heißt, man kann sich aus allen Bereichen die Talente rauspicken, die man für seinen Helden für sinnvoll hält.
+
+[K] Niels: Gibt es Handlungsalternativen während des Spielablaufs, oder ist alles streng linear aufgebaut?
+
+[P] Torsten: Es gibt immer Handlungsalternativen. Alles was ich tun kann, kann ich auf völlig unterschiedlichen Wegen erfüllen. Da wir eine sehr gute KI (künstliche Intelligenz) haben, wird von Fall zu Fall entschieden, was daraus resultiert. Da ich Aufträge unterschiedlich erfüllen kann, werden die einzelnen NPCs auch anders auf mich reagieren. Wenn ich also im ersten Auftrag jemanden töte und werde dabei von einem seiner Freunde beobachtet, so spricht sich dies rum und ich habe plötzlich eine Menge neuer Feinde.
+
+
+Damit werde ich ziemlich sicher schon keinen Auftrag mehr von diesen Leuten bekommen. Dadurch entstehen unterschiedliche Spiele mit verschiedenen Verläufen. Dazu kommt noch, dass die NPCs ihren eigenen Geschäften nachgehen und ich praktisch auch noch alles zur selben Uhrzeit tun müsste. Das macht es eher schwierig 2x das gleiche Spiele hinzubekommen.
+
+[K] Niels: Was ist mit Waffen, Gegnern und den Kämpfen während des Spiels? Auf was muss sich der Zocker hierbei einstellen?
+
+[P] Torsten: Waffen: Es gibt 1-hand und 2-hand Waffen. Mit 1-hand Waffen schlage ich den Gegner (NPCs nicht bei Monstern) erst einmal nur bewusstlos. Danach kann ich dann entscheiden, ob ich zu einem FinishingMove ansetzen will. Da töten aber von den anderen Knastbrüdern (natürliche Härte ist ok) nicht toleriert wird, sollte man gut überlegen, ob man es riskieren will. 2-hand Waffen machen prinzipiell mehr Schaden und töten sofort.
+
+Es gibt einige Waffen, die einfach persönlicher Besitz von jemandem sind und die derjenige auch wiedererkennen wird. Sollte ich also auf unrechtmäßigem Wege an eine Waffe gekommen sein und später in Gegenwart des Besitzers damit rumfuchteln, so wird er es sofort bemerken und er wird die Waffe zurückfordern.
+
+[IMG]
+
+Im Kampf ist viel von dem erlernten Fertigkeitsgrad abhängig. Besser also schon mal was von der Waffe gehört zu haben und noch besser sie zu beherrschen. Das schlägt sich in der Art der Schläge nieder und ob ich Combos schlagen kann oder nicht. So kann ein Anfänger nur den Holzfällerschlag während der Profi flüssiger, schneller, härter und kombinationsreicher zuschlägt. Das wird natürlich für den Spieler an den Animationen zu erkennen sein. Aber auch die Gegner haben diese Fertigkeiten und werde sie einsetzen.
+
+
+Navigation:
+Seite 1 | Seite 2 | Seite 3 | Screenshots 

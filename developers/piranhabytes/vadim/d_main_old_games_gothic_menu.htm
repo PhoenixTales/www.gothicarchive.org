@@ -1,0 +1,260 @@
+<html>
+
+<head>
+
+<title>Spellcraft studio - games / Technomage</title>
+
+<link rel=stylesheet type="text/css" href="stylesheets_menu-left.css">
+
+
+<script language="JavaScript">
+
+  <!--
+
+  Normal1 = new Image();
+  Normal1.src = "images/old/gothic/gothic_menu_orc_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight1 = new Image();
+  Highlight1.src = "images/old/gothic/gothic_menu_orc.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal2 = new Image();
+  Normal2.src = "images/old/gothic/gothic_menu_shadowbeast_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight2 = new Image();
+  Highlight2.src = "images/old/gothic/gothic_menu_shadowbeast.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal3 = new Image();
+  Normal3.src = "images/old/gothic/gothic_menu_scavengerA_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight3 = new Image();
+  Highlight3.src = "images/old/gothic/gothic_menu_scavengerA.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal4 = new Image();
+  Normal4.src = "images/old/gothic/gothic_menu_scavengerB_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight4 = new Image();
+  Highlight4.src = "images/old/gothic/gothic_menu_scavengerB.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal5 = new Image();
+  Normal5.src = "images/old/gothic/gothic_menu_scorpion_bw.jpg"; /* Hier zweite Standard-Grafik angeben */
+  Highlight5 = new Image();
+  Highlight5.src = "images/old/gothic/gothic_menu_scorpion.jpg"; /* Hier zweite Highlight-Grafik angeben */
+
+  Normal6 = new Image();
+  Normal6.src = "images/old/gothic/gothic_menu_orcdog_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight6 = new Image();
+  Highlight6.src = "images/old/gothic/gothic_menu_orcdog.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal7 = new Image();
+  Normal7.src = "images/old/gothic/gothic_menu_demon_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight7 = new Image();
+  Highlight7.src = "images/old/gothic/gothic_menu_demon.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal8 = new Image();
+  Normal8.src = "images/old/gothic/gothic_menu_wolf_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight8 = new Image();
+  Highlight8.src = "images/old/gothic/gothic_menu_wolf.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal9 = new Image();
+  Normal9.src = "images/old/gothic/gothic_menu_sumpfhai_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight9 = new Image();
+  Highlight9.src = "images/old/gothic/gothic_menu_sumpfhai.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal10 = new Image();
+  Normal10.src = "images/old/gothic/gothic_menu_lastone_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight10 = new Image();
+  Highlight10.src = "images/old/gothic/gothic_menu_lastone.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal11 = new Image();
+  Normal11.src = "images/old/gothic/gothic_menu_crawlerqueen_bw.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight11 = new Image();
+  Highlight11.src = "images/old/gothic/gothic_menu_crawlerqueen.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal12 = new Image();
+  Normal12.src = "images/arrow_up.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight12 = new Image();
+  Highlight12.src = "images/arrow_up_bw.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  Normal13 = new Image();
+  Normal13.src = "images/arrow_down.jpg"; /* Hier erste Standard-Grafik angeben */
+  Highlight13 = new Image();
+  Highlight13.src = "images/arrow_down_bw.jpg"; /* Hier erste Highlight-Grafik angeben */
+
+  /* usw. fuer alle weiteren zu benutzenden Grafiken */
+
+  function Bildwechsel(Bildnr,Bildobjekt)
+  {
+   window.document.images[Bildnr].src = Bildobjekt.src;
+  }
+ //-->
+
+</script>
+
+
+</head>
+
+
+<body>
+
+<script language="JavaScript1.2">
+
+//Scrollable content script II- © Dynamic Drive (www.dynamicdrive.com)
+//For full source code and TOS
+//Visit http://www.dynamicdrive.com
+
+iens6=document.all||document.getElementById
+ns4=document.layers
+
+//specify speed of scroll (greater=faster)
+var speed=10
+
+if (iens6){
+document.write('<div id="container" style="position:absolute; top:45; left:0; width:65;height:400;overflow:hidden; border-width=1px; border-color=lightslategray; border-style:solid; background-color:#112233;">')
+document.write('<div id="content" style="position:relative;width:60;left:0;top:10">')
+}
+</script>
+
+<ilayer name="nscontainer" width=65 height=400 clip="0,0,65,400">
+<layer name="nscontent" width=65 height=30 visibility=hidden>
+
+<!--INSERT CONTENT HERE-->
+
+
+  <table align=left width=65>
+	<td align=center>
+        	<a href="html_old/gothic_main_orc.htm" target="sub-main"
+		onMouseOver="Bildwechsel(0,Highlight1)"
+ 		onMouseOut="Bildwechsel(0,Normal1)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_orc_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_shadowbeast.htm" target="sub-main"
+		onMouseOver="Bildwechsel(1,Highlight2)"
+ 		onMouseOut="Bildwechsel(1,Normal2)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_shadowbeast_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_scavengerA.htm" target="sub-main"
+		onMouseOver="Bildwechsel(2,Highlight3)"
+ 		onMouseOut="Bildwechsel(2,Normal3)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_scavengerA_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_scavengerB.htm" target="sub-main"
+		onMouseOver="Bildwechsel(3,Highlight4)"
+ 		onMouseOut="Bildwechsel(3,Normal4)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_scavengerB_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_scorpion.htm" target="sub-main"
+		onMouseOver="Bildwechsel(4,Highlight5)"
+ 		onMouseOut="Bildwechsel(4,Normal5)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_scorpion_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_orcdog.htm" target="sub-main"
+		onMouseOver="Bildwechsel(5,Highlight6)"
+ 		onMouseOut="Bildwechsel(5,Normal6)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_orcdog_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_demon.htm" target="sub-main"
+		onMouseOver="Bildwechsel(6,Highlight7)"
+ 		onMouseOut="Bildwechsel(6,Normal7)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_demon_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_wolf.htm" target="sub-main"
+		onMouseOver="Bildwechsel(7,Highlight8)"
+ 		onMouseOut="Bildwechsel(7,Normal8)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_wolf_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_sumpfhai.htm" target="sub-main"
+		onMouseOver="Bildwechsel(8,Highlight9)"
+ 		onMouseOut="Bildwechsel(8,Normal9)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_sumpfhai_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_lastone.htm" target="sub-main"
+		onMouseOver="Bildwechsel(9,Highlight10)"
+ 		onMouseOut="Bildwechsel(9,Normal10)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_lastone_bw.jpg" width=45 heigth=45 border=0></a>
+		</tr>
+	<tr><td align=center>
+        	<a href="html_old/gothic_main_crawlerqueen.htm" target="sub-main"
+		onMouseOver="Bildwechsel(10,Highlight11)"
+ 		onMouseOut="Bildwechsel(10,Normal11)">
+		<img src="{{ mediaLinkBase }}/images/old/gothic/gothic_menu_crawlerqueen_bw.jpg" width=45 heigth=45 border=0></a>
+		</td>
+
+	</tr>
+  </table>
+
+
+
+<!--END CONTENT-->
+
+</layer>
+</ilayer>
+
+<script language="JavaScript1.2">
+if (iens6)
+document.write('</div></div>')
+</script>
+
+
+<div style="position:absolute; left:66; top:52">
+<a href="#"
+onMouseover="Bildwechsel(11,Highlight12); moveup()"
+onMouseout="Bildwechsel(11,Normal12); clearTimeout(moveupvar)">
+<img src="{{ mediaLinkBase }}/images/arrow_up.jpg" width=10 height=20 border=0></a>
+</div>
+
+<div style="position:absolute; left:66; top:77">
+<a href="#"
+onMouseover="Bildwechsel(12,Highlight13); movedown()"
+onMouseout="Bildwechsel(12,Normal13); clearTimeout(movedownvar)" >
+<img src="{{ mediaLinkBase }}/images/arrow_down.jpg" width=10 height=20 border=0></a>
+</div>
+
+
+<script language="JavaScript1.2">
+if (iens6){
+var crossobj=document.getElementById? document.getElementById("content") : document.all.content
+var contentheight=crossobj.offsetHeight
+}
+else if (ns4){
+var crossobj=document.nscontainer.document.nscontent
+var contentheight=crossobj.clip.height
+}
+
+function movedown(){
+if (iens6&&parseInt(crossobj.style.top)>=(contentheight*(-1)+350))
+crossobj.style.top=parseInt(crossobj.style.top)-speed
+else if (ns4&&crossobj.top>=(contentheight*(-1)+100))
+crossobj.top-=speed
+movedownvar=setTimeout("movedown()",100)
+}
+
+function moveup(){
+if (iens6&&parseInt(crossobj.style.top)<=0)
+crossobj.style.top=parseInt(crossobj.style.top)+speed
+else if (ns4&&crossobj.top<=0)
+crossobj.top+=speed
+moveupvar=setTimeout("moveup()",100)
+
+}
+
+function getcontent_height(){
+if (iens6)
+contentheight=crossobj.offsetHeight
+else if (ns4)
+document.nscontainer.document.nscontent.visibility="show"
+}
+window.onload=getcontent_height
+</script>
+
+
+
+
+
+</body>
+
+</html>

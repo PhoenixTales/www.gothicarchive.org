@@ -1,0 +1,61 @@
+PC Player 12/1998
+
+
+Preview: Gothic
+===============
+Düstere Dungeons und gotisches Grauen
+=====================================
+
+Das Ruhrgebiet wird noch zum Spiele-Nabel Deutschlands: Mit einem 3D-Rollenspiel will sich der Greenwood-Ableger Piranha Bytes aus Bochum einen guten Namen machen.
+
+Deutsche Spieidesigner arbeiten nicht nur in Mülheim an der Ruhr; unweit vom Bochumer Stadtpark (auch der Rest der Stadt ist entgegen der Landläufigen Vorstellung recht grün) bewohnt Piranha Bytes ein Erdgeschoß in einem ansonsten ruhigen Wohngebiet. Wir nahmen die Gelegenheit zu einem Firmenbesuch wahr und konnten als erstes deutsches Fachmagazin für PC-Spiele die Oberwelt des Rollenspiels bewundern.
+
+
+Knastbrüder
+===========
+Aber zunächst zur Story: Im mittelalterlichen Szenario herrscht Krieg zwischen Menschen und Orks. Um im Ansturm der barbarischen Horden bestehen zu können, brauchen die Soldaten des Königs viele Waffen, die wiederum geschmiedet werden müssen. Dazu braucht man Erz, das in Minen von Strafgefangenen gefördert wird. Sie verkörpern einen der Unglücklichen, die straffällig geworden sind und deswegen ins Bergwerk geschickt wurden.
+
+041a
+Angriff eines Crawlers: Die sechsbeinigen, insektoiden Kreaturen sind gut animiert, die Lebensenergie wird oberhalb mittels eines roten Balkens dargestellt.
+
+027a
+Hier zeigt sich die Gegner-KI: Da der große Troll auf der anderen Seite der Schlucht nicht zu Ihnen gelangen kann, wirft er einfach ein paar Gobbos herüber, die Sie dann angreifen.
+
+Hier gibt es zwar keine Aufseher, aber dafür mächtigen Ersatz: Alles wird von einer magischen Sphäre umspannt, die nichts Lebendiges nach außen dringen läßt; das Erz gelangt dagegen problemlos von innen nach außen. Innerhalb des Schirms hat sich eine eigene Gesellschaftsordnung herauskristallisiert. Eine reiche Oberschicht herrscht über den Rest, der die Arbeit erledigen muß.
+Es gibt mehrere Gilden, die Sie im ersten Kapitel des sechs Teile umfassenden Spiels kennenlernen; erst nach Beenden dieser Episode müssen Sie festlegen, ob Sie ein Krieger, Psioniker, Magier oder etwas anderes sein wollen. Die soziale Interaktion der über 200 Nichtspielercharaktere geht dabei so weit, daß sich alle merken, was Sie getan haben und entsprechend reagieren. Haben Sie etwa einen Gildenführer getötet, kann es gut sein, daß eine der übrigen Organisationen Sie mit offenen Armen empfängt - oder auch nicht, je nach ihren Beziehungen zu Ihrem Opfer. Falls jemand eine Aufgabe für Sie hat, kann deren Erfüllung anderen Personen durchaus mißfallen, und diese machen Jagd auf Sie, sobald sie Ihre Nase sehen.
+Insgesamt stehen sich zwei Gruppen gegenüber: Dem einen Verein gefällt alles so, wie es ist, während der andere gern aus dem dunklen Verlies entkommen würde. Sie möchten zwar ebenfalls ausbrechen, wem allerdings nun Ihre Sympathien wirklich gelten, hängt von vielen weiteren Faktoren ab.
+
+
+Technik in der Tiefe
+====================
+Die Programmierer arbeiten momentan mit Hochdruck an der Oberwelt, von der wir erste Eindrücke sammeln konnten. Von Bergen umgeben stehen dort kleine Siedlungen, die Sie auf Ihrer Reise besuchen sollten, um etwa Informationen zu sammeln. Schon im ersten Stadium sehen diese Welten sehr gut aus, auf Entfernungen von mehreren hundert Metern kann man noch Figuren erkennen. Technisch realisiert die Designertruppe, die aus Alex Brüggemann (Animationen und Design), Michael Hoge (Spieldesign und Art Director), Stefan Nyul (Geschäfts- und Projekt-Leitung) sowie Tom Putzki (Marketing und Leveldesign) besteht, Lager mit über 10 000 Polygonen auf einmal. Mit einem besonderen Trick halten sie jedoch die Frame-Rate im schnellen Rahmen. Wie dies technisch genau vonstatten geht, soll indes vorläufig nicht verraten werden.
+Leider wollte das Team auch noch keine Screenshots von den neu erstellten Umgebungen zur Veröffentlichung freigeben. Mit dem selbst entwickelten Level-Editor »Spacer« führte uns Michael vor, wie er Texturen so über Polygone legt, daß deren Kanten nicht sichtbar werden. Mit diesem Programm werden die Örtlichkeiten erstellt, Charaktere eingefügt und Lichtquellen gesetzt. Die eigentlichen Programmierer, die auch dieses Tool entwickelt haben, sitzen übrigens in Oldenburg.
+
+Alle neuen Gegenstände und zusätzlichen Fertigkeiten sind direkt zu sehen. Haben Sie ein neues Schwert, tragen Sie es auch sichtbar am Gürtel, und genauso verhält es sich mit den Fähigkeiten. Erlernt Ihr Held beispielsweise den Schwertkampf, sind danach seine Animationen sichtlich geschmeidiger. Als Konsequenz daraus sind nicht nur Ihre eigenen Fertigkeiten mit Maus und Tastatur wichtig: »Wir machen schließlich ein Rollenspiel und kein Action-Adventure«, sagt Michael. »Bist du im Kämpfen gut, kommt es nicht darauf an, absolut pixelgenau zu treffen, um einen hohen Schaden zu verursachen.«
+
+
+Die Höhlenbevölkerung
+=====================
+Kreaturen wie die Gobbos wollen Sie in die Falle locken, wenn sie nicht selbst gewinnen können. Eine witzige Strategie verfolgen Trolle, falls ihnen der Nahkampf unmöglich ist: Sind kleine Gobbos in der Nähe, heben die großen, behäbigen Geschöpfe sie kurzerhand auf und werfen damit nach Ihnen. Flugs wird Ihr Bildschirm-Alter-Ego von diesen attackiert.
+
+042-043
+Der Crawler stellt eine große Gefahr dar, selbst mit mehreren Charakteren kann er es aufnehmen.
+
+Die Gobbos wiederum versuchen, Sie an Orte zu ködern, wo sich stärkere Gegner aufhalten. Rund 15 verschiedene Monstersorten laufen Ihnen über den Weg, wobei man einer besonders schick animierten sechsbeinigen Rieseninsektenart namens Crawler nicht im Dunkeln begegnen möchte. Zombies machen die Gewölbe ebenfalls unsicher. Allgegenwärtig sind die kleinen Fleischwanzen, die wie zu groß geratene Kellerasseln aussehen. Selbst diese Aasfresser haben ihr eigenes Verhalten und könnten aufgrund Ihrer Verhaltensweisen auf die Idee kommen, Ihnen zu folgen, da der eine oder andere Kampf auszufechten ist und sicherlich eine leckere Mahlzeit zurückläßt.
+
+photo PB
+Das Designteam von links nach rechts: Alex Brüggemann, Stefan Nyul, Michael Hoge und Tom Putzki.
+
+
+Handlungsfreiheit
+=================
+Zur künstlichen Intelligenz hat Michael ein paar Kommentare bereit: "Ich finde es total dämlich, wenn nur bestimmte NPCs auf deine Aktionen reagieren. Wenn du in jemandes Haus einbrichst und etwas stiehlst, warum soll nur dessen Besitzer sich aufregen? Seine Nachbarn würden sicherlich auch etwas dagegen haben. Bei Gothic mußt du beispielsweise darauf warten, daß alle auf die Felder gehen, erst dann kannst du deinen Diebstahl begehen." Von der Konzeption her sollen Sie nicht dadurch in eine bestimmte Richtung dirigiert werden, daß der Charakter einfach vor einer verschlossenen Tür steht. Sie können sie auch einschlagen - müssen sich aber dann mit den Monstern herumschlagen, die sich dahinter aufhalten. (mash)
+
+034b
+Immer schön andere für sich kämpfen lassen: Der Psioniker übernimmt Mitbürger.
+
+GOTHIC - FACTS
+> Hersteller: Piranha Bytes
+> Genre: Rollenspiel
+> Termin: 2. Quartal '98
+> Besonderheiten: Charaktereigenschaften und Gegenstände sofort sichtbar; rund 200 Nichtspielercharaktere; herausragende Grafik. 

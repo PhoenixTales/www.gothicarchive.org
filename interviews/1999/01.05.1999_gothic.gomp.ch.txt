@@ -1,0 +1,35 @@
+gothic.gomp.ch 05/1999
+
+01.05.1999
+
+Die Seite gothic.gomp.ch führte im Frühjahr 1999 ein Interview mit Marketing Director und Level Designer Tom Putzki von Piranha Bytes. Da die Seite seit vielen Jahren nicht mehr existiert, haben wir das Interview bei World of Gothic eingegliedert, um es zu erhalten und weiterhin für jeden Interessierten abrufbar zu halten.
+
+
+Interview mit Tom Putzki
+
+Dieses Interview wurde im Frühjahr 1999 (genaues Datum leider nicht mehr bekannt) mit dem Pressesprecher von Piranha-Bytes, Tom Putzki geführt. Das ganze fand via Emails statt.
+
+g0mp: Wie würdet ihr Gothic in der Spielewelt klassifizieren?
+Tom: GOTHIC ist eindeutig ein Rollenspiel, aber mit einem starken Actionanteil versehen.
+g0mp: In welchem Stadium ist Gothic im Moment?
+Tom: Pre-Alpha Status.
+g0mp: Wann kann man es in etwa in einem Geschäft kaufen gehen?
+Tom: Vorrausssichtlich 3. Quartal 1999.
+g0mp: Gibt es ein Rassen/Klassen System?
+Tom: Es gibt keine unterschiedlichen Spieler-Rassen; wir wollten bewußt nicht die klassische Fantasy-Schiene fahren...edle Recken, vegetarische Elfen, goldgierige Zwerge - neeee; aber der Spieler kann sich bei GOTHIC im Verlaufe des Spiels für eine Ausrichtung entscheiden: Krieger, Dieb, Magier, Psioniker...wobei hier die klaren und eindeutigen Abgrenzungen auch etwas aufgeweicht wurden; nicht nur der Krieger kann mit dem Schwert umgehen und nicht nur der Dieb kann jemanden beklauen...
+g0mp: Gothic ist kein reines Online Spiel wie UO, kann man trotzdem mit einer Netzwerk Option oder dergleichen rechnen?
+Tom: Sorry, Internetversion von GOTHIC ist derzeit nicht in Planung...zumindest nicht bei der derzeitigen Anbindung in Deutschland - Lags...(( aber Multiplayer ist selbstverständlich, bis zu 5 Spieler im lokalen Netzwerk....und als besonderes Leckerchen: Die Story ist sowohl im Single- als auch im Multiplayer kontinuierlich spielbar!!!!
+g0mp: Wie sieht es mit der Welt aus? Wie gross ist sie, durch was ist sie beschränkt?
+Tom: Die Oberwelt ist ca. 1 quadratkilometer groß und begrenzt durch eine magische Barriere, die kugelförmig um das Gefängnis herumgelegt ist, also auch unterirdisch weitergeht...und dieser Barriere sollte man besser nicht zu Nahe kommen, wenn man nicht mit einem eisernen Willen versehen ist ;-)
+g0mp: Wie dicht besiedelt wird es sein und wie hilfreich werden menschliche NPC's sein?
+Tom: Auf der Oberwelt gibt es 3 große Lager und diverse kleinere Locations, insgesamt werden sich dort ca. 200 menschliche NSCs tummeln.
+g0mp: Wie intelligent verhalten sich Gegner?
+Tom: Na, doch hoffentlich sehr! ;-) Sie haben ein ziemlich gutes Gedächtnis, wissen, was der Spieler ihnen schon angetan hat, können schon sehr genau zwischen harmloser Beute und großer Bedrohung unterscheiden, haben unterschiedlichste Angriffstaktiken (Rudel), interagieren untereinander, haben ein eigenes Leben, in dem sie ihren eigenen Belangen nachgehen, haben eine feststehende Sozialstruktur... usw.
+g0mp: Kann man dem Gegner auch Dinge wegnehmen?
+Tom: Aber klar... aber Vorsicht, der Gegner erkennt auch, ob Du irgendetwas lohnenswertes in der Hand hältst.
+g0mp: Gibt es auch einmalige Gegenstände die unglaubliche Macht besitzen, oder nur mehrere herrvorragende Waffen die verzaubert sind?
+Tom: Unglaubliche Macht nach dem Motto: 'Lustiges Artefakt, mit dem ich mal eben das bekannte Universum auslösche!' wird es nicht geben, aber es wird schon Unique Items geben...diese Gegenstände fallen aber nicht aus jedem toten Ork, sondern sind eher hart zu erringen und als echte Belohnung gedacht!
+g0mp: Wie kommt man an Dinge die man braucht ran?
+Tom: Gold? Was ist Gold? Das Gefängnis ist eine ehemalige Erzmine....Wenn Du stark genug bist, nimmst Du Dir, was Du brauchst, wenn Du zu schwach bist...viel Glück ;-) Aber es gibt immer Möglichkeiten, gegen Bezahlung kleiner Aufträge o. ä. auszuführen; außerdem sorgen die Gildenbosse für ihre Untergebenen.
+g0mp: Danke Tom
+Tom: Nada, wie schon gesagt: jederzeit!

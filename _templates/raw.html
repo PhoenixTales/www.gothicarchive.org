@@ -1,0 +1,13 @@
+{% 
+    include abs-link-base.html %}{% 
+    include link-base.html %}{% 
+    include abs-media-link-base.html %}{% 
+    include media-link-base.html
+%}{%
+    assign mediaLinkBasePlaceholder = '{{ mediaLinkBase }}' %}{% 
+    assign absMediaLinkBasePlaceholder = '{{ absMediaLinkBase }}' %}{% 
+    assign linkBasePlaceholder = '{{ linkBase }}' %}{% 
+    assign absLinkBasePlaceholder = '{{ absLinkBase }}' 
+%}{{
+    page.content | replace: mediaLinkBasePlaceholder, mediaLinkBase | replace: absMediaLinkBasePlaceholder, absMediaLinkBase | replace: linkBasePlaceholder, linkBase | replace: absLinkBasePlaceholder, absLinkBase 
+}}

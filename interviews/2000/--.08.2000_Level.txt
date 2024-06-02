@@ -1,0 +1,62 @@
+Level (Romania) 08/2000
+
+
+Un Gothic amical cu Michael Hoge
+
+Compania germana Piranha Bytes a început sa acapareze atentia pietei europene cu ajutorul unuia dintre cele mai îndraznete proiecte ale acestui sfârsit de mileniu. Cu doua numere în urma LEVEL v-a prezentat un preview al acestui proiect cunoscut sub numele de Gothic. Interesul pentru acest joc fiind foarte mare, i-am contactat pe producatori care au avut amabilitatea de a ne raspunde la câteva întrebari prin intermediul domnului Michael Hoge - Art Director & Gamedesigner.
+
+LEVEL: Ce v-a determinat sa alegeti Gothic" ca titlu pentru acest joc?
+
+Mike: Bert, unul dintre programatori, a propus acest nume pe la începutul proiectului si noi toti l-am îndragit deoarece aduce acel aer sumbru, serios si pe undeva medieval" (sau mai bine zis arhaic"). Toate elementele amintite descriu perfect atmosfera pe care dorim sa o cream.
+
+LEVEL: Gothic anunta o revolutie în domeniul action/RPG, care sunt aceste îmbunatatiri pe care le va aduce?
+
+Mike: In primul rând. Gothic nu este un action/RPG. Este un RPG pur cu elemente de actiune (asemanator cu Ultima IX: Ascension). Aceia care considera Ultima IX un action/RPG ar putea spune despre Gothic acelasi lucru, însa nu cred ca e termenul potrivit. Deci, întrebarea ar suna mai corect astfel: Ce îmbunatatiri va aduce Gothic genului RPG?"
+
+Am creat un joc unde totul este de domeniul vizualului. Orice piesa de armura, orice arma ai echipata se vor vedea pe personaj, toate îmbunatatirile atributelor personajelor vor putea fi vazute prin animatii noi, atribuie precum sneak" (furisat) vor fi vizibile în modul de deplasare al caracterului, si asa mai departe... Practic, trebuie sa duci la capat diverse misiuni, ca si în celelalte RPG-uri, însa elementul unic e constituit de o lume vie, activa si o atmosfera apasatoare. Am încercat sa ne concentram asupra comportamentului uman, astfel NPC-urile în Gothic au memorie, raspândesc zvonuri si te vor condamna (sau lauda) pentru faptele tale. Fiecare personaj are o rutina zilnica si fiecare ocupatie are propriile ei animatii. Personajele dezvolta atitudini diferite fata de personaj si fata de celelalte caractere, iar aceste atitudini se vor modifica pe parcurs în functie de cum evolueaza evenimentele si, bineînteles, de actiunile eroului. Aceste lucruri sunt valabile si pentru monstri.
+
+LEVEL: Toate acestea înseamna foarte multa munca. De când lucrati la Gothic si cât de mare este echipa?
+
+Mike: Atunci când vom termina Gothic, vom însuma 3 ani de munca si un colectiv de 25 de oameni. Când am început proiectul eram patru tineri ambitiosi fara bani, ceea ce însemna ca pe lânga producerea unui joc de la cap la coada si care sa ocupe o pozitie serioasa pe piata internationala, trebuia sa construim si o echipa (cu toate problemele aferente precum gasirea oamenilor potriviti, integrarea lor, uneori chiar antrenarea lor pentru a-i ridica la nivelul celorlalti membri). Când am început nu aveam nici cea mai mica idee cât de greu va fi, dar acum când suntem atât de aproape de final, se pare ca eforturile noastre nu au fost zadarnice, deoarece acum avem o echipa superba unde fiecare îsi aduce aportul cât mai bine.
+
+LEVEL: Ce ne puteti spune despre engine-ul folosit, este unul complet nou sau ati folosit altul mai vechi?
+
+Mike: Nu, a trebuit sa cream propriul nostru engine, deoarece nici unul dintre cele existente nu poate expune întinderile vaste ale Gothicului (peste 500 de metri). In catacombe nu trebuie sa vezi chiar atât de departe, de aceea folosim doua engine-uri diferite unul indoor, iar celalalt outdoor.
+
+LEVEL: Care sunt caracteristicile principale ale celor patru factiuni majore si cât de bine sunt ele echilibrate?
+
+Mike: OK! Hai sa facem o scurta prezentare:
+
+The Old Camp: extrag minereu pentru Regat si îl schimba cu lumea externa pentru bunuri pretioase cum ar fi mîncare, medicamente, alcool sau obiecte de lux. Au o ierarhie foarte stricta, condusi de Ore Barons (niste indivizi brutali care si-au câstigat prin lupta pozitiile înalte). Calitatea de baza a acestei grupari este forta bruta ca si capabilitatile de asasini, tradare si bogatie.
+
+The New Camp: extrag minereu pentru ei cu scopul de a crea un imens bloc (ce va contine magie pura), suficient de mare pentru a sparge bariera magica ce înconjoara închisoarea. In aceasta grupare nu exista ierarhie, dar o mâna de idealisti (fanatici) controleaza aceasta adunatura care, în mod regulat, asemeni piratilor, mai fac câte un raid prin Old Camp pentru bunurile importate de acestia. Forta lor: furturile si lupta.
+
+The Sect Camp: o adunatura de fanatici religiosi care se chinuie sa trezeasca o entitate pe care o numesc The Sleeper" care le va arata drumul spre libertate. Acest Camp este relativ nou (a fost construit doar cu câteva luni înainte ca eroul nostru sa s trezeasca în închisoare). Avantaje: Psionic Magic si un pic de sânge de luptatori.
+
+The Mages: Trimisi la început de rege sa construiasca bariera magica din jurul închisorii, au ramas captivi cu ceilalti prizonieri dupa ce bariera a crescut mult mai mult decât se planificase. Acum magii s-au împartit în doua grupuri, unul traieste în Old Camp, iar celalalt în New Camp pentru a împiedica aceste factiuni rivale sa se extermine reciproc. Avantajele magicienilor sunt diplomatie si, bineînteles, arta magiei.
+
+LEVEL: Cum va afecta îmbunatatirea atributelor gameplay-ul si cum vor fi ele vizibile?
+
+Mike: Deja am raspuns la aceasta întrebare ( vezi întrebarea 2), si da, se poate observa o influenta vizibila asupra gameplay-ului. Daca îti îmbunatatesti îndemânarea în mânuirea sabiei, de exemplu, miscarile tale vor fi animate mult mai lin si mai rapid - oferindu-ti imense avantaje în lupta corp la corp. Daca te antrenezi cu arcul, vei putea sa lovesti tinta mult mai des, iar daca îsi îmbunatatesti cunostintele în Fireball", vei lovi mult mai puternic cu magia si, în plus, pot aparea efecte secundare (ca oameni luând foc  ouch!).
+
+LEVEL: Cât de evoluat va fi AI-ul jocului si vor reusi NPC-urile sa evolueze în timp - în calitati sau strategie?
+
+Mike: Cred ca detinem cel mai bun AI prezent vreodata într-un RPG (Wow, chiar ca au crescut acum asteptarile publicului, poate ca ar fi mai bine sa tac si sa las lumea sa decida, nu-i asa?). Putem face personajele sa evolueze pe parcursul jocului, dar nu cred ca o vom face, deoarece:
+
+a) jocul este destul de dificil si asa;
+
+b) acesta este (asa cum am mai spus) un RPG, nu un joc de actiune, si deci este distractiv sa îti îmbunatatesti calitatile pentru a fi capabil sa învingi, de exemplu, un Shadowbeast fara sa-ti mai faci probleme ca acesta devine tot mai bun de la o zi la alta.
+
+LEVEL: Care va fi echipamentul hardware minim necesar sau recomandat?
+
+Mike: Din nefericire, la aceasta întrebare înca nu pot raspunde.
+
+LEVEL: Când va fi lansat Gothic pe piata europeana? Vor exista diferente fata de versiunea ce va fi lansata in Statele Unite? (cum ar fi titlul).
+
+Mike: Ca producatori am lasat aceasta activitate pe seama distribuitorilor nostri, în consecinta nu va pot da detalii despre activitatea lor.
+
+LEVEL: Domnule Michael Hoge va multumim în numele cititorilor pentru amabilitatea de a ne raspunde la aceste întrebari si va uram succes în continuare.
+
+Mike: Mi-a facut deosebita placere sa va ofer acest interviu si... Multumesc!
+
+Gothic este un RPG produs de Piranha Bytes si distribuit de Egmont Interactive (Europa) si Octagon Entertainment (SUA). Dupa cele vazute pâna acum, avem încredere ca spre sfârsitul acestei veri vom simti un suflu nou în acest gen de jocuri, suflu de care aveam nevoie.

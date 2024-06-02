@@ -1,0 +1,64 @@
+rpgvault.ign.com 11/1999
+
+
+Gothic Intelligence Report
+November 4, 1999
+
+Developer: Piranha Bytes
+
+Publisher: Egmont Interactive
+
+Projected Release Date: March, 2000
+
+Type: 3D fantasy action RPG with third-person point of view. The single-player mode is single-character, and there is also a cooperative multi-player component.
+
+Summary: The character has been thrown into a mining village/prison camp, and sentenced to hard labor in a kingdom desperate for ore. The environment inside the magically sealed prison camp is divided into two main groups struggling for dominance and survival. One group comprises the ore barons and their minions who trade ore for luxuries from the outside world. Another consists of newer prisoners, desperate to escape, who have allied themselves with the third gang, a doomsday-predicting temple. The player character must navigate both the complex social structure of the surface world and the dangerous and deadly mines and caves beneath in search of escape, power or whatever other goals you decide to seek.
+
+Player Character: There is no character generation process per se. Details about your character are determined based on choices you make early in the game. There are four available classes: fighters, thieves, mages, and psionics. Fighters, as you might expect, specialize in beating things senseless, thieves are the usual sneaky types, mages toss spells around, and psionics use their will to bend the minds of others to their own ends.
+
+Rules System: Gothic uses an in-house rules system. As mentioned above, its class-based, but character skills can be developed as the player chooses. The majority of statistics are not shown as numbers; instead, skill levels are reflected in the characters on-screen actions. For example, an inexperienced swordsman might use a sword like a lumberjack hacking down a tree, while a skilled warrior would parry and riposte with appropriate ease. Most ability levels can also be viewed numerically.
+
+NPCs: There are over two hundred NPCs in the game world, each having an individual personality and activity cycle. NPCs will remember how they have been treated by the player, and even how their friends have been treated. Taking down a prominent NPC can give you both enemies and allies unless you do it in a dark alley in the middle of the night. Dialogue choices change depending on current events, saving the player from having to navigate complicated dialogue paths to get to the good stuff. NPCs and monsters might cooperate if attacked, or one side might help you, depending on whom they like better.
+
+Opponents: Monsters include the fantasy standards, like trolls, goblins, orcs, and Mysterious Water Creatures, called snappers in this incarnation, plus a few new ones like the Shadowbeast and something called a meatbug. There are also several types of skeletons, undead creatures and demons. Monsters have lives of their own, and dont stand motionless, waiting for a hapless player to stroll by. They might ally against you, or might be tricked into attacking your opponents for you. Feed a hungry beast and it might ignore you altogether. Some monsters even use better equipment when they can find it. Drop your magic sword in front of a goblin, and you might quickly find yourself in a lot of trouble.
+
+Game World: The adventure takes place in an unnamed mining camp/penal colony, surrounded by a magical sphere a kilometer across. Anything can pass in, but nothing can leave, as long as it lives. The kingdom is beset by Orcish armies from the north, and the kings armies desperately need ore for the forges. Even minor crimes are punished with hard labor in the mines. Ore is sent out through the barrier in exchange for supplies, but what comes in is controlled by a powerful few, while the rest toil endlessly for the leftover scraps. Escape seems impossible, and peace is unlikely.
+
+Party System: The player controls a single character, although up to five players can team up, using Gothics multi-player capabilities. The ability to control a second character in single-player is being considered.
+
+Combat System: Combat takes place in real time. The characters weapons and armor are shown on screen, as are those of the opponents. Your combat abilities are largely determined by your characters abilities, as opposed to the players reflexes and mouse skills. Things will be paced slowly enough to allow tactical decisions.
+
+Weapons and Armor: Equipment is fairly standard for a fantasy game, with the usual range of medieval weapons and armor, and magical variations attainable eventually. Weapons known to be implemented thus far include swords, axes, bows, crossbows, clubs, daggers and maces. Equipment is shown being worn or used by the character on screen, and is sorted by type within the inventory. Armor comes as either Body or Helmet forms, and each type will look different when worn. As a twist, the best weapons to be found in the game will be Orcish in origin, and will usually come with an irate orc attached to the hilt.
+
+Magic System: Gothic has both a familiar magic system, with fireballs and the like, and a system of psionics, consisting of mind-based abilities. Both have a skill-based structure, similar to that used for other abilities. An unskilled mage might have trouble lighting a candle, while one with more experience can light a creatures skin on fire. There are only about 15 kinds of spells, with improved spells replacing their weaker versions. Examples include Lightning, Shapeshift (with a range of possible forms), and Control Mind.
+
+Interface: Little has been revealed about the interface, except that it is designed to be simple and easy to master. The game can be played using no more than 10 keys. There is no on-screen text to read, with NPCs relaying information via speech.
+
+Technology: The engine is entirely 3D, with no support for software acceleration. Characters are displayed with a skeletal animation system, with the ability to animate parts of a model, to reflect facial expressions and the like. Indoor and outdoor environments, with smooth transitions, particle effects, lighting effects, time-of-day effects, realistic weather effects, and a host of other visual goodies are also incorporated. Direct3D and Glide are supported as are 3D sound systems including DirectSound, EAX, Aureal and Dolby Surround. NPC speech is full audio, with complete text available as well. Cutscenes can be interrupted and resumed. Music is dynamic and changes smoothly depending on character actions and the amount of tension in the game.
+
+Multi-Player: Up to five players can play simultaneously and cooperatively, although characters can kill each other if so inclined. The story can be completed in either single or multi-player mode.
+
+Interaction with Fans: Besides the Vault Network message board, there are a few fan sites and two official sites, one run by the developer and one by the publisher. Most available press articles and some of the fan sites are German-only, reflecting the games origin.
+
+Positives: The game engine, as described, is very impressive. The crew working on the game sounds to have some hardcore RPG players, which always seems to help. The combination of a complex system of NPC interactions, a state of the art engine, and a fast-paced combat engine sounds almost too good to be true.
+
+Question Marks: Although the core team members have experience elsewhere, Gothic is a significant first project for Piranha Bytes. As other games have shown, it is not easy to produce both a first-class single-player game and a fully satisfying multi-player experience. Localization might seem to be an issue with the game being developed in Germany which has legal restrictions on brutality and gore. Interestingly however, the team is actually developing the international version, which will then be modified for the games home market.
+
+Outlook: If the team can effectively blend its ambitious list of features, Gothic could turn out to be an exceptional title. The game will have to overcome a distinct lack of North American publicity that can be primarily attributed to not yet having a publisher for this market.
+
+System Requirements: No specifics are available yet, although a 3D accelerator card will be required.
+
+Demo: There has been no definitive word on a demo.
+
+Links:
+Gothic Official Site
+Vault Network Gothic Board
+Vault Network Gothic Team Interview (June, 1999)
+
+Screenshots:
+
+Click Here to Enlarge Click Here to Enlarge
+Click Here to Enlarge Click Here to Enlarge
+Click Here to Enlarge Click Here to Enlarge
+
+- Mithras aka Darryl Farr

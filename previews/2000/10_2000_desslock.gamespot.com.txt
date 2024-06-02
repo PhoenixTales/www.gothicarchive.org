@@ -1,0 +1,37 @@
+desslock.gamespot.com 10/2000
+
+23.10.2000
+
+
+Gothic - ECTS 2000 Update
+
+written by Desslock
+
+When Ken "Delekhan" Liang first checked out Gothic for us back in mid-1998, he was impressed by the game's potential. Although the then current build of the game was essentially a technology demo lacking in gameplay substance, it was an impressive demo. Gothic featured a fully 3D engine, with polygonal graphics for the characters, items and creatures in the game -at the time, the only RPGs to be released featuring 3D graphics were EverQuest and Return to Krondor- which was certainly impressive, even though the game wasn't scheduled for release for over a year (as our preview indicates, the game was originally scheduled for release at the end of 1999). The graphics and gameplay actually looked pretty close to those offered by Ultima IX: Ascension, which was looking more and more promising at the time.
+
+Ultima IX: Ascension turned out to be a little too ambitious - although the game featured a beautiful looking engine, it performed exceptionally sluggishly, and the gameplay was incredibly simplistic. The engine limited the developers ability to include interesting, varied gameplay. Vampire the Masquerade - Redemption also featured a beautiful engine and a similar graphical perspective, but suffered from the same core problem: simplistic gameplay. Gothic also features third-person, trailing camera perspective graphics, like Ultima IX and Vampire (and the Tomb Raider games) - a perspective that, to date, hasn't allowed developers to create very compelling gameplay.
+
+So how does Gothic currently look? In some ways, it seems to suffer from the same problems that past games to utilize that perspective have been afflicted with:
+
+- the AI looks pretty rudimentary, with creatures and characters having difficulty navigating through the 3D terrain;
+- a limited plane of vision, which results in everything other than a short distance from your character being obscured, and suddenly appearing out of the "fog", as your character moves around the environment; and
+- action/adventure gameplay with relatively simplistic combat and gameplay.
+
+Those are all bad traits, if not addressed prior to the final release of the game (it's scheduled to be released in November, 2000, in Germany). But the plane of vision is likely to be hardware dependent, and therefore subject to adjustment, and the development team was naturally continuing to work on AI and enhancing gameplay. But there's also a lot to like about Gothic - in addition to the beautiful graphics, the game features a gaming world that the developers have crafted with incredible attention to detail.
+
+There's some incredible "emotes" - ways your character can express emotion in the game or otherwise engage in social, or antisocial, behaviour. At one point in the demonstration I saw, the main character stopped, knelt down - broke out a "bong" pipe - and proceeded to "smoke up". A guard took a break from his patrol in order to urinate against a nearby wall. There's around 200 individual characters in the game, each with his or her own personality and - at least from the demo - very distinct behaviour. Monsters also won't just sit around waiting to be discovered by your character either, so you'll interrupt them playing games amongst themselves, or performing daily tasks. The characters make the gaming world appear incredibly lively.
+
+The plot has a few twists. Marauding orcs are at war with the humans, but rather than jump into the fray, your character opts to draft-dodge and hide out in a local town. Discovered, your character eventually does become involved in the conflict, but not necessarily in a traditionally heroic fashion. There are four basic "paths" your character can follow: fighting (proficient in using swords, bows, axes or crossbows); magic (using a variety of spells, including invisibility and fireball); psi power (controlling other characters); and thieving (hiding in shadows, moving silently and pick-pocketing).
+
+The skill system seems very similar in style to the one used in Ultima IX. As a character's skill increases, he or she will be able to perform new actions, or "moves", as opposed to having a numerical system of proficiencies. The developers, Piranha Bytes, are trying to make the gaming world function "logically" - you can throw a dead body at an imposing, but hungry, creature to attract the beast's attention while you flee, for example. Other creatures will be lured by noise, of flee from bright light. Intelligent creatures may try to lure you into traps, or towards an area where reinforcements are located. Sounds great, provided that the AI is capable of effectively carrying out such complex behaviour. But even if some of the more interesting scenes are scripted, encounters should still be more interesting than they are in most 3D RPGs.
+
+Gothic continues to be a very promising game, particularly because of the potential depth of its gaming world. The game's design has a lot in common with Ultima IX, but Piranha Bytes has been taking more time polish the implementation of that ambitious design - to ensure that "cool technology" is translated into interesting gameplay. But the game will only live up to its potential if the developers can address the traditional flaws that games utilizing Gothic's graphical perspective have encountered. I certainly hope they'll be successful, because Gothic's gaming world looks enticing.
+
+October 23 2000
+
+Links to more Information:
+
+The Official Site (English):
+http://www.piranha-bytes.com/english/main.htm
+Links to fan sites and other press coverage:
+http://www.piranha-bytes.com/english/links/press.htm

@@ -1,0 +1,57 @@
+mgw.gametown.de 11/2000
+
+19.11.2000
+
+
+MGW:
+Hi Torsten. Mit welchen Games würdest du Gothic am ehesten vergleichen bzw. welche Spiele nahmen besonderen Einfluss auf die Entwicklung?
+Torsten:
+GOTHIC läßt sich am ehesten mit Ultima 9 vergleichen. Allerdings liegt die Entwicklungszeit schon so weit zurück, dass sich eigentlich keine Einflussnahme absehen lässt. Wir wollten ein Rollenspiel produzieren, in dem der Storyaspekt im Vordergrund steht. Dazu sollte es leicht zu bedienen sein und beides gelingt uns hervorragend.
+MGW:
+Ist der anfangs geplante Mehrspielermodus komplett gestrichen oder können wir, ähnlich wie bei FAKK², mit einem späteren Update rechnen?
+Torsten:
+In diesem Moment ist er komplett gestrichen. Ob wir einen nachliefern wird erst entschieden, bzw. besprochen, wenn wir GOTHIC fertig produziert haben. Es gibt sicherlich einige Faktoren, die diese Entscheidung positiv beeinflussen würden, aber wie gesagt zu diesem Zeitpunkt planen wir erst einmal GOTHIC fertig zu stellen.
+MGW:
+Der Release ist auf März 2001 verschoben worden. Wie kam es dazu?
+Torsten:
+Wir haben uns viel vorgenommen und als wir November als Datum angaben, lief alles darauf hinaus, dass wir planmäßig fertig würden. Doch während der Testphase mit Betatestern haben wir bemerkt, dass sich an einigen Stellen die Tester etwas anderes vorstellten als wir beabsichtigt hatten. Da dadurch aber der Spielspass nicht voll zur Geltung gekommen wäre, haben wir beschlossen, das Release noch einmal zu verschieben. Ein weiterer mindestens genau so wichtiger Punkt war, dass einige AI Systeme noch nicht so rund liefen, wie wir das geplant haben. Da wir nicht mit letzter Sicherheit sagen konnten, dass wir das bis zum Release schaffen würden, haben wir uns auch da auf die sichere Seite begeben und eine Verschiebung erwogen. Da es aber aus unserer Sicht wenig Sinn gemacht hätte nur um einen Monat zu verschieben, haben wir direkt um 3 Monate verschoben, was uns Platz lässt mit klarem Kopf dieses Projekt verkaufsfertig zu machen.
+MGW:
+Wann ist nun mit einer spielbaren Demo zu rechnen?
+Torsten:
+Einen Monat vor Release wird es eine spielbare Demo geben.
+MGW:
+Wird Gothic das kürzlich veröffentlichte Direct X 8.0 vollständig unterstützen oder weiterhin auf DX7 aufbauen?
+Torsten:
+Das wird momentan von den Programmierern evaluiert.
+MGW:
+Thema: Gore. Die deutsche Version wird entschärft auf dem Markt kommen. Ist eine "verschärfte" Version für den internationalen Markt geplant?
+Torsten:
+Wir produzieren zuerst die "verschärfte" Version und danach werden wir sehen, was wir für den deutschen Markt abschwächen müssen. Aber dieses Thema ist erst relevant, wenn wir fertig sind.
+MGW:
+Wie stets mit T&L-Unterstützung?
+Torsten:
+Ja, die neuen Features der GeForce werden unterstützt.
+MGW:
+Wie sehen die aktuellen Hardwareanforderungen aus?
+Torsten:
+Daran hat sich nichts geändert. Es ist weiterhin ein Pentium 400 und 128MB Speicher erforderlich.
+MGW:
+Wird sich der Tag- und Nachtwechsel auf die NPCs und die Umgebung auswirken (vom Tageslicht jetzt mal abgesehen?
+Torsten:
+Ja. Als erstes mal werden die NPC's ganz andere Dinge tun. Das heißt, tagsüber werden sie Wache schieben, in den Mienen arbeiten,...und abends werden sie sich bis zu einer gewissen Uhrzeit um die Lagerfeuer setzen, miteinander reden, sich betrinken, Pflanzen rauchen und danach werden sie sich schlafen legen. Wenn man also einen Auftrag erhält, sich mit jemandem zu treffen, so wird man diese Person zu verschiedenen Uhrzeiten auch an verschieden Stellen suchen müssen. Dazu kommt, dass die NPC's bei Einbruch der Nacht die Fackeln anzünden und somit ein ganz anderes Bild der Lager entsteht. Die Monster in GOTHIC werden sich auch anders bei Tag und bei Nacht verhalten. Allerdings gibt es hier keine allgemeine Nachtruhe.
+MGW:
+Muss sich der Held ab und an ausruhen oder kann er wie ein zugekokster Pitbull-Terrier stundenlang durch die Gegend hüpfen, ohne zu erschöpfen?
+Torsten:
+Es wird für den Helden verschiedene Möglichkeiten geben sich zu erholen. Beim Tauchen wird der Held einfach nur an die Oberfläche zurückmüssen, um weiterhin genügend Luft zu haben. Beim normalen gehen wird der Charakter aufgrund der großen Distanzen zwischen den einzelnen Lagern wahrscheinlich schnell auf die magische Variante des Reisens zurückgreifen wollen. Ansonsten gibt es keine Erschöpfung, da es in GOTHIC sonst noch gefährlicher würde, sich außerhalb der Lager aufzuhalten.
+MGW:
+Besonders viel Arbeit habt ihr in die KI investiert. Was genau unterscheidet Gothic deiner Meinung nach in der Hinsicht von anderen Spielen?
+Torsten:
+Deutlich unterscheidet GOTHIC sich von anderen Spielen, was das Verhalten der Mitgefangenen angeht. Diese unterhalten sich und tauschen untereinander Neuigkeiten aus. Damit ist sichergestellt, dass nur die Leute von einer Tat des Spielers oder anderer wichtiger NPC's erfahren, die bis dahin jemanden getroffen haben, der auch schon davon wusste. Damit ist es für den Spieler nicht immer sicher, ob jemand vielleicht schon von seinen guten oder schlechten Taten gehört hat. Ein anderer Punkt ist die Kampfsituation. In dieser werden alle, die den Kampf mitbekommen, sich fragen, ob sie helfen oder einfach nur drum herum stehen und die Kämpfer anfeuern. Sie werden sehen, ob derjenige, den sie ihren Freund nennen, gewinnt und sie nicht einschreiten oder ob er verliert und sie helfen. Wenn sie jedoch einen Kampf eines Monsters mitbekommen, werden sie mithelfen. Sie holen jedoch lieber Hilfe, wenn sie bemerken, dass sie auch durch das Helfen wahrscheinlich unterliegen würden. Von diesen und ähnlichen Verhalten wird der Spieler noch mehr vorfinden. Dadurch entsteht der Eindruchk einer lebendigen Welt in die der Charakter hineingeworfen wird.
+MGW:
+Wie lange wird ein Durchschnittsspieler vorraussichtlich für Gothic brauchen, um es durchzuspielen?
+Torsten:
+Die Durchschnittszeit wird zwischen 60-70 Stunden liegen.
+MGW:
+Vielen Dank für die geopferte Zeit.
+Torsten:
+Gern

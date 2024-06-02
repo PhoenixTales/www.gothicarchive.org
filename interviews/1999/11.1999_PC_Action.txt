@@ -1,0 +1,105 @@
+PC Action 01/2000
+
+[ Was released January or March 2000, but
+  the Interview was taken before 24.11.99
+  - the release of Ultima IX ]
+
+
+Gothic - Von der Idee zum Computerspiel
+=======================================
+
+Wenn Polygone laufen fernen
+===========================
+Marketing Director Tom Putzki (Vordergrund) und das Team von Piranha Bytes wollen mit Gothic das Rollenspiel-Genre aufmischen. Droht im März das k.o. für Ultima und Co.?
+
+ Fantasy-Rollenspiel
+ Gefängnisszenario mit linearer Rahmenhandlung
+ NachWTagwechsel, intelligente" NPCs
+ Krieger, Magier. Dieb oder Psloniker spielbar
+ Vergleichbar mit Ultima 9
+
+
+Spielgeld
+=========
+Seit dem 22. November kann das Vertrauen in den Erfolg von Piranha Bytes und Gothic auch an der Börse dokumentiert werden. Als hundertprozentige Tochter der neugegründeten Phenomedia AG, die sich aus den Mutterfirmen The Art Department (Werbespiele] und Greenwood [Der Planer) bildete, sicherten sich die Bochumer durch den Börsengang die finanzielle Unabhängigkeit - enorm wichtig für Spieleentwickler, Die Phenomedia-Aktie ist die erste Entertainment-Software-Aktie am Neuen Markt in Frankfurt, zum Redaktionsschluss wurde sie zum Kurs von 22 Euro gehandelt. Info: www.phenomedia.de
+
+Seit fast zwei Jahren bastelt man in Bochum am Rollenspiel Gothic. Im März dieses Jahres soll das Erstlingswerk der Softwareschmiede Piranha Bytes erscheinen, die damals von vier mutigen Autodidakten aus der Taufe gehoben wurde.
+
+Wir fragten für Sie nach: Wie verwirklicht man seinen Traum vom Traumjob? Mit welchen Schwierigkeiten haben Spieleentwickler zu kämpfen, welche Vorbildung wird benötigt?
+
++ Michael Hoge 127), Art Director, geistiger Vater von Gothic
+- Michael, du warst eines der Gründungsmitglieder von Piranha Bytes. Welche Aufgaben hast du im Gothic-Team?
+Michael Hoge: Als Art Director kümmere ich mich um den gesamten Look von Gothic. Außerdem habe ich eigentlich die Gofhic-Story erfunden und arbeite noch recht eng mit Steffen, Florian und Clemens zusammen, die jetzt die Detailausarbeitungen machen, zum Beispiel die ganzen Neben-Quests. Ach ja, und um das Gamedesign kümmere ich mich zum Teil auch noch. Da geht es hauptsächlich um KI-Elemente. Was passiert etwa, wenn du als Psioniker andere Kreaturen übernimmst? Kannst du einen Wolf übernehmen, zum Rudel marschieren, den Leitwolf plätten und dann mit einem ganzen Rudel durch die Gegend ziehen? Solche Dinge eben.
+- Einen Aushang Gründungsmitglied einer Spielefirma gesucht" habe ich noch bei keinem Arbeitsamt entdecken können. Wie war das, haben sich da vier Leute getroffen und gesagt Hey cool, wir gründen jetzt eine Spiele-schmiede"? Was hast du vorher gemacht?
+Michael Hoge: Ja, im Grunde war das so. Wir waren vorher alle bei Greenwood, dann gab's Greenwood nicht mehr. Wir wollten einfach ein richtig gutes Computerspiel machen, die Idee dazu war ja schon da. Wir hatten natürlich von Tuten und Blasen keine Ahnung, sind aber in den letzten zwei Jahren da 'reingewachsen. Inzwischen sind wir 20 Leute. Das ist sowieso das Beste: du fängst an zu viert und plötzlich kommen die ersten Leute und wollen mitmachen. Da waren teilweise Leute dabei, die hatten so etwas noch nie vorher gemacht, waren aber sehr motiviert und einige davon sind heute Teammitglieder.
+- Gab es für die Gothic-Story irgendwelche Film- oder Buchvorbilder, an die Ihr euch angelehnt habt?
+Michael Hoge: Der Tom [Putzki, Marketing Director] läuft zwar immer herum und erzählt wir machen Die Klapperschlange im Fantasy-Gewand, aber eigentlich haben wir damals daran nicht gedacht. Das Gefängnisszenario wählten wir, weil wir eine sehr lebendige Welt zeichnen wollten in der alles funktioniert, die aber aus spieltechnischen Gründen räumlich begrenzt sein musste. Die Story ist zwar eigentlich linear, wir erlauben aber grundsätzlich andere Herangehensweisen an die auftauchenden Probleme. Ein Magier verhält sich nun mal anders als ein Krieger, dem wollten wir Rechnung tragen.
+- Wollt Ihr nach der Veröffentlichung des Spiels die Gomic-Story noch über andere Medien verbreiten?
+Michael Hoge: Ja, ein Buch ist bereits in Arbeit, noch ist aber nicht klar, ob und wann es erscheinen wird. Ein Comic soll Anfang des Jahres erhältlich sein. Der erzählt die Geschichte, die eigentlich vor dem Beginn des Spiels liegt. Das finde ich auch ganz wichtig, denn wir wollen natürlich nicht, dass vor der Spielveröffentlichung schon etwas vom Ausgang der Handlung bekannt ist.
+- An der Technik von Spieleprojekten wie Gothic, die eine mehrjährige Entwicklungszeit benötigen, nagt der Zahn der Zeit. Was vor zwei Jahren grafisch top war, ist heutzutage einfach alt. Wie schafft Ihr es, auf dem technisch neuesten Stand zu bleiben?
+Michael Hoge: Erst einmal muss ich dazu sagen, dass viele Leute in meinen Augen es nicht schaffen, aus der tollen Technik, die sie haben, das Beste herauszuholen. Ich denke, wenn man wirklich coole Texturen macht, wenn die ganze Sache abgerundet, harmonisch ist, dann muss man auch nicht sklavisch jede technische Innovation mitgehen. Der Look muss halt passen. Bei uns sollte nicht in erster Linie der Look ausschlaggebend für den Erfolg sein, wie etwa bei einem Ballerspiel mit etwas über einem Jahr Entwicklungszeit, sondern der Inhalt - die intelligenten Bewohner der Spielewelt, die ganzen Interaktionsmöglichkeiten, die du hast.
+- Warum sollten die Spieler zu Gothic greifen und nicht zu Ultima 9?
+Michael Hoge: An Ultima 9 messen wir uns natürlich, alles andere geht einfach nicht in diese Richtung. Ich würde den Leuten zunächst einmal beide Spiele empfehlen. Zwischen den Spielen liegt genug Zeit, da tun wir uns eigentlich nicht weh. Die Stärke bei Gothic würde ich bei der künstlichen Intelligenz sehen, wie die Monster sich verhalten und was man alles machen kann. Zu Ultima kann ich bisher wenig sagen [Anm. d. Redaktion: Zum Zeitpunkt des Interviews war U9 noch nicht erhältlich]. Wenn die Kl dort genauso gut ist, dann ist sie eben genauso gut.
+
++ Alexander Brüggemann (33), Projektleiter Gothic
+- Was ist deine Auf¬gabe bei Piranha Bytes?
+Alexander Brüggemann: Ich habe die dankbare Aufgabe dafür zu sorgen, dass das Team gut drauf ist und die erforderlichen Arbeiten koordiniert werden. Wenn es die Zeit zulässt, widme ich mich auch noch dem Gamedesign, das ist die Aufgabe, die ich eigentlich am liebsten mache.
+- Projektleiter hört sich ja toll an. Wie wird man denn das, was hast du vorher gemacht?
+Alexander Brüggemann: Im Projekt Gothic habe ich mich vorher um Grafiken und Animationen gekümmert. Projektleiter kann man werden, wenn man gut mit Leuten umgehen kann und planerisches Geschick hat, was sich im Laufe der Zeit herausstellt. Es gibt keine Ausbildung für Projektleiter, normalerweise sind das Leute, die schon über eine gewisse Berufserfahrung verfügen.
+- Welche Probleme und Risken tauchen denn bei einem solchen Projekt auf und wie beseitigt man diese?
+Alexander Brüggemann: Bei einem so großen Projekt gibt es immer wieder kleinere Probleme. Mal passt eine Grafik nicht, dann kommt es zu kleineren Timingproblemen und so weiter. Am besten ist es natürlich, wenn man so gut plant, dass große Probleme erst gar nicht auftauchen. Damit das so ist, haben wir einmal pro Woche unsere Teambesprechung, kleinere Gruppen treffen sich außerdem bei Bedarf. Das Zauberwort heißt hier Kommunikation. Es ist extrem wichtig, dass man miteinander spricht, dass das Team gut miteinander klarkommt. Bei uns ist das zum Glück der Fall.
+
++ Carsten Edenfeld, Programmierer
+- Carsten, was ist deine Aufgabe bei Gothic?
+Carsten Edenfeld: Ich bin Programmierer und kümmere mich um verschiedene Systeme im Spiel, zum Beispiel die Kameraführung, die Einbindung der Sounds und der Musik und die 3Dfx-Einbindung. Schließlich baue ich auch die Programmfragmente zu lauffähigen Versionen zusammen. Wir haben noch einen Programmierer, der sich um die künstliche Intelligenz im Spiel kümmert und unsere Engine-Programmierer, die die 3D-Welt zusammenzimmern. Dann gibt's noch die Scripter, die den Nichtspieler-Charakteren im Prinzip vorgeben, wie diese reagieren sollen. Da müssen natürlich die ganzen Funktionalitäten zusammenpassen.
+- Für viele ist Spieleprogrammierer der Traumjob schlechthin. Wie bist du dazu gekommen und was hast du vorhergemacht?
+Carsten Edenfeld: Ich habe vorher Informatik studiert. Das war aber sehr theoretisch, obwohl es ab und an auch ganz nett war. Mir fehlte aber das Flair. Programmieren kann spannend sein, wenn man in einem tollen Team arbeitet und kreativ sein darf, halt zusammen spielerisch etwas auf die Beine stellt.
+- Mit welchen Programmiersprachen sollte man denn anfangen, wenn man Spieleprogrammierer werden will und wie bildet man sich weiter?
+Carsten Edenfeld: Prinzipiell ist es wirklich egal, mit welcher Programmiersprache man beginnt. Wichtig ist, dass man schnell praktische Erfahrungen sammelt. Fast alle Profispiele basieren heute wie Gothic auf der Sprache C++. Man kann aber auch mit Java oder sogar Basic beginnen. Das Grundwissen eignet man sich am besten aus Büchern an. Auch im Internet gibt es sehr viele Informationen, über dieses Medium kann man sich auch gut weiterbilden.
+
++ Horst Dworczak (24), Bereichsleitung Leveldesign
+- Was ist deine Aufgabe im Team, Horst?
+Horst Dworczak: Ich koordiniere den Levelaufbau von Gothic. Die Anzahl der Level war ja bereits festgelegt, aber die detaillierte Ausgestaltung, die Größe, die Einbindung in die Spielewelt wird von uns vier zusammen im Team erledigt.
+- Mit welchen Programmier-TooIs arbeitet ein Leveldesigner?
+Horst Dworczak: Extra für Gothic haben wir ein hausinternes Tool entwickelt, womit wir die Objekte setzen und die Texturierung vornehmen. Die Level haben wir mit Lightwave, stellenweise auch mit 3D Studio Max gestaltet. Dadurch erreichen wir sehr organische Formen, eine natürlich wirkende Umwelt.
+- Wie bist du zum Leveldesigner geworden? Würdest du dich eher als Grafiker oder als Programmierer sehen?
+Horst Dworczak: Als Leveldesigner bist du eher der Grafiker. Es ist natürlich niemals schlecht, wenn du auch Programmierkenntnisse hast, weil man sich oft auch mit den Programmierern auseinander setzt. Eigentlich kommst du aber aus der Grafikecke. Du solltest wissen, was ein Polygon ist, Geschmack haben und dich mit Grafikprogrammen auskennen. Zeichentalent schadet auch nicht. Wenn du dich hier einmal umhörst, hat fast jeder hier einen anderen Werdegang hinter sich. Vom Metallschleifer bis zum Bergbauer findest du hier vieles und alle landen Sie hier und sind plötzlich Grafiker. Man muss einfach mutig sein in Deutschland und auch mal weghören, wenn die Arbeitsämter etwas vorschlagen.
+
++ Kai Rosenkranz (19), Musiker
+- Kai, du bist mit 19 Jahren noch sehr jung. Wie bist du zum Team gestoßen und was ist deine Aufgabe?
+Kai Rosenkranz: Ich habe über die Presse vom Projekt Gothic gehört und mitbekommen, dass Piranha eine Bochumer Firma ist. Da ich selbst ebenfalls aus dieser Stadt komme, wollte ich die Chance wahrnehmen, um Kontakt zu dieser Branche aufzunehmen. Jetzt bin ich bin für alles zuständig, was hinterher Krach machl im Spiel, also die Musik, die Geräuschkulisse und teilweise auch Sprachaufnahmen. Zusätzlich bearbeite ich noch ein paar grafische Spezialeffekte, die auf dem Partikelsystem beruhen.
+- Du bist hier Musiker, Komponist und Arrangeur in einer Person. Welche Vorbildung hattest du ?
+Kai Rosenkranz: Ich durfte den typischen Klavierunterricht genießen, den wahrscheinlich viele hinter sich haben. Freiwillig spiele ich Keybourd und beschäftige mich mit Synthesizern, eine Zeit lang war ich auch in einer Band.
+- Werden Stimmungsschwankungen im Spiel auch musikalisch herausgearbeitet?
+Kai Rosenkranz: Das war uns ganz wichtig, bei Gothic geht das schon sehr in Richtung Filmmusik. Ich arbeite vorwiegend mit düsteren Klängen, die zum Teil orchestral angehaucht sind. Die Musik unterstreicht immer das, was auf dem Monitor auch abgeht, die Intensität ändert sich, wenn der Spieler in eine andere Situation gerät. Ich schaue mir zunächst eine Location an, und versuche die Stimmung einzufangen, dann wird auf dem Synthesizer komponiert, der Track wird aufgenommen und mit Hilfe des DirectMusic-Systems ins Spiel eingebunden. DirectMusic ist flexibler als etwa das konventionelle iMuse-System von LucasArts. iMuse erlaubt zwischen verschiedenen Musiken hin- und herzuwechseln und diese zu überblenden, mit DirectMusic kannst du einen durchgängigen Flow in der Musik erzeugen, die Übergänge sind fließend, musikalische Brüche sind bestenfalls nicht mehr zu hören.
+- Als Gaststar tritt die Band In Extremo im Spiel auf. Wie kam es dazu?
+Kai Rosenkranz: Die Jungs haben einen eigenen Auftritt in Gothic, weil Sie einfach hundertprozentig zum Spiel passen. In Extremo steht genau wie Gothic für eine düstere, mittelalterliche Stilrichtung. Wir haben In Extremo angesprochen und sie waren sofort bereit für dieses Projekt.
+- Wollt Ihr auch eine Audio-CD mit dem Gothic-Sound veröffentlichen?
+Kai Rosenkranz: Ja, es gibt Gespräche in diese Richtung. Trotz vieler Parallelen ist eine Computerspielmusik aber noch anders zu bewerten als etwa eine Filmmusik. Mal sehen, wie der Soundtrack ohne die Monitorbilder wirkt.
+
+Wir danken dem Team von Piranha Bytes für die Interviews, in der nächsten Ausgabe der PC Action erfahren Sie alles über die Fortschritte der Spielentwicklung, über das Gameplay und das KI-System.
+
+Nachwuchs gesucht
+
+Können Sie zeichnen, musizieren oder programmieren? Haben Ihnen die Interviews Mut gemacht? Gut, dann springen Sie über Ihren eigenen Schatten und verwirklichen Sie einen Traum - werden Sie Spiele entwiekler! Piranha Bytes sucht nach motivierten Talenten, die bereit sind in einem jungen Team mit anzupacken. Wenn Sie interessiert sind, schicken Sie Ihre Bewerbungsunterlagen an die:
+
+Piranha Bytes Software GmbH
+Lohrheidestr. 1
+44866 Bochum
+jobs@piranha-bytes.com
+
+Gesucht werden:
+Zehn 2D/3D Artists
+Fünf Programmierer
+Ein Gamedesigner
+
+
+--------------------------------------
+
+
+In Extremo
+(Konzerttermine)
+
+Wegen zu hoher Nachfrage verlegt
+
+In-Extremo-Fans aufgepasst: Aufgrund der hohen Nachfrage wurden einige Konzerte der Band, die wir im Rahmen des Gothic-Blickpunktes vorstellten, in größere Hallen verlegt. Erkundigen Sie sich bitte in Ihrer Stadt bei den jeweiligen Kartenvorverkaufsstellen. 

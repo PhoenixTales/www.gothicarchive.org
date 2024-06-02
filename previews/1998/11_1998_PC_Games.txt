@@ -1,0 +1,41 @@
+PC Games 11/1998
+
+PREVIEW
+
+Gothic
+Virtuelle Welt
+==============
+
+Als wir vor einigen Monaten zum ersten Mal über Gothic berichteten, existierten gerade einmal eine rudimentäre Grafik-Engine und ein paar Rohentwürfe diverser Helden und Monster. Die Grundidee wurde aber von Tom Putzki, Leveldesigner und Pressesprecher bei Piranha Bytes, so überzeugend und erfrischend vorgetragen, daß wir schon damals an das Produkt glaubten...
+
+Im September hatten wir endlich die Gelegenheit, einen ersten Blick auf das zu 40 Prozent fertiggestellte Produkt zu werfen. An der Story wird natürlich immer noch gefeilt, prinzipiell hat sich aber nicht viel geändert: Als unschuldiger Sträfling wird man in eine Gefangenen kolonie gesteckt, in der - abgeschnitten von der Außenwelt - die verurteilten Gauner und Halunken ihre eigenen Gesetze aufgestellt haben. Wer als Neuling in diese Gesellschaft aufgenommen werden will, muß sich erst einmal über die Machtverhältnisse informieren, um nicht den falschen Leuten zur falschen Zeit auf den Schlips zu treten. Alle NSCs (Nicht-Spieler-Charaktere) verfügen nämlich über ein gewisses Eigenleben und gehen vorwiegend ihren eigenen Interessen nach, ohne sich großartig um die Belange des Spielers zu kümmern: Sie gründen Gilden, gehen auf die Jagd oder treffen sich zum Umtrunk in einer der Kneipen. Piranha Bytes spricht von einer Art lebendigen, virtuellen Welt", die viele vielleicht schon bei Onlinespielen wie Meridian 59 oder Ultima Online kennengelernt haben. Zumindest soll die Umgebung so glaubhaft dargestellt werden, daß es unwillkürlich zu einer hohen Identifikation mit dem Szenario kommt. Ob es den Bochumern gelingt, tatsächlich dieses einzigartige Flair aufkommen zu lassen, läßt sich momentan nur schwer beurteilen. Da aber bislang alle Versprechen eingelöst wurden, entwickelt sich ein gewisses Vertrauen in das gewitzte Designteam.
+
+Kommen wir damit zu den technischen Gesichtspunkten. Piranha Bytes besteht nicht nur aus Programmierern, sondern auch zum größten Teil aus begeisterten Rollenspielern - das bestätigt sich durch die detaillierte Ausarbeitung bestimmter Charakterklassen. Nehmen wir zum Beispiel den Magier. Hat man sich im Laufe des Spiels für diese Klasse entschieden, so darf man sich auf ein paar nette Effekte gefaßt machen, die bislang in noch keinem Spiel zu sehen waren. Auf Knopfdruck erscheint über dem Kopf des Magiers ein rotierender Ring mit Zaubersprüchen, aus dem mit den Cursortasten blitzschnell der gewünschte Spruch herausgesucht werden kann. Die Intensität ist dabei von den individuellen Fähigkeiten und der Dauer der Beschwörung abhängig. Ein Feuerball entsteht zum Beispiel als eine winzige Flamme, die über der Handfläche schwebt. Ein paar Sekundenbruchteile später muß der Zauberer die zweite Hand zur Hilfe nehmen, denn der Feuerball hat mittlerweile die Größe eines Fußballs eingenommen.
+
+Das Projekt Gothic hört sich immer vielversprechender an und macht mittlerweile einen hervorragenden Eindruck. Wir werden das Bochumer Entwicklerteam im nächsten Monat besuchen, um die Neuerungen detailliert unter die Lupe zu nehmen. - Oliver Menne
+
+
+033a
+Die Grafik-Engine erlaubt interessante Licht- und Schatteneffekte.
+
+023a
+Dieser Magier wählt einen der zahlreichen Zauberspruche aus.
+
+034a
+Der Bogenschütze nimmt den heranstürmenden Krieger unter Beschuß.
+Der Psioniker versucht den Bogenschützen in seine Gewalt zu bekommen. Bei einer erfolgreichen Gedankenattacke kann man den Bogenschützen übernehmen und steuern.
+
+035a
+Der angriffslustige Magier bereitet einen gewaltigen Feuerball vor. Der Bogenschütze versucht ihm zuvorzukommen und feuert einen Pfeil auf ihn ab.
+
+036
+Die Fackel erhellt die Umgebung. Sie kann auch in Schluchten geworfen werden.
+
+
+FACTS
+Genre: Action-Rollenspiel
+Hersteller: Piranha Bytes
+Beginn: Dezember '97
+Status: Pre-Alpha
+Release: Juli '99
+Vergleichbar mit: Tomb Raider

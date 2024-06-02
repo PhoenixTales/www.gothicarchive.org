@@ -1,0 +1,8 @@
+I tried to reconstruct this page, but have no glue from
+javascript and it doesn't work as intended. So if someone
+wants to include this page completely, feel free to do so:
+http://www.spellcraft.de/html/d_main_old_games_gothic.htm
+
+And if you do, include this newer one too:
+http://www.spellcraft.de/html/resume_cv_gothic.htm
+-lali

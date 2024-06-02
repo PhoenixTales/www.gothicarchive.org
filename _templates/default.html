@@ -1,0 +1,32 @@
+{% include abs-link-base.html %}
+{% include link-base.html %}
+{% include abs-media-link-base.html %}
+{% include media-link-base.html %}
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link href="{{ absLinkBase }}/style.css" rel="stylesheet" />
+<title>{{page.title}} | {{site.title}}</title>
+<link rel="icon" type="image/x-icon" href="{{ absLinkBase }}/archive.ico" />
+
+<main>
+	<div id="LeftRow">
+		<header>
+			<a href="{{ absLinkBase }}/">
+				<h1 class="logo hide-text">Gothic Archive</h1>
+			</a>
+		</header>
+		<input type="checkbox" id="menu-toggle">
+		<label for="menu-toggle">
+			<span class="menu-icon">&#8801;</span>
+			Menu
+		</label>
+        {% include menu.html %}
+		
+	</div>
+	{% assign mediaLinkBasePlaceholder = '{{ mediaLinkBase }}' %}
+	{% assign absMediaLinkBasePlaceholder = '{{ absMediaLinkBase }}' %}
+	{% assign absLinkBasePlaceholder = '{{ absLinkBase }}' %}
+    {{ page.content | replace: mediaLinkBasePlaceholder, mediaLinkBase | replace: absMediaLinkBasePlaceholder, absMediaLinkBase | replace: absLinkBasePlaceholder, absLinkBase }}
+
+</main>

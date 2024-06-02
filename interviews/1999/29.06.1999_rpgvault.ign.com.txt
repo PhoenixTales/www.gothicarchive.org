@@ -1,0 +1,131 @@
+rpgvault.ign.com 06/1999
+
+Gothic Interview
+
+June 29, 1999
+
+Gothic is a 3D real-time fantasy role-playing game being developed by a German studio, Piranha Bytes. We have been in contact with the developers ever since we heard about the game last year, and have followed it's progress closely. Consequently, it was a pleasure to meet some of the team at E3, where we were also able to get our first look at Gothic aside from screenshots. In addition, we were able to arrange for an interview with four members of the team. Stefan Nyul is the Project Manager. Tom Putzki's responsibilities include PR and marketing plus game design while Alex Brueggemann's are game design and character animations, and Carsten Edenfeld is a programmer for the camera, sound and music et al.
+
+Jonric: Let me start by asking about your team and their backgrounds. How many people are currently working on the game?
+
+Stefan: Currently we are 22 people working on Gothic. Our backgrounds are very different. The core team has worked for Greenwood Entertainment, a former German developer. They worked on several games mostly published in Germany so you probably won't know them.
+
+Tom: One of our team members is from the German team BlueByte and has worked on nearly every BlueByte title for the last six years.
+
+Jonric: How did you come together to start Piranha Bytes, and where did the interesting company name come from?
+
+Stefan: As mentioned before, our roots have been inside a German developer. The founders wanted to change something, wanted to develop high quality games for the international market. So we started with the new label Piranha Bytes Software in 1997. The name...yeah, that is a real long story. Let me just say, it has been hard work :-)
+
+Tom: ...and lots of fun ;-)
+
+Jonric: Cool. So where did the idea for Gothic come from? When did you actually begin work on the game, and what do you consider the major influences behind it?
+
+Alex: We all at Piranha Bytes like RPGs and so, for our first project, this genre had the most appeal to us. The idea for Gothic simply was to make an RPG that looks good and is fun to play. To be a little more specific, there were some disturbing things in almost every computer RPG we've played until now, for example dumb NPCs and static, lifeless worlds. The user interfaces also offered opportunities for improvements. Nevertheless, we enjoyed many of these games, but we all had loads of ideas for an own game. We wanted to create a living world, so we decided to make it rather small and interesting than very large and boring. And instead of a bright faery-tale atmosphere we preferred to create a dark and gloomy setting. Combine these two things and you end up with a prison camp surrounded by a magical barrier...
+
+The actual work began in October of 1997. At this time we had "an interesting company name", loads of ideas, the basic setting and a very rough version of the story. Then we started working on the design-document and the 3D engine. Lots of games have been influential in the design of Gothic, either as a good or bad example how to get things done, way too many to name them here. In fact, playing games or watching a movie is always a great source of inspiration. Especially when playing a cool game you can learn a lot by figuring out what makes it cool, what is missing or could have been done better. One of the most obvious influences may be the movie Escape from NewYork because of the similar setting, except that the movie has a sci-fi scenario and Gothic plays in a medieval fantasy world
+
+Jonric: How would you summarize Gothic in 100 words or less?
+
+Alex: A true RPG, with easy handling, a living world, great story... Hey Tom, you're supposed to do that
+
+Tom: Ty, Alex! OK, hope you all remember the movie Escape from NY with Kurt Russell as Snake Plissken! Imagine the setting and scenario of this movie transferred in a medieval fantasy scenario - there you have Gothic! You are thrown into a self-running prison without guards, where several gangs control everything - even if you live or die. Your goal is to survive and to escape... and there are still several surprises left!
+
+Jonric: Can you tell me a bit more about the game world where Gothic takes place?
+
+Alex: You're thrown into a dark, gloomy, frightening place. A huge prison, 1000 meters in diameter, surrounded by a magic barrier. It consists of a vast landscape with woods, rivers and four big camps inhabited by some rival gangs. And below are the mines, the caves, and something very powerful that is waiting for you...
+
+Jonric: Alright, then what is the back story leading up to the start of the game? What's the in-game storyline, and is there an ultimate goal?
+
+Tom: The only thing you know at the beginning of the game is that you were thrown into the prison because of some obscure reason... the rest will be explored during the game. There are some big story points in the game but it's up to you how you reach them and how to handle them. The ultimate goal is to escape from the prison... you may think ;-)
+
+Jonric: Please tell me about the player character. What important choices do you have in the game?
+
+Tom: All players start with the same character; you're not supposed to make any decisions before starting the game. The whole character development, the way you complete the game will be during gameplay. There are four ways to play the game: warrior, mage, psionic mage and assassin/thief. You'll have the choice to join eight different gangs, if they let you join... Each way has its own special skills and characteristics, but some of them can be learned by every character. BTW, don't know if you find it unusual to train monsters or talk to orcs...
+
+Jonric: Would you tell me a bit more about how character development/advancement will work?
+
+Alex: If you want to improve your skills, for example in sword-fighting, you have to ask someone to teach you. If he won't he always tells you why and you'll have the chance to convince him, by doing him a favor. And if he thinks you're cool enough (which depends on a complex underlying system) he will show you a new move. You do a little training, exchanging some blows with your teacher, and you will actually see your character's improvement.
+
+Jonric: This brings us to visual feedback for skills that you plan to use in place of numerical stats. How will this be implemented? Won't this make Gothic unattractive to players who enjoy numerical stats?
+
+Alex: Selecting a skill like sword-fighting by clicking on a text in a menu doesn't visualise the development of your character in any way. We want to create a living, convincing fantasy scenario and it really makes a difference to take the time and really implement the character development into the game instead of using loads of menu screens. I don't think that this will make Gothic unattractive to the lovers of numerical stats (hmm, a strange obsession). I hope nobody judges our game by counting the menu screens
+
+Jonric: Without visible numerical attributes and skill stats, some players would automatically classify Gothic as an adventure game. Why do you consider it an RPG?
+
+Alex: We don't remove attribute and skill stats completely. There will be an inventory system, a quest log and you will also be able to see what talents and spells your character can use. But these things will be very easy to understand and handle. I think it's the depth of gameplay, the non-linearity and the development of your character that makes an RPG. We put all these things into Gothic and additionally developed a cool story (and that's a feature some recent RPGs lack).
+
+Jonric: OK, then let's move on to some other RPG elements. Will there be many quests and will there be multiple ways to accomplish them?
+
+Tom: Yes, we've got a lot of them - big quests to be solved by every character and smaller ones whether you want to solve them or not. The NPCs have a lot of work to do for them, sometimes it will be better to do them a favor, otherwise....
+
+One example: You are a warrior, member of the Mercenaries from the Old Camp. Your bosses, the Ore Barons, plan an ore transport from the Old Mine to the Outer World Trading Point. You are expected to guard the transport on his way to the Trading Point and defend the precious ore against the rival gangs from the New Camp.
+
+Second example: You are an assassin, member of the Organizers from the New Camp. Your spies bring back amazing news: the Old Camp is running an ore transport from the Old Mine to the Outer World Trading Point. You are supposed to attack the transport, get rid of the Mercenaries guarding it, and capture the precious ore.
+
+You see, it doesn't matter which character you play, this ore transport will happen and you will be involved!
+
+Jonric: Will weapons, items and artifacts play important roles in Gothic?
+
+Alex: Gothic is an action-RPG so you can bet that weapons and armor will be important. There will be clubs, swords and axe, both one- and two-handed, bows and crossbows. We also have magical weapons and mighty artifacts, but you won't find them in every corner. Additional stuff you can find: potions, food, maps. Excuse me if I forgot something, but we have loads of different objects in the game. It's great fun to hunt for better equipment and we will implement some unique items as well.
+
+Jonric: How about the two types of magic you mentioned earlier? And how will magic work?
+
+Alex: We will have two different kinds of magic in Gothic, namely wizardry magic and psionic magic. WM will work with mana, when you decide to become a mage - whether circle of fire or circle of water - rival mage groups located in different camps - you will be taught several simple spells by the experienced mages. The more you will be worth it in the eyes of your elder comrades, the more spells you'll get to know, and the better skill levels you'll reach for the spells you already know. Every spell has different levels which allow different functionality for each spell. Every level is visualised with different animations and SFX. Psionic magic is based on the power of ones will. Most of these spells are spells of the mind. You can take over control of your foes, force them to fight against each other or jump with the controlled character in a canyon - lots of fun ;-)
+
+Jonric: Please tell me about the combat system that Gothic will be using.
+
+Alex: Gothic is a real-time game. Combat will also be real-time, but for the biggest part it won't depend on your trigger finger if you succeed or fail in a fight. For example there will be no way for you to kill an enemy with a full plate armor and a battle-axe if you are bare-handed, except sneaking from behind and pushing him over the ledge. Fighting in Gothic will have strong tactical elements. Do I attack, step back, or parry the enemy's blow and start a counter-attack?
+
+You can actually plan your next moves because our combat system doesn't rely on fast reflexes. If you want to be totally defensive, then you can keep your weapon up by pressing a key, and you will parry every blow that your opponent does. You just have to take into consideration that if the attacking force is much stronger than you - you can't parry a two-handed weapon with a dagger - you will be pushed back or even can fall to the ground. If you're more into fighting from a distance, you could use bows or crossbows. Depending on your talent, you will be able to aim at fast moving targets or you can try to do a critical hit by aiming at your enemy longer.
+
+Jonric: Sticking with combat, what kinds of opponents or monsters will you encounter?
+
+Tom: It's mostly up to you and how you behave in the world of Gothic. Everyone can be your foe if you give him a reason. Sometimes they even don't need a reason. As mentioned before, you'll have to join a gang. Each gang is strictly allied to a camp - so mostly all gang members of different camps are supposed to be handled with care... but even some of your own comrades might be jealous if you rise higher and higher in the hierarchy of your own group.
+
+Then we have a whole bunch of monsters, demons, undead and other unfriendly creatures which will be very difficult to negotiate with... try to talk to a four-meter huge Troll - but please don't forget to report the results to tom@piranha-bytes.com ;-)
+
+Jonric: I know you've put a lot of work into your camera system, so please tell me about it.
+
+Carsten: We use a third-person perspective in Gothic. The camera is responsible for making the player see what he really wants, like enemies trying to attack him, items he wants to pick up or a monster in an abyss below while throwing a huge stone on his head. To achieve this, the camera system uses different angles and motion types, depending on the game situation, thus being more sophisticated than first-person cams or simple third-person cams which always tend to look at the player's back. (Ever tried not to be surprised while a killer-NPC knocks you in the back during your exploring of a very interesting stone in front of you? You didn't? Never mind!) The sound format will be 44khz which gives the best results, but you will be able to change sample resolution for speed and memory issues.
+
+Jonric: As for some other features of your game engine, what 3D graphics APIs will you support? Will you support 3D sound? Will you have features like auto-mapping and an auto-journal?
+
+Carsten: We plan to support all 3D sound APIs, even Aureal2 and EAX2 in order to support the great obstruction and occlusion features of those interfaces. Imagine sword-fighting sounds behind a door which become immediately more obvious as it opens, or a conversation between two monsters which becomes muffled as they move behind a wall.
+
+Alex: We use Direct 3D and we have a native Glide renderer as well. There will be no auto-mapping of the complete world, but you will find some maps that you can use to solve puzzles or avoid traps. We'll have an auto-journal with information about your quests. If testing shows that this is not enough, you also will be able to add own notes.
+
+Jonric: Please tell me about the interface. How do movement and inventory work? How will conversations and other interactions with NPCs take place?
+
+Alex: OK, as I mentioned before the interface is very easy to use. The inventory, for example, has an auto-sort function so you won't have to sort your stuff by hand. I hope you'll like this feature as much as I do. Sorting things in real life isn't much fun - if you could see all the stuff on my desktop! - so why put it into a game? Oops, I forgot Tetris! Sorting things can be great fun, but not in inventories
+
+We have a context sensitive help system - we'll still have to figure out a cool name for it . Movement works quite similar to other third-person games like Tomb Raider, but for interacting with other persons and objects we figured out a special interface that makes it very easy to interact with NPCs you can talk, steal, or give items to them by only pressing two keys. Because of our easy interface you don't need a combination of input devices. You can choose to play the game using keyboard or gamepad.
+
+Jonric: What do you think will the system requirements will be for good game performance?
+
+Tom: At the moment we think about Pentium II with 64 MB RAM and of course a 3D accelerator card, but our programmers still have a lot of optimisation to do...
+
+Jonric: What will make Gothic stand out from the other RPGs in development now? And to what kind of gamer will Gothic appeal most strongly?
+
+Tom: The AI, the daily routines of the NPCs and the, what we call it, living world. The NPCs and monsters live their lives whether the player is there or not. The player has to get right with the world, and the NPCs are part of this world - and it's their world of course ;-)
+
+Gothic will be a challenge for hard-core role playing gamers because of its game depth and its storyline. Due to the simple user interface, visualising everything and feedback for every thing you do, it will also be suitable for the mainstream player who is used to steering Lara through her world...
+
+Jonric: Last summer when we first talked, you were hoping to release in Q1 of 1999. Obviously, that was ambitious. Where does development stand at the moment, and what is the planned release date now?
+
+Stefan: Right now, we plan to release in early 2000. We have not yet finished the cutscene engine. Also we still need time to work on the AI. We have nearly completed the vast surface world and are now "digging" into the deep dungeons.
+
+Tom: Sorry about that, but we also make mistakes and our world grows bigger and bigger every single day... it's a hell of a lot of work but we love it - and you will be able to judge if it was worth waiting for...
+
+Jonric: Please tell me about your new publisher. Where will Gothic be released, and in what languages? Are there any plans for North America at this time?
+
+Stefan: Egmont Interactive will publish Gothic, but is still looking for publishing partners in North America. The game will be released in English and German language at once. Other language versions are supposed to follow later.
+
+Tom: For this reason we were at E3 presenting Gothic to interested publishers from the whole world.
+
+Jonric: As usual, let me end by asking if you have anything else you want to say.
+
+Stefan: Just have a good time, and don't forget Gothic. Bye.
+
+Tom: CU in Norrath. Watch out for Mordio ;-)
+
+Jonric: OK, I'll be watching out for Mordio, and also for Gothic. Thanks very much to all of you for telling me and our readers about it.

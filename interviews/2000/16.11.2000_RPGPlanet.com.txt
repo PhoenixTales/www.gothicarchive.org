@@ -1,0 +1,41 @@
+RPGPlanet.com 11/2000
+
+
+RPGPlanet | Interviews | Gothic
+by Mark "Kyote" Allman | November 16, 2000
+
+Gothic takes place in a 3D medieval world, divided into three camps: Old, New and Psi. In this single-player game, you pick one of these sides, and must defeat the others and battle monsters like trolls and orcs. We talk with Torsten Dinkheller, a 3D Artist on Gothic.
+
+RPGPlanet: To begin, could you please introduce yourself and your role on the development team of Gothic? Have you had any previous experience in the industry?
+Torsten: I am Torsten Dinkheller and I am currently working at Piranha Bytes. At the moment, we are finishing our work on Gothic. I am a 3D Artist and I am responsible for most of the landscape textures. In addition, I build the homepage and try to keep it up-to-date. This is my first game I am involved in.
+
+RPGPlanet: Previews have made it known that there will be twenty-five types of monsters or more, including three classes of orcs, two classes of goblins, and trolls. How will the various different types of orcs see each other, and how will each type see the various types of goblins, and how will they feel about their own kindred's relations with the other types of other species? How deep does the interaction go in terms of how they feel about their neighbours interactions with other neighbours, and will this randomize with each game, or is it linear or can it evolve with the game's progression?
+Torsten: The relation between different kinds of Orcs is kind of friendly. To compare it with the prisoners, it is the same relation between workers and guards of the same camp. This cannot be changed because the relation between them was built a long time ago and the player is not meant to be their friend.
+
+RPGPlanet: One of the stated goals of the company has been that Gothic will be easy to start and easy to play. If there are no complex stats, and no complex character generation process, how will representation be handled? It is known that it will be handled visually, but how else? Visual is the primary manner, so how many different combinations of motions can we expect a character to be able to perform to demonstrate his skill?
+Torsten: At first, we did change some of our plans. We inserted some abilities that can be viewed during the game. We started to implement a lot more items and therefore we had to show the strength, dexterity and so on. But still, we are going to show all abilities visually. We will have different moves for each level of experience. Lets say for the sword there will be some standard moves. But once I learned the sword the character will have more fluent moves and be able to score some combos. The same goes for the magic.
+
+Some things the character won't be able to perform before he learned them. One thing would be the thieving skills. To be able to sneak up on a non-player character, the hero has to learn the skill. When he learned it, he will be able to sneak. Other movement won't be able before the hero uses a spell. But find out yourself in the game.
+
+RPGPlanet: Can you give an example of the open endedness in Gothic? We know that the main storyline must be followed, but how much leeway is there for characters to branch off and do their own thing? How has your team struck a balance between the necessity for a fixed plot and computer RPG players' desires to explore and do their own thing?
+Torsten: There are three camps and each of the camps will provide a possible outcome for the character. By choosing one camp and probably fighting the others there will be always a different way to conclude one part of the game and enter a new part of the game.
+
+RPGPlanet: Previews have gone into some detail about the unique monster artificial intelligence in Gothic, and how the monsters are able to cooperate. Can you elaborate upon this? Will monsters be hostile to certain other kinds of monsters, or possibly friendly to the player, based on story-dependant reasons?
+Torsten: The monster do have their own life. Some are hunters, some are prey, some are somewhere between these two, and the troll is actually best being let alone. If the player comes up to a prey, it will try to flee. If cornered, it will warn the player to leave and if still not left alone it will attack. The less the monster is a prey the earlier it will attack and not even warn the player. Worst case are the hunters which hunt in packs. By giving names like prey and hunter, it should be known how they behave when they meet each other.
+
+RPGPlanet: What can you tell us about the graphics, and how you are working to make them stand out from the upcoming RPG crowd?
+Torsten: Gothic supports DirectX and therefore the player can choose the resolution freely. In Gothic, the player can see as far as in no other game known to me. So once you stand on a tower, you can see a real great distance. The game supports all features of the GeForce Chip. The women in the game are the monsters with the greatest number of polygons. The game engine will find out which size of textures is best suitable for the actual graphic card.
+
+RPGPlanet: Can the player advance with either colony, building rank and status and getting access to more and more of the town's luxuries and weapons, and so forth? To what degree can the player influence the situation he finds himself in between the rival colonies?
+Torsten: In the beginning, the player cannot influence the towns, but by choosing in which town [he starts] he enters a guild. Once in a guild, he can advance by finishing quests and gaining some favours to higher ranks. Once the player is more advanced, he will, and have to, interfere with the dealing between the camps. Therefore he will be responsible for quiet a few things that happen between the camps.
+
+RPGPlanet: Can you give us more story details, particularly about the mysterious temple and the followers who rant about the end of the world? How much interaction will their be with the temple and it's followers?
+Torsten: This is part of the story the player has to find out by himself. All that is necessary to know is that they are frantic believers. Whatever they believe in, they are a threat if you are on the opposite side. They have psionic powers. So if the player wants to learn them, he needs to interact with the PsiCamp.
+
+RPGPlanet: Could you give us a bit more information on the spell system, and what sort of spells we can expect to see and how the magic system will be divided and ordered?
+Torsten: The magic system is divided in two major schools. The magical and the psionic. The magical part is divided into the flame and the water magicians. Each has its unique spells. The psionic powers are more useful to twist the opponents' minds, while the magical spells are more useful to harm the opponent. While the flame mages are the mages of the OldCamp the water mages can be found in the NewCamp.
+
+RPGPlanet: It's known that the game is played from the third-person perspective, but in the fully 3D environment that Gothic takes place in, will the player have unlimited camera control freedom? If not, what sort of camera controls will be in place to offer the player the ability to look around?
+Torsten: The camera usually is positioned behind the character, but by pressing [a key] the player can turn the camera in the same angels a human could turn his head. So it is possible to look to the sides, up and down, but not to behind him. Sometimes the camera will rotate or zoom on its own to allow the player a better view of the situation.
+
+Comments about this interview? Mail us or drop by our forums. 

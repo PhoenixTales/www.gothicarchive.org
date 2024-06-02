@@ -1,0 +1,14 @@
+
+{% if jekyll.environment == "production" %}
+	{% assign absMediaLinkBase = 'https://media.gothicarchive.org' %}
+{% else %}
+	{% assign absMediaLinkBase = '' %}
+	{% assign tempDepth = page.url | append: '.' | split: '/' | size | minus: 2 %}
+	{% for i in (1..tempDepth) %}
+		{% assign absMediaLinkBase = absMediaLinkBase | append: "../" %}
+	{% endfor %}
+	{% if absMediaLinkBase == '' %}
+		{% assign absMediaLinkBase = './' %}
+	{% endif %}
+	{% assign absMediaLinkBase = absMediaLinkBase | append: "media" %}
+{% endif %}

@@ -1,0 +1,154 @@
+gamesweb.com 09/2000
+
+21.09.2000
+
+
+Gamesweb:
+Darf ich mal fragen, welche Position du bei Piranha Bytes hast?
+
+Torsten:
+Ich bin bisher Grafiker gewesen, doch da wir im Bereich Texturen fast durch sind (fehlen nur noch Cosmetics), habe ich Zeit mich um die Online-Mags zu kümmern. Da ich auch mit auf der ECTS war, hat sich das angeboten, und da ich sowieso schon die Fanpage betreut habe. Aber eigentlich habe ich den Grossteil der Texturen verbrochen und eingebaut.
+
+Gamesweb:
+Wie ist der aktuelle Entwicklungsstand von 'Gothic'?
+
+Torsten:
+Wir sind mit dem Bereich Level fertig, fehlt nur noch Cosmetic. Die Bereiche die fehlen sind: Programmierer - Performance verbessern, Story - da sind noch nicht alle Missionen gescripted und noch sind nicht alle NPCs mit Tagesabläufen versehen. Dann basteln wir natürlich noch an den Animationen, damit nachher alles noch besser aussieht. Aber vor allem warten wir auf die Storyjungs und so lange wird das Spiel nicht abgegeben. Wir werden zum Releasetermin fertig.
+
+Gamesweb:
+Und wann ist der?
+
+Torsten:
+Termin Ende November laut Egmont Interactive (Publisher). Beim Termin muss ich mich auf Egmont beziehen, da der Publisher da das Recht drauf hält.
+
+Gamesweb:
+Wie viele Leute arbeiten denn an dem Projekt?
+
+Torsten:
+25 Leute plus ein paar freie Mitarbeiter.
+
+Gamesweb:
+'Gothic' scheint sehr komplex zu werden, wie läuft das Testing ab, damit nicht so eine Panne wie bei 'Ultima Ascension' passiert? Durch die Komplexität können ja ungeahnte Situationen auftreten.
+
+Torsten:
+Da werden wir weiter mit Neulingen arbeiten, das hat den Vorteil, die Jungs sind unbedarft und sagen einfach, wenn etwas 'suckt'. Wir haben so auch das Kampfsystem schon verbessert. Das heisst, an einem Wochenende hatten wir fünf Leute eingeladen einfach mal durch die Gegend zu laufen und jederzeit zu melden was schlecht ist. Das hat uns einen Riesensprung nach vorn gegeben.
+
+Gamesweb:
+Also vorwiegend mit freien Testern, wenn ich das richtig verstehe. Wird es einen offenen Betatest geben?
+
+Torsten:
+Ein Demo wird als erstes an ein Print-Magazin gegeben, wenn du das meinst. Ansonsten werden wir uns noch ein paar mal ein paar Leute ins Haus holen und die ganz unverblümt testen lassen.
+
+Gamesweb:
+Pickt ihr die Leute nach dem Zufallsprinzip heraus?
+
+Torsten:
+Nein die Leute werden nicht zufällig ermittelt, da sie ein Verschwiegenheits-Dokument unterschreiben müssen und wir da schon vorsichtig sind.
+
+Gamesweb:
+Testet ihr auch mit erfahrenen Rollenspielern?
+
+Torsten:
+Ja, bisher waren es durch die Bank weg Rollenspieler.
+
+Gamesweb:
+Ok, anderer Punkt, die KI. Nach allem, was bisher bekannt wurde, liegt dort das Hauptschwergewicht des Spieles. Wie weit geht das? Was können die NPCs derweil? Ich habe auf der ECTS echte Fabelstories gehört von NPCs die zum Pinkeln an den Fluss gehen, sozusagen...
+
+Torsten:
+Ja ich war teilweise auch super überrascht. Da ich sonst keine Zeit habe das Spiel zu testen sind mir ein paar witzige Sachen passiert. Ich wollte den Kampf mit dem einhändigen Schwert zeigen und habe mir kurzerhand ein Schwert 'geinserted'. Das war leider nicht irgendein Schwert, sondern gehörte einem Typen im 'OldCamp'. Der Stand aber in Reichweite und hat mich mit dem Schwert gesehen. Da hat er mich drauf hingewiesen und mich dann angegriffen. Als ich es dann zu Boden geworfen habe, war er zufrieden und sagte "Das war ja gerade noch mal rechtzeitig". Dann hat er das Schwert genommen und ist wieder gegangen.
+
+Etwas anderes ist das News-System. Das heisst: wenn ich jemanden töte und einer seiner Freunde sieht es, so wägt er ab, ob er stark genug für mich ist. Wenn er nicht stark genug ist, wird er zu seinen Freunden gehen und entweder mit diesen zurückkommen oder zumindest wissen seine Freunde dann davon und werden mich bei der nächsten Unterhaltung dementsprechend behandeln.
+
+
+Gamesweb:
+Demnach reagiert die KI also sehr genau auf das Verhalten und die Vorgehensweise des Spielers. Waffengewalt ist dann wohl kaum die richtige Methode.
+
+Torsten:
+Doch, Gewalt ist schon OK, solange ich niemanden töte. Zuerst muss ich einen Gegner KO schlagen, erst dann kann ich ihm den finalen Schlag verpassen. Das ist aber nicht unbedingt notwendig und ausserdem ein Regelverstoss in dem Gefängnis, den die Mithäftlinge, wenn sie es mitbekommen, nicht tatenlos mit ansehen.
+
+Gamesweb:
+Thema Steuerung: ist diese ebenso komplex wie die KI oder schön einsteigerfreundlich?
+
+Torsten:
+Wir haben die Steuerung ganz auf Einsteiger angepasst. Es ist eine einfache eingängige Steuerung. Das heisst, wenn ich jemanden ansprechen will oder einen Gegenstand aufheben und so weiter, so gibt es eigentlich immer nur eine sinnvolle Aktion. Der Gegenstand der in meinem Focus ist, ist Gegenstand der Interaktion. Beim Kampf ist es abhängig vom Können des Helden. Da der Held aber unbedarft beginnt und sich langsam zum Kämpfer entwickelt, kann der Spieler auch langsam dazulernen. Dazu kommt, dass es unterschiedlich starke Gegner gibt. Wenn ich nicht so gut im Kämpfen bin, kann ich es auch mit Magie lösen oder umgehen. Dadurch sucht sich jeder aus wie 'Fingerfertig' er sich findet.
+
+Gamesweb:
+Das klingt, als habt ihr kein Level-bezogenes Erfahrungssystem, sondern ein echtes Erlernen neuer Fähigkeiten, quasi 'learning by doing', so dass der Charakter sich der Spielweise entsprechend weiterentwickelt.
+
+Torsten:
+Nein der Charakter passt sich den Entscheidungen des Spielers an. Ich kann zuerst mit dem Kampf beginnen, das heisst, ich lerne erst das Einhandschwert und danach aber den Feuerball. Danach kann ich mich auf einen PSI-Spruch stürzen und den bis auf die 3. Stufe lernen. Dann brauche ich vielleicht noch eine Diebesfertigkeit. Dass heisst ich entscheide und der Held 'verformt' sich dem entsprechend.
+
+Gamesweb:
+Wie geht das vor sich? Werden dort ebenso wie in anderen RPGs Skill-Punkte oder so etwas vergeben?
+
+Torsten:
+Es gibt keine Skill-Punkte, sondern ist abhängig von den Missionen. Wenn ich für einen Magier etwas erledige, so wird er mir vorher vielleicht angeboten haben, mir einen Spruch beizubringen, den ich dann lerne. Da wir nicht nach gut und böse entscheiden und man einen Auftrag so oder so erfüllen kann, kommt es nur auf erledigt oder nicht an.
+
+Gamesweb:
+Und ein Kämpfer lernt dafür, wie ich mit dem Schwert umzugehen habe?
+
+Torsten:
+Der Kämpfer wird mir das Schwert, die Axt, den Bogen und so weiter beibringen können.
+
+Gamesweb:
+Man lernt also quasi alles von den Mithäftlingen, indem man Jobs erledigt und die Ausbildung als Belohnung bekommt?
+
+Torsten:
+Ja, und man spielt keinen reinen Kämpfer, zumindest nur wenn man sich dann dafür entscheidet.
+
+Gamesweb:
+Wie viele Missionen gibt es? Bei zu starker Eingrenzung würden sich die Charaktere ja jedes mal gleich entwickeln.
+
+Torsten:
+Nein, das wird nicht passieren, da ich bei einer anders erfüllten Mission schon wieder andere Freunde und Feinde haben werden und selbst bei gleichen Missionen kann es sein, dass ich einmal beim Töten oder Stehlen erwischt wurde, und beim nächsten mal nicht. Also werde ich andere Freunde haben und andere Aufträge.
+
+Gamesweb:
+Die Vorgehensweise zur Erfüllung der Missionen spielt also auch hier wieder eine Rolle, ebenso wie bei dem Verhalten der NPCs?
+
+Torsten:
+Genau, danach entscheiden die NPCs ja.
+
+Gamesweb:
+Das gibt wieder lange Nächte für einen alten Rollenspieler wie mich. Ist 'Gothic' ein reines Einzelspielerspiel? Das Setting und die KI schreien ja gerade zu nach Mehrspieler-Modus, wo die Spieler Rollen in der Spielwelt übernehmen.
+
+Torsten:
+Es ist ein reines Singleplayer-Spiel, da wir uns für Story oder Multiplayer entscheiden mussten. Aber was noch nachgeschoben wird, werden wohl die Verkaufszahlen beeinflussen (kein offizielles Statement). Aber eine ganze Diskussion wurde darüber auf 'World of Gothic' geführt.
+
+Gamesweb:
+Da ihr jetzt noch so ungefähr 2 Monate habt... seid ihr dann alle arbeitslos, oder ist schon ein neues Projekt in Planung? Oder hofft ihr, mit 'Gothic' so reich zu werden, um nicht mehr arbeiten zu müssen?
+
+Torsten:
+Reich, reich, REICH... Nein wir haben feste Arbeitsverträge, aber lassen wir erst einmal 'Gothic' erscheinen, bevor wir darüber spekulieren.
+
+Gamesweb:
+Noch eine Frage zur Steuerung... wie wird der Charakter bewegt?
+
+Torsten:
+Mit der Tastatur, ist aber frei belegbar und Joystick ist auch drin. Ist auf den Cursortasten und dann gibt es noch 'Strg', 'Shift' und 'Alt'. Auf der Messe hatten wir einen Promotor, der hat ungefähr 10 Minuten gebraucht, um alles einschliesslich Kampf perfekt zu können. Die Windows-Taste ist disabled und auch die Steuerung ist ja frei definierbar.
+
+Gamesweb:
+Ist die englische Version ebenfalls in der Mache und wann soll sie erscheinen?
+
+Torsten:
+Die Versionen werden parallel entwickelt, da wir ein Tool haben, das es uns erlaubt, beides parallel einzugeben.
+
+Gamesweb:
+Übernimmt Egmont Interactive auch den Vertrieb im Ausland?
+
+Torsten:
+Der Vertrieb ist bisher so, dass Egmont die Rechte für Deutschland und ein paar EU-Länder hat. Der Rest ist mir nicht bekannt, da ich mich nicht vorwiegend mit Vertrieb auseinandersetze.
+
+Gamesweb:
+Kannst du mir noch etwas zu den Systemanforderungen und den Grafik-Features der Engine sagen?
+
+Torsten:
+Die Grafik wird alles unterstützen, was die GeForce und DirectX7 unter Direct3D so hergeben. Daher braucht man mindestens eine TNT-Karte und einen Pentium 400 mit 128 MB Speicher, das liegt in der Natur der KI.
+
+Gamesweb:
+Seid ihr alle passionierte Rollenspieler? Welches Spiel hat dich persönlich am meisten geprägt?
+
+Torsten:
+Ja, sind wir. Ich habe es immer gehasst viele Würfel zu brauchen, so wie 'Das schwarze Auge' und 'Shadowrun'. Ich habe D&D und AD&D mit wirklich guten Spielleitern gespielt, wo die Story und der Hintergrund das Beste waren. Andere Spiele Runden habe ich immer sofort drangegeben, wenn nur dumm getötet wurde. Dann habe ich noch 'Call of Cthulu' gespielt und auch dort einen spontanen und guten Spielleiter erwischt. Aber bei mir ist es auch abhängig davon, dass ich keine Lust mehr habe mich mit weniger zufrieden zu geben. Daher habe ich auch ausser 'Deus Ex' kaum etwas wirklich lange gespielt.
+
+Gamesweb:
+Wir bedanken uns für dieses Interview.

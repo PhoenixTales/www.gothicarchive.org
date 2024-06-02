@@ -1,0 +1,124 @@
+<html>
+<head>
+<title>Gothic - The Game - Story und Ziel</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../static/style.css">
+</head>
+<script language="JavaScript">
+<!--
+
+/* ---------------dhtml/Browser-Notation-----------*/
+
+  if (document.all)
+  {
+    ebene="document.all.";
+    stil=".style."
+  }
+  else
+  {
+    ebene="document.layers.";
+    stil="."
+  }
+
+/* ---------------Bewegt die Textebene-----------*/
+
+  var startPosTBM=0,schicht=0,eMov=-6
+
+
+  function moveUpM()
+  {
+    eval(ebene+'rahmen'+stil+'top=startPosTBM');
+
+    if(startPosTBM > -350)
+      startPosTBM += eMov;
+
+    timer1=setTimeout("moveUpM()",70);
+  }
+
+
+
+  function moveDownM()
+  {
+    eval(ebene+'rahmen'+stil+'top=startPosTBM');
+
+    if(startPosTBM < 10)
+      startPosTBM -= eMov;
+
+    timer1=setTimeout("moveDownM()",70);
+  }
+
+
+
+  function sprung(punkt,weite)
+  {
+    eval(ebene+'rahmen'+stil+'top=punkt');
+    startPosTBM=weite;
+  }
+
+//-->
+</script>
+<body background="../../static/images/bg/bg_1.jpg">
+<div id="rahmen" style="position:absolute; width:300px; height:400px; z-index:1; left: 110px; top: 0px"> 
+  <table width="300" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td class="headline">Story</td>
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td><span class="headline">E</span>s herrscht Krieg im K�nigreich der Menschen. 
+        Von Norden her fallen Scharen von Orks in das Land ein. Um die Kampfkraft 
+        der k�niglichen Armee zu erhalten, sind die Schmiede des Reiches unentwegt 
+        damit besch�ftigt, neue Waffen anzufertigen. Diejenigen, die in dieser 
+        Zeit das Gesetz brechen, trifft ein hartes Los: Sie werden zur Zwangsarbeit 
+        in der Strafkolonie verurteilt, wo sie tief aus der Erde das ERZ f�rdern, 
+        das f�r die Herstellung der Waffen ben�tigt wird.<br>
+        <span class="headline"> I</span>n der gesamten <a href="strafkolonie.htm" id="linkohne">Strafkolonie</a> 
+        gibt es keine Wachen, und es werden auch keine gebraucht: Das gesamte 
+        Gebiet um die Minen ist von einer magischen Barriere umschlossen; einer 
+        Sph�re von tausend Meter Durchmesser, die das Gef�ngnis wie eine Kuppel 
+        �berspannt und sich tief unter der Erde zu einer Kugel vollendet. Von 
+        au�en kann die Barriere problemlos passiert werden; aber kein lebendiges 
+        Wesen kann aus ihr entkommen. Lediglich tote Gegenst�nde k�nnen die Barriere 
+        von innen durchdringen. So haben die Gefangenen einmal im Monat Gelegenheit, 
+        das kostbare ERZ an die Au�enwelt abzugeben. Zum Tausch daf�r bekommen 
+        sie lebensnotwendige Nahrung, Medizin, aber auch wenige kleine Kostbarkeiten, 
+        die ihnen das harte Leben annehmlicher machen.<br>
+        <span class="headline"> I</span>m Knast herrscht eine harte Rangordnung. 
+        Nur den M�chtigsten unter den Gefangenen ist es vorbehalten, die kostbaren 
+        G�ter zu empfangen und nach eigenem Ermessen unter den Schw�cheren zu 
+        verteilen. Die Starken nehmen sich den L�wenanteil und leben in Dekadenz, 
+        w�hrend die Schwachen gezwungen sind, f�r ihren mickrigen Anteil Tag f�r 
+        Tag in den Minen zu schuften.</td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td class="headline">Ziel</td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td>Ziel ist es, eine M�glichkeit zu finden, die Strafkolonie doch lebendig 
+        verlassen zu k�nnen - wenn es diese M�glichkeit denn gibt...<br>
+        <br>
+        Dem Spieler bleibt es vorbehalten zu entscheiden, ob er seinen Helden 
+        vorrangig zum <a href="../screenshots/index_offen.htm" id="linkohne">Krieger, 
+        Dieb, Zauberer oder Psioniker</a> ausbilden m�chte. So entstehen variable 
+        Spielm�glichkeiten.</td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+</div>
+<div id="hoch" style="position:absolute; width:50px; height:49px; z-index:2; left: 430px; top: 360px"><a href="#" onmouseover="moveDownM();" onmouseout="clearTimeout(timer1);" ondblclick="sprung(100,0)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_hoch.gif" width="40" height="40" border="0"></a></div>
+<div id="runter" style="position:absolute; left:430px; top:417px; width:50px; height:49px; z-index:3"><a href="#" onMouseOver="moveUpM();" onMouseOut="clearTimeout(timer1)" onDblClick="sprung(-350,-350)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_runter.gif" width="40" height="40" border="0"></a></div>
+<div id="hauptmenue" style="position:absolute; width:126px; height:23px; z-index:1; left: 610px; top: 530px; visibility: visible"><a href="../../start.htm"><img src="{{ mediaLinkBase }}/../../static/images/haupt.gif" width="126" height="23" border="0"></a></div>
+</body>
+</html>

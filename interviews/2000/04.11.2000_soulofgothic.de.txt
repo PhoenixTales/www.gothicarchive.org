@@ -1,0 +1,73 @@
+SoulofGothic.de 11/2000
+
+
+Interview mit Torsten von Piranha Bytes (4.11.2000)
+
+Torsten hat sich mir per eMail einem Interview gestellt, was so kurz vor dem Release der Demo und natürlich des Spiels nicht selbstverständlich ist. Darum vielen Dank an Torsten von Piranha Bytes!
+
+Soul of Gothic:
+Also: Wie seit ihr eigentlich darauf gekommen, Gothic zu entwickeln?
+Torsten:
+Es sollte etwas her was die ganzen Sachen, die wir bei anderen Spielen bemängelt hatten, besser macht. Und da ist der Traum von Mike Hoge umgesetzt worden. Gothic
+Soul of Gothic:
+Was zeichnet eure Engine für Gothic aus?
+Torsten:
+Es ist eine extrem hohe Sichtweite möglich. Wir können alles relativ organisch darstellen, da wir in MAX und Lightwave modellieren können. Diese Daten können dann in unsere Engine eingebracht werden. Wir sind also nicht auf die Modelling - Tools anderer Engines angewiesen. Wir haben die Möglichkeit, extrem schnell die Engine für die AI anzupassen, wenn dies im weiteren Verlauf des Projekts nötig ist.
+Soul of Gothic:
+Es wurde berichtet, dass Gothic momentan noch sehr schnelle Systeme benötigt, um flüssig gespielt werden zu können... wie wird das bei Spielrelease aussehen?
+Torsten:
+Man braucht einen Pentium 400 und 128 MB Speicher. Die Grafikkarte sollte über 16 MB Speicher verfügen, dann ist man auf der sicheren Seite.
+Soul of Gothic:
+Was wird uns die Demo bieten, die Anfangs November erscheint? Auf was für Systemen wird sie flüssig spielbar sein?
+Torsten:
+So wie es aussieht wird man das erste Kapitel im Alten Lager durchspielen können. Das ist aber erst zu sagen, wenn es soweit ist.
+Soul of Gothic:
+Auf der Werbung zu Gothic in den Spielemags ist der Film "Der 13. Krieger" erwähnt. Warum das?
+Torsten:
+Wir haben eine Abmachung mit dem 13. Krieger getroffen. Er wirbt für uns wo immer er auftritt und wir tun das Unsrige für ihn.
+Soul of Gothic:
+Zur Steuerung: Ihr habt einmal erwähnt, sogenannte "Positionierungshilfen" einzubauen. Was ist darunter genau zu verstehen? Wird die Steuerung frei konfigurierbar sein?
+Torsten:
+Die Steuerung ist sowohl über Tastatur als auch über Gamepad möglich. Die Tasten sind natürlich frei belegbar. Positionierungshilfen? Du meinst denke ich, dass es einen Focus gibt. Mit was oder wem immer Du interagieren willst, wird im Focus, d.h. mit einem Namen versehen sein, erscheinen. Wenn Du kämpfen willst, nimmst Du jemanden in den Focus, einfach in die Richtung schauen, und hast damit automatisch Deine Wahl getroffen. Willst Du etwas aufheben und es liegen 20 Gegenstände an einer Stelle, Du brauchst aber nur den Schlüssel, so kannst Du diesen mit der Focuswahl auswählen.
+Soul of Gothic:
+Kann ich aus der 3. Person wie in z.B. Ultima 9 in die 1. Person wechseln?
+Torsten:
+Nein, es gibt nur den 3. Person Modus.
+Soul of Gothic:
+Was Standartmoves wir mein Held beherrschen? Kann er mit der Zeit auch seine Geschwindigkeit, Stärke usw verbessern, bzw. erhöhen?
+Torsten:
+Genau. Die Standartmoves sind natürlich Bewegung und man kann ein Schwert benutzen, sollte sich davon aber noch keinen ausgefeilten Kampf erhoffen, dafür muss man dann doch erst etwas trainieren. Wenn ich mich als Held entschließe, die Fertigkeit Schwert zu trainieren und in einen höheren der 3 Level aufsteige, werde ich schneller, genauer und stärker zuschlagen. So funktioniert das natürlich auch mit dem Bogen, der Magie ...
+Wenn ich in einer Fertigkeit besser werde, kann ich das zugleich den Animationen entnehmen. Diese ändern sich entsprechend, werden feiner und flüssiger und schneller.
+Soul of Gothic:
+Wie kann ich die Fähigkeiten meines Helden verbessern?
+Torsten:
+Wenn ich Aufträge erfülle, dann werde ich etwas dafür angeboten bekommen. Häufig werde ich dafür das Erlernen von Fertigkeiten angeboten bekommen. Wenn ich also für einen Kämpfer einen Auftrag erfülle, bietet er mir eventuell an, meine Schwertfertigkeit zu verbessern. Habe ich 10 Auftrage zur Auswahl, kann ich mir aussuchen welche Aufträge ich annehme und welche ich lasse. Damit lege ich die Entwicklung meines Helden fest.
+Soul of Gothic:
+Hat mein Held ein Inventar wo ich Waffen und andere Dinge verstauen kann?
+Torsten:
+Ja. Das Inventar wird automatisch sortiert. Dass heisst, die besten Gegenstände nach oben und dann geordnet nach Waffen, Rüstung, Schlüssel, Magie ...
+Soul of Gothic:
+Wie komme ich zu neuen Waffen und Ausrüstungsgegenständen?
+Torsten:
+Ich kann natürlich eine Menge Ausrüstung finden, die alt und verrottet herumliegt und manchmal ist da auch was ausserordentlich Nützliches dabei. Wenn ich jemanden bestehle oder ich im Kampf jemanden besiege und mir dann nehme was mir zusteht. Dazu kommen noch Gegenstände, die ich von anderen für Missionen oder einfach so (na da wird doch ein Haken dran sein) bekomme.
+Soul of Gothic:
+Wie lange ist die geschätze Spieldauer von Gothic?
+Torsten:
+50 - 70 Stunden
+Soul of Gothic:
+Wird es eine Charaktergenerierung geben?
+Torsten:
+Es gibt keine. Jeder beginnt mit dem selben Charakter und kann dann im Verlauf des Spiels bestimmen was er werden will und was er können will. Dabei kann man z.B. zugleich das Schwert erlernen und dann noch 2 Zaubersprüche und später noch Diebesfertigkeiten.
+Soul of Gothic:
+Kann ich mich mit menschlichen Gegnern, Monstern anfreunden?
+Torsten:
+Immer. Aber sicher ist es nicht zu leicht einen Gegner als Freund zu gewinnen. Dafür will er
+bestimmt auch etwas sehen.
+Soul of Gothic:
+Werde ich immer alleine unterwegs sein?
+Torsten:
+Im Gothic Comic werden 4 Leute erwähnt. Das sind schon einmal 4 Freunde, denen man im Verlauf der Abenteuer begegnen kann. Diese reisen dann teilweise auch mal mit dem Helden. Dazu kommt, dass allgemein Freunde dazu neigen, dem Helden zu helfen.
+Soul of Gothic:
+Wird es im Spiel Zwischensequenzen geben?
+Torsten:
+Ja es wird Cutscenes und Rendersequenzen geben.

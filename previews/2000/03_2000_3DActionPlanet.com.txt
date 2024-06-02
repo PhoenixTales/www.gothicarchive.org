@@ -1,0 +1,43 @@
+3DActionPlanet.com 03/2000
+
+23.03.2000
+
+
+3DActionPlanet | First Looks | Gothic
+by: Bluto | March 23, 2000
+
+Developer: Piranah Bytes
+Publisher: Egmont Interactive
+Approximate Release Date: Summer 2000
+Similar to: Heretic 2
+
+
+From The Fatherland
+
+Somewhere deep in Germany among the beer distributers and Volkswagen manufacturers lies a building that houses an up-and-coming software company with the express purpose of putting out a 3D-realtime-action-fantasy-role-playing-game known as Gothic. With a game that seems to target every known game genre you would think that it was being produced by a large company with dozens and dozens of level designers, artists and sound engineers. That would be where you are wrong. Piranha Bytes finds itself in the unenviable task of putting together an all-genre-encompassing game, and the fact that Gothic will be their first release makes it no less impressive. The company has roughly only sixteen people, quite a few less around Oktoberfest, working almost around the clock to accomplish this goal. But make no mistake, they have hired the best game developers that Germany has to offer and are in the process of creating what could very well be a revolutionary game.
+
+Life Under The Dome
+
+In Gothic your homeland is caught in the middle of a costly war with the Orcs that are invading from the north. The rulers have had a magical dome erected over the mine that they use to create their weapons. The dome was created for two reasons; one, to protect their mines from the enemy, and two, to keep the slaves that are used in the mining of the ore in, and you find yourself falling under reason number two. As the player you start the game by finding youself on the wrong side of the dome and caught in the middle of a different but equally violent war. You had committed a crime and as a criminal there is only one punishment, a life of slavery under the dome in the mines. There is no way to escape from the dome and the only way out is that you have to be dead because no living matter can pass through the dome. However escape is not at the top of your list upon beginning the game, survival is, just as there is a war raging outside the dome there is also one brewing inside. You find that you must chose a side, and this is where character selection comes into play.
+
+Do You have Class?
+
+You will have four different character classes to select from: Warrior, Assassin, Magician and Psionic. The character class you chose will greatly affect how the game unfolds but you will be able to finish the game successfully with any class. The different classes all have their seperate weaknesses and strengths and as the player you will have to discover them as the game progreses. This also allows for a higher amount of replayability, as each class will travel through the game in a totally different way.
+
+Role Playing Action
+
+Gothic is played from a third person perspective similar to Heretic II or Tomb Raider. The game is primarily action based but will have a heavy dose of Role Playing thrown in for good measure. However, the number of menus and screens that you will have to traverse through to control and arm your character will be minimal relative to most RPG's. Also unlike most RPGs, advances in certain abilitites will be made apparent by your character's getting better as opposed to an increase in a number. For example, your character will begin the game swinging his sword like a lumberjack but as he gets better at wielding a sword you will visually see him becoming more proficient with the sword, you won't have to refer to a menu that shows a number increase in swordplay. The same applies for all of the other classes, you don't want to try casting a fireball spell before you are ready because the spell will most likely backfire with a tragic outcome. This system keeps the player from trying to do more than he/she is capable of doing as well as allowing for a noticable progression as the game progresses. Arming and Armoring yourself will be quick and easy and like many RPGs there will be an abundance of weapons, magic items, and other useful and sometimes not-so-useful items.
+
+Whats Under The Hood?
+
+The graphics of Gothic are one of the many things that really gives this game life. You will experience everything from a vibrant and very realistic looking countryside to pitch black caves that will have only well placed light sources to guide you through. As with most games that are released today, 3D acceleration will be required and there will Glide and Direct 3D support. Cutscenes will be used to propel the story but not to the point of hurting the integrity of the game. Sound will be a heavily used feature in Gothic, and all the latest forms of 3D imaging will be supported from EAX to DirectSound so you will be drawn into the game as it was meant to be played, seen and heard.
+
+Are You Friend or Foe?
+
+The non player characters have their own lives and will frequently greet you as a friend, foe or annoyance. If you kill a particular nasty monster or a sadistic leader, NPC's will often come to you expressing their graditude. They also will berate you if you pull a boneheaded stunt or do something that they didn't like. They will also react differently depending on if you confront them armed or not. Also the NPCs are out to better themselves as well so if you drop some gold or a weapon don't expect it to be laying there when you return.
+
+There's A Monster In My Game
+
+The monsters will be many and frequent, but they won't be easily dispatched. They have their own lives to lead as well so it will be a rarity that you will turn a corner and just find one standing there waiting for you to trigger him. You will run across them having conversations with each other or playing with their toes depending on their level of intelligence. The monsters in Gothic range in intelligence from very smart to down right stupid. But as with most monsters they just want your character dead even if they have to be sneaky or attack you enmass to do it. At present there has been no mention of multiplayer.
+
+Bluto 

@@ -1,0 +1,67 @@
+PC Player 02/2001
+
+06.02.2001
+
+
+Preview
+
+Die Machthaber in Piranhas Fantasy-Königreich spielen ihren Bürgern wirklich übel mit: Schon wegen kleinster Vergehen und selbst bei schierer Unschuld landen die armen Tröpfe im magisch gesicherten Gefängnis. Und warum das alles? Na, weil hier ein Zauber-Erz gefördert wird! Waffen aus diesem Material sind unzerbrechlich und außerordentlich scharf, sie zerschneiden selbst metallene Rüstungen mit Leichtigkeit. Klarer Fall, dass eine solchermaßen ausgerüstete Armee allen anderen weit überlegen ist  und damit der Nachschub nicht abreißt, haben die hiesigen Herrscher also ein Interesse an möglichst hohen Kriminalitätsraten, versteht sich.
+Die Sache mit der magischen Absicherung ist nun eine ganz verzwickte Sache. Um die Mine herum liegt eine bis tief in den Boden reichende arkane Kuppel, welche die Zeche von der Außenwelt abschneidet. Menschen (zum Beispiel so genannte »Verbrecher«) können zwar hinein, aber nicht hinaus. Nur totes Material  wie etwa das begehrte Erz  kann die Barriere von innen durchdringen ...
+
+Sie als Spieler verkörpern nun einen jener mehr oder weniger Unschuldigen, die zur Zwangsarbeit in der Grube verurteilt wurden. Einmal drinnen stellen Sie schnell fest, dass sich eine streng hierarchische Gesellschaft entwickelt hat: Lebensmittel kommen von außen herein, aber nur im Tausch gegen Erz. Wer nicht arbeitet, muss also sehen, woher er seine Brötchen bekommt. Zudem hat sich die unglückselige Einwohnerschaft in drei Fraktionen gespalten:
+Das Alte Lager hat sich mit den Verhältnissen arrangiert, das Neue Lager sucht nach Möglichkeiten des Entkommens, und der Tempel meint, dass die Welt ohnehin nächsten Freitag untergeht  hat sich aber mit dem Neuen Lager verbündet, so dass in etwa ein Gleichgewicht der Kräfte herrscht.
+Was nun folgt, liegt bei Ihnen: Als Solist werden Sie hier wenig Chancen haben, also sollten Sie sich einer der Parteien anschließen. Je nachdem, für welche Sie sich entscheiden, werden Ihnen daraufhin andere Aufgaben und Rätsel bevorstehen  allerdings mit einer Einschränkung. Das Spiel ist nämlich ähnlich wie »Baldurs Gate 2« in Kapitel unterteilt. Um etwa vom zweiten ins dritte Kapitel zu gelangen, müssen Sie ungeachtet Ihrer Gruppenzugehörigkeit einen bestimmten Job erledigen. An diesen Übergängen wachsen die verzweigten Handlungsbäume der Geschichte also immer wieder zusammen. Generell gilt übrigens mehr denn irgendwo sonst der Rat, alles mitzunehmen, was nicht festgewachsen ist. Medizinische Pflanzen sowie Steaks und andere Teile von erlegten Monstern lassen sich überall gegen Erz eintauschen, welches hier das universelle Zahlungsmittel darstellt. Und wenn Sie genug Talentpunkte erhalten haben und ein Level aufgestiegen sind, können Sie zu den diversen Lehrern der Gefangenengemeinschaft gehen und sich fortbilden lassen. Abhängig von der anfänglichen Charakterwahl dürfen Sie Zauber-Runen lernen, die in mehrere Schulen unterteilt sind. Falls Sie einen reinen Krieger vorziehen, bleiben Sie in dieser Hinsicht jedoch auf Spruchrollen angewiesen, die leider nur einmal verwendbar sind. Davon abgesehen stehen noch Hilfsmittel wie magische Amulette, Geländekarten oder die Save-Option zur Verfügung, und in besonders schwierigen Situationen wird sich Ihnen auch schon mal der eine oder andere Mithäftling anschließen  allerdings nicht als Partymitglied, sondern als computergesteuerter NPC.
+Grafik und Animationen gefallen gar nicht schlecht, insbesondere die Texturen verraten viel Liebe zum Detail. Die Sichtweite ist einstellbar  in den Höhlen hängt viel davon ab, wie weit Sie blicken können, bevor alles im Dunkel verschwimmt, an der Oberfläche ist stattdessen Nebel der Sichtbegrenzer. Erfreulich allerdings, dass Objekte normalerweise nicht en bloc aus dem Dunst herauspoppen, sondern stufenlos in ihm verschwimmen. Bäume und Sträucher werden ähnlich wie bei »Everquest« durch sich kreuzende Textur-Schichten dargestellt, was vor allem aus einer gewissen Entfernung sehr realistisch aussieht. Bei Nahbetrachtung freilich geht dieser Effekt verloren.
+Recht spektakulär ist der Tag/Nacht-Zyklus geraten. Das Licht dunkelt mit der Zeit zu einem violetten Dämmern herab, am Himmel erscheinen Mond und Sterne, manchmal huscht auch ein Komet durchs Blickfeld.
+Kein Wunder also, dass Gothic auf jeden Fall eine 3D-Karte mit 16 MB RAM voraussetzt. Die Waffen Ihres Abenteurers und alle Arten von Rüstungen sind natürlich sichtbar, zudem kämpft der Mann in dem Maße besser und eleganter, wie sich seine Schwertfähigkeiten verbessern. Dabei steuern Sie den Burschen rein mit der Tastatur, was generell nicht unproblematisch ist. Piranha hat die Aufgabe aber mit einer konsequent durchgezogenen Bedienungsmethode, an die man sich gewöhnen kann, recht gut gelöst. Ein paar trotzdem noch auffällige Schwächen des Systems (etwa im Tausch-Bildschirm oder beim Kampf) sind derzeit Gegenstand von Überlegungen beziehungsweise werden definitiv noch geändert.
+Apropos Kampf: Eine Besonderheit von Gothic ist, dass Sie Ihre Gegner nicht töten müssen. Zunächst schlagen Sie Feinde nur bewusstlos und können sie dann auch ausrauben. Blöd ist nur, dass der Niedergeschlagene sich mit der Zeit erholt und Ihnen anschließend bestimmt keine netten Weihnachtsgeschenke mehr macht. Ein Tötungsschlag kann also je nach Lage durchaus angebracht sein, muss aber extra ausgeführt werden. Andersherum wird ebenfalls ein Schuh daraus: Zumindest die menschlichen NPCs werden Ihnen auch nicht unbedingt den Garaus machen, was wiederum Ihren Etat für Geschenke schont. Von Orks, Trollen oder den fiesen Mine-Crawlern ist allerdings keine Gnade zu erwarten.
+Übrigens dürfte Gothic eines der wenigen Spiele werden, bei denen Klagen über die Gegner- KI unangebracht sind. Wer mal miterlebt hat, mit welcher Raffinesse etwa die flinken Gobbos immer versuchen, von hinten anzugreifen und dabei aus der Nahkampf-Reichweite gleich wieder herauszuhüpfen, mit welcher Sturheit flüchtende Abenteurer verfolgt werden oder mit welcher Vehemenz untereinander verfeindete Monster-Spezies sich auch gegenseitig bekämpfen, der wird mir zustimmen: Bei Gothic sind die Ungeheuer nicht nur wegen ihrer puren Stärke gefährlich! (jn)
+
+Spielefakten:
+
+Hersteller: Piranha Bytes/Egmont Interactive
+Genre: Action-Rollenspiel
+Termin: 1. Quartal 2001
+Internet: www.piranha-bytes.de
+Besonderheiten: Tag/Nacht-Zyklus
+Ziemlich clevere Gegner
+Eher nichtlineare Story Reine Tasta-tursteuerung
+Automatische Nutzung vorhandener Hardware
+
+
+»Klagen über die KI der Gegner sind bei Gothic eher unangebracht.« PREVIEW
+
+
+
+DIE GOTHIC-MONSTERPARADE!
+
+[IMG]
+Dämonen haben einen 
+paralysierenden Atem, 
+der zudem Ihren Hel-
+den in Flammen auf-
+gehen lässt. 
+
+[IMG]
+Die Crawler-Königin ist die Mutter aller ande-
+ren Crawler, die übrigens ihr eigenes Tunnel-
+system haben. Sie ist ziemlich kräftig und 
+eigentlich kaum zu besiegen.
+
+[IMG]
+Auch die Feuerwarane haben einen feurigen 
+Odem, gegen den man sich jedoch mit der richti-
+gen Rüstung oder einem Amulett schützen kann. 
+Hauptsächlich trifft man sie an Steilklippen und 
+feuchten Umgebungen.
+
+[IMG]
+Nun ja, 
+kein eigentli-
+ches Monster. Diese Frau 
+muss an geselligen Abe-
+nden tanzen und, äh, auch 
+andere Dinge tun.
+
+
+

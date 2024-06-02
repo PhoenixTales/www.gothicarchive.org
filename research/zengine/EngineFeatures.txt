@@ -1,0 +1,278 @@
+﻿Engine Features
+
+last updated: September 28,1999
+
+Key features
+
+    Powerful character system
+    Advanced facial animation
+    Complete effects system
+    Indoor/outdoor
+    Day/night transitions
+    Level of detail
+    Cutscene player
+    Camera system
+    Editor
+    Engine flexibility, extensibility, portability
+    Proven technology
+
+
+
+Character System
+
+    Hierarchical skeletal animation system, arbitrary arrangements possible (humans, dogs, vehicles, man eating sofas..., anything).
+    Seamless soft-skin polygonal characters with vertex weighting and skeletal deformation.
+    Hierarchies can be single-skinned, segmented or mixed.
+    Very flexibel layered animation system: just start an animation any time and the system handles blends, transitions and layering of the animations.
+    Animations can affect arbitrary parts of the hierachy (whole body, left arm only, head only, etc.)
+    The Animation System interpolates between keyframes of one and the same animation for perfectly fluid animation at high frame rates. An animation recorded at 10 fps can be played back at 50 fps perfectly smoothly.
+    Automatic smooth blending between different parallel animations on one character.
+    An arbitrary number of animations can be played within the same character at the same time (at different speeds, possibly reverse): e.g. walk, draw weapon, look left, all at the same time.
+    Animations don't need much memory.
+    Sharing of animations, meshes and textures across different characters.
+    Animations, meshes and textures are loaded on demand, when they are needed first.
+    Textures on characters can be replaced by armor, cloth, face, hair etc. variations.
+    Unlimited amount of materials and textures for characters.
+    Parts of hierarchy can be procedurally controlled and blend seamlessly with other animations.
+    Pseudo IK: animations can be procedurally combined to produce new animations. This enables characters to reach smoothly for points in space, or to hit enemies with a sword, regardless of how tall they are.
+    Automatic continuos level of detail in real-time.
+    Automatic visibility culling for optimal performance.
+    Tools to support character and animation authoring for 3D Studio Max and Character Studio.
+    Parts of characters can easily be attached and detached. The character stays animated with or without the part (dismemberment etc.).
+    Other objects (characters, 3D models, effects etc.) can be easily attached and detached from any position in a character.
+    Random animations with different probabilities can be attached to any animation.
+    Powerful animation overlay system, for example: Create a default set of animations for humans, defining all that humans can do. Then create several small overlay animation sets that replace parts of the default animation set, for example "drunk", "wounded", "insane", different attitudes etc. Now each human in the game is assigned to the default set and an arbitrary number of overlay sets, animating each character in a unique way.
+    Effects, sounds, events and other data can easily be attached to any animation/animation frame/bone.
+    Characters are scalable (non-uniform).
+    Advanced facial animation (see there).
+
+
+
+Advanced facial animation
+
+    Advanced facial animation via morph meshes.
+    Blending of animations to create unique animations and emotions without additional animations being made by the animator.
+    Facial animations are mixed, blended and prioritized in real-time.
+    Facial animations can affect arbitrary parts of the face (whole face, mouth only, eyebrows only etc.).
+    Weighted playing of animations, for example: a smile animation played at 40% appears less intense.
+    Any number of animations can be played simultaneously, for example eye-blink, smile, talk.
+    The head can be deformed by "animations" into completely different shapes (different head shape, cube, stair etc.). Playing normal animations like eye-blink, smile, talk still works on the deformed head.
+
+
+
+Effects
+
+    Lense flares.
+    Coronas.
+    Billboards/Decals (with or without camera alignment).
+    Mesh morphing.
+    Polystrip system for weapon trails, particle trails, laser beams, lightning effects and limitless other special effects.
+    Quadmark system for applying dirt, cracks, blood spatters, footprints etc. to surfaces.
+    Very powerful particle effects system.
+        Realtime WYSIWYG editor.
+        Fully data driven: behavior controlled by over 50 parameters.
+        Particles can have visible trails and can bounce and leave marks when they collide.
+    Controllable translucency, which enables any visual (3d models, effects) to appear transparent or fade out smoothly.
+
+
+
+Day/Night transitions,
+
+    Outdoor environment utilizes a fully 3D sky system.
+    Multiple parallaxing objects (skybox, sky polygon layers) to visualize sky, clouds, stars etc.
+    Sun, moon etc. rise and descent, moon in different phases.
+    Lighting of world and objects according to time of day.
+    Cloudshadows.
+    Absolute smooth transitions between day and night.
+    The appearance of a day or a night is controlled by several parameters, that are interpolated over time and can be different from day to day.
+    Ambient effects: shooting stars at night, birds in the sky.
+
+
+
+Textures
+
+    Advanced texture caching and downloading management to make more textures possible than the available hardware texture memory allows.
+    Automatic texture scalability: each 3D card is utilized to the maximum extent (regarding texture resolution, color depth and compression). On better systems the textures automatically look better.
+    Texture MipMaps.
+    Texture Level of Detail for improved framerates: only needed MipMap levels are kept in the 3D card's memory.
+    Texture compression.
+    Supported texture color depths are 8,16,24,and 32 bits per pixel (optional alpha channels).
+    Texture dimensions only limited by 3D acceleration hardware.
+    Alpha blending in any mode (normal, additive, modulate, modulate 2x, etc.).
+    Animated textures: multi-frame textures support cycling to produce the illusion of motion for special effects such as fire, smoke, etc.
+    Texture UV coordinate animation (water, lava, effects etc.).
+    On-the-fly color conversion, MipMap and palette creation.
+
+
+
+3D Drivers
+
+    3D hardware accelerator required: no compromises made to support legacy software renderers.
+    Renders to 16/24/32 bit framebuffers (depends on 3D hardware).
+    Hardware is automatically utilized as much as possible: scenes look better on better hardware.
+    Hardware abstraction layer.
+    Direct3D.
+    Glide.
+
+
+
+Renderengine
+
+    Engine handles indoor scenes with the same ease as outdoor scenes.
+    Smooth transitions between indoor and outdoor.
+    Able to render varied scenes from outdoor vehicle simulations to interior first/third person action games.
+    Automatic level of detail for static world geometry.
+    Efficient visibility and frustum culling.
+    Impostor portals.
+    Very far viewing ranges in outdoor scenes by combination of techniques: LOD, visibility culling, impostor portals, texture LOD.
+    Resources (textures, meshes, sounds, animations) are loaded on demand, when they are needed first.
+    Volumetric fog.
+    Powerful morph mesh animation system.
+    "curved surfaces" by heavy tessellation, level of detail and smooth shading.
+    Scenes and levels of arbitrary complexity are supported; the only limiting factor is the system's memory and speed.
+
+
+
+Lighting
+
+    Static and dynamic multicolored lightsources.
+    Dynamic lightsources can have animated ranges and colors (e.g. flickering torches).
+    Static lighting calculated with raytracing/radiosity.
+    Internal lighting calculations 24bit.
+    Static lighting with lightmaps or vertex lighting.
+    Dynamic lighting with dynamic lightmaps or vertex lighting.
+    Smooth shading of adjacent polygons with both lightmapping and vertex lighting.
+    Materials define lighting properties.
+
+
+
+Physics
+
+    Rigid body physics simulation.
+    Collision detection on cylinders, AABBs, OBB trees or at polygon level.
+
+
+
+Cutscene
+
+    The CS-system can send timed sequences of messages to any object, including cameras and ambient effect-controller.
+    It can react to a player's actions or take over a player's camera, so a player's action can interrupt the cutscene and it can be resumed after handling the interruption.
+    The system can react to and synchronize changed conditions in real-time. If you start an action with unknown running time on an actor all following actions are synchronized.
+    The system architecture allows flexible message extension by object orientation.
+    Logical properties can decide whether to start a cutscene or not, to interrupt and resume again. These conditions can also be expanded. You can implement a complex formula describing the reaction of the cutscene, like what to do if the player turns away, or is not visible in the cutscene.
+    The system provides easy localisation. The system automatically adapts to different speech wave file lengths, so cutscenes don't have to be edited again, if the language changes.
+    Cutscenes are authored once and can be played back dynamically at any location.
+    A cutscene is not an interactive video which can be seen by only one player in a multiplayer game. You can create a scene with a dozens of bugs performing a complex dance, watched from every player from another direction.
+    Create keyframe based camera paths for dramatic effects (see: camera system).
+
+
+
+Camera System
+
+Camera in-game.
+
+    No compromise in-game camera artificial intelligence, 3rd person and 1st person style.
+    Many situation dependent modes, completely data/script driven, real-time tuning and editing.
+    Dynamically focuses the objects the player can see and incorporates to possible threats to the player.
+    Adapts to the different character types.
+
+
+Cutscene camera.
+
+    Spline interpolated keyframe based system with different motion types per keyframe.
+    Cutscene presets can be saved as 'takes' which then can be applied to any character or object.
+    Automatically adapts to the surrounding scene, giving best results under cinematographic rules.
+    Automatically adapts to given time conditions (see also: cutscenes).
+    Smooth transitions to and from in-game camera.
+
+
+
+Sound
+
+    Current implementation of the hardware abstraction layer uses the miles sound system from radgametools.
+    Uses full power of hardware acceleration.
+    Per sample configuration via scripts possible. Sounds can be grouped into channels and random variations can be played automatically.
+    Intelligent sound resource handling: waves are cached out if not being used, least used sounds are discarded if more sounds are played simultaneously than the hardware can play.
+    Transparent handling of streamed samples: sounds are streamed automatically if the size passes a limit.
+    Transparent use of ADPCM or MP3 compressed sounds.
+    Support of the latest 3d APIs (DirectSound, EAX, Aureal, Dolby Surround, etc.), including distance attenuation, Doppler effects, etc. 3d providers can be switched on the fly, new providers can be added without further work.
+    Realistic global environment reverb settings with per sample scale factor.
+    Damping/filtering effects for occluded sounds.
+
+
+
+Music
+
+    Current implementation of the hardware abstraction layer uses direct music from Microsoft.
+    Completely dynamic and game event driven.
+    Themes can change location
+    or situation-wise while using script defined transitions.
+    Transitions can be synchronized to beat or measure boundaries to support smooth game ambience changes without noticeable breaks or volume slides.
+    Instruments are loaded only if they are needed and deleted from memory automatically.
+    Sound jingles can be played synchronically with the music in order to react to user actions.
+
+
+
+Script Language "Daedalus"
+
+    Fast and easy-to-use scripting language, based on C syntax.
+    Simple creation of new script-based objects.
+    Highly extensible, define your own external functions that can be called from scripts and are implemented in C++ for fast execution.
+
+
+
+Debug-Console
+
+    Integrated console for debugging, testing and tuning.
+    Edit variables and script objects while the game is running and save them back into the script files.
+    Allows to define new specific console commands for your own needs.
+
+
+
+UI Menus
+
+    Completely data/script driven layout.
+    Can be used simultaneously with any static or real-time rendered background scenes.
+    Effects can be attached to any menu item.
+
+
+
+Framework
+
+    Multiple worlds can be loaded and switched between.
+    Multiple rendered scenes from different cameras can be mixed in a single frame.
+    Resource importing: currently 3DS-MAX, 3DS, TGA, PCX, easily extendible.
+    Virtual disk file system: resources are compressed and kept in large files for faster loading times and less required memory on hard disk.
+    Triangles and convex n-vertex polygons.
+    Object and polygon picking.
+    Fast ray and volume intersection queries on geometry.
+    Fast and extensive math and support libraries for vectors, matrices, quaternion, etc.
+    Flexible 2D windowing support for fast creation of user-interfaces, statistical screens and menus (moving, scaling, transparency, etc.).
+    Types of input devices supported: keyboard, mouse, joystick, force-feedback joystick, gamepad.
+
+
+
+Architecture
+
+    Flexibility, extensibility, portability.
+    Well designed, clean and extensible architecture.
+    Highly modular.
+    Object-oriented.
+    Strict and clean segregation between engine, game and editor layers.
+    Modularization of platform specific code makes the engine fairly portable.
+    Engine built on highly modular, object-oriented foundation, designed to evolve through generations of technological advances.
+    Advanced property system exposes the properties of any object to the user for convenient editing in the editor.
+    Intelligent object management keeps objects from running when they don't need to.
+    Robust, clean and extendible event messaging system for inter-game object communication, network and cutscenes.
+
+
+
+Editor "Spacer"
+
+    The Spacer is a full real-time editing, what-you-see-is-what-you-get, world design tool.
+    It supports workflow optimization by editor configuration and object-preset-management. You can configure a window for your own class of object, derived from a base class and manage presets, insert objects and edit properties.
+    Partial world-construction with makefiles (several team members can work separately on one huge world).
+    Object-UV-texturing with advanced texture-management and texture browser, teamwork is reality and not an obstacle.
+    A full graphical cutscene-editor, with camera movement and preview, is integrated. You can place messages like objects on a timebar, construct camera movement like any other object construction and start the action with one click, following the scene in the game-window and the timebar at the same time.
+    Integrated localization tool with resource-management. You can extract scripts from all your speech text and wave file resources, to give them to translation offices or recording studios, and re-import the result.
+    Geometry is imported from professional 3D packages and not created within the tool.

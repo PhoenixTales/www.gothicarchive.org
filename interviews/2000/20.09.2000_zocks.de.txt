@@ -1,0 +1,194 @@
+zocks.de 09/2000
+
+20.09.2000
+
+Gothic
+Interview mit Leveldesigner Horst Dworczak
+
+Horst Dworczak, Leveldesigner / 3-D Artist bei Piranha-Bytes steht im folgenden Emailinterview Rede und Antwort über das 3-D Action Rollenspiel Gothic. Zusätzliches Zuckerl: exklusive Screenshots.
+
+
+ZOCKS:
+Würdest Du unseren Lesern kurz beschreiben, was "Gothic" ist?
+Horst:
+OK. Gothic ist eine Mischung aus altbekannten Rollenspielelementen, worauf vor allem unsere Spieltiefe aufsetzt und Actionelementen, wie z.b. ein actionlastiger Kampf! Die NPCs (Non Player Characters) werden den Spieler nicht mit ellenlangen Dialogen zu Tode quatschen, aber dennoch viel Informationen und Story an den Spieler bringen. Auf Jump 'n Run Elemente wie bei Tombraider haben wir verzichtet, also kein Plattform zu Plattform Gespringe, da wir selbst keine großen Fans davon sind! Mit Gothic versuchen wir, das Thema Rollenspiel zu entschärfen... etwas von den totalen Cracks weg zu kommen und auch "Anfängern" die Möglichkeit zu bieten, in den Genuß von Spieltiefe zu kommen ohne 30.000 Charakterwerte und Tabellen und...und....verwalten zu müssen.
+ZOCKS:
+Hat das Spiel explizit was mit dem "Gotischen" zu tun? Ich denke da an Quellen wie den englischen oder amerkianischen Schauerroman oder die Epoche der Romantik in der Literatur: Edgar Allen Poe, Howard Phillips Lovecraft, Orwell; auch Comics wie Batman, der ja in GOTHAM CITY wohnt; oder Grufties und ihr Lebensgefühl (ich mein' das ernst): oder das Gotische der Architektur; oder den Film "Gothic" (Lord Byron und Mary Shelly, die Frankensteinautorin fressen Drogen und erzählen Geschichten); oder das finstere Mittelalter und die entsprechende Atmosphäre; oder Live-Rollenspiele möglicherweise? Oder habe ich mich da zu sehr verrannt? Gibt es einen ausdrücklichen Bezug zum Gotischen? Es muss einen geben. Der Name kommt sicher nicht von ungefähr?
+Horst:
+Mhh, um ehrlich zu sein, hat das mal ein Programmierer in den Anfängen in den Raum geworfen und es wurde als gut befunden :) den richtigen Bezug zum Gotischen haben wir nicht! Wir achten zwar darauf, dass wir keine Blümchenfantasywelt kreieren, aber idyllische Ecken darf es ruhig geben
+ZOCKS:
+Oooooch. Welche Spiele gelten für Euch als Vorbilder für das Look and Feel von Gothic?
+Horst:
+Da steht kein bestimmtes Spiel hinter....wir nehmen die Elemente aus den Spielen, die wir als gut befinden und in Gothic reinpassen, dann kommt der größte Teil aus den eigenen Köpfen...also sagen wir, wir inspirieren uns bei anderen Spielen quer durch die Reihe, haben für Gothic aber unsere eigene Vorstellung.
+ZOCKS:
+Ist die Beschränkung bei der Bedienung auf 10 Tasten ein Fluch oder ein Segen?
+Horst:
+Tja...da scheiden sich wohl die Geister......ich sage einfach mal: Warten wir es ab.
+ZOCKS:
+Was spielen die Programmierer und/oder Macher im Augenblick?
+Horst:
+Wir spielen im Moment kaum noch, da wir in einer sehr intensiven Gothicphase stecken. Aber sonst wird hier von Counterstrike ,UT.......bis Ultima Online alles gespielt!
+ZOCKS:
+Ist die Grafikengine von Gothic ein lizensiertes Produkt oder eine Eigenentwicklung?
+Horst:
+Die Engine von Gothic ist eine 100%tige Eigenentwicklung!
+ZOCKS:
+Gibt es ein spezielles Feature an der Grafikmaschine, was Du gerne kommentieren oder erklären würderst, was Dir besonders am Herzen liegt, besonders cool ist?
+Horst:
+Besonders cool sind meiner Meinung nach die Scenerien...Level und NSC's, wenn man dies beispielsweise mit Ultima 9 vergleicht! In U9 stehen 5 große Häuser in der Landschaft und es wird Stadt genannt. Ich denke, wenn man sowas mit dem Alten Lager von Gothic vergleicht, liegen gerade da die Stärken von Gothic (was nicht U9 schlecht machen soll). Selbiges gilt für die Bevölkerungsdichte.
+ZOCKS:
+Welche Features fehlen Euch an der Grafikmaschine?
+Horst:
+Es fehlt nicht's wirklich!! ;) und alles was ich an Verbesserungsvorschlägen etc. hätte, würde jeglichen Rahmen des Interviews sprengen!
+ZOCKS:
+Das Skillsystem bietet eine dynamische Lernkurve (schlechter Skill - kleiner Feuerball). Ist es das, was Gothic von anderen Spielen abheben wird? Zieht sich diese Konzeption durchs ganze Skillsystem?
+Horst:
+Ja, das ist ein weiterer Punkt mit dem Gothic sich abheben will! Was für den Feuerball gilt, gilt auch für den Schwertkampf! Es gibt verschiedene Talentstufen in denen der Spieler bessere Moves bekommt, mehr Kombos, schneller, eleganter, wirkungsvoller.....also jegliche Verbesserung des Spielers wird zu sehen sein! Dafür verteilen wir aber nicht alle 10 Minuten ein paar Punkte, sondern Talente in grösseren Abständen, die man lernen kann.
+ZOCKS:
+Gothic soll eine Art Sozialsystem für "Monster" haben. In vielen anderen Rollenspielen (Baldur's Gate, Planescape Torment, Ultima) haben die NCS's ein Eigenleben. Was ist das Besondere an Eurem Sozialsystem, ich meine, außer dass sich die Orks - nach Euren eigenen Aussagen - an den Füßen 'rumpuhlen?
+Horst:
+Ich denke, dass wir gegenüber vergleichbaren Spielen mit der Komplexität unseres Sozialsystems einen weiteren Fortschritt gemacht haben! Ok, ein Beispiel .... der Spieler kommt ins Alte Lager auf den Marktplatz. Dort sieht er 15 Charaktere unterschiedlichen Ausehens rumstehen, die reden, essen, trinken, pinkeln, grillen, reparieren .... Jetzt greift der Spieler einen dieser Jungs an und es werden dem Charakter alle seine Freunde zur Seite stehen, um ihm zu helfen .... des weiteren gibt es z.b. die Regel im Alten Lager, dass Kämpfen ok ist ..... aber es wird niemand getötet (d.h. kämpfen bis zur Ohmmacht ist ok), also stehen Schaulustige während des Kampfes um dich herum, die blöde Sprüche ablassen oder gar Wetten abschließen, wer wohl gewinnt .... und wehe, es wird jemand getötet ..... solche und mehr "Gimmicks"werden das Sozialsystem von Gothic ausmachen! Bei den Monstern ist das natürlich nicht so Komplex wie bei den Menschen.
+ZOCKS:
+Gibt es alternative Enden und Lösungswege? Wenn ja, wie viele?
+Horst:
+Es gibt nur ein Ende, aber je nach Charackter haben sie einen anderen Hintergrund und Zusammenhang! Sprich, die Story geht je nach Charakterklasse auseinander, findet sich an bestimmten Schlüsselpunkten aber wieder zusammen!
+ZOCKS:
+Wie groß werden die Level sein? In Quadratkilometern!
+Horst:
+Ähem..Groß... .ich habe da den Überblick verloren ;) vor allem Dungeons lassen sich schwer vermessen! Aber an Levelmangel wird Gothic bestimmt nicht leiden ..... weder an der Größe der Oberwelt, noch in den Dungeons wie z.B. Minen, Orcdungeons, verlassene was auch immer Locations und den Tempel!
+ZOCKS:
+Ist eine Demo geplant?
+Horst:
+Ja, einen Monat vor Erscheinen wird eine Demo zu haben sein. Diese wird erst mit einer Zeitschrift vergeben und dann auf verschiedenen Webseiten
+ZOCKS:
+Was passiert nach "Gothic"?
+Horst:
+Das hängt von Gothic ab ;) aber es wird was passieren .... mehr dazu ein anderes Mal! o.k. that's it.
+
+Einen schönen Gruß an die Redaktion und alle ZOCKSleser von mir!
+
+
+-------------------------------------------
+
+
+Die Seite zocks.de führte im September 2000 auf der Spielemesse ECTS in London ein Interview mit 2D-Artist Tosten Dinkheller von Piranha Bytes. Da die Seite zocks.de seit mehreren Jahren nicht mehr existiert, haben wir das Interview bei World of Gothic eingegliedert, um es zu erhalten und weiterhin für jeden Interessierten abrufbar zu machen.
+
+Torsten Dinkheller zeigte uns auf der ECTS in aller Ruhe eine spielbare Beta-Version von Gothic, was beim hektischen Messebetrieb nicht selbstverständlich war. Hardfacts Über Gothic zu Skills, Zaubern, Waffen undundund direkt aus Entwicklermunde, dazu neue Screenshots.
+ZOCKS:
+Gothic scheint ja relativ kampflastig...
+Torsten:
+Da irrst Du Dich aber, Du musst nicht dauernd kämpfen, häufig gibt es alternative Wege. Ein kleiner Apfel bringt Dich manchmal weiter, als eine große Axt. Es gibt Missionen, die man nicht machen muss, um das Spiel zu Ende zu spielen. Wenn man sie aber macht, musst Du auf den ein- oder anderen Kampf gefasst sein. Wenn Du kämpfst, kommt es außerdem darauf an, gegen wen und womit Du kämpfst. Nehmen wir Einhandwaffen. Die töten keine NPC auf Anhieb. Zweihandwaffen schon. Mit Einhandwaffen schlägst Du NPC's erst mal nur nur bewusstlos und kannst dann mit einem "Finishing-Move" töten
+ZOCKS:
+Aber die Monster...
+Torsten:
+...die sterben auch mit einer Einhandwaffe sofort. An einige solltest Du Dich aber nur mit größter Vorsicht und entsprechend guter Waffenfertigkeit heranwagen.
+ZOCKS:
+Wie ist das Fertigkeitssystem aufgebaut?
+Torsten:
+Übung macht den Meister. Gothic teilt nicht in Charakterklassen ein, ähnlich wie das neue D+D (Dungeons + Dragons). Du kannst Dir aus den verschiedenen Klassen deine Skills heraussuchen. So zum Beispiel kannst Du erst das Schwert bis zur 2. (von dreien) Stufe lernen und dann den Feuerball und anschließend noch die Schleichen-Fertigkeit. Diese Fertigeiten erlangt man durch das Erfüllen von Missionen. Wenn ich eine Mission für einen Kämpfer erfülle, bietet er mir dafür vielleicht an mich in einer Kampfkunst zu unterrichten.
+ZOCKS:
+Häufig sieht man in Spielen nicht, welche Ausrüstung man trägt...
+Torsten:
+[Wechselt zu einem voll ausgerüsteten Charakter] Hier seht ihr was man alles an nicht speziellen Gegenständen tragen kann. Erst wenn ich diese anlege, sehe ich diese natürlich auch an meinem Helden. [Zieht nacheinander Schwert, Axt, Gegenstände...] Dazu gibt es natürlich später noch eine Menge spezieller Waffen, Rüstungen und Gegenstände. Wie zum Beispiel die Waffen der richtig guten NPC-Kämpfer. Die haben natürlich einige Boni. Aber immer vorsichtig damit, denn so manch einer kennt vielleicht diese spezielle Waffe und will sich bei dem eigentlichen Besitzer einschleimen. Man wird allerdings nur eine begrenzte Anzahl an Gegenständen mit sich 'rumschleppen können. Allerdings ausreichend, da man eventuell ja auch noch eine eigene Behausung für besondere Dienste bekommen kann. Dort sind die eigenen Sachen in einer Kiste dann relativ sicher und ich muss sie nicht die ganze Zeit mit mir rumschleppen.
+ZOCKS:
+Wie viele verschiedene Zaubersprüche habt ihr...
+Torsten:
+In Gothic kannst Du etwa 20 verschiedene Zaubersprüche lernen [Führt einige vor: z.B. Feuerball, Blitz, Heilung].
+ZOCKS:
+Wie kann man mit dem Bogen treffen, da es kein Fadenkreuz gibt?
+Torsten:
+Es gibt eine Auto-Aiming Funktion, die abhängig ist von dem Skill-Level, den man erreicht hat. So kann ich immer mit einem Bogen umgehen, aber werde am Anfang sicher nicht immer auf eine beliebig große Distanz treffen. Wenn ich aber die Bogen Fertigkeit bis auf Stufe 3 lerne, werde ich so gut wie immer selbst auf große Distanz treffen.
+ZOCKS:
+Ich sehe nur einen Focus, eine Gegner-Trefferpunkte-Balken und Deine eigene Lebensenergie. Gibt es noch mehr?
+Torsten:
+Dazu kommt noch ein Ausdauerbalken, etwa wenn ich tauche und ein Manabalken beim Zaubern. Wenn ich das Inventory öffne, werden die Slots des Inventory halb transparent angezeigt. Hier kann ich durch die verschiedenen Arten durchblättern, da das Inventory automatisch sortiert wird. Wenn ich stehle oder in eine Truhe 'reingucke, öffnet sich auf der anderen Seite das Inventory des Bestohlenen/der Truhe.
+ZOCKS:
+Was spielst Du in Deiner Freizeit?
+Torsten:
+Ich spiele AD&D mit Freunden, Call of Cthulu auf der Arbeit und wenn dann noch Zeit ist, am Rechner etwas zu spielen, ist das Need for Speed 5 und Tennis. Wenn ich richtig Zeit habe zum Spielen, dann auch DeusEx.
+ZOCKS:
+Du bist gerade mit der Kamera frei durch die Welt geflogen. Kann man das später auch im Spiel?
+Torsten:
+Nein natürlich nicht. Man kann aber mit der Kamera 'rumschwenken, als würde man den Kopf drehen.
+ZOCKS:
+Welches Regelwerk liegt Gothic zurunde, wenn überhaupt??
+Torsten:
+Es gibt kein Regelwerk, das zugrunde liegt. Das würde alles zu sehr einschränken. Das Regelwerk ist eigentlich eine Mischung aus Rollenspielen und Computerspielen.
+ZOCKS:
+Wird es ein Automap/Lageplan/Layout geben?
+Torsten:
+In einer der ersten Missionen kann ich eine Karte der Oberwelt bekommen. Darauf wird man dann sehen, wo die Hauptlocations sind und wo sich der Held befindet. In den Dungeons wird man keine Karte brauchen, da diese so angelegt, dass der Spielspass nicht leidet.
+ZOCKS:
+Wieviel Skills gibt es und welche kannst Du jetzt schon mal verraten?
+Torsten:
+Man kann durch die Missionen etwa 15 Kämpfer- und Diebesfertigkeiten lernen, sowie die Zaubersprüche. Eine Kampferfertigkeit ist zum Beispiel der Umgang mit dem Einhandschwert und für den Dieb Schlösser öffnen.
+ZOCKS:
+Wieviele verschiedene Waffen gibt es?
+Torsten:
+Etwa 30 Meshes für Waffen
+ZOCKS:
+Erklär' "Meshes"?
+Torsten:
+Das sind 3-D Modelle für Waffen. Es gibt 20-25 verschieden Waffen. Dazu noch einige Sonderwaffen, die so aussehen wie anderen. Diese Waffen haben aber besondere Boni und befinden sich im Besitz von NPC's. Die werden die natürlich nicht so leicht hergeben.
+ZOCKS:
+Für die Kampfanimationnen wurde Motion-capturing eingesetzt. Dazu sind Meister der Schwertfechtkunst eingeladen worden. Erzähl'.
+Torsten:
+Nun, wir haben einige Turnierfechter, die bei Live Rollenspielen und anderen Events auftreten, engagiert. Die Fechtsequenzen wurden dann gecapturt. Das wurde in 3 D Studio Max alles nachbearbeitet. Jede einzelne Animationsphase. Ein Schlag kann ja verschiendene "Ausgänge" haben. Ein Schwertschlag von rechts unten nach links oben und dann von oben nach unten hat natürlich einen andern Übergang als ein Rundumschlag und dann ein besonderer Finishing Move. Diese Übergänge müssen flüssig aussehen.
+Morgen, liebe Leser, Teil 2. Darin erfahrt ihr, was Terrorian nicht verkraften kann, Torsten beschreibt, wie ihn die AI fast abgelattet hätte und wann wie wo ein Demo erscheinen wird. Noch mehr Screenshots obendrauf.
+
+
+Gothic: Herbstlandschaften...
+[img]
+
+ECTS: Terrorian löchert Torsten, Jera hilft mit
+[img]
+
+Gothic: Vor drei Shadowbiestern nehmen wir lieber Reißaus
+[img]
+
+Gothic: Friss 'nen Feuerball, Bug
+[img]
+
+Gothic: Friedliche Plauderstunde
+[img]
+
+
+---------------------------------------------
+
+
+Heute, liebe Leser, Teil zwei des Interviews über Gothic, das deutsche 3-D Action Rollenspiel. Darin erfahrt ihr, was Terrorian nicht verkraften kann, Torsten beschreibt, wie ihn die AI (artificial intelligence) fast abgelattet hätte und wann wie wo ein Demo erscheinen wird. Noch mehr Screenshots obendrauf.
+ZOCKS:
+Ich kann immer noch nicht verkraften, dass der Name des Spiel nicht ursächlich mit der Handlung zu tun hat. Da versucht man, einen Zusammenhang mit Titel und Spiel herzustellen und es stellt sich heraus, das die Leute sich genau das NICHT gedacht haben, als was man versucht, hineinzugeheimnissen.
+Torsten:
+Nunja, ich war bei der Namensfindung nicht dabei. An Gothic haben nun mal superviele Rollenspieler mitgebastelt. Ich denke, das diese romantische Atmosphäre die schon beeinflusst hat. Es ist ja so, dass es nicht jeder beliebige Name geschafft hätte.
+ZOCKS:
+Was machst Du für ein Spiel mit unlimitiert Zeit und Geld?
+Torsten:
+Ein Massive Multiplayer Online Role Playing Game (MMORPG), idyllische Landschaften, wo sich die Leute die Feuerbälle und die Ohren fetzen.
+ZOCKS:
+Also Ehre und Kampf?
+Torsten:
+Weniger Ehre als Kampf - mehr Attack Playing [lacht laut].
+ZOCKS:
+Kann ich Companions, Begleiter oder so etwas haben?
+Torsten:
+Nein, nicht direkt. Du kannst dich einer Gruppe, Gilde oder Karawane anschliessen. Wenn Du Dich bewährst, werden die Leute dir in brenzligen Situationen helfen, wenn Du Dich blöde verhältst, werden sie entsprechen reagieren. Du kannst auch Feundschaften schliessen. Aber jeder hat Job in Gothic und die Welt ist sozusagen nicht nur für Dich da. Die Zeit vergeht auch, ohne das Du etwas machst. Es gibt Tag- und Nachtwechsel, die Leute gehen auf den Markt usw.
+ZOCKS:
+Wie macht die AI das?
+Torsten:
+Das ist nicht so ganz mein Gebiet. Aber es ist in etwa so: Die AI deiner Gegenüber hat fünf Zustände von freundlich bis feindlich. Die Einstellungen Dir gegenüber ändern sich abhängig von Deinem Verhalten und auch abhängig davon, wie Du Dich anderen Personen gegenüber verhälst, die nur indirekten Kontakt zum NSC haben. Wenn Du an eine Person herantrittst, checkt der seine Einstellungen nach einem bestimmten Kalkül. Da können durchaus widersprüchliche Informationen zusammenkommen, etwa: du hast seine Frau geschlagen und seinem Freund geholfen. Was die NSC's letztlich tun, ist auch von der Story abhängig, aber manchmal auch völlig unvorhersagbar.
+ZOCKS:
+Wir lieben lustige Geschichten.
+Torsten:
+Ah, ja, also, eine kleine Messegeschichte (von der ECTS): ich habe ein Schwert in das Spiel hineingecheatet, um einem Besucher die Waffenfertigkeiten zu zeigen. Das Schwert war nun eins von den aussergewöhnlichen Waffen, die einem NSC (Nicht-Spieler-Charakter) gehörte. Zufällig stand der grade hinter mir, als ich mir sein Schwert gab. Darauf kam er sofort auf mich zu und prügelte mich klitzeklein, hat mich fast totgeschlagen, gerade noch rechtzeitig habe ich das Schwert weggeworfen. Der NSC sagt mir, dass ich aber nochmal Glück gehabt hätte, nahm sein Schwert und trollte sich. Der Besucher wollte das nicht glauben. Ich meine, er wollte wirklich nicht glauben, dass eine AI so etwas bewerkstelligen kann.
+ZOCKS:
+Leidige Frage: Wann erscheint das Demo? Wann das Spiel?
+Torsten:
+Das Demo wird erscheinen mit der PC Action. Der offizielle Releasetermin von Gothic ist der 26. November. Vorher, also wahrscheinlich zur Novemberausgabe wird die PC Action ein Demo herausbringen. Natürlich wird das Gothic Demo kurze Zeit später zum Download bereit stehen. Aber davor haben der liebe Gott und Egmont Interactive die Arbeit gestellt. Wir arbeiten im Augenblick 75 Stunden täglich.
+ZOCKS:
+Was passiert nach Gothic? Gothic 2, Addon? Neues Spiel?
+Torsten:
+[lacht sich eins] Nun ja, äh, vielleicht, wenn dann und mit ganz vielen Abers im Konjunktiv, mal sehen...
+ZOCKS:
+Thx.
+

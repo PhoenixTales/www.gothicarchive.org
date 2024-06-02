@@ -1,0 +1,95 @@
+﻿GOTHIC VERSIONS
+===============
+
++--------------------------------+
+|                                |
+|  This a listing of all the     |
+|  Gothic versions running on    | 
+|  ZenGin known to me. Special   |
+|  thanks to Nico Bendlin.       |     
+|                                |
+|  Sources can be found at:      |
+|  https://gothic.ga/versions/   |
+|  gothic.php (c) VaanaCZ        |
+|                                |
++--------------------------------+
+
+
+Gothic 0.01  26.09.1997
+Gothic 0.21b 12.12.1998
+Gothic 0.40  07.02.1999
+Gothic 0.57  09.03.1999
+Gothic 0.67  -
+Gothic 0.69b 24.11.1999 23:39
+Gothic 0.69e -
+Gothic 0.70  20.12.1999 17:44
+Gothic 0.73  22.02.2000 20:41
+Gothic 0.74  09.03.2000 15:50
+Gothic 0.76  -
+Gothic 0.76b 03.04.2000 18:31
+Gothic 0.77d 14.04.2000 19:54
+Gothic 0.79  28.04.2000 15:56
+Gothic 0.79b 04.04.2000 23:11
+Gothic 0.80  08.05.2000 19:31
+Gothic 0.801 08.05.2000 21:14
+Gothic 0.81  09.05.2000 20:20
+Gothic 0.81a 10.05.2000 23:28
+Gothic 0.82  22.05.2000 18:41
+Gothic 0.83  24.05.2000 20:28
+Gothic 0.85a 14.06.2000 18:14
+Gothic 0.87  07.07.2000 12:42
+Gothic 0.88  19.07.2000 12:45
+Gothic 0.89  08.08.2000 00:50
+Gothic 0.90  15.08.2000 
+Gothic 0.91  23.08.2000
+Gothic 0.92  -
+Gothic 0.93  -
+Gothic 0.94  -
+Gothic 0.96c -
+Gothic 0.97pre 20.10.2000
+Gothic 0.99pre 13.11.2000
+Gothic 1.01  -
+Gothic 1.01b_christmas_edition 20.12.2000 17:26:58
+Gothic 1.01d_christmas_edition 20.12.2000 19:34:38
+Gothic 1.01e_christmas_edition 21.12.2000 18:00:42
+Gothic 1.04b 30.01.2001 22:24:13
+Gothic 1.04d 31.01.2001 15:58:26
+Gothic 1.05  08.02.2001 20:26:00
+Gothic 1.05a 08.02.2001 23:28:29
+Gothic 1.05l 11.02.2001 02:25:52
+Gothic 1.05p 11.02.2001 05:20:30
+Gothic 1.05q 11.02.2001 11:01:33
+Gothic 1.06b 14.02.2001 23:48:42
+Gothic 1.06l 18.02.2001 23:49:42
+Gothic 1.07  13.03.2001 18:36
+Gothic 1.07a 17.03.2001 04:07:21
+Gothic 1.07b 19.03.2001 06:37:20
+Gothic 1.07c 19.03.2001 22:51:32
+Gothic 1.08  12.04.2001 17:29
+Gothic 1.08a 24.04.2001 17:33:00
+Gothic 1.08h 30.04.2001 18:25:52
+Gothic 1.08i -
+Gothic 1.08j 12.06.2001 19:24:13
+
+Gothic: Sequel 1.09  12.06.2001
+Gothic: Sequel 1.09a 22.06.2001
+Gothic: Sequel 1.09b 04.07.2001
+Gothic: Sequel 1.10  24.07.2001
+Gothic: Sequel 1.10a 31.07.2001
+Gothic: Sequel 1.10b 31.07.2001
+Gothic: Sequel 1.10c 07.08.2001
+Gothic: Sequel 1.10d 08.08.2001
+Gothic: Sequel 1.11  28.08.2001
+Gothic: Sequel 1.11a 30.08.2001
+Gothic: Sequel 1.11c 31.08.2001
+Gothic: Sequel 1.11d 03.09.2001
+Gothic: Sequel 1.11f 11.09.2001
+Gothic: Sequel 1.12  18.09.2001
+Gothic: Sequel 1.12a 20.09.2001
+Gothic: Sequel 1.12b 21.09.2001
+Gothic: Sequel 1.12c 01.10.2001
+Gothic: Sequel 1.12d 02.10.2001
+Gothic: Sequel 1.12e 09.10.2001
+Gothic: Sequel 1.12f 16.10.2001
+
+Gothic 1.08k 17.12.2001 15:51:30

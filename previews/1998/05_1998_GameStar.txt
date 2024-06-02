@@ -1,0 +1,4 @@
+GameStar 05/1998
+
+Ein Team ehemaliger Greenwood-Entwickler hat sich unter dem Label PIRANHA BYTES zusammengeschlossen.
+Das erste Projekt wird ein Rollenspiel mit dem Arbeitstitel GOTHIC. Die Grafik-Engine steht schon und soll der 3D-Shooter-Konkurrenz in nichts nachstehen. In Sachen Gegner-KI will sich GOTHIC sogar deutlich abheben: Feinde warten nicht kampfbereit hinter den Ecken, sondern gehen eigenen Tätigkeiten nach. In den Animationen des Alter ego wirkt sich der Erfahrungsgrad aus, so daß sich Fortschritte in der Kampfausbildung beim Zuhauen optisch bemerkbar machen.

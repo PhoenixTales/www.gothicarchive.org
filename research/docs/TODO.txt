@@ -1,0 +1,11 @@
++------+
+| TODO |
++------+
+
+We need an english translation of the Cut-Content document.
+If you want to do this, please message us at mail@phoenixtales.de
+
+The document included in this archive might not be the latest
+version of the documentation. Please compare the included
+document with the latest update, which you can find here:
+https://worldofplayers.ru/threads/40157/page-6#post-1081438

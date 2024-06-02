@@ -1,0 +1,85 @@
+thes.fsn.uk 11/2000
+
+
+INTERVIEW: piranha interactive
+
+Thes: Who are Piranha Bytes?
+PB: Piranha Bytes is a team of about 20 members. Weve built a team to develop Gothic.
+
+Thes: What have Piranha Bytes done before Gothic?
+PB: This is the first team project. Some of PB worked for other companies, e.g. Blue Byte. Describe the visions behind a Piranha Bytes game, what are you aiming to achieve? The vision behind a Piranha Bytes game is this: To build a 3D game with a main point to the story. We believe that a good story is the basis to a good game.
+
+Thes: What is the storyline in Gothic?
+PB: Gothic is based in a medieval setting, where Orcs are at war with mankind. It is a time of magic and swords. The main storyline for the hero is to break free from a magic barrier. Therefore he has to find out more about the struggle of fire and water magic and a god unknown up to now.
+
+Thes: What were your influences when you made the Gothic gameworld?
+PB: We tried not to go for influences. We found out that once we would do so, players will expect certain things. On the other side a medieval setting already asks for Orcs and Magic. Most of the team already played RPGs (e.g. AD&D ;)). Thus we knew what we were heading for.
+
+Thes: Why have you chosen to include them?
+PB: There are just some things that do not go without another. :)
+
+Thes: What kind of problems have you run into while developing Gothic?
+PB: None :)
+
+We needed a new engine for Gothic. There was no engine to build an organic outdoor world with a viewing distance great enough to satisfy us. So the main problem was to develop an engine at the same time as we built the game. The other problem was to keep the NPCs at work. We built a KI, which works too well some times. We had problems to cheat NPCs some times, since it did not "really" happen to them.
+
+Funnily enough, we came into some new screens of Gothic today. Click the thumbnail above for more.
+
+Thes: What gameplay innovations are there in Gothic?
+PB: The main innovation is the KI and the large population. The population in a city is that of a city. We hated those towns with 3 NPCs waiting to be questioned. This way we brought the 3 towns to life.
+
+The KI is so complex that the player has to question all of his steps. For example: If the hero gets into a fight with NPC "A", the friends of "A" will either aid "A" or run for help. The foes will help the Hero or at least congratulate him. This gets pretty complex after a while. To not confuse the Player we used facial animation and the player gets feedback whenever possible.
+
+Thes: How stat-based is Gothic and will the player be able to evolve his/her character?
+PB: The stats are for the experienced RPG Player. If you do not want to get into the stats you don't have to. For the experienced player there are a lot of different stats to satisfy their needs. The Hero will evolve. The player starts with a "Puente", someone who knows absolutely nothing. By solving quests and killing monsters the hero will gain experience and he will be able to learn different abilities. There are Strength, Dexterity, Bow and Crossbow, Sword, Magic and Thieving skills. It is even possible to get the hide of different monsters to make money. During the game all skills will be explained. There is no right or wrong in choosing.
+
+Thes: Quests, an essential part of role-playing games. Tell us about the quests in Gothic.
+PB: Gothic is the quest. Within this quest there are a lot of subplots. Some have to be done and some are just ambient. They come as easy as "find the sword" and get as complex as Gothic.
+
+Thes: What is there about this game that will make it stand out from other role-playing games?
+PB: The KI, the world, the reality in the game, the "just another 5 minutes" and the complex story.
+
+Further it is designed for beginners and experienced RPG fans. All this makes Gothic the most outstanding 3D - RPG.
+
+Thes: Will Gothic be a game for the die-hard role-player or do you think that you could reach a broader audience with it?
+PB: The difference for the die hard RPG Player will be the replay value - play it over and over again to figure out the other towns. :)
+
+Thes: When people play Gothic for the first time what is the one thing you want them to think?
+PB: This is the real world. Forget your daily life and take your time. (And a good advice: Stay on the way, do not go into the forest at night. Most players will blame us for the nice mountain view and how hard it is to get there.)
+
+Thes: Do you think games are capable of projecting emotions to the player and, if so, what do you want the Gothic player to feel?
+PB: Yes games are capable of projecting emotions and we as developer are asked to use this wisely. Gothic is a prison world. This means its dark and the wrong behaviour will lead to fights and losing the few friends one can have. On the other hand nature and friendship. The player will find out what friends are for.
+
+Thes: Will there possibilities of online play in Gothic and, if so, what can we expect from it?
+PB: No. We had to choose between a good story and an online version. We have chosen the good story.
+
+Thes: How do Piranha Bytes, as a relative unknown developer, plan to get this game to reach the conscience of the general gamer?
+PB: Right now is the time for good RPGs. So it should be no problem to reach the conscience of the general gamer :) Xicat is an experienced publisher in the US.
+
+We are in contact with You (probably The Most important factor -Ed)
+
+And the Gothic Demo will be on the coverdiscs. Another thing is, that we have a music band, In Extremo, in the game. They will have a live concert in the game.
+
+Thes: What are Piranha Bytes future projects and what can you tell us about them?
+PB: Piranha Bytes will stay with 3D games and good stories. Right now we are making a Gothic Sequel. :) (Players will ask for more soon :))
+
+Thes: Is the PC market's over reliance on patches breeding more bugged and incomplete games?
+PB: This is one good question (and, of course, it's Yousif's -Ed) I hope that the developers learned from the past and will have the financial power to show up with games that do not need any patches.
+
+Thes: What was the first game you ever played and what are your memories from it?
+PB: My first game was a board game. I won and since then i liked it. :)
+
+Thes: What games do you play when youre not working on developing your own?
+PB: Right now I play Arcanum and those mech games. And for a game or two I play FIFA.
+
+Thes: Your personal top 3 games ever, please.
+PB: Monkey Island (all of them), Flight Sim, Diablo.
+
+Thes: What titles by other developers are you looking forward the most to playing?
+PB: Right now i am waiting for a movie. Lord of the Rings.
+
+Thes: And, finally, if we could grant you one wish, what would it be?
+PB: Right now I would wish for peace and no more terror.
+
+
+-Oskar Skog

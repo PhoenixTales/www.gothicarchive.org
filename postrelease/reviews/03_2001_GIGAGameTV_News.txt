@@ -1,0 +1,186 @@
+22.03.2001 Patch NR. 1 (V.1.07c)
+
+Der erste Patch zu Gothic ist nun endlich erschienen, und behebt schon eine Menge Fehler. So sollte nun zum Beispiel die Vodoo keine Probleme machen. Weitere verbesserungen könnt ihr weiter unten nachlesen.
+
+Download
+
+(wenn der download nicht grad funzt, versucht es in 5min nochmals- wegen serverwechsel!)
+
+Patch Version: 1.07c
+Erscheinungsdatum: 22.03.2001
+Größe: 3 MB
+
+Programm Fixes | Story/ Ai-Fixes | Hinweise :
+
+Programm Fixes:
+
+- Ladezeiten beim Laden von Spielstaenden verbessert.
+
+- Speicherzeiten beim Speichern von Spielstaenden verbessert.
+
+- "Voodoo3 Darstellungsprobleme" behoben. Dieses Problem zeigte sich allerdings nicht nur auf der Voodoo3, sondern auf allen Grafikkarten mit maximaler Texturdimension kleiner gleich 256 bei der Darstellung von Texten und Menues.
+
+- Das Deaktivieren der Himmelseffekte in den Einstellungen deaktiviert nun zusaetzlich auch die Visualisierung der magischen Barriere.
+
+- Im Pausierten Spiel (z.B. im Menu, im Tagebuch oder Statusscreen) hatten sich gelegentlich unerlaubterweise Figuren fortbewegt. Das geschieht nun nicht mehr.
+
+- Gelegentlich falscher Anzeigeort der Fokus-Namen bei Objekten korrigiert.
+
+- Leichte Steigerung der Render-Performance.
+
+- Performance innerhalb von Waeldern leicht verbessert.
+
+- Einen potentiellen Absturz behoben.
+
+- Kampfsteuerung verbessert (zB.Parade).
+
+- Map Screen kann man mit Taste "M" wieder verlassen.
+
+- Verlorengehen von Talenten gefixed.
+
+- Verbesserung der Ladezeit von Savegames im gleichen Level durch Visualcaching.
+
+- Einen Absturz beim Beenden gefixed.
+
+- Benutzen der Winde vor der Freemine hatte u.U. keinen Effekt.
+
+- Optimierung bei den NSC-Wahrnehmungen.
+
+- Leiternerkennung von NSCs verbessert (insbesondere Oldmine).
+
+- Doppelt abgespielte Animationen bei Dialogstart gefixed.
+
+- Beim schnellen Beenden von Dialogen wird Dialog-Animation jetzt mit beendet.
+
+- Manchmal hatte der Schmied keinen Hammer in der Hand....
+
+- Fackeln bleiben nicht mehr ewig im Spiel liegen.
+
+- Das Menü läßt sich nun in den meisten Situationen aufrufen, allerdings manchmal ohne Save-Option (bei Verwandlung etc.)
+
+- Die Startgeschwindigkeit ("Neues Spiel") wurde leicht verbessert (um ca. 8 Sekunden)
+
+- Kapitelwechsel werden durch eine eigene Grafik eingeleitet
+
+- Slider "Modell-Details" korrigiert (rechts ist nun auch Maximum und links das Minimum, nicht umgekehrt)
+
+- Der TestMode ist in gothic.ini nicht mehr aktivierbar.
+
+- Spielzeit-Counter wird im SAVEGAME-Menü angezeigt.
+
+- Default Mob Interact Kamera Mode verbessert.
+
+- Wahrend Dialogcamera unsichtbarer SC der durch vorherige First Person Cam entstand, gefixt.
+
+- Dialogcamera Preset: Es gab Fälle in denen nur das Ohr des Sprechers gesehen wurde. Gefixt.
+
+- Fehler beim Hochfahren unter Win95. Symbol User32.DLL:lockInput() wurde nicht gefunden. Gefixt.
+
+- Zwei Magie Crashes gefixt.
+
+- Leichten Reverb Effekt fur Indoor Locations hinzugefugt.
+
+- Sound Performance bei hoher Polyphonie leicht verbessert.
+
+
+Story und AI-Fixes:
+
+(Vorsicht Spoiler, also Hinweise zur Lösung des Spiels)
+
+- Durch Magie kontrollierte NSCs (Control-Spell) sicherer gemacht.
+
+- Sitzende NSCs bleiben sitzen, wenn sie angesprochen werden.
+
+- Logbucheinträge erweitert und korrigiert!
+
+- Baal Lukor entschärft!
+
+- Mehr Monster in den späteren Kapiteln.
+
+- Chapterscreens bei Kapitelwechsel!
+
+- AI durch Magie beschworener Monster verbessert!
+
+- Kann Saturas nun auch öfter als nur einmal über Xardas informieren, wenn ich nicht gleich darauf geantwortet habe.
+
+- Die Schatten in der freien Mine im 4. Kapitel greifen den Spieler jetzt auch an!
+
+- Gorns AI in der freien Mine im 4. Kapitel verbessert!
+
+- Magiekampf berbessert!
+
+- Seltsame Pergamentvermehrung von Baal Lukor gefixt!
+
+- doppelte Ambientdialoge bei Buddlern im alten Lager entfernt!
+
+- Milten gibt keine Infos mehr über die Feuermagier ab dem 4. Kapitel!
+
+- Altes Lager ist im 4.Kapitel jetzt nicht mehr so friedlich. Nicht nur die Wachen vor dem Tor greifen an, sondern alle dem alten Lager zugehörigen Charaktere!
+
+- Xardas´ Dämon kann jetzt auch mehrmals angesprochen werden. Auch wenn man das Golemrätsel noch nicht gelöst hat, kommt man nach dem Dialog des Dämons trotzdem weiter.
+
+- Xardas fällt nicht mehr einfach aus seinem Turm, wenn er merkt, daß in seinem Turm gekämpft wird.
+
+- Man kann nun Feuermagier werden, ohne die Minecrawler-Eier zu Cor Kalom gebracht zu haben!
+
+- Man behält nun die Feuermagiergilde im 4. Kapitel, auch wenn sonst keiner mehr da ist, außer Milten!
+
+- Überlange Dialogoptionen gekürzt! man kann nun jede Antwort, die man geben kann, vollständig lesen!
+
+- Beim Kauf einer Rüstung, werden nun auch die Schutzeigenschaften der Rüstung angezeigt. Man sieht nun vorher, was man kriegt für sein Geld.
+
+- Zahlreiche nicht mehr aktuelle Dialogoptionen entfernt. Beispiel: "Wie komme ich in die Burg!" weiß man im 2. Kapitel schon, weil man spätesten da schon mindestes einmal in der Burg bewesen ist!
+
+- Saturas kann den Spieler nun auch in den 5. Kreis der Magie aufnehmen. (Konnte er vorher auch schon, nur behauptet er jetzt nicht mehr, daß er dir nur bis zum 4. Kreis verhelfen kann!)
+
+- Orc Krieger plündern den Spieler nicht mehr, wenn er am Boden liegt!
+
+- Crawlerexploit beim Tor zur MinecrawlerQueen in der alten Mine gefixt. Das Tor läßt sich jetzt nur noch einmal öffnen!
+
+- Schläfer-Endkampf verbessert.
+
+
+Hinweise und Troubleshooting:
+
+- die alten SaveGames können weiterhin benutzt werden.
+
+- Das Betriebssystem Windows95 wird von Gothic nicht supportet.
+
+- Bei Grafikkarten vom Hersteller NVidia (insb. TNT, TNT2, GeForce) muss in den Treibereinstellungen die "Fog Table Emulation" aktiviert sein. Diese aktiviert man, indem man in Windows unter "Systemsteuerung - Anzeige - GeForce - Additional Properties - Direct3D Settings" (oder aehnlich) ein Haekchen neben dem Eintrag "Enable Fog Table Emulation" setzt.
+
+- Bei Grafikkarten vom Hersteller ATI kann es bei einigen Modellen (insb. Radeon) unter Verwendung bestimmter Treiber zu Problemen mit dem Nebel fuehren. Der sichtbare Effekt dieses Problems ist ein in einer einheitlichen Farbe ausgefuellter Bildschirm sobald man sich im Spiel befindet (z.B. braun, rosa, oder schwarz). Dies ist ein Treiberproblem, das von ATI geloest werden sollte. Als kurzfristige Problemloesung kann die Benutzung von Nebel in Gothic durch Editieren des .ini Files ausgeschaltet werden. Dazu ist in der Datei "Gothic\System\Gothic.ini" mit einem Texteditor der Eintrag "zFogDisabled=0" in "zFogDisabled=1" zu aendern.
+
+- Falls Gothic auf einer gegebenen Hardware-Konfiguration Probleme verursacht, ist es moeglich durch Deaktivierung des Sounds und/oder der Musik die Problemursache einzukreisen. In der Datei "Gothic\System\Gothic.ini" koennen dazu mit einem Texteditor die Eintraege "soundEnabled=1" und "musicEnabled=1" veraendert werden (aus der 1 eine 0 machen), um das Soundsystem und/oder das Musiksystem von Gothic direkt vom Programmstart an zu deaktivieren. Falls sich hierdurch ein Problem loesen laesst, koennte alte, defekte oder mit fehlerhaften Treibern betriebene Soundhardware dafuer verantwortlich sein.
+
+- Nachtrag zum Handbuch/Readme der GoldMaster Version: Im Handelsdialog koennen Gegenstaende mit den Tastenkombinationen TURN_LEFT+CTRL und TURN_RIGHT+CTRL einzelnd zwischen Kategorien verschoben werden. Zusaetzlich lassen sich zehn Gegenstaende gleichzeitig mit den Tastenkombinationen STRAFE_LEFT+CTRL und STRAFE_RIGHT+CTRL verschieben, um den Transfer grosser Mengen von Gegenstaenden zu beschleunigen.
+
+
+....................................................
+
+News 30.3.2001
+
+So, ich bin nun zurück und gleich gibts wieder coole News!
+Die 2. Demo von Gothic ist erschienen! Ihr könnt sie euch hier runterladen! Sie basiert auf der Verson 1.07c, es sollten nun also nicht mehr grosse Probleme auftauchen...In der Demo könnt ihr die gesammte Oberwelt spielen! Nur ist sie darum auch 240 MB gross!
+
+Die in 4 Tagen erscheinende Gamestar wird aber die 2. Gothicdemo enthalten!
+
+
+....................................................
+
+30.03.2001 Gothic-demo 2
+
+Technisch repräsentiert die Demo den Stand der Vollversion (ohne Patch). Maussteuerung und Sprachausgabe sind komplett enthalten, auch einige Änderungen am Interface und am Game-Balancing, die erst kurz vor Fertigstellung des Endproduktes implementiert wurden, sind in dieser Demo vollständig bereits enthalten. Ihr könnt darin einen grossen Teil der Oberwelt spielen.
+
+Mindestvoraussetzungen:
+
+GOTHIC benötigt mindestens:
+Windows 98/2000
+128 MB Hauptspeicher
+16 MB Grafikkarte
+Pentium 400 (oder voll kompatibel)
+350 MB Festplattenspeicher
+DirectX soundfähige Soundkarte (z.B. Sound Blaster)
+
+Demo downloaden! (240 mb)
+
+Wichtig! Lest die Readme-Datei des Spiels, darin wird unter anderem auch die Steuerung erklährt!

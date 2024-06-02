@@ -1,0 +1,7 @@
+Die Abteilung Publisher Contact is buggy;
+einen Teil hab ich ausgeklammert, aber da war nur
+die Fußleiste, der sonstige Teil ist gar nicht
+vorhanden, oben im Inhaltsverzeichnis stehts, 
+auf der Seite gibts aber keinen Publisher-Contact;
+im InternetArchiv suchen, ob das irgendwann anders war. 
+- lali

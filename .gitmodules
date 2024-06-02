@@ -1,0 +1,4 @@
+[submodule "media"]
+	path = media
+	url = https://github.com/PhoenixTales/gothicarchive.org
+	branch = main

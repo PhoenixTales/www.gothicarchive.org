@@ -1,0 +1,15 @@
+MCV USA 002 
+01/1998
+
+PIRANHA Eats Up Limelight
+=========================
+German Developer PIRANHA BYTES is using innovative AI in its GOTHIC game to show that monsters are people, too.
+Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers.
+PIRANHA can thank reviews in the specialist press on its first PC game, GOTHIC, for the buzz.
+The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts.
+One of those concepts is "optical feedback",meaning that increases in the character's ability are readily visible as the player's skill level develops. For example, if the character "trains sword fighting with a master of the sword, you will actually see the improvements: His fighting moves will become quicker and more accurate," explains Tom Putzki, PIRANHA's marketing director. This optical feedback in GOTHIC is given for a whole skill range for each character class - psionic, fighter, magician and thief.
+Michael Hoge, GOTHIC's chief designer, has also applied a remarkable amount of artificial intelligence to GOTHIC's monsters. "What really sucks in other games is the way the monsters behave," says Hoge. "You turn the corner and you see a statue of a monster waiting to be triggered....So, all day they do nothing more but stand around waiting for death, huh? Wrong! Monsters have a right to a private life! [In GOTHIC] they talk to each other, plays games or simply sit around cleaning their toenails." This realism goes beyond mere personal grooming, however. It means the monsters can turn against one another - a situation the player can use to his or her advantage.
+If a character in GOTHIC wants to get past a hungry water beast, for example, it's not a problem. "Kill a goblin - his favourite snack - and throw it into the water," Hoge advises. "The water beast is preoccupied, and you can get past him." (Of course, it works both ways: Giant cave dwellers, for instance, can grab the goblins and throw them at you as a mean of attack.)
+GOTHIC's monsters are all linked in one way to another - another of the game's intriguing aspects. To create that level of interaction, they were all given "individual perception," Hoge says. "Every monster has his own strengths and weaknesses."
+About the only major hurdle left to clear is finding a publisher for the game, and several are already nibbling.
+PIRANHA BYTES is planning to finish GOTHIC in mid - 1999.

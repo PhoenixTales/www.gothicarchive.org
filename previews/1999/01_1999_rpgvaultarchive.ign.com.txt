@@ -1,0 +1,25 @@
+rpgvaultarchive.ign.com 01/1999
+
+15-20.01.1999
+
+Week of January 10, 1999
+
+Friday, January 15
+
+
+Game Asylum Interview: Gothic
+=============================
+Game Asylum has posted a long interview with members of the Gothic design team at Piranha Bytes. Here's a small sample in which Project Leader Stefan Nyul discusses the game engine:
+We are very proud of our splendid outdoor engine, that is capable of rendering impressive outdoor scenes, never seen before in a 3D-RPG. Your range of sight ranges from every stone before your feet unto the distant mountains at the horizon. Another integral part of the game engine is the AI realised with a easy to use but flexible scripting language we have spent much time into developing it. Not to forget the interpolating skeletal animation system which gives us the ability to bring life to every move of our characters and especially visualizes the advancements of your own player character. Really watching him become faster, cooler, deadlier absolutely rocks.
+The full interview can be found here. Be warned that you may find it a bit annoying to read since it occupies 11 pages, with usually only one or two questions per page. Thanks to ShadowLord for spotting this one.
+
+
+Week of January 17, 1999
+Wednesday, January 20
+
+Gothic Diary Update
+===================
+It's been a while since the Gothic Diary received an update, but one has finally arrived from 3D level designer Tom Putzki:
+Long time no see, long time no hear ;-)
+But the PIRANHAs haven't been drowned like an eMail said ;-) We're crowded with work. We're working on a playable demo right now, several minutes of the finished game. This demo has to be cool. Really cool. But it takes a lot of time. But its worth it. During the next few days we're going to post several new screenshots, including the first outdoor shots. Looks pretty well right now. The first outdoor shot can also be seen in the German game magazin PC ACTION which voted us being amongst the ten best games expected this year. Thanks a lot guys.
+Gothic is a 3D fantasy RPG in development by Piranha Bytes.  

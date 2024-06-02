@@ -1,0 +1,37 @@
+gamespot.com 10/2001
+17.10.2001
+
+Previews
+Gothic
+
+screenshot
+You'll occasionally see the magician's barrier fill the sky.
+
+As more developers embrace the concept of massively multiplayer games, fans of traditional role-playing games are left with fewer alternatives. Hoping to capture a portion of that particular audience, Xicat Interactive and developer Pirhana Bytes have been working on a single-player role-playing game named Gothic, which has all the typical features of the genre, such as item gathering and statistic building. But what sets Gothic apart from being an ordinary role-playing game is its emphasis on the bond of trust that forms between characters, which ultimately determines your character's fate. Betraying the bond can lead to exile from a camp and possibly even death.
+
+screenshot
+Diego is one of the first characters you encounter inside the mining colony.
+
+Gothic begins with a prerendered introduction explaining how the three camps--the old camp, the new camp, and the religious zealots--formed. In a long, drawn-out battle against the massive army of the orcs, the king issues an order that all prisoners--regardless of the crime they commit--should be sent to the ore mines to supply the kingdom with a larger amount of ore for sword manufacturing. To keep the prisoners within the mining area, the king asks magicians of the kingdom to erect a barrier around it, preventing any possibility of escape. Naturally, something goes wrong with the spell, so the barrier expands past its intended target and traps the magicians inside. Shortly thereafter, the prisoners begin a revolt and take control of the mining facility and the precious ore inside, so the king is forced to make deals for the ore. Just before your character--another prisoner--is thrown into the barrier, a magician asks you to take a letter to the magicians inside. You're then promptly thrown into the barrier, where a group of its inhabitants greet you with a fist to the face, knocking you unconscious.
+
+The game begins as a character named Diego revives you and quickly explains that he's a part of the old camp. Conversations between you and other characters proceed through branching dialogue menus, and if you want to get acquainted with the immediate area, Diego can explain different parts of it to you based on the questions you ask. While there are some options that don't really serve any purpose other than to entertain, it's important to ask characters like Diego as many questions as possible because they can provide you with valuable information on other characters and quests that can earn you respect among a particular camp.
+
+Of course, it's just as easy to become overwhelmed with the amount of information thrown at you early on. Thankfully, Gothic incorporates a journal feature that shows the quests that you're currently undertaking and includes general information on how to complete the quest. There are also sections for general information, completed quests, and failed quests, all of which are especially helpful in determining your current status with any one of the three camps and whether or not you need to perform more tasks for a particular camp before proceeding any further.
+
+A Lesson in Backstabbing
+
+screenshot
+Combat can be difficult depending on the type of enemy you're facing.
+
+Before venturing into any of the camps, it's a good idea to familiarize yourself with some of the basics. Most of the early important items can be found on the path leading to the old camp. There's an old sword located underneath the skeleton hanging in some gallows, and healing items, such as berries and various plants, are easily found in small chests and on the path itself. You can access these items through the inventory system that simply categorizes everything as weapons, armor, magic, and items. In the current build of Gothic, the interface for the inventory is still a little rough, since you have to press the left control and up key at the same time to use or equip any items. Hopefully, Pirhana Bytes will incorporate some kind of mouse support for the inventory before the game's final release.
+
+screenshot
+Mordrag gives you the first opportunity to betray the old camp.
+
+When you find and equip the old sword, you can jump into combat almost immediately. Just within that area, there is a group of odd-looking chickenlike creatures that can't do much damage, but they're relatively swift. You simply need to draw your weapon, enter into the battle stance, and start swinging away at the creature as it moves around on the screen. A few quick blows should be enough to take it out and receive a small number of experience points. If any enemy is too tough or there are too many of them, it's always possible to run away or leap to an area where they can't reach you.
+
+With all the basic skills out of the way, you can head to the old camp to learn how exactly you're supposed to deliver the letter to the magicians--this is where Gothic gets interesting. When you reach the old camp, Diego says that you must get in contact with a man named Gomez, who is the leader of the camp. Unfortunately, Gomez is completely inaccessible to almost anyone who's not a part of his elite group of soldiers, known as shadows. To join the shadows, you have to earn the trust of specific characters within the old camp by completing small quests. One of the first quests you receive is from a man named Tharus, who tells you that a member of the new camp, a man named Mordrag, is stealing items from the old camp and then selling them back as if they were new. Your task is to confront Mordrag and remove him from the camp through any means. Interestingly, when you confront Mordrag, he gives you the opportunity to turn your back on the shadows and the old camp. If you accept his offer, he'll guide you to the new camp, where you can complete quests that range from fetching water for peasants working in a rice field to killing a beast responsible for creating leaks in a dam. It's also possible to ignore these two camps and head straight for the camp filled with religious zealots praying for release from the barrier. One of the first quests in their camp is to find new followers by scouring through the old camp, which probably won't make the shadows too happy. Later on, it'll become obvious that many of the quests share the same objective, but it's up to you to decide how you want to complete it.
+
+The world of Gothic is a large one. It can take a while to travel in between camps, especially if you're not familiar with the area, and the fact that there are hidden areas filled with items only adds to your exploration time. The day-and-night cycle also plays an important role in traveling from area to area, as it's very difficult to see anything at night, including any enemies who might be lurking in the heavily forested areas. But what's most impressive about Gothic is that its world seems so alive, with characters reacting realistically to your presence. For example, if you just happen to draw your sword in the middle of town, one of the locals will ask you to put your weapon away or face the consequences. In addition, walking into a house will make its occupant draw a weapon and come running after you. Even after your character is killed, the NPC will try to loot your body for any ore you might have. Aside from the rough inventory, it looks like Gothic might be an RPG to keep any eye out for this November.
+
+By Giancarlo Varanini, GameSpot PC [POSTED: 10/17/01]

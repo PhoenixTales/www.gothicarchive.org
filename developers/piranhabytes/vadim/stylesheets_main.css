@@ -1,0 +1,24 @@
+h1 { font-family:Arial; font-size:16pt; color:#D5CeB3; font-weight:900 }
+
+a:link { font-family:Arial; font-size:10pt; color:#D5CeB3; font-weight:900; }
+a:visited { font-family:Arial; font-size:10pt; color:#b5Ae93; font-weight:900; }
+a:hover { font-family:Arial; font-size:10pt; color:#f5eed3; font-weight:900; }
+
+body { background-color:black; background-position:center middle; background-repeat:no-repeat; background-attachment:fixed; }
+
+
+
+p { font-family:Arial; font-size:10pt; color:#E5Dec3; font-weight:100; text-decoration:none }
+h2 { font-family:Arial; font-size:12pt; color:#E5Dec3; font-weight:500; text-decoration:none }
+
+table { position:relative; top:10%; padding-left:20px; padding-right:20px }
+
+img { border-style:solid; border-color:black }
+
+p.menu { font-family:Arial; font-size:10pt; color:#778899; font-weight:100; text-decoration:none }
+p.active { font-family:Arial; font-size:10pt; color:#8899EE; font-weight:900; text-decoration:none }
+
+a.menu:link { font-family:Arial; font-size:10pt; color:#778899; font-weight:100; text-decoration:none }
+a.menu:visited { font-family:Arial; font-size:10pt; color:#778899; font-weight:100; text-decoration:none }
+a.menu:active { font-family:Arial; font-size:10pt; color:#8899EE; font-weight:900; text-decoration:none }
+a.menu:hover { font-family:Arial; font-size:10pt; color:#99AABB; font-weight:700; text-decoration:none }

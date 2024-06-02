@@ -1,0 +1,82 @@
+3dgaming.net 07/1999
+
+30.07.1999
+
+
+Here's the full interview, folks, for your viewing pleasure.
+
+1. Will you be able to torch/demolish structures?
+Alex: YES! Destroy! DESTROY!! Sorry. There will be some structures that can be destroyed. Using a 2-handed Axe you surely can open doors or chests without worrying about a key, but you probably won't be able to destroy complete buildings.
+
+2. Can you choose a model and skin for the main character, or is there a set person you must use?
+Alex: Yes, it's a set person, but hey, it's our HERO! Choosing a skin at the beginning wouldn't make much sense, because you will find dozens of different clothing and armor later in the game that you can use. But if you like you can try to solve the game in your underwear instead
+Mike: There still is the idea of letting the player choose one of several different faces at the beginning...
+
+3. Will you include an easter egg that shows llamas with "3DGN" spray painted on the side just for us? Pretty please?
+Alex: What an exeptional good idea! I'll talk to our Creature-Designer and present this idea to him.
+Tom: Why me??? What have I done wrong in my last life?
+
+4. Are there going to be any modes of transportation aside from walking? (Such as riding horses, hover crafts, whatever)
+Alex: How do you know about the hover crafts? We had them in, but dropped them as we discovered they don't fit into our medieval fantasy scenario Aside from walking, you can run, sneak, sprint, swim, dive, teleport, or just stay where you are and wait for something to happen. There will be no horses in GOTHIC and probably no other creatures you can ride.
+Mike: I want an orc to ride a tamed battle-troll... it seems that they won't let me have it, but we'll see...
+Tom: Sorry about Mike's strange ideas - everyone knows that you'll never be able to tame a troll
+
+5. How many weapons will be included? Can you name a few?
+Mario: Many! At the moment about 40 different weapons like Trollslayer, Deathbringer, Demonsword, manicure sets and so on!
+
+6. How exactly does the mana system work for casting spells?
+Mike: Mana regenerates automatically. I see no point in carrying around 100 mana-potions, so regeneration will be quite fast. We still have potions (very rare and very expensive), but they'll boost you OVER your actual maximun!
+
+7. Can you get NPCs to join your quest and aid you in battle? If so, do you control them, or do they act independently?
+Alex: Yes, this will happen. They act independently so you can't make them do something completely silly.
+Mike: A party member will not let you down in battle unless you decide to attack a 15 feet towering troll. Party members will react like you, so you can control them indirectly; i.e. you attack-they attack, you quit battle-they quit battle, you sneak-they sneak (if they're able to), etc.
+
+8. Would you mind running us through a sample encounter with an enemy and the battle that ensues?
+Mike: You are in some underground caves. You face death itself in the form of 3 Goblins. Wait! Gobbos are about 3 feet high. They're no real threat - and they know it! So they cautiously approach you, and one of them tries to get behind you. You draw your sword (which you've most recently taken from the sucker who didn't want to let you over the bridge), eager to test its abilities on some gobbos. One gobbo jumps forward. Your blade hits him in mid-air, his body lifelessly drops before you, and he loses his weapon out of his hand. The remaining gobbos flee in panic around the next corner. You leave the sword behind, because almost everyone on the surface has a better one, and they won't buy crap!
+
+You run after the gobbos around the next corner into a huge cavern. On the far side the two goblins seem to be waiting for you. One of them seems to have a rather precious weapon - little bastards! Now you gonna die! You race towards the goblins, crossing the huge cavern. You are halfway through, and suddenly the ground slightly begins to shake. The goblins jump up and down, cheering - are they mocking you? You turn around. A gigantic troll is moving towards you. And there is something in the air... BANG the rock hits you hard! You drop to the ground, losing your sword. One moment later, the troll is over you. You jump up , turn around and run the hell out of- GRAB! You are in the troll's fist.
+
+You've been in this situation before. If you still had your sword you could hit him on his ugly nose and he would let you fall down. But without a sword you horrifiedly stare at the huge jaws of the troll as he bites your head off!
+
+You are reborn at the altar - again (sigh). Damn! You've lost your sword! Again! You ask yourself if a little more thinking before running into rooms might help... And why is this black beast hanging around here everytime you are resurrected?
+
+9. Can you list a few of the technologies being used for the graphics? (Facial animation, 16-bit coloring, that sort of thing)
+Tom: Facial animation and expression, softskinning meshes, realtime shadows, particle system, motion capture animations, day and night shift, lense flairs, volumetric fog, cloud shadows and many other things as our programmers said ;-)
+
+It may seem like a long interview, but our next question involves boobies. 
+We promised you we'd mention breasts, so here goes
+
+10. Will the player at any point in the game get to play with a woman's breasts?
+Alex: This would never be the real thing using input devices that are common today. As soon as everybody uses "feel-it-sensomatic-gloves" I'd like to include this feature
+Tom: Perhaps we include the orc-centerfolde of the month for you, o.k.?
+
+11. Can you swim underwater?
+Alex: Yes I can, can you?
+Tom: Baywatch???
+
+12. After initiating battle with an enemy, can you stop fighting and try and reconcile? Many RPGs don't give you that option after the fighting has started.
+Alex: That depends. Trying to reconcile after hitting that big, ugly orc with your sword will make you a dead man, and the orc happy again. But if you hit an NPC that is neutral or friendly he won't kill you if you hit him by mistake and put down your weapon after that. And if you attack someone who is much stronger than you, but not an enemy he may knock you to the ground as a warning instead of killing you.
+
+13. Will mages have different choices as far as what types of magic they can specialize in?
+Mike: Yes! (Wonderful, isn't it?) You will be able to choose from 2 philosophies of magic. The White Magic uses whatever means to destroy the enemies. The Grey Ones try to keep the balance and therefore don't use mega-destructive spells, but their subtile means of solving their problems are no less efficient!
+
+14. Is there any alignment for your character that will influence NPC reactions?
+Alex: We don't have an absolute "morale-meter" that counts your evil deeds, making all the NPCs say "I don't talk to you, you baaad guy!" after a while. This wouldn't make much sense in a prison-camp, and beyond that it's not fun. But this doesn't mean that you can do whatever you want without being held responsible. If you try to steal something, make sure that you're not seen. If you wander around the world just trying to annoy every NPC you meet they will react accordingly.
+
+15. What, if any, types of sub quests will be made available to the player?
+Mike: Let's see... We have "Bring my dead cat to the graveyard", "I can't sleep, read me a story", and "Let's sing a song, I'm stupid". Cool, eh?
+Tom: Eeh, Mike? We have to talk...
+
+16. Is it possible to morph into other creatures through magic? (or other means, if applicable)
+Alex: As a Magician you will have the ability to shapeshift. You can use this spell to transform into a Meatbug, which is a small creature that is able to climb on walls and ceilings and sneak past the guards. As a Psionic you can control humanoid beings, such as Gobbos or Orcs.
+
+17. Will the characters specializing in psionics be able to persuade NPCs to do their bidding?
+Mike: Yes.
+Tom: What else can I say?
+
+18. How often can a player use psionic powers, and what types of limitations are imposed on their use?
+Alex: The use of psionic powers depends on your will-power. You can refresh this psionic power by using meditation.
+Tom: Ooooommmmmmh, I'm a lotus blossom, ooooohhhhhm...
+
+
+I'd like to thank Piranha Bytes for being good sports and doing this interview with us. And to the readers, thanks for tuning into 3DGN, be sure to drop in tomorrow, same evil monkey time, same evil monkey channel.

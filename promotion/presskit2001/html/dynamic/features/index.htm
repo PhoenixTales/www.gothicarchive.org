@@ -1,0 +1,143 @@
+<html>
+<head>
+<title>Gothic - The Game - Features Langfassung</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../../static/style.css">
+</head>
+<script language="JavaScript">
+<!--
+
+/* ---------------dhtml/Browser-Notation-----------*/
+
+  if (document.all)
+  {
+    ebene="document.all.";
+    stil=".style."
+  }
+  else
+  {
+    ebene="document.layers.";
+    stil="."
+  }
+
+/* ---------------Bewegt die Textebene-----------*/
+
+  var startPosTBM=0,schicht=0,eMov=-6
+
+
+  function moveUpM()
+  {
+    eval(ebene+'rahmen'+stil+'top=startPosTBM');
+
+    if(startPosTBM > -750)
+      startPosTBM += eMov;
+
+    timer1=setTimeout("moveUpM()",70);
+  }
+
+
+
+  function moveDownM()
+  {
+    eval(ebene+'rahmen'+stil+'top=startPosTBM');
+
+    if(startPosTBM < 10)
+      startPosTBM -= eMov;
+
+    timer1=setTimeout("moveDownM()",70);
+  }
+
+
+
+  function sprung(punkt,weite)
+  {
+    eval(ebene+'rahmen'+stil+'top=punkt');
+    startPosTBM=weite;
+  }
+
+//-->
+</script>
+<body background="../../static/images/bg/bg_3.jpg">
+<div id="rahmen" style="position:absolute; width:300px; height:400px; z-index:1; left: 10px; top: 0px"> 
+  <table width="300" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td class="headline">Features: Langfassung</td>
+    <tr> 
+      <td><img src="{{ mediaLinkBase }}/../../l.gif" width="1" height="25"></td>
+    </tr>
+    <tr> 
+      <td>-Action-Roleplaying Game mit gro�er Handlungsfreiheit: Der Spieler kann 
+        entscheiden, ob er z. B. eine T�r eintreten oder den Sch�ssel suchen m�chte<br>
+        <br>
+        - Neues Spiel durch neue Spielfigur: W�hrend des Spielverlaufs kann entschieden 
+        werden, ob der Held zum Krieger, Dieb, Zauberer oder Psioniker ausgebildet 
+        wird. Es gibt jedoch auch die M�glichkeit zu mischen<br>
+        <br>
+        - 3rd person view: Waffen, Ausr�stung und Talente sind am Spielcharakter 
+        und seinen Bewegungen sofort sichtbar<br>
+        <br>
+        - Facial animations: Lippen bewegen sich beim Sprechen und Gesichtsausdr�cke 
+        �ndern sich mit den Stimmungen<br>
+        <br>
+        - Einfache Bedienung: GOTHIC ist selbsterkl�rend und wird mit nur wenigen 
+        Standard-Tasten gespielt<br>
+        <br>
+        - Mehr als 250 NSCs (computergesteuerter Character) und alle mit einem 
+        Ged�chtnis: Wird ein NSC angegriffen, teilt er es bei n�chster Gelegenheit 
+        seinen Freunden mit und sie werden sich beim n�chsten Zusammentreffen 
+        auch wieder daran erinnern<br>
+        <br>
+        - Funktionierendes Sozialsystem: Bringt der Held jemanden gegen sich auf, 
+        so hat er auch dessen Freunde gegen sich. Umgekehrt gewinnt man mit der 
+        Freundschaft einer Figur auch die Unterst�tzung von dessen Freunden<br>
+        <br>
+        - Kommunikation mit NSCs: Alle Gespr�che kann man selbst lenken durch 
+        die jeweilige Auswahl der Fragen und Antworten<br>
+        <br>
+        - NSCs haben einen Tagesablauf: Jeder NSC lebt sein eigenes Leben, egal 
+        was der Held gerade macht. Er geht seiner Arbeit oder Freizeitbesch�ftigung 
+        nach, schuftet z.B. tags�ber in den Minen und setzt sich, wenn es dunkel 
+        wird, an ein Lagerfeuer, um mit seinen Freunden zu feiern<br>
+        <br>
+        - Monster kooperieren untereinander: Man sollte auch bei Angriffen auf 
+        kleinere Monster vorsichtig sein - sie k�nnten gr��ere Freunde haben ...<br>
+        <br>
+        - NSCs �ndern ihre Ausr�stung: Findet ein NSC eine bessere Waffe als seine 
+        bisherige, wird er diese aufsammeln und benutzen. Vielleicht sogar die 
+        des Helden, und wenn er mutig genug ist, sogar noch, w�hrend dieser sie 
+        in den H�nden h�lt<br>
+        <br>
+        - Monster haben ein Privatleben: Kein Monster wartet festgefroren hinter 
+        einer Ecke auf jemanden. Man kann sie zuf�llig treffen, wenn man ihren 
+        Weg kreuzt. Sie jagen oder werden gejagt, fressen, wenn sie Hunger haben, 
+        schlafen u.s.w.<br>
+        <br>
+        - Es gibt viel zu tun: Der Held hat Auftr�ge auszuf�hren, R�tsel zu l�sen 
+        und muss f�r sein Ziel k�mpfen. Es gilt, bessere Waffen zu erhalten und 
+        seine Talente zu verbessern<br>
+        <br>
+        - Keine Charaktergenerierung vor Spielbeginn: Bei GOTHIC hei�t es: einfach 
+        starten und losspielen! Der Spielercharakter wird w�hrend des Spiels auf- 
+        und ausgebaut. Kein Regelsystem mu� bekannt sein und keine Fertigkeit, 
+        die nicht durch das Spiel erkl�rt wird<br>
+        <br>
+        - In- und Outdoor-Welten: Von einer riesigen Oberwelt aus hat der Spieler 
+        Zugang zu vielen dunklen Dungeons<br>
+        <br>
+        - Detailreichtum: Es gibt eine Welt voller einzigartiger Situationen. 
+        Keine zwei Orte sehen gleich aus und verschiedene Orte haben verschiedene 
+        Atmosph�ren, da sich die Musik dem Ort anpasst.</td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+</div>
+<div id="hoch" style="position:absolute; width:50px; height:49px; z-index:2; left: 330px; top: 40px"><a href="#" onmouseover="moveDownM();" onmouseout="clearTimeout(timer1);" ondblclick="sprung(100,0)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_hoch.gif" width="40" height="40" border="0"></a></div>
+<div id="runter" style="position:absolute; left:330px; top:100px; width:50px; height:49px; z-index:3"><a href="#" onMouseOver="moveUpM();" onMouseOut="clearTimeout(timer1)" onDblClick="sprung(-750,-750)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_runter.gif" width="40" height="40" border="0"></a></div>
+<div id="hauptmenue" style="position:absolute; width:126px; height:23px; z-index:1; left: 610px; top: 530px; visibility: visible"><a href="../../start.htm"><img src="{{ mediaLinkBase }}/../../static/images/haupt.gif" width="126" height="23" border="0"></a></div>
+</body>
+</html>

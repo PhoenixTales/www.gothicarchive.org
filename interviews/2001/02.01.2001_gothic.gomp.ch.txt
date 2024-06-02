@@ -1,0 +1,79 @@
+gothic.gomp.ch 01/2001
+
+02.01.2001
+
+Neues Interview mit Torsten Dinkheller
+
+Hier bekommt ihr noch ein paar Fragen beantwortet. Falls ihr noch mehr wisst oder einfach mal eine Zusammenfassung all eurer Fragen beantwortet haben mögt, schickt mir einfach ne E- Mail an waldgeist@waldgeist-design.de. Dann mache ich mal eine Zusammenstellung. Solange aber vergnügt euch einfach mit diesem Interview.
+
+07.01.2001:
+
+gothic.gOmp, eine Fansite zum kommenden Rollenspiel 'Gothic', hat ein neues Interview mit Torsten Dinkheller von Entwickler Piranha Bytes gehalten. Im Interview werden hauptsächlich Detailfragen beantwortet, die nach den bisherigen Berichten zu 'Gothic' noch nicht beantwortet waren.
+
+gOmp: Gibt es auch Sequenzen in Gothic in denen man einfach nur das Ambiente genießen und sich einfach in die Welt einfühlen kann, den NPC's beim Leben zuschauen und lernen? Oder wird eher actionlastiges Spielen erwünscht?
+
+PB: Wie schnell Du durch Gothic hastest oder ob du dir die Welt genüsslich anschaust hängt von dir ab. Bei den Menschen ist das sicherlich einfachern als bei den Monstern, da die Monster teilweise auf Sicht angreifen und Dir den Spaß verderben werden. Aber da gibt es immer noch genügend Plätzchen, an denen Du auf einem Plateau stehst und die Umgebung in Ruhe beobachten kannst.
+
+'Gothic' ist ein 3D-Action-Rollenspiel das voraussichtlich im März 2001 erscheinen wird. Die Stärken von 'Gothic' werden unter anderem in einer sehr guten KI und Grafik liegen.
+
+
+
+g0mp:
+Kann man mit zwei Waffen gleichzeitig kämpfen?
+Torsten:
+Nein man wird nur eine Nahkampfwaffe und eine Fernwaffe zugleich angelegt haben können. Das heißt, dass diese dann über die Shortcuts "1" und "2" zu erreichen sind.
+
+g0mp:
+In eurem Trailer hat man Animationen gesehen die der Kämpfer am Ende ausgeführt hat, ist so etwas in dieser Komplexität im fertigen Spiel überhaupt möglich?
+Torsten:
+Es gibt zum einem eine Art Schule für Schwertkämpfer, die im alten Lager ist. Dort wird man andere Kämpfer sehen, die diese Kombinationen üben. Man selbst wird aber nur eine abgespeckte Version davon in Form einer Combo zur Verfügung haben. Das heißt, wenn man sich zur Genüge auf eine Waffengattung spezialisiert hat, wird man eine längere Combo schlagen können.
+
+g0mp:
+Wie wollt ihr Zwischenscenen darstellen?
+a) wie in Halflife das sie eben passieren man selber beeinflussen kann
+b) Wie in Vampire das mit Scripted Scenes etwas passiert das eben so passiert wie es gescripted war und man die Handlungen seines Characters in dieser Sequenz nicht mehr beeinflussen kann.
+Torsten:
+Die Zwischensequenzen werden entweder gescripted ablaufen oder größtenteils sogar als Rendersequenzen.
+
+g0mp:
+Wann kommt ein neuer Teaser? Oder kommt keiner mehr vor der DEMO?
+Torsten:
+Es wird vor der Demo nichts mehr erscheinen außer einer Preview der Print Medien.
+
+g0mp:
+Wird es im Storyverlauf so etwas wie eine Romanze geben?
+Torsten:
+Wird nicht verraten.
+
+g0mp:
+Ein paar Fragen zu Steuerung:
+a) Wird der Held die Figure etc... so wendig sein wie etwas in einem 3D Shooter
+b) Wird die Steuerung per Maus besser sein (wie etwa Rune) oder eher Tasten (wie etwa Tomb Raider)
+c) wird es im Kampf möglich sein (bezogen auf die Frage weiter oben) verschiedene Schlagkombinationen zu führen so wie Paraden usw... oder wird es eher klick und prügel werden?
+Torsten:
+Die Steuerung ist rein Tastenbasiert. Es ist zwar eine Neubelegung möglich, aber keine Maus. Der Held wird so wendig sein wie der Spieler dies vermag. Das einzige was etwas länger dauert ist das Strafen. Da wird man nicht so schnell sein wie bei einem Shooter.
+
+g0mp:
+Magie: Besteht das alte Auswahlsystem noch mit dem Kreis den man dreht und damit den Zauber auswählt? (war supergenial)
+Torsten:
+Das ist weiterhin eine Möglichkeit. Die andere ist die über Shortcuts. Das heißt die Tasten "3" - "9" sind nur für die Magie belegbar. Sobald ich einen Spuch brauche werde ich diese über den Shortcut aufrufen können.
+
+g0mp:
+Würdet ihr das Release noch weiter verschieben (können) wenn ihr noch etwas entdeckt das ihr verbessern müsst?
+Torsten:
+Diese Frage stellt sich nicht, da wir jetzt schon so weit sind, dass das Ende absehbar ist. Zur Zeit wird eigentlcih nur noch gebugfixt und auch da ist das Ende absehbar. Die dicksten Dinger sind weg und es geht auf den Endspurt zu.
+
+g0mp:
+Kommt vielleicht noch ein MP per Update oder per Zusatz CD?
+Torsten:
+Das ist eine Entscheidung, die erst erwogen wird, wenn Gothic im Laden steht.
+
+g0mp:
+Wird es in der Wildniss Tiere geben die herumstreunen wie etwa Hasen usw.... die das ganze Leben und die Welt realistischer machen?
+Torsten:
+Es gibt keine real existierenden Tiere in Gothic, dafür aber Meatbugs und mehr, die für Realitätsnähe sorgen
+
+g0mp:
+Gibt es auch Sequenzen in Gothic in denen man einfach nur das Ambiente geniesen kann und sich einfach in die Welt einfühlen kann, den NPC's beim leben zuschauen und lernen? oder wird eher actionlastiges spielen erwünscht?
+Torsten:
+Wie schnell Du durch Gothic hastest oder dir die Welt genüßlich anschaust hängt von dir ab. Bei den Menschen ist das sicherlich einfachern als bei den Monstern, da die Monster teilweise auf Sicht angreifen und Dir den Spaß verderben werden. Aber da gibt es immer noch genügend Plätzchen, an denen Du auf einem Plateau stehst und die Umgebung in Ruhe beobachten kannst. 

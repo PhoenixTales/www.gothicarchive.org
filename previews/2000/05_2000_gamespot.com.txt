@@ -1,0 +1,23 @@
+gamespot.com 05/2000
+
+12.05.2000
+
+
+Gothic
+
+Publisher: n/a Genre: Action
+Developer: n/a Release: Q2 2000
+
+"Set in a medieval prison colony, this dark action/role-playing game features enhanced visual feedback, including facial expressions and action animations that change over time."
+
+Egmont Interactive and Piranha Bytes are nearing completion of their upcoming action/role-playing game Gothic. Set in a medieval prison camp, the story revolves around three warring factions of prisoners that are fighting for scarce food. The situation for the prisoners is fairly bleak; the prison camp is surrounded by a magical barrier that only allows lifeless objects to pass. You begin the game as a prisoner with unrefined skills who must fight in order to survive. As your skills develop, your character will evolve and achieve higher status in the prison hierarchy.
+Each of the three camps of prisoners has distinct skills and methods of acquiring resources. Gothic features four different character classes: thieves, warriors, magicians, and psionics. Each class has unique skills and behavior patterns.
+Gothic is expected to feature a very diverse population. You will encounter more than 25 different types of monsters, including three separate classes of orcs, two types of goblins, and trolls. A complex social framework dictates how these monsters interact. In addition to these monsters, the game involves over 250 unique nonplayer characters that are divided into guilds and factions throughout the game. As the game progresses, these characters go about their daily business independent of the actions of the player characters, assuming the player characters do not interfere. Actions you take against nonplayer characters affect your relationships with them and will alter the way those characters react to you the next time you encounter them.
+The developers have made visual feedback a high priority. The motion-captured animations in the game have been created so that you will be able to watch your character improve in skill; motions will become more fluid and efficient the better the character becomes at that particular skill, eliminating the need to monitor statistics and simplifying the interface. Likewise, animations of nonplayer characters will change over the course of time - dancers in taverns will become more lewd as the night progresses. In addition to action animations, nonplayer characters will display their emotions through their facial expressions. Each character has five different expressions: neutral, hostile, angry, frightened, and happy. By reading these characters' expressions, you will be able to choose an appropriate course of action.
+Gothic is scheduled to release in July 2000.
+
+By Staff, GameSpot PC [UPDATED: 05/12/00]
+
+
+19.05.2000
+"...Graphically, the build we saw this year was significantly improved from the one we saw a year ago, with greater attention to detail and improved textures being immediately noticeable ... The motion-captured animation is very fluid, and the engine also provides some eye-catching lightning and spell effects ... we have had ample reason to maintain our interest all along."

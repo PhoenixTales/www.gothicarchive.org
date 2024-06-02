@@ -1,0 +1,58 @@
+PC Action 10/1998
+
+10.08.1998
+
+
+SCHRÄGE VÖGEL - PIRANHA BYTES im Interview
+==========================================
+Piranha Bytes stand uns Rede und Antwort. Zu Gothic äußerten sich Alex Brüggemann, Animator, Mike Hoge, Art Director, und Tom Putzki, Level Designer und Marketing Director in Personalunion.
+
+PC Action: Gothic wird das erste Projekt von Piranha Bytes sein. Wie kam es zu der Idee, eine eigene Spieleschmiede zu gründen?
+
+Mike: Es war schon seit jeher mein Traum, Computerspiele zu machen. Ich hab' mich immer über die Masse schlechter Spiele geärgert und dachte: Das muß doch besser gehen! Jetzt weiß ich, wieviel Arbeit es ist, wenn man versucht, hohe Ansprüche umzusetzen (stöhn!) - aber es sieht so aus, als würden wir es schaffen! Alles wird gut!
+
+Tom: Das hat etwas mit dem klassischen Bild vom "Hobby zum Beruf machen" zu tun. Im Grunde mußt du so eine Art großes Kind geblieben sein und darfst nicht alles so tierisch ernst nehmen. Heißt aber nicht, daß hinter Gothic nicht unglaublich viel harte Arbeit steckt!
+
+PC Action: Ihr startet mit einem epischen Fantasy-Rollenspiel, ein sehr spezielles Genre. Gibt es Gründe dafür, und wie entstand die Idee zur Hintergrundgeschichte?
+
+Mike: Als wir mit Gothic anfingen, gab es unzählige Science-Fiction-Spiele, aber so gut wie kein Fantasy. Also haben wir uns das Fantasy-Genre geschnappt und überlegt: Was macht an Rollenspielen Spaß und was hat eigentlich immer daran gestört: Auf der Spaß-Seite gab es die hohe Komplexität, die vielfältigen Entwicklungsmöglichkeiten und die Erforschung einer fremden Welt.
+
+Tom: Nicht zu vergessen die Möglichkeit, sich mit einer Figur - dem Helden - zu identifizieren; ihn zu hegen und zu pflegen, zu verbessern, ihn mit besseren Waffen und Ausrüstung auszustatten - der alte Jäger-und-Sammler-Trieb.
+
+Mike: Als nicht so toll erwiesen sich bei bisherigen Rollenspielen folgende Punkte: Daß man schnell den Überblick verliert, wenn man nicht jeden Tag vor dem Rechner sitzt und nicht mehrere Blätter mit wichtigen Infos vollmalt. Daß man viele der Charakterattribute gar nicht braucht bzw. das Spiel schlecht ausgewogen ist, weil einige Attribute viel wichtiger sind als andere. Und daß die NSCs sich viel zu einfach töten und umbringen lassen, um lebendig zu wirken. Es gab noch mehr Punkte, aber das waren wohl die wichtigsten. Naja und als wir das erstmal hatten, war es ansich ganz einfach: Die tollen Sachen bleiben drin; alles was wir nicht so toll fanden, flog bei Gothic raus. Die Hintergrundgeschichte ist langsam mitgewachsen. Die Hauptidee mit dem Gefängnis stand ganz am Anfang. Die Gründe dafür: Die Spielwelt ist begrenzt und kann umso feiner ausgearbeitet werden. Die Umgebung ist feindlich. Die Atmosphäre ist düster - kitschig-buntes Fantasy war noch nie mein Fall.
+
+Tom: Meiner auch nicht... Tolkien ist schon klasse, aber sehr simpel strukturiert: Nur schwarz und weiß, nur gut und böse. Dabei machen die vielen Grautöne das Leben doch erst richtig interessant. Mit Gothic versuchen wir, eine Atmosphäre wie im Film "Die Klapperschlange" zu schaffen.
+
+PC Action: Gibt es irgendwelche spielerischen Vorbilder von Piranha Bytes. Welche Computerspiele haben Euch besonders beeindruckt?
+
+Alex: In letzter Zeit fand ich Commandos echt klasse, endlich ein paar frische Ideen. auch Myth (nicht Myst!) hat mir gut gefallen. Aber wir zocken so viele unterschiedliche Spiele, daß der Platz hier nicht reicht, um alles aufzuzählen, was uns gefällt!
+
+PC Action: Die Dungeons von Gothic erinnern ein wenig an Tomb Raider-Gefilde. Warum habt Ihr Euch für eine 3D-Umgebung entschieden, und womit setzt Ihr sie um?
+
+Tom: Die Atmosphäre der Dungeons, Höhlen, Tempel, Minen und die gesamte Oberwelt mit ihren verschiedenen Lagern ist uns sehr wichtig. Wir wollen keine Schachtel-Levels, sondern eine organische Welt für Gothic. Daher werden unsere Levels komplett mit 3D-Modelling-Programmen gebaut und nicht mit einem x-beliebigen Editor - ich hoffe, daß man das auch sehen kann!
+
+PC Action: Beim Probespielen ging des öfteren ein Raunen durch die Redaktion. Der Grund: Sämtliche Handlungsmöglichkeiten stehen Dir schon in der ersten Alphaversion von Gothic offen, die Umgebung scheint auf alle Handlungen vorbereitet zu sein und reagiert logisch. Wie schafft Ihr das?
+
+Alex: Bei der Umsetzung legen wir viel Wert darauf, daß wir möglichst früh Spielfunktionalität ins Spiel einbauen und testen, statt erstmal nur an der Optik zu arbeiten. Aber mal unter uns: Ihr habt noch längst nicht alles gesehen, ein paar Überraschungen haben wir uns noch aufgehoben.
+
+Tom: Wir sind halt gut, hehe! Aber eins noch als Erklärung: Wir sind bei Piranha Bytes alle begeisterte Rollenspieler, sei es am PC, der Konsole, Pen & Paper oder Liverollenspiel. Insofern haben wir schon gewisse Erfahrung darin, festzustellen, was cool, was logisch und was wichtig ist und wie die Umgebung, die NSCs und Monster reagieren sollten.
+
+PC Action: Ihr habt Euch für einen Hauptcharakter entschieden, der sich später für eine von vier Rollen entscheiden muß. Warum?
+
+Mike: Bei bisherigen Rollenspielen mußte man sich am Anfang entscheiden, welchen Charakter man spielen will. Oft hatte man gar keine Ahnung, wozu die unterschiedlichen Talente gut waren und ob man nicht noch was Wichtiges vergessen hatte. Also ermöglichen wir dem Spieler bei Gothic, die Welt und die unterschiedlichen Banden kennenzulernen, bevor er sich entscheidet. Du startest zwar immer mit derselben Figur, kannst ihre Fähigkeiten aber im Laufe des Spieles in völlig unterschiedliche Richtungen lenken.
+
+PC Action: Wieviele unterschiedliche Locations wird es denn in Eurem Spiel geben. Könnt Ihr schon eine Zahl nennen?
+
+Mike: Ich finde, es sollte vorher nicht bekannt sein, wieviele Ebenen ein Dungeon hat, das versaut nur die Spannung... Aber soviel sei verraten: Wir haben bis jetzt 10 Themenbereiche fürs Leveldesign, die unterschiedlich oft zum Einsatz kommen werden. Für genügend Abwechslung ist also gesorgt!
+
+PC Action: Igr seid gerade auf der Suche nach einem Vertriebspartner für Gothic. Seid Ihr inzwischen fündig geworden?
+
+Tom: Noch nicht. Wir stehen aber momentan mit einigen Publishern in engerem Kontakt, und die bisherige Resonanz war doch überwiegend sehr positiv. Wir hoffen, bald näheres bekanntgeben zu können.
+
+PC Action: Wann dürfen wir denn wohl mit einer Verkaufsversion von Gothic rechnen?
+
+Alex: Nach derzeitiger Planung werden wir Mitte '99 fertig sein.
+
+Tom: Es soll halt richtig klasse werden, deswegen brauchen wir schon noch einige Zeit. Aber das Warten wird sich dann auch lohnen.
+
+PC Action: Vielen Dank für das Interview und weiterhin frohes Schaffen!

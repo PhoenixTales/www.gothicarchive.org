@@ -1,0 +1,17 @@
+SuperGames Nr. 10 / 11 1999
+
+
+Charakterstudien
+
+GOTHIC
+
+Schon viel ist über den kommenden Rollenspiel-Hit Gothic" aus der Bochumer Spieleschmiede Piranha Bytes berichtet worden, und das nicht nur an dieser Stelle. Doch immer wieder tauchen neue interessante Punkte im Spiel auf, die etwas mehr Beachtung verdienen, als nur ein Thema unter vielen zu sein. So, wie beispielsweise die künstlichen Emotionen der Charaktere.
+
+Gothic ist ein düsteres Rollenspiel. Die Story spielt in einem mittelalterilichen Fantasy-Reich, mitten in einem Gefängnis. Das Leben hier ist hart, und so ist es auch kein Wunder, daß freundliche Menschen nur sehr spärlich gesät sind.
+Und das liegt nicht daran, daß es generell nur einen Menschenschlag in der Gothic"-Welt, beruhend auf immer gleichen Gesichtstexturen, geben wird. Nein, ganz im Gegenteil. Wer sich in dem virtuellen Mittelalter-Knast ein wenig umsieht, wird sehr schnell feststellen, daß fast jeder Charakter ein unterschiedliches Gesicht hat. Die Detailverliebtheit hört damit jedoch nicht auf, sondern schreitet in ganz neue Dimensionen vor: die Entwickler von Piranha Bytes haben die Gesichter emotional animiert. Das bedeutet, daß sich beim Sprechen nicht nur die Kinnlade hebt und senkt, sondern daß der Charakter mit seinem Gesichtsausdruck seine Emotionen darstellt - ganz genau so, wie ein Mensch aus Fleisch und Blut.
+Ist der virtuelle Charakter also ärgerlich, verengen sich seine Augen zu schmalen Schlitzen, seine Stirn legt sich in Falten und er wirkt viel bedrohlicher. Im fröhlichen Zustand hingegen ist ein Lächeln auf seinen Lippen zu erkennen, sein Gesicht wirkt offen und friedlich. Im ängstlichen Zustand weiten sich die Augen und machen einen erschrockenen Eindruck, zudem beginnt die Unterlippe des Charakters zu beben. Letztendlich beherrscht jeder Charakter noch einen neutralen Gesichtsausdruck, der allerdings dadurch nicht als nichtssagend abzustempeln ist. Zum einen lassen sich diese Facial Animations anwenden, um per Gesichtsausdruck beispielsweise die Reaktion auf eine Handlung des Spielers oder ein Ereignis in der Umgebung anzuzeigen. Zieht der Spieler beispielsweise vor einem deutlich schwächeren menschlichen Charakter ganz urplötzlich sein Schwert, kann es sein, daß sein Gegenüber einen erschrockenen, fast ängstlichen Eindruck macht. Doch auch im Gespräch lassen sich die Emotions-Animationen bestens anwenden, um so auch optisch anzudeuten, was der Gesprächspartner von seinem gegenüber hält. Für den Spieler sind die Gesichtsausdrücke weiterhin eine hervorragende Methode, frühzeitig zu erkennen, ob Gefahr droht oder er sich in Sicherheit wiegen darf.
+Doch nicht nur die Gesichter werden detailverliebt und lebensnah dargestellt, auch die Kleidung der Charaktere in Gothic" soll immer einen adretten Eindruck erwecken. War es bisher schwierig, wallende Gewänder wie beispielsweise Röcke oder Mäntel realistisch zu animieren, haben die Entwickler von Piranha Bytes dieses Problem in den Griff bekommen. Durch einige programmiererische Tricks verhalten sich die langen, unten offenen Kleidungsstücke nun wie ihre realen Vorbilder und schwenken bei Klettermanövern, Sprüngen und ähnlichen starken Bewegungen in die richtigen Richtungen, ohne so zu wirken, als würde ihre Physik auf einem Schluck Wasser in der Kurve beruhen.
+
+Gothic
+Erscheinungstermin: Ende 1999
+Hersteller: Piranha Bytes

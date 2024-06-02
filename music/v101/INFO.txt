@@ -1,0 +1,18 @@
+#################################
+##        Gothic 1.01d/e       ##
+##          Soundtrack         ##
+##      =================      ##
+##      Export:  09.03.21      ##
+##    Copyright: THQ Nordic    ##
+#################################
+
+CS_Intro(2:16)
+Dung_T_01(0:19)
+FGT_01(0:36)
+OC/OW_Day_Fgt(0:42)
+OC/OW_Day_Std(2:31)
+OC/OW_Day_Thr(0:42)
+OC/OW_Ngt_Std(1:23)
+TH_Day_Std(0:32)
+TH_Day_Thr(0:16)
+	

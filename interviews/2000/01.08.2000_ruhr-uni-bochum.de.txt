@@ -1,0 +1,195 @@
+homepage.ruhr-uni-bochum.de 08/2000
+
+01.08.2000
+
+
+Q: In welches Spiele-Genre kann man GOTHIC einorten ?
+
+A: Es ist ein Rollenspiel mit verschiedenen Komponenten, z.B. ist es actionlastig, aber im Vordergrund steht das Rollenspiel.
+
+Q: In welcher Perspektive wird GOTHIC gespielt ? Wird es einen 1st - Person Modus geben ?
+
+A: Gothic wird in der Third-Person Perspektive gespielt.
+
+Q: Welche Charaktere stehen dem Spieler in GOTHIC zur Verfügung ? Kann er gegebenenfalls sich mit NPC gruppieren, oder ist GOTHIC oder ist es ein reines Single-Charakter Spiel ?
+
+A: Es gibt am Anfang keine Charakter Generierung, denn der Spieler generiert seinen Charakter praktisch im Spiel. Der Spieler kann mit NPCs interagieren, aber er wird sie nicht als Gruppe führen, was nicht heißt, das die NPCs nicht bereit wären zu helfen. Es ist ein reines Single-Charakter Spiel.
+
+Q: Wie groß ist die Welt von GOTHIC? Wie viele Locations gibt es?
+
+A: Die Oberwelt, das heißt alles was durch Tageslicht erhellt wird, ist kleiner als Ultima, aber kompakter. Das heißt es stehen nicht irgendwo 3 Häuser vereinsamt in der Gegend, sondern Städte. Es gibt eine Vielzahl an Locations. Ich denke das solltet ihr aber selbst herausfinden. Auf jeden Fall werden Leute die sich auf die Suche machen noch zusätzlich belohnt.
+
+Q: Ist die Welt von GOTHIC dynamisch oder statisch? Hat die Vorgehensweise des Charakters direkten Einfluss auf die Spielwelt?
+
+A: Ja. Der Spieler beeinflusst den Teil der Story um den er sich bemüht. Allerdings gehen natürlich noch mehr Dinge vor sich.
+
+Q: Wie viel verschiedene Gegner (Monster und NPCs) wird es voraussichtlich in GOTHIC geben?
+
+A: Es gibt 30 Monsterarten, aber man kann mit gewissen Aktionen sicherlich auch den letzten Buddler gegen sich aufbringen. Und dann hat man wirklich viele Gegner.
+
+Q: Die Kämpfe in GOTHIC sind Echtzeit. Wie gestaltet sich das Kampfgeschehen für den Spieler hinsichtlich der Bedienung ? Wilde Tastenkombinationen?
+
+A: Es gibt eine einfache Tastaturbelegung, die mit etwa 10 Tasten auskommt. Und das Kampfgeschick ist vom Grad der Fähigkeit des Helden abhängig. Dadurch ergeben sich neue Schläge und Schlagkombinationen.
+
+Q: Wird es so etwas wie Quickslots für Gegenstände, Zaubersprüche und Waffen in GOTHIC geben?
+
+A: Es gibt Quickslots.
+
+Q: Wie gestaltet sich die Kommunikation mit NPCs in GOTHIC? Wird sich der NPC merken, ob und vor allen Dingen wie der Spieler mit ihm kommuniziert hat? Gibt es verschiedene Kommunikationsmöglichkeiten, wie z.B. freundlich oder aggressiv?
+
+A: Man wird dem Gesprächspartner seine Laune schon am Gesicht ansehen können. Es gibt Gesichtsanimationen dafür.
+
+Q: Besitzt GOTHIC ein vollständiges WYSIWYG Interface für Waffen, Rüstungen etc. ?
+
+A: Alles was der Held anlegt wird auch wirklich angelegt und ist somit auch sichtbar. Alles heißt aber nicht nur Waffen und Rüstungen, sondern auch Getränke und Schlüssel und...
+
+Q: Hat GOTHIC eine lineare Storyline, oder eher eine dynamische? Gibt es Subquests?
+
+A: Es ist eine dynamische Storyline mit Subquests.
+
+Q: Wird es einen Multiplayermodus geben, oder ist einer gegebenenfalls für Updates geplant?
+
+A: Nein es wird keinen Multiplayermodus geben, was später kommt kann ich nicht sagen.
+
+Q: Wie sieht die Charakterentwicklung in GOTHIC aus? Gibt es ein Skillsystem, wenn ja, wie funktioniert es? Ist die Charakterentwicklung in Stufen oder mehr dynamisch?
+
+A: Es gibt ein Skillsystem, das aber nicht im Vordergrund steht, da es ein Rollenspiel sein soll. Aber diejenigen, die Werte brauchen, können sich die Werte auch anzeigen lassen.
+
+Q: Werden Verletzungen des Charakters, oder auch die der NPCs und Monster, in GOTHIC optisch dargestellt? Wird es 'Blood&Gore' Effekte geben?
+
+A: Ja, alle bluten und ziehen eine Blutspur hinter sich her.
+
+Q: Welche mindest Systemanforderungen müssen erfüllt werden, um GOTHIC in seiner ganzen Grafikpracht zuspielen?
+
+A: In voller Pracht voraussichtlich einen P2 400 mit einer 32 MB Grafikkarte und 128MB Speicher
+
+Q: In welcher Farbtiefe wird GOTHIC den Spieler erfreuen ?
+
+A: 16 Bit
+
+Q: Unterstützt GOTHIC die Transform and Lightning Technik neuer Grafikkarten, wie GeFORCE oder GeForce 2 ?
+
+A: Ja
+
+Q: Wie hoch ist die durchschnittliche Spielzeit um GOTHIC zubeenden?
+
+A: 65 Stunden
+
+Q: Wann ist der voraussichtlicher Erscheinungstermin von GOTHIC?
+
+A: Seht bitte auf der Webpage vom Publisher. www.gothicthegame.com
+
+Q: Wird es eine limitierte Ausgabe von GOTHIC geben (eventuell mit Figur, Comic oder T-shirt)?
+
+A: Das wird noch entschieden.
+
+Q: Durch was zeichnet sich GOTHIC besonders aus im Gegensatz zu anderen Spielen dieses Genre ?
+
+A:
+
+Q: Was kann man über die Specialeffeckts, z.B. Zaubersprüche, in GOTHIC sagen ?
+
+A: Da kann man nicht viel zu sagen, außer dass sie toll aussehen.
+
+Q: Wie sieht das Magiesystem in GOTHIC aus? Worauf basiert es?
+
+A: Es gibt 2 Arten der Magie und eine Art Manapool. Es ist eine Eigenentwicklung.
+
+
+
+ENG
+
+
+02.08.2000:
+
+Q: What kind of game is GOTHIC ?
+
+A: GOTHIC is a Roleplayinggame with different components, e.g. it has a lot of action, but its primary there is Roleplaying.
+
+Q: In which perspective you will GOTHIC ? Is there a 1st-person mode?
+
+A: You will play GOTHIC in a Third-Person perspective.
+
+Q: What kind of character the player can choose in GOTHIC? Is there a possibility to build up a party with NPCs, or is it a single-charakter game?
+
+A: There is no charaktercreation in the beginning, cause the player develops his charakter in the game. The charakter can interact with NPCs, but he will not be able to lead them, but that doesn't mean that they won't help him. It is a single-charakter game.
+
+Q: How big is the world of GOTHIC? How many different location the player can explore?
+
+A: The outworld of GOTHIC is smaller then in Ultima, but therefore more compact. That means, that there are not only standing three houses somewhere in the area, no there are real towns. There are a lot of locations. But you better should find that out by yourself. These players who explore will be pleasured and rewarded.
+
+Q: Is the world of GOTHIC dynamic or static? Has the behaviour of the charakter a direct influence to the world?
+
+A: Yes. The player has influence of a part of the story. But there are more things going on in the world of GOTHIC.
+
+Q: How many kinds of monsters and NPCs the player can encounter in GOTHIC?
+
+A: There are around 30 kinds of monsters, but with the wrong behaviour you may be able to be the foe of all. And then you have a lot of enemies.
+
+Q: The fights in GOTHIC are realtime. What about the controls in fights? Are they complicated or more ease?
+
+A: Theres are easy keycombinations, which manage with around 10 keys. The fight depends on the skills of the character. With better skills there will be new attackcombinations.
+
+Q: Will there be quickslots for spells, weapons and things avaible in GOTHIC?
+
+A: Yes. Quickslots.
+
+Q: What about the communication with NPCs in GOTHIC?Will the NPC remember the charakter and his behaviour? Are there different modes of communication in GOTHIC, e.g. friendly or angry?
+
+A: There are advanced facial animation. So you will see how your partner react on your words.
+
+Q: Does GOTHIC has a real complete WYSIWYG Interface for weapons, armors etc. ?
+
+A: Yes. You will see everything. Armor, weapons, potions, keys.....
+
+Q: How about the storyline in GOTHIC? Is it more free or linear? Are there subquests avaible?
+
+A: It is a dynamic storyline with subplots.
+
+Q: Does GOTHIC has a multiplayer mode? Or will it be avaible in upcoming updates?
+
+A: No. At moment there will be no multiplayer mode.
+
+Q: How about the charakter development in GOTHIC? Is is more in level or more dynamic? Has GOTHIC a skillsystem, if so, how does it work?
+
+A: Theres a skillsystem, but it don't stands in the foreground, cause the main thing is the roleplay. But the ones, who like to see the values, can do it.
+
+Q: Are wounds from the charakter, monsters and NPCs displayed optically? Are there 'Blood&Gore' effects?
+
+A: Yes. Everyone bleeds....
+
+Q: What are the minimum system requirements to play GOTHIC in its whole beauty?
+
+A: You need P2 400 with a 32 MB graficboard and 128MB RAM.
+
+Q: In which colordeth GOTHIC will run?
+
+A: 16 Bit
+
+Q: Will GOTHIC support new technologies like transform & lightning of the latest graficboards like GeFORCE and GeFORCE 2?
+
+A: Yes.
+
+Q: How high is the average playtime of GOTHIC?
+
+A: 65 hours.
+
+Q: When will be the international release of GOTHIC?
+
+A: Look at the Webpage of the Publisher. www.gothicthegame.com
+
+Q: Will there be a limited edition of GOTHIC (maybe with the comic, figure or t-shirt)?
+
+A: This isn't decided yet.
+
+Q: What distinguish GOTHIC in opposite to other games of this genre ?
+
+A:
+
+Q: What can you say about the special effect, e.g. spells, in GOTHIC ?
+
+A: Theres nothing to say...they are just terrific.
+
+Q: What about the magicsystem in GOTHIC? How does it work?
+
+A: There are 2 kinds of magic and a manapool. It a own development.

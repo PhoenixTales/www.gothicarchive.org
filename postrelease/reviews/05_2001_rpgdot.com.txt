@@ -1,0 +1,166 @@
+rpgdot.com 05/2001
+
+Gothic Review
+
+Moriendor, 2001-05-21
+
+Introduction
+
+March, 15 of this year set an end to what seemed to be an eternity for the German Gothic community when the game was finally released after it had been in development at German Piranha Bytes for about three years. The first reviews (in German print mags) that were published prior to release already indicated that it was well worth the wait. In fact, Gothic was warmly welcomed by the press and it has received more than 16 awards by now.
+
+There have been contradictory statements about the release of the international versions of Gothic in the recent past. The first official word on the release in non-German countries was fall of this year whereas the latest sources were talking about not too much past E3 which will be held from May, 17-19.
+
+Whatever it will be, your patience will be rewarded by a most intriguing gameplay experience. We are proud to present one of the first, if not THE first English Gothic review and we are happy to share our very positive opinion with you.
+
+
+Story
+
+"Before every battle goes peace. A tense peace. The kind of peace you experience before a hurricane. For a short moment, time seemed to stand still. The air descended upon the ground like a dense, oppressive sheet of dust. And then ... Howling voices broke into the silence, and the Orcs swept across the land like a tornado, ready to mow down anything and everything that might stand in their way. The war against the Orcs took its toll, and the prisoners of the Realm were to pay the price… In the days that followed, every man guilty of a crime, no matter how insignificant an offence it may have been, was brought to the mining colony of Khorinis to gather ore for the king's arsenal. The ovens' fires burned day and night and from the smithies rang a constant hammering. The king assembled the twelve most powerful Mages of the Realm: six from the Circle of Water and six from the Circle of Fire. He ordered them to erect a magic barrier around the mining colony of Khorinis, in order to put an end to the countless attempts at escaping. The barrier would let all living beings in, but none of them would be able to leave.
+
+Lightning tore the heavens, and the streams of magic merged like an explosion. The barrier had been created, but it covered a much wider area than planned. Even the Mages themselves were trapped inside it.
+
+A brief moment of negligence was all the convicts needed. As the barrier crept across the sky, they grasped the opportunity of killing the guards that had been trapped inside the barrier with them. Anyone who stood in the way of their taking control of the area enclosed by the barrier was killed.
+
+The only ones they did not dare to touch were the Mages, but even they were unable to quell the uprising. The entire stretch of land was now controlled by the prisoners.
+
+
+[IMG]
+The magical barrier is visible...
+
+
+The king had no choice: He had to negotiate, he needed the ore. He was forced to write a missive offering the convicts a deal. He sent a messenger to deliver the letter to the edge of the barrier and throw it to one of the prisoners within the dome.
+
+This letter marked the birth of an agreement that was to prove successful in the end.
+
+Some of the prisoners continued to mine the valuable ore for the king. Once a month they sent the gathered ore to a certain exchange place on the edge of the barrier, where it was loaded onto a cable railway and transported outside.
+
+In return, the king sent them all they asked for. Month after month he made sure that food and goods of all kinds were transported to the barrier. Sometimes he even sent women down into the barrier.
+
+Today, yet another condemned man is being taken to the mine. You are that man. Just another convict, doomed to spend the rest of his life trapped inside the barrier. At least, that's what they think ...
+
+The verdict is read out on a cliff close to the exchange place, then you are roughly shoved over the edge. You lose consciousness as you fall through the barrier. As consciousness returns, you discover that you have landed in a lake. Summing up your energy, you reach the shore.
+
+A heavy foot stomps through the mud in front of you. You look up. A few of the convicts are looking down at you, their arms crossed. The man directly opposite you bends down, looks you full in the face and remarks with a stinking breath:
+
+"Welcome to jail !"
+
+He rams his fist into your face and the world goes black ...
+
+
+[IMG]
+This is where your adventure begins...
+
+
+Gameplay
+
+After waking up at the lake´s shore you will find the first note in your quest book. It tells you to go to the old encampment to meet one of its leaders. Wait a minute…"old encampment" ? That sort of implies there also is a "new encampment", doesn´t it ? Yes, that´s right and there even is another one. There are three encampments which you can join in the course of the game. The other two encampments originate from the old encampment and they consist of people who didn´t feel like accepting the destiny of being stuck inside the barrier forever. The old encampment is loyal to the king, delivering ore and receiving goods in exchange. The mages from the Circle of Fire reside in the old encampment. The new encampment is a melting pot of revolutionaries who are eagerly working on a break-out plan. The mages from the Circle of Water have joined this faction. The third encampment is somewhat obscure. It´s made up of religious fanatics who have followed their master, Yberion, into the swamplands. They pray to the so called "Sleeper", a divine being that is supposed to lead them to freedom.
+
+
+[IMG]
+The old encampment...
+
+
+So there you are. There´s no way back and just a narrow mountain pass ahead of you. No one is there to help you or to introduce you to the world. It´s all up to you to discover the world of Gothic on your own from now on. It is obvious that you should go to the old encampment first but you don´t necessarily have to. This is a specialty of Gothic. One couldn´t ask for more freedom and non-linearity than that. Of course, if you do not know the way to the other encampments you´re not likely going to get there alive but it is nonetheless possible. However, it doesn´t really matter which faction you decide to visit first. You´re considered "newbie" scum by everyone in the world. You will have to impress certain people and get a reputation in order to gain access to more important functions within one of the encampments. Since Gothic is an RPG it´s obvious that advancement is best achieved by fulfilling quests and if you talk to the locals they will assign you plenty of tasks. The variety of quests is very entertaining. There is a lot more than the standard search & retrieve missions. It´s hard not to give away spoilers so let me just say that most quests are mini-stories by themselves. Just as the main plot you will very often have several choices or even complete freedom in how you want to complete a quest. There are some very easy quests that don´t take much to complete and you will have finished them rather quickly. This is the point when patience comes into play. Your character is simply too much of a weakling for the harder quests in the beginning and you will have to take several walks in the surrounding woods and wildlife to gain experience.
+
+At level-up you are rewarded 10 so called learning points which you can use to train your character´s skills. You can also use them for raising one of the main stats, strength, dexterity or mana. Strength is needed to inflict more damage in melee combat whereas dexterity determines your accuracy when making use of ranged weapons. Mana is required for spell casting. The combat skills are subdivided into one-handed / two-handed weapons and bow / crossbow. Non-combat skills include lock picking, pick pocketing, sneaking, acrobatics and magic. The hotkeys that were reserved for performing some of the above skills will be "unlocked" upon learning the related skill . That means you will actually be able to see and feel the improvements of your alter ego. Some of the skills have an expert and a mastery level. You are going to need more learning points to advance from expert to mastery.
+
+NPCs will join you on a few occasions and without revealing too much there´s one by the name of Mud who will literally stick to your heels. You will not be able to take control of NPCs. They will attack enemies on their own just as well as defend themselves. The NPC AI (Artificial Intelligence) works very well. Sometimes they will tell you to lead them and sometimes you are being led by them. Both modes function correctly at a ratio of 99% even over great distances. In fact, I´ve only once lost an NPC who wouldn´t dare jump off a table he had climbed on before. NPCs have a social ranking. You will not be permitted to talk to the more important ones before you have climbed to a higher level in an encampment´s social ladder. Some NPCs will know what others think of you and there even is a chance of using certain NPCs diplomacy skills to straighten things out once you´ve gotten yourself in trouble. You should never approach NPCs with a drawn weapon. They will issue a short warning before they attack you. The same goes for entering their housings without their permission. If you don´t listen they will knock you unconscious and steal all or part of your money (ore). Just like monsters (see combat section below) NPCs have different levels of aggressiveness. Some are easily annoyed and you should be careful around them. The "don´t approach NPCs with drawn weapon" feature sometimes turns into a bug. If you are fighting a monster near NPCs they do not make a difference. They will attack if you don´t listen to their orders. Anyway, in case monsters get too close to them (which rarely ever happens) they will take care of them. So you might as well holster your weapon and leave it to the NPCs to fight them. NPCs who join you, know you´re an ally and you can safely be around them with a drawn weapon.
+
+Dialogues are done the typical multiple choice way. NPCs will keep track of certain events and you should as well or there is a chance of annoying them or - even worse - talking about something that you are not supposed to talk about. It is easy to differentiate between important and generic NPCs. The important ones all have names. The amount of text is kept at a reasonable level and you´re always able to skip dialogues by hitting the "Esc" key.
+
+Detail is where Gothic excels. Except for the very high graphics quality (more on that later) Piranha Bytes has managed to create a most immersing world. When wandering around the encampments you will see people going to work, repairing their huts, sitting by a campfire, cooking meals, smoking weed, dancing, eating, drinking a beer,…etc. The encampments will be full of life during daylight whereas they are going to remind you of ghost towns during the nights. Take a walk in the woods and you will sometimes spot monsters or animals preying on each other. Some NPCs travel between certain locations in the world and you will actually meet them on your own journeys. Let me conclude this paragraph by saying that it´s absolutely fascinating to experience the detailed world of Gothic.
+
+
+[IMG]
+A beautiful sunset...
+
+
+It may sound contradictory but Gothic´s coolest feature, the freedom, appears to be a weak spot at the same time. There was a point in the beginning of the game when I felt like there was too much freedom and non-linearity. I simply felt lost in this huge world and it seemed to be hard to pick up on the main plot. But when reconsidering, I realize that Piranha Bytes probably wanted to exactly evoke these feelings. You´re not the typical RPG hero in this game. You´re scum. A newbie. Even worse: a newbie in jail ! You need to work hard for others to respect you. In fact, the lost-in-space-feeling is your character´s feeling and it just transpires through to you by means of the great suspense that the game manages to create right from the start. After you´ve passed the point where you need to go monster slaying in order to improve your character you will be able to get back on track and from there on you´ll literally get sucked into a most intriguing story that will keep you going and going.
+
+
+Combat
+
+All combat in Gothic is real-time. Gothic offers a large variety of melee and ranged weapons. Once you´ve picked up a weapon you´re free to assign a hotkey. Well, not completely free because your melee weapon will be drawn when you hit the "1" key and the ranged weapon is bound to the "2" key. Your character´s appearance changes depending on your choice. When choosing a sword you will see it attached to the character´s belt. Equip a bow and he will carry it on his back. Same goes for armor. Hitting the "Space" key by default switches the game to combat mode. The opponent´s name or description will be displayed in combat mode so you always know who or what you´re aiming at. In case there are several targets you can switch between them by hitting the cursor keys.
+
+A nice feature is that you´re actually able to see your character´s advancement in combat skills. The poor guy will awkwardly wield a one-handed sword using both hands in the beginning. An investment in the sword skill will lead him to swing it one-handed. Strength is another limiting factor. Your hero can´t perform continuous attacks, leave alone attack combos if he lacks muscles. Ouch, attack combos ? Are you talking about console-style up-up-left-left-up-down-right finger wrestling ? Nope. Gothic keeps it simple but nonetheless effective. An attack combo is easy to perform. It´s more about timing than playing keyboard piano. Using ranged weapons is even easier. All you need is dexterity to shoot more accurate. A skill upgrade increases the rate of fire.
+
+Spell casting is easy to do as well. There are several hotkeys which you may assign to the spells of your choice.
+
+
+[IMG]
+This Scavenger is history...
+
+
+There are many different monster types in Gothic like scavengers, wolves, goblins, skeletons or orcs to name just a few. Aside from the standard repertoire there are also a few self-made creations from Piranha Bytes´ art department.
+The monster AI is well done. There are different levels of aggressiveness. Some monsters will not even take notice of you unless you come really close to them and some will attack right away when spotting you from a distance. Most monsters warn you before they attack. For example, the prevalent Scavengers bend down and cry out three times before they come running for you, that is unless you attack them first, of course.
+Another nice feature is that you cannot initially kill human opponents when using a melee weapon. You will always knock them unconscious first. However, ranged weapons will cause immediate death.
+Monster density is kept at a reasonable level. The world of Gothic is always alive but never over-populated. Animal monsters respawn after some time so the world won´t become "empty". Don´t worry. It´s not like in Might & Magic where every slain enemy raises from the dead. Like everything else, respawning is also very well balanced in Gothic.
+There is just one minor flaw in monster behavior. The baddies don´t know how to chase you across a bridge. They do but they sometimes fall off the bridge when you perform a sharp turn after you´ve crossed it. And human opponents have no idea of how to climb ladders. Path finding could be better.
+Since most of Gothic´s gameplay is taking place on the surface there is no endless and tedious dungeon crawling. The few dungeons can be "cleared" rather quickly.
+
+All in all combat is nicely integrated into Gothic. Gothic isn´t a Hack´n´Slay RPG. It contains a well balanced mix of peaceful exploration and the occasional fight.
+
+
+Controls
+
+Gothic offers a mix of keyboard and mouse control. Since the game was initially designed for keyboard-only you can tell that mouse support is not really well implemented. Therefore it takes some time to get used to the controls. You can freely customize the hotkeys for all available actions and menus. Which ever way you configure the controls is a matter of personal taste but I use the mouse for changing the point of view only (something that you don´t have to do very often). I couldn´t get used to the keyboard/mouse mixed mode.
+
+The inventory is subdivided into eight categories. Once you´ve gotten used to it you will fly through the slots by means of your cursor keys but as I said "once..". Might take a while. Trading could also be better. The merchant´s inventory will always be found on the left-hand side of the screen whereas your own is on the right-hand side. There are two columns in between. All trading goods will have to be collected in the middle columns. It will once again take a while before you will be able to perform quick deals. It´s not as bad as in e.g. Wizards & Warriors though.
+
+To lighten things up, combat, picking up items, starting NPC dialogues etc. is very easily done and sufficiently fast.
+
+To sum it up, the controls are a downside of Gothic as far as the beginning of the game is concerned. Once you´ve gotten used to it you won´t even notice anymore what you once considered a flaw.
+
+
+Visuals
+
+The graphics of Gothic are outstanding. I have hardly ever seen so much attention to detail in any game. The palette of effects ranges from dynamic lighting to day and night schedules and on to changing weather conditions in real time. The viewing distance is truly awesome. You will be able to climb mountain tops and see all of the surrounding landscape. Characters and monsters are very detailed and well animated.
+The game is played from a third person chase cam view (like "Tomb Raider"). The camera is not automatically shifting its angle. It is at a fixed position behind your character but you can zoom in and out just as well as switch to free look or first person mode. It sometimes happened that the chase cam got stuck inside a wall when my character was in very narrow spaces.
+
+
+[IMG]
+One of many beautiful views...
+
+
+As you may have guessed, the high graphics quality comes at a price of hardware. I´ve played the game at a resolution/color depth of 1024x768x32 and my HD thrashed from time to time, especially when the weather was changing or when it became day or night. Gothic most definitely is a memory eater and I wouldn´t recommend playing it at less than 256 MB. Else you will have to turn some effects off or resolution down and that is something you will not want to do to this game.
+
+
+Sound
+
+The recently released patch 1.08h added hardware 3D sound (EAX) to Gothic. But even without this addition the sound quality and diversity is nothing to complain about.
+There is voice acting for all dialogues in the game. Since the English version of Gothic hasn´t been released yet I can´t say anything about its actors but the German ones have done a good job.
+Monster sounds always fit to their visual appearance and once you´ve been chased by a giant monster that lets the earth shake when it´s chasing you, you will know what a subwoofer is good for.
+The music stays very pleasantly in the background. So far, I have never wanted to turn it off like in many other games. In case of combat coming your way, the soft tunes blend out in favor of a little more quick paced action music to raise the tension. Well done.
+
+
+Conclusion
+
+In short: Gothic is one of the best RPGs I have every played. It would be fair to let you know though that I disliked all games based on the Infinity engine (Baldur´s Gate etc.). I was therefore much longer starving for a good RPG than some or most (?) of you. On the other hand, Gothic has received more than 16 press awards since its release and I don´t think that all reviewers come from the same background as I do. So there´s definitely got to be something about this game.
+
+The major reasons for Gothic´s success lie in its extremely detailed, interactive and immersing game world plus its ever motivating plot. Add the high degree of freedom and non-linearity this game offers and you´re pretty close to fulfilling a role playing gamer´s wish list.
+
+The only downsides of this game are a few annoying bugs but Piranha Bytes has already released the second patch and their support seems to be very professional. As reported in their forums, a fan had sent them a broken savegame and they returned the fixed file within a matter of hours. The initial release of the game was very buggy but be aware that this review is based on version 1.08h of the game.
+
+If Piranha manages to straighten out the last few flaws in an upcoming patch, Gothic could become a serious competitor in this year´s race for the "RPG of the Year" title. Yes, I know that Neverwinter Nights is supposed to be released this year…
+
+
+Reviewer´s System:
+
+AMD Athlon T-Bird 800 MHz
+256 MB RAM PC-133
+Hercules GeForce2 GTS @ 220/333 MHz
+IBM 30GB 7.200 RPM
+Creative Soundblaster Live! Player 1024
+Windows ME, DirectX 8.0a, Detonator 6.50
+
+
+Rating
+
+Test Version: Gothic 1.08h German
+Graphics (15%): 92%
+Sound (15%): 88%
+Controls (25%): 85%
+Fun (45%): 95%
+Overall: 91%
+
+Average Reader Ratings: 5.75 (1940 votes)

@@ -1,0 +1,33 @@
+PIRANHA BYTES Software GmbH
+Lohrheidestraße 1
+44866 Bochum
+
+Tel: 02327 / 997 - 102
+Fax: 02327 / 997 - 110
+
+gegründet am 01.10.97
+
+
+DAS TEAM :
+
+Geschäftsführer und Projektleiter des aktuellen Spieles: Stefan
+
+Figurenmodelling und Animationen: Alex
+
+Chef-GameDesigner und Art Director: Michael
+
+Level vom aktuellen Spiel, Marketing und PR: Tom
+
+(Alle vier waren vorher bei -Greenwood Entertainment-)
+
+
+Engine- und Tool-Programmierer:
+
+Chef 3D-Engine: Dieter
+
+Bert (Tools und Netzwerk) 
+Ulf (AI und vieles mehr) 
+Carsten (Kamerasystem, SFX und Sound) 
+Peter (technische Beratung). 
+
+Eine immer stärker steigende Zahl von externen Mitarbeitern kommt noch dazu.

@@ -1,0 +1,38 @@
+PC Games 05/1998
+
+Gothic
+======
+Gildenmeister
+=============
+Seit Dezember entwickelt die frisch gegründete deutsche Spieleschmiede Piranha Bytes das actionlastige Rollenspiel Gothic. Wir konnten uns einen ersten Eindruck anhand einer, sehr frühen Version verschaffen...
+Als Tom Putzki, Projektleiter bei Piranha Bytes, uns eine erste Version von Gothic vorführte, waren 25% des Spiels fertiggestellt. Auf deutsch: Das Rohgerüst steht bereits, konzeptionell wird nur noch wenig geändert. Was in den kommenden Monaten ansteht, ist die Umsetzung der Ideen, das allgemeine Design und die weitere Ausarbeitung der Grafik-Engine. Momentan werkeln neun feste und zahlreiche freie Mitarbeiter an dem ehrgeizigen Projekt Gothic, um den geplanten Erscheinungstermin einzuhalten. Wenn alles klappt, sollte das Spiel Anfang 1999 auf den Markt kommen.
+
+Die wilde 13
+============
+Gothic spielt in einem überdimensionalen Gefängnis, in das man - natürlich vollkommen unverschuldet - hineingeworfen wird. Dieses Gefängnis ist eine eigenständige Welt, in der sich die Insassen frei bewegen und nach eigenem Ermessen handeln dürfen. Durch einen magischen Schild von der Außenwelt abgeschirmt, etablierten sich im Laufe der Jahre dreizehn verschiedene Gilden, die das Leben in den Katakomben bestimmen. Der Spieler kann sich über die Machtverhältnisse und Ziele der einzelnen Gruppierungen informieren, um schließlich einer Partei beizutreten. Wenn man sich beispielsweise der Magie zuwenden möchte, sollte man sich den Psionikern anschließen - äquivalent gibt es aber natürlich auch Jäger- und Kriegerstämme. Da jede Gilde um die Vorherrschaft kämpft, gilt es verschiedene Aufträge zu erfüllen. Als Mitglied der Meuchelmörder muß man vielleicht den Anführer - einer anderen Gruppierung um die Ecke bringen, als Krieger ein bedrohliches Monster erledigen. Monster? Genau, in den tiefen Verliesen der Anlage lauern Genre-typische Kreaturen wie Trolle, Orks und Schlangen. Im Kampf gegen diese niederträchtigen Wesen können wertvolle Erfahrungspunkte ergattert werden, die zu einem Stufenaufstieg führen können. Wie bei einem traditionellen Rollenspiel werden dann Punkte auf verschiedene Fähig- und Fertigkeiten verteilt. Allerdings wird das System weniger komplex als bei Mammutwerken wie Dos Schworze Auge oder Might & Magic ausfallen.
+Wir wollen die Spieler nicht mit zu vielen Attributen abschrecken, aber dennoch sehr viel Spieltiefe bieten", meint Tom Putzki und erklärt, daß sich Gothic in diesem Bereich irgendwo zwischen Wizordry und Diablo einpendeln wird. Auch die Steuerung spielt eine große Rolle. Piranha Bytes haben sich zum Ziel gesetzt, daß Gothic nicht mehr als neun Tasten benötigen soll. Durch geschicktes Umbelegen der Funktionen bei unterschiedlichen Anforderungen (Kampf, Handel, Kommunikation) soll das erreicht werden. Damit die Bedienung über wenige Tasten nicht komplizierter wird als über die gängige Methode, werden die Kommandos den Erwartungen des Spielers angepaßt. Es hat zum Beispiel wenig Sinn, eine Taste, die im Kampf für einen Angriff zuständig ist, gleichzeitig mit dem Handel zu verknüpfen. Welche Zusammenhänge sinnvoll sind, wird von Piranha Bytes momentan noch erarbeitet. Es tauchen bei der Entwicklung eines solchen Systems mehr Probleme auf, als man zunächst annehmen mag. Trotzdem ist Tom Putzki zuversichtlich: Ich sehe persönlich überhaupt keinen Grund, warum der Spieler sich mit ein paar Dutzend Befehlen auseinandersetzen soll. Unser System soll Einsteiger und Profis gleichermaßen ansprechen."
+
+Kontrollierte Perspektive
+=========================
+Die Perspektive soll der von Tomb Raider oder Deathtrap Dungeon ähneln, die Kamera befindet sich also irgendwo hinter dem Spieler. Die daraus resultierenden Probleme sind bekannt: Häufig wird das Geschehen nicht richtig eingefangen, der Spielertappt im Dunkeln. Wir versuchen, das zu vermeiden, indem wir an heiklen Stellen wie beispielsweise in engen Räumen die Kameraposition fest vorgeben", erläutert Putzki. Dieses Verfahren bedeutet einen erheblichen Mehraufwand, denn erst beim Testen einzelner Levels werden solche Probleme deutlich und können nachgebessert werden.
+Bei der Entwicklung der Charaktere wird peinlichst genau darauf geachtet, daß Waffen und Gegenstände, die in der Hand gehalten werden können, auch tatsächlich sichtbar werden. Das Repertoire an Äxten, Schwertern, Bogen und Zweihändern ist nahezu unerschöpflich. Darüber hinaus wird es magische Gegenstände geben, die Piranha Bytes allerdings als echte Belohnung für den Spieler" verteilen möchte. Verzauberte Waffen sind konventionellem Kriegsgerät absolut überlegen, nur stolpert man nicht bei jedem zweiten Ork über diese begehrten Objekte. Vielmehr muß man sie sich hart erarbeiten, denn die Verhaltensweisen der Monster sollen den Spieler mit haarsträubenden Situationen konfrontieren.
+Ein Beispiel: Tief in den Katakomben flüchtet man vor einem riesigen Troll, man springt über eine zerstörte Brücke auf die andere Seite einer Schlucht. Der Troll kann nicht folgen, schnappt sich deshalb ein paar der Goblins, die sich in der Zwischenzeit um ihn geschart haben, und setzt sie als lebende Wurfgeschosse ein. Generell wird es in Gothic Monster geben, die nur auf Bewegungen reagieren oder nur riechen oder hören können. Außerdem gibt es kleinere Wesen, wie beispielsweise Aasfresser, die mit dem Spieler durch die Höhlen ziehen, in der Hoffnung, daß der eine oder andere Brocken für sie übrig bleibt.
+Gothic hat also das Potential, auch international ein großer Erfolg für Piranha Bytes zu werden. Wir halten Sie auf dem laufenden, wie sich das Projekt in den nächsten Monaten weiterentwickelt.
+Oliver Menne
+
+Genre: Action-Rollenspiell
+Hersteller: Piranha Bytes 
+Release: 1. Ouartai 1999
+Vergeichbar mit: Deathtrap Dungeon, Ultima Ünderworld
+
+008
+Rechts unten sehen Sie die Tasten eingeblendet, mit denen Gothic gespielt werden soll. Das fertige Spiel soll mit neun Tasten auskommen.
+
+009
+Wenn Waffen oder sonstige Gegenstände benutzt werden, so kann man diese auch deutlich erkennen. Das bedeutet viel Detailarbeit bei der Entwicklung.
+
+010
+Hier sehen Sie die Entstehung der Psioniker-Gilde in der Rohfassung.
+
+[IMG]
+Ich sehe keinen Grund, warum sich der Spieier mit ein paar Dutzend Befehlen auseinandersetzen soll" - Tom Putzki, Piranha Bytes

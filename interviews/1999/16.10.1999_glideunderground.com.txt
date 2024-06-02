@@ -1,0 +1,88 @@
+glideunderground.com 10/1999
+
+
+Piranha Bytes Interview @ GU
+October 16th, 1999
+by: Chris "Stories" Kim
+
+This interview conducted with Mike Hoge: Art Direction and Game Design, Kai Rosenkranz: Music and Sound Effects, Mario Roeske: Leveldesign, and Alex Brueggemann: Project Management and Game Design. They are all working on the upcoming RPG game for the PC, Gothic, this interview touches on the topic of that game and various other questions concerning the development of the game. Also check out our exclusive screenshots of Gothic.
+
+
+Interviewer: Chris Kim
+Interviewed: Mike Hoge: Art Direction and Game Design, Kai Rosenkranz: Music and Sound Effects, Mario Roeske: Leveldesign, and Alex Brueggemann: Project Management and Game Design.
+Company: Piranha Bytes
+Working On: Gothic
+
+________________________________________
+
+1.) First of all, thanks for taking the time out to answer these questions. Onto the first question, for those that don't know, what is GOTHIC about? What other games does it play like? What makes it different from those games?
+
+Mike: GOTHIC is like no other game. Imagine a mixture of Ultima Underworld (exploration), Abe's Odyssee (simple structure but lots of possible combinations), Fallout (atmosphere, no fairy-tale fantasy), Dungeon Master (consistent and logic world) and Tomb Raider (3rd person, only with a better camera). Different about GOTHIC is the (I hardly dare to say that) charcter's AI! Ok, ok, I know, everybody is telling that - so you'll just have to wait for the demo. GOTHIC characters have real memory. They will remember e.g. whether you've robbed them, knocked them down, helped them, etc. Moreover, they hear and tell news and will comment on your actions. They will be able to follow you if you climb walls, jump over canyons, swim, dive or whatever. They will do things you've never seen before in a computer game (in a positive sense ;)) Another unique feature is the multiplayer game (see below)
+
+2.) How does the game stackup against other games such as Might and Magic, Fallout, and Diablo?
+
+Mike: That is for the people to decide. Imho it (by far) is more "alive" than any of the mentioned above.
+
+3.) Can you give us a generalization of what the storyline will be?
+Not again :) - visit our homepage: www.piranha-bytes.com or the official GOTHIC-Page from our publisher Egmont Interactive www.gothicthegame.com
+
+4.) What are the key features found in this game?
+
+Mike: Easy interface! Easy to learn. NPC Memory. Social Structure. Combat is a little action-based but mainly depends on your character stats. Play through the story with 5 players. No texts to read - digital speech output. Vast surface level and many dungeons. Alive creatures. 2 different magical systems. Many ways of solving a problem. NO RUNNING FOR STUPID KEY CARDS!
+
+5.) Will the game be adventured as a party (Might and Magic) or will the adventures be solo (Diablo)?
+
+Mike: Solo. We planned to let the player take up to one person with him. But we definetely drop that in Multiplayer, because with 10 characters running around, killing everyting in their way, the game would't be much of a challenge. We got a good Follow Mode for the AI, but if we'll allow it in singleplayer will depend on further testing.
+
+6.) How will interaction between NPC characters effect the overall turnout of the game? How will talking be done, via Final Fantasy style where you just talk and they speak, or other CRPG's where you must ask specific questions to get answers?
+
+Mike: There will be multiple points to talk about with the characters in GOTHIC, however, there will be no multiple choice dialogues. The computer determines, what you say, but trust me, you won't miss reading all the text before you hear your character say exactly what you've read 10 second before...
+
+7.) How many differnet monsters and bosses are there in the game and which is the coolest monster and boss?
+
+Mike: 23, and: Oh, come on! I'm not going to post that. We want people to explore the world, not to know what's going to happen at the end... However, one cool monster is the snapper. It can swim and dive as well as walk on the land. Like in Ultima Underworld, there is much water in our dungeons. Sometimes, if you come too close to the shore, it could happen to you, that suddenly a snapper leaps out of the dark water and eats you (what a pity) but you can do somethign about it: a) become better (which won't help you in the first place) and b) kill a goblin (snappers like them for breakfast) and throw it in the lake - if there's a snapper in it, it will be preoccupied and you can swim through the lake, if not, a goblin dies senseless (again, what a pity).
+
+8.) How many different spells are there and which is probably the coolest of them?
+
+Mike: There are 15 different kinds of spells, many of them have different levels and will not only become stronger, but will alter they effects! We didn't create dozens of spells, because imho you don't need that much. If you've got fireball at the same mana cost than magic missile, why using magic missile anymore? In GOTHIC, spell upgrades only have advantages and therefore replace the former spell. Imo, the coolest spells are shapeshift (works with several creatures, you'll get the special abilities of the creature), lightning (there is something to learn about it :)) and control mind (which leaves you motionless and defenseless while you control a humanoid being - if you've got the mental strength, that is). Shapeshift is a good example of how even a small number of spells could generate a multitude of possibilities. As you can transform into most of the animals in GOTHIC, your tactical possibilities become greater the more crearures you learn to shift into. Are you a small meatbug? Then nobody probably will recognize you sneaking around. Or are you a huge shadowbeast - a superb fighter with only 1 disadvantage - bright light (like torches, etc) will dazzle you! There are quite some things to find out about the other creatures of GOTHIC...
+
+9.) What effect will the sound effects and music have on the game? Will the sound be submersive to engulf the player into the universe of GOTHIC? Will 3D Sound API's be supported?
+
+Kai: Sound and music play an important role in supporting the game's atmosphere. Without a well balanced sound ambience, the world of GOTHIC would never be able to engulf the player the way we want it. A sound designer's main task in making the world more alive is to create sounds that don't attract the players attention too much. The ambient sounds are not meant to be heart consciously, that would be the wrong effect. We try to keep them in the background, so that they fit into the szene without diverting the player. We don't want him to notice neither the sounds nor the music, we want him to say "Cool, this world seems so f**king realistic."
+The realism is supported perfectly by our 3D sound environment. Players who own the required hardware can hear doors closing behind them, a giantic waterfall around them or the squeek of a meatbug next to them.
+We are using a dynamic music system that allows us to influence the music's intensity during the game. When the player gets into a dangerous situation or sees a well-armed enemy approaching, the music raises up like in a movie. It gets to the climax when the player kills the enemy or the disarms the trap, and finally it returns to the normal level. Composing this kind of music is very difficult since the situation the player is in can change from one second to the other. We don't want the transitions to be heart, so the whole music is constructed like a puzzle. The score consists of thousands of single melody elements that are combined in realtime. Each of this elements needs to fit at the end of many of the others. But no matter how hard the process of creating the music is, the result sounds cool and that's the point.
+
+10.) What is the battle system like? Turn based or realtime? What game has a similar system?
+
+Mike: Realtime. But you can be as good as you want. You haven't got the stats - you loose! Combat won't be hectic - we want the player to be able to move tactically.
+
+11.) How is the inventory system aranged with what types of equipment? Helmet, Amor, Gauntlets, etc.?
+
+Mike: The inventory is automatically sorted by categories (melee, ranged, armor, potions, misc) - so you don't have to search stuff in it. You can pick up, drop, throw, use and equip items. Basically, there are 2 Types of Armor, Body and Helmet - every piece of Armor you find will be (uniquely) displayed on your character.
+
+12.) How advanced is the graphics engine in the game? Will the supported towns, dungeons, and other adventured places going to look like reallife counterparts? Realtime lighting effects?
+
+Alex: Our programmers did a great job with the engine. Yes, we have realtime lighting effects and loads of other cool features. We have a huge outdoor world and lots of dungeons deep down... To see a complete list please have a look at our homepage. We're considering licensing of the engine in the near future.
+
+13.) How many different lead characters will you be able to choose from? Or is the gameplot linear like in Final Fantasy where you start with one character and gain others as you go along?
+
+Mike: You'll alway start with the same Character. He's a noname Level 1 character with no specifications at all (perhaps we'll let the player choose his facial texture). During the first hours of the game, you'll initiate your character depending on what quests you take (and succeed in!). So the game becomes the character generation.
+
+14.) What are some of the strongest weapons in the game?
+
+Mario: The best weapons can be found from Orcs. These weapons can crush a normal human in one hit. But its not so easy to get it from an Orc. "Hi Orc, would you be so kind to give me your Battleaxe?" BAD IDEA. Those weapons are great orcish axes, mysterious magic two-handed swords filled with ancient orcish spells, large battle-hammers and many more.
+
+15.) Will multiplayer be supported? If so, how will it be played?
+
+Mike: In the multiplayer game you can play through the whole story with up to 5 players. Its no deathmatch, although you can kill the other players if they let you :). Making the multiplayer game work the same way the singleplayer game does is in my eyes a unique feature many people will hopefully enjoy (and that btw cost us hell lots of design time). Compared to Online RPGs we have small player numbers, but a complex story and many living characters to explore...
+
+16.) Will there be voice actors for talking, or just regular text?
+
+Mike: Reading in Computer Games sucks! As long as its not a trading simulation or stuff like that) - We want the player to get immersed into the game - so digital voice output is essential.
+
+17.) When will the expected release date be?
+
+Alex: We expect to be ready for release in march 2000.
+
+
+I could like to thank Piranha Bytes for taking the time out to setup and answer these interview questions.

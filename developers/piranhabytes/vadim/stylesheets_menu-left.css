@@ -1,0 +1,15 @@
+h1 { font-family:Arial; font-size:18pt; color:lightslategray; font-weight:100 }
+
+a:link { font-family:Arial; font-size:12pt; color:#778899; font-weight:100; text-decoration:none }
+a:visited { font-family:Arial; font-size:12pt; color:#778899; font-weight:100; text-decoration:none }
+a:active { font-family:Arial; font-size:12pt; color:#8899EE; font-weight:900; text-decoration:none }
+a:hover { font-family:Arial; font-size:12pt; color:#99AABB; font-weight:700; text-decoration:none }
+
+body { background-color:black; background-repeat:repeat-x; background-attachment:fixed; }
+
+
+p { font-family:Arial; font-size:12pt; color:lightslategray; font-weight:100; text-decoration:none }
+
+
+
+img { border-width:1px; border-style:solid; border-color:black }

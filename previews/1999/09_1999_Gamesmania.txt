@@ -1,0 +1,3 @@
+Gamesmania (ECTS-Bericht) 09/99
+
+Die Animationen der Figuren sind ausgefeilt. Die Bewegungsaubläufe sind dank Motion Capturing sehr flüssig und variantenreich. Nicht nur variantenreich, sondern auch komisch werden die "Facial Animations", die Animationen des Gesichts. Von eher gelangweilt über ärgerlich bis hin zu ängstlich reicht die Latte. Sogar an die Lippenbewegung während des Sprechens wird gedacht.

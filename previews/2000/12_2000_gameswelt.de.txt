@@ -1,0 +1,135 @@
+gameswelt.de 12/2000
+
+20.12.2000 18:32 - DIE MONSTER
+
+---
+
+22.12.2000 10:26 - PREVIEW
+
+RPG aus deutschen Landen
+Andreas Philipp (Bryionak) 22.12.2000
+
+Bereits seit drei Jahren werkeln die Entwickler von Piranha Bytes an ihrem Erstlingswerk 'Gothic'. Nach mehreren Terminverschiebungen zeichnet sich nun als endgültiger Release der 10. März 2001 ab. Grund genug für Bryionak, sich nach Bochum zu begeben und die deutsche Rollenspielhoffnung einmal live und in Farbe zu erleben. Zwar war das Wetter mit blauem Himmel und strahlendem Sonnenschein gar nicht 'Gothic'-like, doch das soll euch nicht weiter schrecken.
+Das Königreich der Menschen ist geschwächt durch Kriege und Zwistigkeiten. Ein schlechter Moment für einen Angriff durch die Ork-Armeen. Fieberhaft arbeiten die Schmiede der Menschen an der Produktion von Waffen aus magischem Erz, welche die letzte Chance bieten, der Übermacht zu trotzen. Doch dieses Erz ist selten, ebenso wie Arbeitskräfte, um es abzubauen. So erschaffen zwölf Magier, sechs aus der Schule des Feuers, sechs aus der des Wassers, eine Barriere um die einzige Mine, in der das Erz gefördert wird, so dass die zur Arbeit verdammten nicht mehr entfliehen können.
+Doch ein Fehler passiert, die Barriere gerät zu gross und die Magier werden mit eingeschlossen. Die menschlichen Herrscher schicken Gefangene und Häftlinge durch die Barriere, die innen nur von toter Materie durchdrungen werden kann. Bei einer Revolution im alten Straflager werden die Wächter getötet, doch schnell merken die Insassen, dass sie sich nicht auf eigene Faust innerhalb der Barriere ernähren können. So wird ein stetiger Handel mit der Aussenwelt ins Leben gerufen. Erz gegen die Bedürfnisse der Gefangenen.
+
+[img]
+Ein 'Buddler' fleht um Gnade.
+
+
+Doch mit der Zeit spaltet sich das 'Alte Lager', das mit eiserner Faust von den diktatorischen Erzbaronen regiert wird entzwei. Die anderen sechs Magier des Wassers und einige Mitgefangene gründen das 'Neue Lager', in welchem die Bewohner gleichberechtigt sind und mehr Freiheiten haben. Und noch ein drittes Lager bildet sich, eine geheimnisvolle Sekte, die den Gott 'Schläfer' anbetet, und von ihm magische Kraft bezieht. Eines Tages gelangt ein neuer Häftling in das Straflager und wird auf die übliche raue Art, in Form einer Prüfung, ob er überlebensfähig ist, empfangen.
+Logischerweise seid ihr dieser Sträfling, der von abgerissenen Gestalten auf recht ungemütliche Art und Weise mit den Gepflogenheiten innerhalb des Minenknastes vertraut gemacht wird. Ohne jegliche Kenntnisse, unbewaffnet und lediglich mit einem Brief an die Feuermagier versehen, landet ihr in dieser kleinen Hölle. Die ganze Vorgeschichte erfahrt ihr zum einen durch das Handbuch, zum anderen durch eine gerenderte Intro-Sequenz, die entgegen ursprünglicher Planungen nicht mehr in der Spiel-Grafik dargestellt wird.
+
+147a
+Reichlich abgemagerte Angreifer.
+
+
+Eine Frage des Charakters
+Von da an seid ihr auf euch allein gestellt, oder zumindest fast. Im Gegensatz zu gängigen Rollenspielen gibt es zu Beginn des Spieles keine Charakterauswahl, ihr kommt als völlig unbeleckter Durchschnittstyp im Lager an. Dennoch gibt es (grob gesehen) vier Charakterklassen, in welche Richtung ihr euren Charakter entwickelt, bleibt völlig euch überlassen. Die Grundeigenschaften des Charakters beschränken sich auf Stärke, Geschicklichkeit, Trefferpunkte und Mana. Mit den Grundwerten könnt ihr natürlich noch keine grossen Sprünge wagen, doch im Laufe des Spieles lernt ihr dazu.
+Kämpfe, das Finden versteckter Locations und das Lösen von Quests verschaffen euch neben einer Aufbesserung eurer Hitpoints auch Erfahrungspunkte, die wiederum beim Level-Up in Lernpunkten resultieren. Diese Lernpunkte könnt ihr zur Erhöhung eurer Grundwerte nutzen oder bei diversen NPCs für die Ausbildung eurer Fähigkeiten investieren, sofern derjenige gewillt ist, euch etwas beizubringen.
+
+[img]
+Verbitterter Zweikampf.
+
+Einhand-Waffen, Zweihand-Waffen, Bogen und Armbrust unterteilen sich in drei Stufen (Null bis Zwei), die erlernt werden können. Neben schnelleren Schlägen, kürzerer Erholungszeit und höherem Schaden, unterscheiden sich die Stufen auch durch erhöhte Chance, einen kritischen Treffer auszuteilen und zwar in 5 Prozent-Stufen. Im Spiel gibt es circa 130 verschiedene Waffen in den genannten Kategorien, wobei zu den Handwaffen nicht nur die obligatorischen Schwerter gehören, sondern auch Äxte und Hämmer, teilweise auch mit magischen Eigenschaften.
+Des weiteren gibt es Schlösser-Öffnen und Diebstahl als Fähigkeiten. Zu Beginn habt ihr eine Chance des Misslingens von 100%, diese reduziert sich um 30% pro Stufe, wobei auch hier wieder die Stufen Null bis Zwei zur Verfügung stehen.
+Schlussendlich gibt es natürlich auch Zaubersprüche. Im Bereich Magie gibt es sechs Kreise, zu denen jeweils bestimmte Zaubersprüche gehören. Das heisst allerdings nicht, dass euch diese Zaubersprüche sofort zur Verfügung stehen, sondern ihr seid nur in der Lage, sie zu nutzen.
+
+CTP. 2
+
+CTP. 3-4:
+
+[img]
+Atmosphärische Landschaften noch und nöcher.
+
+Inventare - Ordnung muss sein
+Das Inventar wird beim Aufrufen in Form einer schmalen Leiste am Bildrand sichtbar, wobei alle Gegenstände nach Kategorie und innerhalb der Kategorie nach Qualität sortiert werden. Die besten Gegenstände sind immer oben im Inventar und somit schnell greifbar. Bei Waffen wird bisher leider nicht angezeigt, ob es sich um Einhand- oder Zweihandwaffen handelt, aber hier ergeben sich möglicherweise noch Änderungen. Gegenstände und Zaubersprüche können mit Hotkeys versehen werden, was den schnellen Zugriff auf häufig benutzte Objekte verbessert. Bestimmte Kategorien sind hierbei bestimmten Tastenbereichen zugeordnet. Natürlich sind alle Ausrüstungswechsel, sei es Waffe oder Rüstung, sofort am Charakter sichtbar.
+Der Handel, aber auch das Plündern von Truhen und der Diebstahl von NPCs sind ähnlich aufgebaut. Hier wird auf der einen Seite das eigene, auf der anderen Seite das Inventar des Gegners, beziehungsweise der Truhe oder des Händlers angezeigt. Der Austausch erfolgt mit wenigen Kommandos, wobei der gewählte Gegenstand im unteren Screen-Bereich angezeigt wird.
+Die Gegenstände sind wie schon erwähnt vielfältig. Neben einer Vielzahl an Waffen, gibt es besagte magische Schriftrollen und Runen, aber auch Fackeln, Rüstungen unterschiedlichster Mode und vieles mehr. Tränke und Nahrung sorgen für Regeneration, notfalls schnippelt ihr euch einfach ein Stück Fleisch aus dem nächstbesten toten Monster. Sehr schön ist, dass die Gegner auch immer über die Gegenstände verfügen, die an ihnen sichtbar sind und diese entweder beim Diebstahl im Inventar haben, oder beim Niederschlagen fallen lassen bzw. beim Durchsuchen zu Tage fördern.
+
+Steuerung - alles im Griff?
+Gewöhnungsbedürftig wird sicherlich die Steuerung des Spieles, denn die Maus bleibt zu Hause. Gesteuert wird ausschliesslich mit der Tastatur, wobei vor allem die Cursor- und die Strg-Tasten zum Einsatz kommen. Die Tastenfunktionen und deren Kombinationen sind allerdings überschaubar (zehn Tasten) und nach eigenen Vorlieben konfigurierbar, so dass das System durchaus eine Chance zur Bewährung verdient hat.
+
+[img]
+Der Eingang zu einem der Lager.
+
+Die Verwendung der Tastatur wird dadurch unterstützt, dass ihr in der Nähe von Objekten oder Gegnern eine Text-Einblendung bekommt. Sobald diese sichtbar ist, kann mit dem Objekt oder Gegner interagiert werden. Sind mehrere Ziele zur Auswahl, könnt ihr diese per Tastendruck durchschalten. Das System scheint dabei auch recht gut zu funktionieren. Sehr praktisch dabei ist, dass ein fokussierter Gegner nach Aktivierung des Kampfmodus auch im Fokus bleibt, solange die Taste gedrückt ist, der Charakter sich also immer dem Gegner zuwendet. Währenddessen dürft ihr munter strafen oder angreifen.
+Die Dialoge mit den NPCs werden im handelsüblichen Multiple-Choice-Verfahren durchgeführt und sollten nicht unterschätzt werden. Zum einen erlangt ihr nur durch Gespräche eure Aufgaben, zum andern haben viele NPCs wertvolle Hinweise für euch. Aber auch hier gilt, dass nicht jeder NPC euch wohlgesonnen ist, die Beziehungen sich aber durchaus durch eure Handlungen ändern können. Die Erkennung, welcher Art ein NPC ist, ist recht einfach durch eine Textanzeige über den Köpfen. NPCs ohne Eigennamen sind zumeist nur für allgemeine Informationen gut, während die mit Eigennamen schon eher wichtige Infos zu bieten haben.
+
+Grafik, Performance und kein Multiplayer
+Technisch kann 'Gothic' ohne weiteres überzeugen. Die eigens entwickelte Engine unterstützt die Auflösungen 640x480 bis hin zu 1600x1200, wobei laut den Entwicklern die Auflösung nicht unbedingt ein Performance-Problem darstellt. Die Eigenschaften der GeForce-Karten werden dabei voll unterstützt, so dass ihr auch in den Genuss von T&L-Effekten kommt. Rein optisch wirkt das Ganze sehr gelungen, die Umgebungen sind schön detailliert, die Sichtweite ist gut und auch die zum Grossteil von Hand erstellten Animationen können sich sehen lassen. Die Landschaften sind trotz des relativ begrenzten Raumes enorm abwechslungsreich und auch die drei Lager unterscheiden sich merklich.
+
+[img]
+Düsteres Ambiente findet sich reichlich im Spiel.
+
+Hinzu kommen sehenswerte Lichteffekte und Tag-/Nachtwechsel, so wie die bereits erwähnten Magie-Effekte. Auf Wettereffekte wurde allerdings verzichtet. Zum Sound kann noch nicht viel gesagt werden, da noch nicht implementiert, aber alle Dialoge sollen mit Sprachausgabe versehen werden.
+Hauptknackpunkt und damit auch Grund der relativ hohen Minimalanforderungen ist die ausgefeilte KI. Um die Performance auf kleineren Rechnern zu verbessern ist es möglich, diese herunterzuregeln. Der Feinschliff dieser KI ist auch mit einer der Gründe für die vielen Terminverschiebungen des Spieles, neben der Optimierung der Performance, den Vorschlägen und Ideen, die beim Betatest aufgetaucht sind und natürlich dem obligatorischen Bug-Fixing.
+Verzichtet wurde allerdings auf den ursprünglich geplanten Multiplayer-Modus, der konzeptionell für bis zu fünf Spieler geplant war. Selbiger wäre zu sehr zu Lasten der stark verflochtenen Story gegangen und hätte quasi ein anderes Spiel bedeutet, ein Risiko, das die Entwickler zugunsten der Qualität der Story nicht eingehen wollen.
+
+[img]
+Auch nachts werden die Charaktere detailreich dargestellt.
+
+Wer ist eigentlich Piranha Bytes?
+Piranha Bytes arbeitet nunmehr seit 1997 an dem Titel, begonnen mit der Gründung als vierköpfige Mannschaft und einigen externen Programmierern, bis hin zu einem 25 Mann starken Team, das im Moment an dem Titel arbeitet. Dabei sind echte Profis am Werke, denn die Gruppe setzt sich zum Teil aus ehemaligen Mitarbeitern von Blue Byte und Greenwood zusammen. Mit Publisher Egmont Interactive wurde ein guter Partner gefunden, der hinter dem Projekt steht und mit dtp Neue Medien auch eine kräftige Vertriebsorganisation hat. Übrigens ist Piranha Bytes eine Tochterfirma der 'Moorhuhn'-Macher Phenomedia.
+Piranha Bytes ist optimistisch, mit dem Titel gute Ergebnisse zu erzielen und wenn man sich das Spiel genauer anschaut, dann wohl auch mit Recht. Nicht zuletzt wird auch noch ins Auge gefasst, bei einem Erfolg die hauseigene Engine mitsamt den Tools zu lizenzieren. Wir dürfen gespannt sein, was uns diese Softwareschmiede als nächstes Projekt bieten wird. Diskussionen hierüber werden allerdings erst nach dem Release von 'Gothic' geführt.
+
+Fazit
+Was Piranha Bytes hier mit ihrem Erstlingswerk erschafft, sollte einigen gestandenen Entwicklern die Schamesröte ins Gesicht treiben. 'Gothic' macht einen exzellenten Eindruck und kann sowohl in grafischer Sicht überzeugen, als auch durch die fortschrittliche KI, die sicherlich für einige Überraschungen sorgen wird. Inwieweit sich die Spieler an die Tastatursteuerung gewöhnen können, ist eine andere Sache. Dafür bietet das Spiel einiges, was man bisher bei vielen anderen Rollenspielen vermisst hat, nicht zuletzt eine enorme Handlungsfreiheit und Interaktion.
+Erster Eindruck: Ausgezeichnet
+
+Features
+ 3D-Action-RPG aus der Third-Person-Perspektive
+ eigens entwickelte 3D-Engine
+ volle Bewegungsfreiheit
+ viele NPCs mit ausgereifter KI und dynamischem Tagesablauf
+ Steuerung per Tastatur
+ weitgehende Handlungsfreiheit
+
+Systemanforderungen (Voraussichtlich)
+ Minimum:
+Pentium II 400
+128 MB Ram
+3D-Karte mit 16 MB Ram
+
+Alternativtitel
+ Ultima 9: Ascension
+ Lands of Lore III
+ Wizards & Warriors
+
+
+
+[IMG]
+Ein 'Buddler' fleht um Gnade.
+
+147a
+Reichlich abgemagerte Angreifer.
+
+[IMG]
+Verbitterter Zweikampf.
+
+
+
+22.12.2000 14:19 - DIE CHARAKTERE
+
+---
+
+
+22.12.2000 15:05 - EXKLUSIVER SCREENSHOT
+
+Neuer Screenshots zeigt Magie-Effekte
+
+bild02b.jpg
+
+
+GOTHIC - EXKLUSIVER SCREENSHOT
+
+Neuer Screenshots zeigt Magie-Effekte ...
+
+Von Andreas Philipp 22.12.2000 15:05 Uhr
+
+In Anbetracht unseres heute veröffentlichten Previews zum Action-Rollenspiel 'Gothic' waren die Jungs von Piranha Bytes derart begeistert, dass sie uns als Weihnachtsgeschenk gleich noch einen exklusiven Screenshot spendiert haben. Dieser Screenshot, insgesamt erst der zweite, der zur 'Gothic'-Magie veröffentlicht wird, zeigt euch die schönen Grafik-Effekte des Zauberspruchs 'Feuerregen'.
+
+
+
+
+

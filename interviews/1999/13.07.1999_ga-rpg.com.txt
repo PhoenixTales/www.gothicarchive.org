@@ -1,0 +1,42 @@
+ga-rpg.com 07/1999
+
+13.07.1999
+
+
+Gothic
+
+Publisher: Egmont Interactive
+Developer: Piranha Bytes
+Scheduled To Release: 3rd Quarter 1999
+Written By: Michael 'Dethrone' Mikucki
+
+Posted On: Tuesday, July 13, 1999
+
+
+The following is an interview with Tom Putzki, Michael Hoge & Carsten Edenfeld of the Gothic development team. In Gothic, which is a third-person perspective role-playing game, you are thrown into a medieval prison mine colony with no means of escape.
+We also added 8 new exclusive screenshots of the game for your viewing pleasure while you read the interview. For more information on this title check out the official Gothic website.
+Please introduce yourself and the core members of the Gothic development team and their roles in the company.
+[Tom Putzki]: I'm responsible for game design and marketing / PR, but started as an 3D artist at the beginning of the project. The team has grown up to 22 people right now, more still to come for testing and other purposes. Carsten is one of our programmers, responsible for camera and SFX. Last but not least Michael, our Art Director and main Game Designer.
+The story tells that you are thrown into a medieval prison mine colony, from which there is no escape. Is there something behind why you were thrown into the prison, or will it be revealed further into the story?
+[Tom Putzki]: Of course there is a reason...but at the beginning of the game the player doesn't know anything about it - the only thing he is absolutely sure about is: He is innocent. For more information you have to play the game ;-)
+
+How exactly does your character's progress change through visualization and not statistics (numbers) throughout the game?
+[Tom Putzki]: It is very simple: We've got optical feedback for everything in GOTHIC. Every skill level is visualized by different animations. At the beginning of the game you're character isn't experienced at all, he will use his sword like a farmer using his dung fork. During the game you will learn different skills and talents - experienced sword-fighting will look a bit like Xena, you know.
+We understand that NPC's (Non-Player Characters) can comment on the players actions. Will they provide both positive and negative feedback?
+[Tom Putzki]: Of course they will! They remember your actions, they will blame you if they witnessed something you've done, they will tell their comrades and gang members what you've done with them or to them....and they will react on everything whether good or bad! If you kill a big shot from the Psionic sect, all Psionics will try to catch you and take revenge but on the other hand you've made new friends in the Old Camp who really don't like the Psionics...
+Will there be multiple game endings/outcomes or just one?
+[Tom Putzki]: Your final goal is to escape from the prison world...and believe me, you really want to escape from what is challenging you ;-)
+[Michael Hoge]: You will have a final goal to achieve, but how you do it depends on the way you play GOTHIC. It depends on your character.
+
+Will there be a lot of interaction with the world and objects around you, ie. breaking down doors, shattering windows, chopping down a tree, etc.?
+[Michael Hoge]: Yes, you can. For example, hide in barrels, carry or push heavy objects, break doors - we don't have glass in our world, so you can't shatter windows, but anyway the main fun in GOTHIC is to interact with people rather than with stuff...
+[Tom Putzki]: All the windows have been broken years ago and been substituted by barred windows ;-)
+Will players be able to play online? If so, how do you plan to manage this? Also how will you protect from PK's (Player/People Killers)?
+[Tom Putzki]: Sorry, you will not be able to play GOTHIC online. But we're thinking about it for GOTHIC II.
+Can you tell us about the camera angles? Will you be able to set your own camera angles, or is it set automatically?
+[Carsten Edenfeld]: There will be no need to exclusively set the camera angles as the AI will self-decide which angles and movement mode is best for a given game situation. For example, the fight camera will behave differently than the normal behind-the-player-cam in order to include most points of interest for the player. This can be useful, as for example when a monster tries to knock you down from behind, and you are exploring some other things in front of you, the camera will react accordingly and focus on those things, you really want to see.
+
+If something wrong happens in the storyline, will there be other outcomes you can find a solution to, or will you have to start over?
+[Michael Hoge]: No! Whatever you do, the game always continues. Worst case, everyone hates you and you'll have to bribe people to make them talk to you again! The player can be assured we won't let him down!
+Are all the weapons and different armor types balanced? For example, you start out with a given dagger and cloth armor then eventually build your way up and find the best weapon/armor sword in the game? Or is it more like Diablo, in which you can find one of the completely better weapons during the beginning or middle of the game?
+[Tom Putzki]: No, its definitely not like Diablo. Of course we have different kinds of weapons, armor and other items. But in our world every weapon is valuable because there is always someone whose sword isn't as good as yours...our NPCs use all items they can find and get...and believe me, they try a lot of things to get your equipment :-). We have some magical weapons and unique items, too. But unlike Diablo this stuff will really be a reward for the player...not every dead monster loses tons of gold and magic artifacts!

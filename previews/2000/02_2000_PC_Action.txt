@@ -1,0 +1,30 @@
+PC Action 02/2000
+
+
+Alles wird gut
+
+Im April 1998 berichteten wir erstmals über das Rollenspiel Gothic. Inzwischen gehören die Bochumer Entwickler von Piranha Bytes zur Phenomedia AG, Ultima IX steht in den Regalen - und wo bleibt Gothic? Im März soll das ambitionierte Projekt endlich erscheinen.
+
+Der wichtigste Grund für die Verspätung: Gothic soll perfekt werden. Programmier-schlampereien wie bei Ultima IX will man in Bochum vermeiden. Bei den Spielmöglichkeiten sowie der Qualität und Tiefe der Hintergrundgeschichte zeigen sich aber Parallelen zum Epos von Richard Garriott.
+
+Stimmige Geschichte
+
+Gothic katapultiert Sie in ein düsteres Fantasy-Gefängnis. Der Karzer wird von einer magischen Glocke begrenzt, die nur tote Gegenstände passieren können, inenrhalb dieser Barriere können Sie sich frei bewegen. Alle Gefangenen wurden zur Zwangsarbeit in Erzminen verurteilt. Nur wenn Erz an die königlichen Armeen geliefert wird, gibts Nahrungsmittel. Im Knast herrscht Anarchie. Während sich das alte Lager mit den Verhältnissen arrangiert hat, den Erzhandel kontrolliert und in Saus und Braus lebt, hat sich eine Rebellengruppe abgespalten, die Ausbruchspläne schmiedet. Eine Gruppe Sektentempler wiederum, widmet sich einer besonderen Art von Magie. Wahlweise als Magier, Dieb, Krieger oder Psioniker (eine Art Mönch) entdecken Sie die Welt. Das Leben vollzieht sich in Echtzeit, jeder Nichtspieler-Charakter geht seinen Geschäften nach.
+
+Passt die Spielbalance?
+
+Erst durch Bündnisse, Gespräche und das Lösen vieler Unter-Quests werden die Abläufe im Knast nachvollziehbar. Die Stichworte, die das Spielkonzept am besten beschreiben, lauten "Optisches Feedback" und "Interaktivität". Letztere ist gegeben, weil Sie so gut wie jedes Objekt im Spiel benutzen können. In Bratpfannen wird Fleisch über dem Feuer geschmurgelt, Holzfässer dienen je nach Spielsituation als Versteck, Brennmaterial oder Wurfgeschoss. Das optische Feedback gibt Auskunft über Ihre Fortschritte im Spiel. Eine neu erlernte Waffenfertigkeit wird durch anmutigere Bewegungen verdeutlicht, die Wirkung eines Feuerballs können Sie schon vor dem Abwurf erahnen, weil dessen Ausmaße zuvor in den Händen Ihres Spielcharakters sichtbar werden. Von Piranha Bytes fest versprochen wurde eine hohe Künstliche Intelligenz der Computercharaktere, durch deren Handeln der Eindruck einer lebendigen Welt entstehen soll. In Ermangelung einer spielbaren Version konnte das leider noch nicht nachgeprüft werden. Grafisch bietet Gothic dank 3D-Unterstützung einiges, Ultima IX hat im letzten Monat aber vorgelegt. Im März sollte Gothic nun nachlegen, sonst fährt der Genre-Zug ohne deutsche Beteiligung ab.
+
+
+Fazit Christian Bigge
+
+Voraussichtlich: PII-400, 64 MB, Win9x
+Technik: Direct3D, DirectSound, CD-Audio
+Spielerzahl: 4 Sp. Netzwerk
+Handbuch/Sprache: Deutsch/deutsch
+Hersteller: Piranha Bytes/Egmont
+Veröffentlichung: März 2000
+Vergleichbar mit: Ultima IX
+Internet: http://www.piranha-bytes.com
+
+"Es wird Zeit für Gothic! Story und spielkonzept faszinieren, doch technisch hat sich im Genre einiges getan. Hoffentlich erscheint das Spiel im März."

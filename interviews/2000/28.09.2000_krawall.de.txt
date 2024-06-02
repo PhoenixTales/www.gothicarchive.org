@@ -1,0 +1,49 @@
+krawall.de 09/2000
+
+28.09.2000
+
+
+Gothic
+
+Piranha-Bytes arbeitet zur Zeit an dem äußerst vielversprechenden Rollenspiel Gothic, das sich durch viele neue Ideen und Konzepten von der Masse der Rollenspiele abheben kann. Torsten, PR-Beauftragter der noch jungen, dynamischen Firma, stand uns vor kurzem freundlicherweise Rede und Antwort und verriet uns viele wissenswerte Details über den Titel, die wir Euch natürlich nicht vorenthalten möchten.
+
+Krawall: Hi Torsten! Zunächst grundlegendes: wie seid Ihr eigentlich auf die Idee zu Gothic gekommen?
+Torsten: Die Idee zu Gothic ist eher eine langersehnte Umsetzung all der Dinge die immer in Spielen gefehlt haben. Praktisch also eher eine Notwenigkeit.
+
+Krawall: Wovon handelt die Hintergrundgeschichte ?
+Torsten: Der Hintergrund wird im Gothic Comic beschrieben. Der Held wird zwangsrekrutiert, da eine Orkhorde das Land überschwemmt. Er wird in einer Garnison an der Front eingesetzt und sieht sich schnell der Übermacht der Orks gegenüber. Daher beschließt er zu desertieren. In einem nahgelegenen Dorf wird er dann aufgegriffen, als er stiehlt. Da der Held ein Brandzeichen der königlichen Armee hat, ist sehr schnell klar, dass er desertiert sein muss und wird zum Tode oder einer lebenslangen Haftstrafe verurteilt. Die Entscheidung ist schnell gefällt und so wird er in den Knast geworfen. Dieser Knast ist vor langer Zeit entstanden. Wie genau ist aber ein Teil der Story und wird hier nicht verraten. Sicher ist, dass der Knast von einer magischen Barriere umgeben wird, die alles Leben reinlässt und nichts Lebendes lebend wieder hinaus.
+
+Krawall: Könntet ihr uns ein wenig das Gameplay beschreiben ? Worin genau besteht die Aufgabe des Spielers ?
+Torsten: Deine erste Aufgabe: Überleben. Schon am Anfang weiß der Held dass er ausbrechen will. Es ist eine große Welt und es wird viel passieren. Viele NPCs wollen lieber ihre eigenen Ideen durchsetzen, die aber den Vorstellungen des Spielers entgegenstehen.
+
+Krawall: Wird es die für Rollenspiele typischen Erfahrungspunkte geben und wenn ja, wie werden sich diese konkret auswirken?
+Torsten: Es gibt keine EPs. Das Spiel soll nicht nach gut und böse oder sonstigen Kriterien entscheiden ob es Belohnung gibt. Der Spieler beginnt als Pünte. D.h. er kann nichts. Im Laufe des Spiels wird der Held verschiedene Aufträge angeboten bekommen und kann sich entscheiden welche er davon erledigen will. Manche Auftraggeber werden anbieten, ihm dafür eine Fertigkeit beizubringen. Wenn dem so ist, wird der Spieler von diesem Auftraggeber nach erfüllen (wie ist egal, und es gibt immer alternative Wege) eine Fertigkeit beigebracht bekommen. Wenn der Auftraggeber ein Kämpfer ist, dann ein Kampftalent und wenn es ein Magier ist ein Zauberspruch oder Mana. Es gibt dann noch den Psioniker und den Dieb. Wenn ich als erstes ein Kämpfertalent erlernt habe, kann ich danach allerdings immer noch einen Zauberspruch erlernen. Dass heißt, man kann sich aus allen Bereichen die Talente rauspicken, die man für seinen Helden für sinnvoll hält.
+
+Krawall: Gibt es Handlungsalternativen während des Spielablaufs, oder ist alles streng linear aufgebaut ?
+Torsten: Es gibt immer Handlungsalternativen. Alles was ich tun kann, kann ich auf völlig unterschiedlichen Wegen erfüllen. Da wir eine sehr gute KI haben, wird von Fall zu Fall entschieden, was daraus resultiert. Da ich Aufträge unterschiedlich erfüllen kann, werden die einzelnen NPCs auch anders auf mich reagieren. Wenn ich also im ersten Auftrag jemanden töte und werde dabei von einem seiner Freunde beobachtet, so spricht sich dies rum und ich habe plötzlich eine Menge neuer Feinde. Damit werde ich ziemlich sicher schon keinen Auftrag mehr von diesen Leuten bekommen. Dadurch entstehen unterschiedliche Spiele mit verschiedenen Verläufen. Dazu kommt noch, dass die NPCs ihren eigenen Geschäften nachgehen und ich praktisch auch noch alles zur selben Uhrzeit tun müsste. Das macht es eher schwierig 2x das gleiche Spiele hinzubekommen.
+
+Krawall: Was ist mit Waffen, Gegnern und den Kämpfen während des Spiels? Auf was muss sich der Zocker hierbei einstellen ?
+Torsten: Waffen: Es gibt 1-hand und 2-hand Waffen. Mit 1-hand Waffen schlage ich den Gegner (NPCs nicht bei Monstern) erst einmal nur bewusstlos. Danach kann ich dann entscheiden, ob ich zu einem FinishingMove ansetzen will. Da töten aber von den anderen Knastbrüdern (natürliche Härte ist ok) nicht toleriert wird, sollte man gut überlegen, ob man es riskieren will.
+
+
+Zweihand-Waffen machen prinzipiell mehr Schaden und töten sofort. Es gibt einige Waffen, die einfach persönlicher Besitz von jemandem sind und die derjenige auch wiedererkennen wird. Sollte ich also auf unrechtmäßigem" Wege an eine Waffe gekommen sein und später in Gegenwart des Besitzers damit rumfuchteln, so wird er es sofort bemerken und er wird die Waffe zurückfordern. Im Kampf ist viel von dem erlernten Fertigkeitsgrad abhängig. Besser also schon mal was von der Waffe gehört zu haben und noch besser sie zu beherrschen. Das schlägt sich in der Art der Schläge nieder und ob ich Combos schlagen kann oder nicht. So kann ein Anfänger nur den Holzfällerschlag" während der Profi flüssiger, schneller, härter und kombinationsreicher zuschlägt. Das wird natürlich für den Spieler an den Animationen zu erkennen sein. Aber auch die Gegner haben diese Fertigkeiten und werde sie einsetzen. So unterscheiden die Gegner in diesen Kategorien auch noch ihr Verteidigungs- und Fluchtverhalten. Mit einer einfachen Tastenkombination kann man versuchen in den Rücken des Gegners zu gelangen. Wer fit ist an der Tastatur kann also mit dem Kampf viel lösen, wer nicht so fit ist, kann auf andere Art und Weise zum selben Ergebnis kommen. (siehe Magie-, Diebes-, Psifertigkeiten).
+
+Krawall: Zu einem richtigen Rollenspiel gehört doch eigentlich auch eine richtige Party, also ein paar taffe Mitstreiter. Wird man in Gothic damit auch verwöhnt bzw. geplagt werden oder muss sich unser Held der Aufgabe alleine stellen?
+Torsten: Vier Freunde, die man schon aus dem Comic kennt, werden den Helden von Zeit zu Zeit begleiten. Diese sind Diego, Gorn, Milton und Lester. Diego wird den Helden direkt am Anfang ein Stück begleiten, um ihn in die Gegebenheiten der Gefängniswelt einzuführen. Gorn ist vielleicht dem ein oder anderen schon als Pappaufsteller begegnet. Des weiteren kann der Held durch verschiedene Aktionen Mitstreiter" bekommen. So bietet der ein oder andere an, Dir beizustehen, wenn Du Dich in einem bestimmten Gebiet aufhältst. Die andere Möglichkeit ist der Gildenbeitritt. Wenn ich in eine Gilde beitrete, habe ich auf einen Schlag eine Menge Freunde. Die werden mir auf jeden Fall beistehen, wenn sie dabei nicht in den sicheren Tod rennen. Bei keiner Möglichkeit kann man mehr als den eigenen Charakter lenken.
+
+Krawall: Gibt es etwas, das Gothic ganz besonders auszeichnet, gerade auch im Hinblick auf Konkurrenten wie Ultima IX und Vampire ?
+Torsten: Das ist dann wohl die KI. Ich persönlich habe aber auch noch kein Spiel gesehen, das eine solche Atmosphäre aufzubauen weiß. Aber da haben wir sicherlich auch den Vorteil, dass die Computer heute wesentlich mehr Informationen verarbeiten könne als früher. So entsteht aus der Kombination von Grafik und Sound einfach der Wunsch dort zu sein. Dann der Punkt, dass an jeder Stelle im Spiel eine detailliert ausgearbeitete Welt vorgefunden wird! (Noch mal verstärkt durch die Story).
+
+Krawall: Wenn man den aktuellen Trend in Richtung Multiplayergames berücksichtigt, wie wird sich dann Gothic diesbezüglich auszeichnen? Wird es z.B. einen Coop-Modus geben ?
+Torsten: Nein es wird ein reines Single-Player-Game. Da wir entscheiden mussten zwischen einer miterlebbaren Story und Multi-Player ist die Entscheidung zugunsten des Rollenspiels gefallen. Es gab einfach eine Menge nicht vereinbarer Storyelemente, bei einem MultiplayerModus. Doch bin ich sicher, dass die Story in so mancher Rollenspielrunde wiedergefunden werden wird.
+
+Krawall: Auf den meisten der bisher veröffentlichten Screenshots erkennt man vor allen Dingen ausgedehnte Outdoor-Locations. Könntet Ihr ein wenig auf die hauseigene 3D-Engine eingehen? Worin liegen deren Vorzüge bzw. warum wurde nicht einfach eine populäre 3D-Engine wie z.B. die von Epic's ?
+Torsten: Die Unreal-Engine hätte uns nicht die Möglichkeit gegeben, organisch zu bauen. So kann man sicher eine eckige Welt bauen, aber bei allem, was nicht aus Quadern besteht, ist sie nicht ausreichend. Dazu kommt die Sache mit der KI. Die wäre auf gar keinen Fall umsetzbar gewesen. Da ist es ein großer Vorteil die Programmierer in House zu haben und in Verbindung mit der Story sofort reagieren zu können. Dazu kommt noch die große Sichtweite, die Gothic bietet.
+
+Krawall: Das leidige Thema Zensur kann leider auch hierbei nicht aussen vorbleiben, darum: Muss sich der deutsche Zocker auf eine entschärfte Version einstellen ?
+Torsten: Ja. Wir wissen noch nicht genau wie das aussehen wird, aber wir werden nicht darum herum kommen.
+
+Krawall: Vielen Dank für das Interview
+Torsten: Vielen Dank für Euer Interesse, ich bin sicher, das war nicht das letzte Gespräch mit Euch.
+
+Das Interview führte Niels Norta.

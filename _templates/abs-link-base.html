@@ -1,0 +1,12 @@
+{% assign absLinkBase = '' %}
+{% assign tempDepth = page.url | append: '.' | split: '/' | size | minus: 2 %}
+{% for i in (1..tempDepth) %}
+  {% if forloop.last %}
+    {% assign absLinkBase = absLinkBase | append: ".." %}
+  {% else %}
+    {% assign absLinkBase = absLinkBase | append: "../" %}
+  {% endif %}
+{% endfor %}
+{% if absLinkBase == '' %}
+    {% assign absLinkBase = '.' %}
+{% endif %}
