@@ -1,0 +1,2591 @@
+
+ **************************************************
+ ** Gothic                                       **
+ **************************************************
+ ** Mad Scientists                               **
+ **    Dieter Hildebrandt                        **
+ **    Ulf Wohlers                               **
+ **    Bert Speckels                             **
+ ** dieter.hildebrandt@fortytwo.uni-oldenburg.de **
+ ** ulf.wohlers@debitel.net                      **
+ **************************************************
+
+Revision History:
+*****************
+
+  ! Note
+  * Change/Fix
+  + Added feature
+  - Removed feature
+  
+  
+---- FÜR BUGFIXES BITTE IN DEN TESTTRACKER SCHAUEN ---
+
+Gothic 1.00 06.12.2000
+**********************
+- Alle Programmierer beteiligt.
+
+- Testweise folgende Compile Switches des Intel Compilers aktiviert
+	- Code ab MMX/PII Prozessor generiert. Frühere Prozessoren werden nicht mehr unterstützt (-QxiM)
+	- Multi File Optimizations (-Qipo)
+	- EBP als zusätzliches Stackframe Register disabled (mehr Callstack Infos möglich -Qy- )
+
+
+Gothic 0.99 22.11.2000
+**********************
+- Alle Programmierer beteiligt.
+
+- VORSICHT: Die Datei SYSTEM\GOTHIC.INI muss gelöscht werden, d.h. diese darf
+nicht aus vorherigen Releases übernommen werden
+
+
+Gothic 0.98 08.11.2000
+**********************
+- Alle Programmierer beteiligt.
+- Neue Miles DLL 6.0k
+
+
+Gothic 0.97 26.10.2000
+**********************
+- Alle Programmierer beteiligt.
+- Neuer Pfad in der paths.d DIR_VIDEO für globale gerenderte Cutscenes
+- Neue DLL Binkw32.dll für globale gerenderte Cutscenes
+- Exe mit Intel Compiler 4.5 compiliert
+
+Gothic 0.96 11.10.2000
+**********************
+- Alle Programmierer beteiligt.
+
+
+Gothic 0.95 5.10.2000
+**********************
+- Alle Programmierer beteiligt.
+- neue DLLs für MSS & Heapmanager
+
+.
+.
+.
+Publisher/ECTS Demos
+
+.
+.
+.
+
+
+
+Gothic 0.89 07.08.2000
+***********************
+* dSrc 0.89
+* cSrc 0.89
+* uSrc 0.89
+* bSrc 0.89 (Game)
+
+- Glide Renderer entfernt (d.h. WinNT ist ab dieser Version nogo)
+
+
+Gothic 0.88 20.07.2000
+***********************
+* zEngine 0.92f
+* cSrc 0.88
+* uSrc 0.88
+* bSrc 0.88 (Game)
+
+
+- neue Exe gothic_intel. Zusammengebaut mit dem Intel Compiler. Dürfte ungefähr 5-10% schneller sein.
+  Batch dafür: world_intel.bat
+
+- neue Verzeichnisstruktur für Skripte
+
+
+
+Gothic 0.87b 14.07.2000
+***********************
+* zEngine 0.92e
+* cSrc 0.87
+* uSrc 0.87
+* bSrc 0.87 (Game)
+
+neue Batch world_wahnsinnige_geschwindigkeit, beinhaltet nur nötige Submodule, d.h. Sound usw. sind deaktiviert
+
+
+Gothic 0.86a 29.06.2000
+***********************
+* zEngine 0.92d
+* cSrc 0.86a
+
+
+Gothic 0.86 27.06.2000
+***********************
+* zEngine 0.92c
+* cSrc 0.86
+* uSrc 0.86
+* bSrc 0.86 (Game)
+
+Neue zusätzliche Exe Gothic_pdb.exe für alternative Debugging Mechanismen
+
+
+Gothic 0.85b 15.06.2000
+***********************
+* zEngine 0.92b
+* cSrc 0.85a
+
+NEU: Miles DLL Version 6.0h
+
+Gothic 0.85 12.06.2000
+**********************  
+*zEngine 0.92
+
+
+Gothic 0.84a 10.06.2000
+**********************  
+*uSrc 0.84
+*cSrc 0.84a
+*zEngine 0.91
+
+Fixes siehe Testtracker
+
+
+Gothic 0.84 09.06.2000
+**********************  
+*uSrc 0.84
+*cSrc 0.84
+*zEngine 0.91
+
+
+Gothic 0.83 08.06.2000
+**********************  
+*uSrc 0.83
+*cSrc 0.83
+
+
+Gothic 0.82 23.05.2000
+**********************
+! Wichtig: GOTHIC_D3D.EXE heisst jetzt GOTHIC.EXE.
+  Die Glide Version ist gesondert in GOTHIC_GLIDE.EXE umbenannt worden
+  
+*uSrc 0.82 
+*bSrc 0.82
+*cSrc 0.82
+*zEngine 0.90
+
+
+Gothic 0.81 08.05.2000		- E3 Final Version
+***********************
+*uSrc 0.81
+*bSrc 0.81
+*cSrc 0.81
+*zEngine 0.89i
+
+  
+Gothic 0.80 08.05.2000
+***********************
+*uSrc 0.80
+*bSrc 0.80
+*cSrc 0.80
+*zEngine 0.89g
+
+
+Auflösung ist 800x600 Default
+
+Bugfixes siehe Filter im Testtracker
+  
+  
+  
+Gothic 0.79c 06.05.2000
+***********************
+
+Bugfixes siehe Filter im Testtracker
+
+
+Gothic 0.79b 04.05.2000
+***********************
+*zEngine 0.89e
+
+Bugfixes siehe Filter im Testtracker
+
+
+
+Gothic 0.79a 04.05.2000
+***********************
+*cSrc 0.79a
+*bSrc 0.79a
+*uSrc 0.79a
+*zEngine 0.89d
+
+Bugfixes siehe Filter im Testtracker
+
+
+Gothic 0.79 28.04.2000
+**********************
+*cSrc 0.79
+*uSrc 0.79
+*bSrc 0.79
+*zEngine 0.89b
+  
+Gothic 0.78 20.04.2000
+**********************
+* cSrc 0.78
+* uSrc 0.78
+* bSrc 0.78
+* zEngine 0.89a
+
+Bugfixes siehe Filter im Testtracker
+
+
+Gothic 0.77d 05.04.2000
+***********************
+* cSrc 0.77d
+* uSrc 0.77d
+
+Gothic 0.77c 05.04.2000
+***********************
+* uSrc 0.77c
+* cSrc 0.77c
+  
+Gothic 0.77 22.03.2000
+**********************
+* uSrc 0.76
+* cSrc 0.77
+* bSrc 22.03.00
+* zEngine 0.88a
+
+
+! Umstellung auf neue Verzeichnisstruktur
+! VDFS Unterstützung Teil 1 (noch ohne Kompression)
+  
+
+Gothic 0.76a 03.03.2000
+***********************
+* cSrc 03.03.2000
+
+
+Gothic 0.76  28.02.2000
+***********************
+! Umstellung auf paths.d statt config.d. Diese muss im selben Verzeichnis wie das Executable liegen. 
+* bSrc 15.02.2000
+* cSrc 28.02.2000
+* aSrc 28.02.2000
+* uSrc 0.73c
+* zEngine 0.87e
+
+
+Gothic 0.75  08.02.2000
+***********************
+* zEngine 0.87
+
+
+Gothic 0.74  04.02.2000
+***********************
+! Netzwerk wieder aktiviert
+*bSrc 04.02.2000
+*uSrc 04.02.2000
+*cSrc 04.02.2000
+*aSrc 04.02.2000
+*zEngine 0.86
+
+
+Gothic 0.73  26.01.2000
+***********************
+*bSrc 25.01.99
+*cSrc 26.01.99
+*Defect #350 Waynet beim Laden der Surface.zen im Eimer
+
+
+Gothic 0.72c 17.01.2000
+***********************
+*uSrc 0.71
+
+Gothic 0.72b 14.01.2000
+***********************
+*cSrc 14.01.99
+*zEngine 0.85c
+
+
+Gothic 0.72  10.01.2000
+***********************
+* uSrc 070d
+* cSrc 10.01.2000
+* zEngine 0.85
+
+
+Gothic 0.71e
+*************
+* Phoenix_X.exe heisst jetzt gothic.exe
+* pChanges.txt heisst jetzt gChanges.txt
+* Defect 270 (ITIS-System defekt bzw. nicht mehr vorhanden): gefixed
+* Defect 272 (Absturz bei der zweiten Auftragsvergabe): gefixed
+
+Phoenix 0.71c
+*************
+* uSrc 0.70c 
+* cSrc 28.12.99
+* Hack um Crash beim Beenden zu umgehen (gleiches Prob wie beim Spacer Save Crash)
+* Das Exe ist wieder kleiner. Merkwürdigerweise wirkt sich ein minimales Sourcen Update inkrementell auf die Dateigrösse aus.
+  Abhilfe schafft nur ein Full Rebuild :( ???
+
+Phoenix 0.71b
+*************
+* OU Hack
+
+
+Phoenix 0.70
+************
+uSrc 0.70
+cSrc 20.12.99
+CS Src 0.42
+
+
+Phoenix 0.70e
+*************
+* Cutscene System 0.41 von Andre integriert
+* Netzwerk und VDFS Integration
+
+Phoenix 0.70d
+*************
+* Rüstungssystem funktioniert (ne, echt jetzt...)
+* Beim zweiten mal Ansprechen Absturz -> Problem behoben.
+
+Phoenix 0.70c
+*************
+* Rüstungssystem funktioniert
+* NSCs stecken nicht mehr ineinander bei Tagesablaufvorausberechnung
+* Absturz im NC behoben
+
+Phoenix 0.70b
+*************
++ AI		: neue NPC - Warnehmung : AssessGivenItem -> BeispielSkript "ZS_AssessGivenItem.d"
++ Externals : Npc_StartItemReactModules()
+              Modl_SetVisualBody um einen weiteren Parameter erweitert ( beim Start angelegte Ruestung -> Eine Armor sollte innerhalb einer NSC-Instanz nur noch so equipped werden -> Ladezeit optimiert )
+              ! Skriptanpassung noetig !
+* Trade     : C_ITEMREACT : neue Var "requested_cat" : Aller Items einer (oder mehrerer !) Kategorien werden berücksichtigt.
+              ! Wichtig  : Die Reaktion-Methode muss jetzt "1" zurückliefern, wenn der Tausch durchgeführt werden soll, "0" wenn nicht.
+              Siehe Beispielskript "STT_301_SHADOW01.d"
+* Mobsi     : Picklock-Anis beinhalten jetzt den SchemaNamen (z.B."T_CHESTBIG_S0_PICKLEFT")
+* Defect 129: AI_Ask liefert zwar den Daumen, aber die Output-Units in FuncYes/FuncNo geben keine Textausgabe
++ Commando Zeilen Parameter -zNoTex startet den Level ohne Texturen (schnellere Ladezeit beim Hochfahren)
+
+
+! Log Datei übernommen von Carsten Edenfeld
+! ab nächster Version uChanges.txt für Ulfs Changes
+
+
+Phoenix 0.69c
+*************
+* Fackel    : Geht unter Wasser aus / Wurf + Fallenlassen funktioniert
+              Die "TorchBurning"-Fackel Instanz muss Flag ITEM_TORCH gesetzt haben
+* UI        : Während Schwimmen und Tauchen hat Space keine Wirkung
+* Mobsi     : Mobsi-Aktionen werden mit Space beendet ( SC poppt in Stand-Ani zwecks Waffe ziehen, bei Bedarf ist hier noch eine Interrupt-Transition-Ani möglich/nötig )
+
+Phoenix 0.69b
+*************
++ Fackel    : Folgende Item-Instanzen nötig : Torch, TorchBurning, Torchburned ( siehe light_sources.d )
+              Zen-File : "TORCH_BURNING.ZEN" ins "DATA\WORLDS"-Verzeichnis
++ Mobsi		: - Truhen können mit Links+Rechts-Tastenkombinationen und einem Dietrich geknackt werden 
+                ( Angabe mit pickLockStr = "LLRLR" )
+                Animationsnamen : T_S0_PICKLEFT, T_S0_PICKRIGHT
+                Soundnamen      : PICKLOCK_SUCCESS, PICKLOCK_FAILURE
+			  - Mobsis zurückspulen nach Unterbrechungen ( rewind - Flag )
+			  - Anzahl der States beim oCMobLadder kann im Visualnamen angegeben werden (z.B. "LADDER_3.MDS")
+              - Von Leitern fallen, wenn STRG nicht mehr gedrückt wird
+			  - Startbedingung für Mobsi im Skriptangeben (z.B. Mindeststärke) 
+			    "conditionFunc" = Funktion im Skript mit Returnwert "0" (Bedingung nicht erfüllt) bzw. "1" (Bedingung erfüllt)
+              - OnState - Funktion für Mobsis. Name der aufzurufenden Skriptfunktion ergibt sich aus
+			    "onStateFunc" + "_S" + Nummer des aktuellen States
+			  - Feuer-Unarchive-Bug gefixed
+              - Neue Befehl im MDS : Austauschen des aktuellen InteractItem
+                Bsp : ani ("t_BLACKSMITH_S2_2_S3"		1	"s_BLACKSMITH_S3"	0.0	0.0	M.	"Hum_BlackSmith_M01.asc"	F	240	374)
+                      {
+                           *eventTag	(240	"DEF_EXCHANGE_ITEM"	"ZS_LEFTHAND"	"BS_SWORD_BLADE")
+		              }
+			  - Physik beim Mobsi-Werfen klappt
+
+Phoenix 0.69
+************* 
++ Externals : AI_PlayCutscene, Hlp_CutscenePlayed, Hlp_GetNpc, Wld_DetectNpc 
++ Skript    : neue Skriptklasse "C_ITEMREACT" für die ItemReact Module (UI ist noch nicht fertig)
++ Trigger   : Neue Klasse "oCTriggerScript" zum [mehrmaligen] Anstossen einer Skriptfunktion.
++ Schaden   : Bei Feuerschaden fangen NSCs Feuer und pro Sekunde wird ihnen 1HP abgezogen (bis kompletter Feuerschaden erhalten wurde)
+              -> Effekte klären
++ Mobsi	    : neue Klasse "oCMobFire" für Feuerhandling
+* Mobsi     : - Kameramodi werden aktiviert ( "CAMMODMOB[SchemaName]", bzw "CAMMODMOBDEFAULT" )
+              - Kollision aktiviert
+			  - Winkel- und Entfernungsbegrenzung für jedes Positionsslot
+			  - In jeder Transition/State kann jetzt AniComb benutzt werden, als Bezugspunkt um die Höhe zu ermitteln wird der "BIP01 FIRE"-Slot benutzt ( Besser allgemeineren Namen ? )
+              - Der Inhalt eines Mobsis fällt bei Zerstörung raus
+
+Phoenix 0.68b
+*************
++ ZenGin 0.83b
++ Externals : Doc_MapCoordinates -> Initialisiere eine Karte
+
+Phoenix 0.68b
+*************
++ ZenGin 0.83
++ Items   : Dokumente können aus den Skripten erzeugt und angezeigt werden.
++ Parser  : Externals : Doc_Open, Doc_Font, Doc_Print
+            Externals : Mob_HasItems kann jetzt auch für "oCMobItemSlot"-Mobs benutzt werden, um deren Inhalt abzufragen.
++ Anis    : Bei MobInteractionen werden jetzt Interrupt-Anis mit dem entsprechenden MobSchemaNamen (z.B. T_CAULDRON_STUMBLE) gestartet.
++ Mobsi   : Das in oCMobItemSlot abgelegte Item kann wieder rausgenommen werden.
+* Parser  : Mdl_SetVisualBody hat sich geändert : Parameter siehe Konzept.
+			Mdl_SetVisualBody (body,bodyTexNr,bodyTexColor,head,headTexNr,teethTexNr);
+! neue zSpy Version erforderlich (liegt bei) und Parameter -LOG benutzen ! (siehe bChanges.txt)
+
+Phoenix 0.68a
+*************
++ ItemInteraktionssystem
++ Mobsi   : neues oCMobInter : "oCMobItemSlot" : 
+            In dieses Mob kann ein Gegenstand abgelegt werden ( "UseWithItem" benutzen )
+* Mobsi   : Um ein Mob benutzen zu können, das ein Item benötigt, 
+            Mob in den Focus holen und entsprechendes Item im Inventory mit CTRL+UP selektieren.
+* Skripte : C_ITEM geändert :
+            "on_use"  raus, "onState[4]" rein
+			"useSlot" raus, "scemeName" rein
+* MDS     : Neue eventTags zur Benutzung mit dem ItemI und MobsI :
+            1) *eventTag	(15		"DEF_INSERT_ITEM"	"ZS_RIGHTHAND")
+               der vom Spieler im Inventory ausgewählte Gegenstand wird in das angegebene Slot eingefügt.
+            2) *eventTag	(15		"DEF_CREATE_ITEM"	"itemInstanz"  "ZS_SLOT")
+               erschaffe ein zusätzliches Item (nur für die Dauer der ItemInteraktion gültig) und füge es in das angebene Slot ein
+            3) *eventTag	(15		"DEF_REMOVE_ITEM")
+               Das mit DEF_INSERT_ITEM erzeugt Item wird in das Inventory zurückgelegt.
+               Alle mit DEF_CREATE_ITEM erzeugten Items werden zerstört.
+            4) *eventTag	(15		"DEF_DESTROY_ITEM")
+               Das mit DEF_INSERT_ITEM erzeugt Item wird zerstört ( gelangt nicht mehr in Inventory zurück ).
+               Alle mit DEF_CREATE_ITEM erzeugten Items werden zerstört.
+            5) *eventTag	(15		"DEF_PLACE_ITEM")
+               Für die MobInteraction mit Gegenständen : Der Gegenstand wird im ZS_SLOT des Mobs platziert.
+			!  Werden diese Befehle ausserhalb der Item/bzw. MobInteraktion benutzt, werden diese ignoriert.
+* Kampf   : Schlagen geht wieder.
+
+Phoenix 0.68
+*************
++ ZenGin 0.82a
++ Externals : neu : Mis_SetStatus, Mis_GetStatus, Mis_OnTime, AI_Ask
+              neue Konstanten zur Angabe/Abfrage des Missionstatus : siehe Constants.d "MIS_"-Konstanten
+* Auftrag   : Auftragssystem ans Konzept angepasst.
+* Info      : Info-System ans Konzept angepasst.
+* Screens   : Eine frühe Version des Character-Screens kann man mit "BackSpace" bewundern.
+* zCView    : InsertHandleEvent... etc. rausgeflogen. Alle Input-Events werden jetzt über den
+              zCInputCallback abgewickelt -> virtuelle Methode "HandleEvent" überschreiben und mit 
+              SetEnableHandleEvent(TRUE) diese aktivieren !
+
+Phoenix 0.67b
+*************
++ ZenGin 0.82
++ Konsole   : "SAVE INFOFILE" schreibt alle Befehle der Konsole in ein Textfile (console.txt)
++ Externals : neu : Mob_CreateItems, Mob_HasItems, Npc_ExchangeRoutine, Rtn_Exchange, TA_StartOverlay, TA_EndOverlay
+* Externals : geändert : AI_Output erwartet jetzt als zweiten Parameter den Namen der Output-Unit ( STRING )
+* Externals : entfernt : AI_Sit, AI_SitObj, AI_Lie, AI_LieObj, CreateLearn
+* Skripte   : C_ITEM : Nur noch einen Schadenswert (C_ITEM.damage) 
+              Angabe der Schadensarten mit C_ITEM.damageType und den bereits bekannten Konstanten ( DAM_EDGE, etc... ), die dann Oder-Verknüpft werden müssen.
+* Skripte   : Tagesabläufe (bzw. deren Funktionsnamen) unterliegen jetzt folgender Namenskonvention :
+              Rtn_[Name des Tagesablaufes]_[(Skript)ID des NSCs]
+              Komplette Tagesabläufe von mehreren NSCs werden dann mit der BuildIn-Funktion
+              Rtn_Exchange (oldRoutineName, newRoutineName), wobei 
+			  oldRoutineName = Name des alten Tagesablaufes, also _nur_ der Mittelteil des Rtn-Funktionsnamen, oben als [Name des Tagesablaufes] angegeben.
+			  newRoutineName = Name des neuen Tagesablaufes, wiederum _nur_ der Mittelteil des neuen Rtn-Funktionsnamen
+              Welche Tagesabläufe dann erfolgreich ausgetauscht worden (oder auch nicht), sind dem zSpy zu entnehmen.
+* Skripte   : Beispiel : Anbei das Missionsskript "Mis_Test.d" mit dem ich die neuen Externals getestet habe.
+* Mobsi     : Kisten öffnen/schliessen/Inhalt anzeigen Bug gefixed
+* Mobsi     : Auf Wunsch die State-Anzahl vom oCMobWheel auf 16 gesetzt ( temporär ? )
+* Debug     : Mit ALT+J wird der TA des aktuellen FocusNpc angezeigt.
+* Performance : Tuning
+! Sourcen   : "oNpcMsgMeta.cpp" raus
+
+Phoenix 0.67a
+*************
++ Direct3D Version
++ Kommandozeilenparameter : -D3DDEVICE:[nr] -> Nummer der zu benutzenden Grafikkarte (Primary:0 / Secondary:1)
+! D3D : ZEN-Files mit compilten Lightmaps werden nicht (!) geladen (Programm hängt).
+
+Phoenix 0.67
+*************
++ ZenGin 0.81d
+* Skripte : Klasse C_MOB entfernt, / Source-Files "oMob.*" entfernt
+* Skripte : Species.d : FIGHT_STEP_LENGTH und FIGHT_ATTACK_LENGTH rausgeflogen
+* Bewegung: In den Kampfmodi stoppt der SC sofort beim Loslassen der CURSOR_UP - Taste.
+* Talente : Npc_LearnTalent - Bugfix
+* |MR-0277| In-Wasser-Beam-Bug : Die Figur beant sich sofort ins Wasser, selbst wenn es 50m unter einem ist, man ist sofort ohne Flug drin.
+* |AB-0037| Magie: Geht man mit gezogenem Spruch in's tiefe Wasser, dann läuft der SC nach dem automatischen Wegstecken auf dem Grund weiter statt zu schwimmen. Oder er schwimmt, läuft dann an Land aber automatisch weiter...
+* |AB-0046| Humans stecken nicht mehr automatisch die Waffe weg wenn sie ins Wasser springen. Waffen sollen wie bisher ohne Ani zurück in den Waffenslot "poppen". Springt man mit einem gezogenen Magie/Psi-Spruch ins Wasser muß auch der Magiemodus sofort beendet werden. Zur Zeit bleibt der Partikeleffekt im Wasser stehen und der Magier ist wenn er an Land schwimmt immer noch im Magiemodus, nur ohne Spruch auf der Hand.
+* |AB-0154| geht man mit gezogener Waffe in den Fluß, dann läuft man auf dem Grund (Lieber Waffen einfach "wegpoppen" lassen als Probleme durch Anis zu haben).
+* |MK-0181|	Man kann immer noch mit der Waffe in der Hand schwimmen, nachdem ins Wasser gesprungen(!) ist, beim rein-Walken steckt er die Waffe weg Vorschlag: Sie "beamt" an den Waffenslot (2h auf Rücken, 1h an die Seite usw.)
+* |MR-0217| Spielfigur kann nicht ins Wasser springen. Versucht man dies, Snappt die Figur in der Luft sofort ins Wasser. (Schwimmbad im Testlevel; Sprungbretter : Spieler nimmt anlauf, Springt ab und verschwindet sofort nach der Kante im Wasser)
+* |JP-0263| Wenn man die Umschau-Kamera benutzt bleibt der Kopf "hängen", sieht also weiter in eine Richtung
+* |MR-0219| Kopf des Spielers geht nicht mehr auf seine Grundposition nach dem Num-0 rumgucken
+! Absturz bei Programmende -> Lichtbug ??
+
+Phoenix 0.66e
+*************
++ Talente   : Akrobatik - Fallhöhe (aus species.d) ohne Schaden wird verdoppelt.
+              Overlay-MDS "HUMANS_ACROBATIC" wird aktiviert.
+			  Togglen mit SHIFT + 1
++ MDS       : EventTags "DEF_PLACE_ARROW" / "DEF_PLACE_BOLT" rausgeflogen. Munition in die Hand
+              einfügen erfolgt jetzt mit *eventTag	(90	"DEF_PLACE_MUNITION" "ZS_RIGHTHAND")
+              der letzte Parameter gibt den Slot an, in dem die Muni eingefügt wird.
+			  Zum entfernen der Muni muss jetzt *eventTag (33  "DEF_REMOVE_MUNITION") angegeben werden
+			  (siehe auch mitgeliefertes MDS)
++ Waffen	: C_ITEM.munition : Verweis auf C_Item-Instanz, die als Munition benutzt wird.
+			  C_ITEM.pfx      : Partikeleffektname, der an den Gegenstand geheftet werden soll.
+              Automatische Munitionsgenerierung bei Fernkampfwaffen mit Flag ITM_CREATEAMMO für magische Waffen
+              Beispiele : In der "artifacts.d" ist das "RuneSword" magisch (Trinkwaffe + PFX) und der "FieryBow" generiert sich Muni.
+* Magie     : Auf Messagesystem umgestellt ( Netzwerk )
+* Input     : Umstellung auf neue Input-Klasse ( Joystick/GamePad Unterstützung )
+! Skripte   : Die Fallhöhe in "species.d" muss in cm angegeben werden (wie alle anderen Höhenwerte), nicht in Meter ! 
+
+Phoenix 0.66d
+*************
+* Magie     : Magiesystem mit neuer Ani-Ansteuerung.
+              ! Probleme bereiten noch : Transform, Petrify ( häufig Absturz ! )
+* Skripte   : "constants.d" aufgeräumt ( Thanx, Jochen ! )
+
+Phoenix 0.66c
+*************
+* Skripte   : External : "Npc_HasItems" liefert jetzt Anzahl gefundener Items zurück ( siehe "externals.d" )
+                         "Npc_KnowsInfo" siehe "external.d"
+* Skripte   : Voice-Pitchangabe über C_NPC-Variable "voicePitch" wird in Halbtönen angegeben
+* Kampf     : Blut, überall Blut.... ( ab <= 50% der HP blutet der (N)SC ständig ein wenig :) ).
+* Kampf-AI	: teilweise wieder aktiviert, NSC wehren sich jetzt, führen aber noch nicht alle AI-Befehle aus.
+* Turns     : Bei den Turn-Anis werden jetzt die Drehungen aus den Anis benutzt, wenn das "R"-Flag angegeben ist,
+              ansonsten wird wie bisher die Drehung "logisch" ausgeführt.
+* Cutscene  : Neues Output-Unit-Format -> neue Datei "OU_GER.CSL" in CUTSCENE-Dir und alte Datei löschen.
+* Cutscene  : Eine Cutscene kann an einen Tagesablaufpunkt angehangen werden, indem der TACS - Befehl ( siehe externals.d )
+              gleich nach dem entsprechenden TA-Punkt im Skript steht. Siehe auch Beispielskript "NpcCutscene.d".
+
+
+Phoenix 0.66b
+*************
++ ZenGin 0.81
++ AI        : NSCs können Mobs benutzen : Skriptbefehl : AI_UseMob(self,mobSchemeName,targetState)
+              Damit sind die alten Skriptbefehle wie AI_Sit, AI_Lie, etc. hinfällig !
+* AI        : DebugAnzeige Skriptzustaende wieder aktiv ("font_roman8.fon" nötig !).
+* Skripte   : Externals : Kurze Beschreibungen der neuen Externals jetzt immer in "externals.d"
+              Externals : AI_UseMob / Wld_GetDay / Npc_HasItems
+              C_MISSION : Die "duration" Angabe gibt jetzt die Anzahl der Stunden an, nicht mehr die Tagesachtel !
+			              Wenn "duration == 0" dann ist das eine Mission ohne Zeitlimit.
+* Mobsi     : Leitern
+* Kampf     : optimale Entfernung zum Gegner
+* Grade     : Umstellung auf Sourcen
+* Anis      : Bei allen Anis die, "Leiterklettern" betreffen, muss das "F"-Flag gesetzt werden, damit der (N)SC nicht runterfällt.
+* |SN-0175| Warnung "U:NPC:No Route found." muß die Instanz des NPCs ausgeben 
+* |SR-0203| Im NL (evtl. auch anderswo) funktioniert die aigoto-Routine nicht bei allen Waypoints.
+* |SR-0212| NPC_HasItems Funktion (Mengenabfrage) ist für einige Missionen wichtig.
+* |MK-0214|	Wenn man im Kampfmodus (bspw. 1hS ) das Inventory öffnet bleibt der SC im Kampfmodus
+* |SR-0203|	Im NL (evtl. auch anderswo) funktioniert die aigoto-Routine nicht bei allen Waypoints. Zum Beispiel werden die Waypoints NC_HUT01_IN und NC_KDW03_IN anscheinend nur in direkter Linie angelaufen, nicht über das Waynet. Wenn der SC weiter vom Zielpunkt entfernt ist, steht in der Console die Meldung "aigoto started ()", aber der SC läuft nicht los. (World.zen, PC_Hero)
+* |AB-0186|	Attack-Kür: Wenn man STRG+UP gedrückt hält, soll nur ein Schlag ausgeführt werden. Auch die automatische Endloswiederholung des ersten Schlags sollte nicht klappen. (Einmal drücken, einmal schlagen). 
+* |AB-0184|	Waffe ziehen: Zieht man während des Rennens die Waffe, dann kann man während dies passiert nicht mehr die Laufrichtung ändern. Läuft man eine Rechtskurve (Cursor Up+Right) dann funzt das Waffenziehen, bei Linkskurven nicht.
+            -> Wenn Cursor+Left gedrückt, werden von einigen Tastaturen KeyEvents nicht mehr richtig weitergeleitet -> Ist ein Hardwareproblem, das wir schon einmal hatten !
+* |SR-0204|	Die NSCs rennen teilweise defaultmäßig zu ihren Tagesablauf-Waypoints (z.B. NSC: EBR_100_Gomez), sollten aber GEHEN.
+* |SR-0169| aigoto waypoint funktioniert nur noch, wenn der wp in der Nähe ist.
+* |SR-0170| aigoto waypoint nimmt bei mehreren Möglichkeiten oft den längeren Weg.
+* |MK-0182|	Bei Monstern (Gobbo, etc.) kann man ein Inventory öffnen (TAB), aber nicht mehr schließen, sowie keine anderen Aktionen mehr ausführen.
+* |AB-0051| Ja/Nein Abfrage (Daumen) sollte erst dann erscheinen wenn SC nach einer NSC Frage wieder ACTION (STRG) drückt. Somit ist er nicht gezwungen zu Antworten und kann auch einfach weggehen. ACTION drücken, Daumen erscheint, loslassen und er verschwindet mit leichter Verzögerung wieder. Um mit Ja oder Nein zu antworten muß man also ACTION gedrückt halten und gleichzeitig CursorUP oder CursorDn drücken.
+
+Phoenix 0.66a
+*************
+* Parser    : Linker-Bug bei Benutzung von vielen D-Files gefixed
+* Jump      : Nach JumpUpLow kein ewiger Jump mehr
+* Kamera    : Umschau-Kamera wieder aktiviert
+* Anis      : (Cross)Bow-Walkcycle-Problem behoben
+
+Phoenix 0.66
+*************
++ Auftragssystem -> getestet mit dem alten "DevilMushroom"-Auftrag -> Skript mit dabei.
++ Skripte   : Perc.d : neue Instanz : "PERC_ZS_ANSWER" 
+              -> Ja, die ist leer und das ist gut so ! :)
+* Askbox    : neue Steuerung ( bei CTRL erscheint diese erst )
+* AI        : Komplette Umstellung von AIManager auf NpcManager
+* Files     : raus : oNpcManager.* / oAIFight.cpp / oAIMove.cpp
+
+Phoenix 0.65f
+*************
++ ZenGin 0.80b
+* Kampf		: (Cross)Bow-Mode funktioniert wieder
+* MobInter	: Trigger/Untrigger/GetTriggerTarget Methoden ( Thanx, Andre! )
+* EventMan  : Clear-Bugfix/IsRunning
+
+Phoenix 0.65e
+*************
+* Parser : External :
+           + neu : "Npc_ChangeAttribute(self,attribute,value)"
+		   * fix : "Npc_LearnTalent"
++ Talente: Pilzkunde : Die SkriptInstanzen für die 3 Pilzarten bitte übernehmen. 
+           Die Instanznamen dürfen nicht geändert werden !
++ Talente: Die neuen Talente können mit SHIFT + 1, SHIFT + 2... getoggelt werden. 
++ Magie  : Telekinese -> geändert : magic.d -> Skriptupdate von Carsten nötig !
+* Magie  : Magiesystem auf neue Ani-Namen umgestellt -> noch nicht ganz fertig / 
+           bei Hänger entsprechende Anis im MDS auskommentieren.
++ MOBI   : In Faß verstecken : (N)SCs werden nicht mehr von anderen NSCs wahrgenommen, 
+           sobald der Mob/SC den MobI-Zustand "1" erreicht hat.
+* MOBI   : Steuerung geändert : Zustände werden nicht mehr automatisch "runtergezählt", 
+           wenn Control nicht gedrückt, sondern dies muss jetzt mit CTRL+DOWN manuell geschehen.
+		   ( in Fass verstecken, Sitzen, Schlafen... )
++ Kraulen: Während des Schwimmens SHIFT -> Overlay-MDS "HUMANS_SWIM" wird aktiviert
++ Sprinten:Während des Rennens    SHIFT -> Overlay-MDS "HUMANS_SPRINT" wird aktiviert
+* Konsole: PlaySound geht wieder
+! Kamera : Einige Kameramodi werden nicht mehr aktiviert.
+! neue Files : zEventMan.* / oNpcMessages.* / oNpcMove.* / oTrigger.*
+
+Phoenix 0.65c
+*************
++ MDS : - Jumpstand raus
+        - Waffe ziehen / wegstecken aus dem Lauf
+        - Angaben für den Wechsel der Waffenmodi mit :    *eventTag(11 "DEF_FIGHTMODE" "1H")	
+		- Angaben der optimalen Frames bei den Schlägen : *eventTag(0  "DEF_OPT_FRAME" "21 39 62 83 106")
+		- Angaben der Endframes bei den Schlägen :        *eventTag(0  "DEF_HIT_END"   "25 45 70 92 120")
+        - "DEF_SWAPMESH" Angaben bitte nicht mehr benutzen
+* Kampf : Steuerung für die "Schlagkür"
+* Event-System-Bugfix
+
+Phoenix 0.65
+*************
++ ZenGin
+- Formate : PWF-Unterstüzung entfernt
++ Skripte : Fallhöhe/schaden pro Spezies einstellbar
+			"Species.d" :	FALLDOWN_HEIGHT	-> Fallhöhe ohne Schaden zu nehmen
+							FALLDOWN_DAMAGE -> Schaden für jeden weiteren Meter
++ Skripte : - unterschiedliche Schadensarten für Waffen (C_ITEM) über Array "damage[x]" 
+			  wobei x : "DAM_BLUNT","DAM_POINT","DAM_EDGE","DAM_FIRE","DAM_MAGIC"
+            - unterschiedliche Resistenzen für NSCs (C_NPC) und Rüstungen (C_ITEM) über Array "protection[x]",
+			  wobei x : Konstanten siehe Schadensarten.
++ Skripte : C_ITEM aufgeräumt, einige Vars gibt's nicht mehr : "range","munition" etc...
+            CONSTANTS.D : Konstanten-Namen aufgeräumt (z.B. "ATR_MADNESS" -> "ATR_WILL")
++ Talente : - Mana Regeneration
+			- Eiserner Wille
+            - Schnelle Wundheilung
+			- Pilzkunde
++ MOBI    : - Leiter klettern ( Anzahl der Zustände wird automatisch über Höhe der Leiter errechnet )
+            - Tür öffnen ( FRONT / BACK - Anis werden benutzt ).
+
+Phoenix 0.64d
+*************
++ ZenGin 0.79
+* Magie : "Versteinern" + "Unsichtbar"
+
+Phoenix 0.64c
+*************
++ Magie : Unsichtbar-Spruch : Nichtmagier können (N)SC nicht mehr sehen (aber hören).
++ Level Speichern / Laden :
+  - Config.d hat neuen Pfad : DIR_SAVEGAMES = "\data\worlds\savegames\";
+  ! Wichtig : Bitte _exakt_ so übernehmen und Verzeichnis "SaveGames" als
+    Unterverzeichnis von "World" erstellen !
+  - Der Spielstand kann über die Konsole mit "save game" und "load game" 
+    gespeichert bzw. geladen werden, dabei wird immer Slot 0 
+	(Verzeichnis \savegames\savegame0\") benutzt.
++ Levelwechsel : neues Objekt : oCTriggerLevelChange mit folgenden Attributen für den Spacer :
+  - levelName    : Levelname (Zen-File) des zu ladenenden Levels
+  - startVobName : Vob- oder Wegpunktname an dem der SC nach dem Levelwechsel positioniert wird.
+! neue Files: 
+  - oSpellBase.h/cpp
+  - oTrigger.h/cpp
+
+Phoenix 0.64b
+*************
+* AI        : Reaktionen von Fortuno klappen ( aufstehen )
+
+Phoenix 0.64a
+*************
+* Mobs      : Schild-"Angriffs"-Absturz
+* Magie     : Feuerball-Absturz nach eigenem Treffer gefixed
+* DemoKeys  : Mit den Tasten 5-9 wird der SC zu unterschiedlichen WPs gebeamt.
+* Texte     : Scrollspeed der Texte auf 7 Sekunden gesetzt
+* UI        : Gobbo-Take disabled
+* Inventory : Namen der Items werden wieder angezeigt
+* |AB-0895| FallDn/Fall/FallB: Es sollte sofort getestet werden, ob der Sturz zu tief sein wird um auf den Füßen zu landen. Dann muß von "s_FallDn" möglichst schnell nach "s_Fall" bzw. "s_FallB" gewechselt werden -> Eine kurze Verzögerung muß beibehalten werden, damit man sich an einer Kante festhalten kann wenn man rückwärts "über" eine Kante geht. Auch beim Fallen durch eine kleine Falltür gibt's Probleme, wenn der SC sich direkt querstellt. Springt man in einen Abgrund wird garnicht mehr getestet ob man zu tief fällt. man bleibt in "s_Jump-Haltung, egal wie tief der Sturz ist und kann jede Höhe unverletzt überwinden!
+! MDS       : Bei den Anis "t_FallB_2_FallenB" und "t_Fall_2_Fallen" das F-Flag angeben.
+
+Phoenix 0.64
+*************
+* Stehlen    : Gestohlene Items wurden manchmal nicht ins Player-Inventory übernommen.
+* Ansprechen : ZS_Talk.d geändert -> Ansprechen klappt jetzt besser
+
+Phoenix 0.63f
+*************
++ ZenGin 0.78f
+* |AB-0151| Inventory: Waffe ziehen (SPACE) muß das INV genauso schließen wie TAB und ESC (klappte früher auch schon) und gleichzeitig die Waffe ziehen.
+
+* Spieler    : Autoroll funktioniert wieder
+* Kampf      : Kampfentfernungen werden besser eingehalten
+* Kampf      : Knockbacks klappen wieder bei NSCs
+* Kampf      : Gegner kommen im Nahkampf oft viel zu nah und stehen dann im SC
+* AI         : Frightening freezt beim Schwert-aufheben
+* AI         : nach einem Treffer freezen NSCs
+* Trank      : SprintingHorse funktioniert
+* Mobs       : Mobzerstörung funzt auch bei den "neuen" Mobs
+               Der Partikeleffekt muss derzeit noch an den Kollisionssound geheftet werden
+* Magie      : Feuerballspruch auswählen, dann herumrennen und dabei STRG drücken, der Ball wächst auf der Hand...
+* Magie      : der Teleport - Spruch macht ausser ein paar netten Grafikeffekten nichts...
+* Magie      : wie um alles in der Welt beendet man den Human Control Spruch????
+               -> Ab dieser Version wie's im Konzept steht ( genauso auch den Transform-Spruch )
+* Magie      : der Transform-Spruch bringt in der dritten Stufe (Shadow-Beast) das Spiel zum Absturz...
+			   -> Falls die Instanznamen der Monster geändert werden, teilt mir dies bitte mit,
+			      in diesem Fall "Shadow" -> "ShadowBeast"
+* Magie      : Rückverwandlung vom Meatbug in Magier (während Orkangriff) führt zu Absturz...
+* MobsInter  : Bei MOB_Interacts (z.B. Faß) sollte der SC erst dann wieder gerade stehen wenn die 
+               Interaktion beendet ist. Während der Benutzung sollte die Ausrichtung des Slots benutzt werden
+* Tauchen    : Wenn SC unter Wasser unter 3 HPS sinkt, dann wechselt er auch in die WOUNDED-ANI und hinkt!
+! AI         : der Wolf greift mich jetzt zwar schön an, aber wenn ich mich wehre, freezt er
+               -> Laut FAI versucht der Wolf zu parieren, hat aber keine ParadeAnis,
+			      Lösung : Parade aus der FAI nehmen, oder ParadeAnis einbinden
+! Magie      : der Feuerball bleibt an der Hand, auch wenn man den Magiemodus verlassen hat...
+               -> * nicht festgestellt *
+
+
+Phoenix 0.63e
+*************
+* Skripte    : Trank-Flag für Items (ITEM_DRINK -> C_Item.flags = ITEM_DRINK );
+* Waffen     : Zuletzt benutzte Waffe wird beim nächsten Waffeziehen wieder als erstes benutzt.
+* AI         : Schlafen / Hinsetzen Bug gefixed
+* AI         : Monster-Waffe-Wegsteck-Bug gefixed
+
+Phoenix 0.63d
+*************
++ ZenGin 0.78d
+* Tasten      : Wechseltasten für die Spielerfiguren ( 1,2,3 und 4 )
+* Equippen    : Borik-Bogen-Equip Bug wech
+* Inventory   : Items auch in der Oberwelt hell
+* Absturz     : Bogen/Armbrust Absturzbug gefunden
+* Mob-Convert : Erweitertes Mob-Convert mit allen Schikanen
+* AI          : NSCs reagieren auf Anvisieren mit Magie (z.B.Feuerball)
+* AI          : Temp-Attitude-Bug gefixed
+
+Phoenix 0.63c
+*************
++ Mob-Converter mit Taste "M" aktivierbar.
+* Konsole : "SAVE ZEN xxxxx.ZEN" speichert aktuellen Level als Zen-File
+* Debug   : "ENTF"       -> Wiederbelebung an aktueller Position.
+            "SHIFT+ENTF" -> Wiederbelebung an Startposition.
+
+Phoenix 0.63b
+*************
+* GesichtsAnis werden je nach Attitude gesetzt.
+* News   : werden nur noch einmal erzählt.
+* Dialog : Kommentar zum Tagesablauf niedrigste Priorität.
+* AI     : Schlafen / Sitzen für NSCs ( noch nicht in der Oberwelt getestet! )
+* Focus  : Im Fernkampfmodus wird wieder der Melee-Focus benutzt.
+
+Phoenix 0.63
+*************
++ ZenGin 0.78c
+* Zen-File-Bug behoben
+
+Phoenix 0.62e
+*************
++ MOBs : noch fehlende Eigenschaften im Spacer editierbar
++ Menu : Menusystem eingebaut
+* AI   : TalkEnd wird aufgerufen
+
+Phoenix 0.62d
+*************
++ AI : Debug Infos im zSpy für jeden NSC einzeln zuschaltbar.
+       NSC dafür in den Focus holen und mit LCTRL + EINFG togglen ( Meldungen im zSpy )
+
+Phoenix 0.62c
+*************
+* Output-Units : Die "token.d" wird nicht mehr benötigt.
+* AI : AssessTheft, CatchThief wird aufgerufen
+* AI : Skript-External : Npc_WarnFriends(self,enemy)
+* AI : Waffenzieh-Bug gefixed
+
+Phoenix 0.62b
+*************
+* Skripte : C_NPC aufgeräumt :
+            raus : attitude, tmp_attitude, dialog, alte AI-Funktionen
+			rein : AssessRemoveWeapon, AssessMurder, parried
+			C_PERC
+			rein : NPC_PERC_MURDER
+			C_DIALOG
+			Komplett raus
+* AI      : assessTheft/CatchThief/AssessMurder werden aufgerufen.
+* AI      : NSCs reagieren auf Fernkampf.
+* Magie	  : Einige Sprüche verursachten keinen Schaden 
+
+Phoenix 0.62
+*************
++ Attack-Sounds : Neue Kategory "CL" -> Club ( "sfxinst.d" geändert ! )
++ Zaubersprüche : Lighning & Forget 
+                  ZS_Brainwashed Zustand definiert in "ZS_Brainwashed.d"
+				  geändert : "magic.d" etc.
++ Musik			: Musiktheme-Änderung in der Oberwelt
++ Talente		: Taste "P" toggelt das Talent "Picklock"
+                  Picklock-Talent + Dietrich (Instanz:PickLock) = Kiste geht auf.
+* Kollision-SFX - Bugs 
+
+Phoenix 0.61d
+*************
++ ZenGin 0.77i
++ Mob-Interaktion : Switch, Container, DummyVobGenerator
+
+Phoenix 0.61c
+*************
++ Fonts : Multicolor - Font - Unterstützung : Neues Format -> neue Files : "game_0.fon" / "game_1.fon"
++ Fonts : Multicolor - Font - Converter mit KZP "-FONTCONVERT:filename.TGA" aktivieren.
+  QuellTGA (Hintergrund muss immer RGB(0,0,0) sein) muss sich dabei im Fonts-Verzeichnis befinden, Datei mit Endung ".FON" wird erzeugt.
++ Parser : External : Npc_IsInRoutine
+  Mit dieser Build-In-Funktion sollten die Abfragen nach dem Tagesablauf in "ZS_AssessTalk"
+  durchgeführt werden. Jetzt ist es auch möglich die Vorbereitungsphase von der eigentlichen 
+  Tätigkeit zu trennen und gesondert darauf zu reagieren, z.B. :
+  ----  
+  if (Npc_IsInRoutine(self,ZS_RepairHut)) {
+     Print("Ich bin auf dem Weg zu meiner Hütte.");
+  } else if (Npc_IsInRoutine(self,ZS_RepairHut_Loop)) {
+     Print("Ich repariere meine Hütte.");
+  }
+  ----
++ Parser : External : Npc_GetNextWP
+* Mergen von ZENs : Wegnetz angepasst
+* Magiekranz blieb manchmal "stehen"
+* AI : "Loops" und "Ends" der vom Programm gestarteten Skriptzustände werden korrekt ausgeführt
+* AI : Texte wurden manchmal nicht ausgegeben
+* AI : Perc_ZS_Dialog (!) eingeführt : geändert "perception.d"
+* |AI-0001| Disabelter Character, wenn zwei ins Spiel kommmen
+* |AI-0006| Ich habe eine ASsessThreat_End angehängt und die wird nicht angesprungen test über PrintDebug
+* |AI_0007| ReactToFriendsDamage wird nicht angesprungen
+* |AI-0002| GetnextWp(neben nearest) Routine
+* |AB-0889| Magie: Zur Zeit ist das Toggeln durch die Sprüche (SPACE und CURSOR LEFT o. RIGHT gedrückt halten) immer noch ruckelig und zu langsam. Auch bei niedriger Framerate solte das Drehen der Symbole nicht langsamer werden (Time Correction)
+* |AB-0087| Magie: Ruft man den Magiekranz auf wenn man einen Spruch gezogen hat, dann muß man den Kranz drehen damit die Symbole dargestellt werden. Schließt man ihn dann wieder bleiben die Symbole in der Welt stehen
+* |AB-0917| Kampf: Drehung der Figur bei Drehschlägen soll durch das Programm gesteuert werden und nur dann ausgeführt werden, wenn tatsächlich ein Ziel in Drehrichtung vorhanden ist. Oft dreht des SC sich auch dann wenn nur ein Gegner in Kampfreichweite oder er dreht sich nicht, obwohl es nötig wäre.
+* |AB-0966| AniComb: Bei den Drehschlägen funzen die Attacken auf verschiedener Höhe nicht. Greift der Gobbo, bei dem AniCombs für die Drehschläge benutzt wurden, einen Meatbug an, so schlägt er immer in's Leere. SC geht bei jedem Schlag auf einen gleich großen Gegner in die Knie seit für die Attacks AniComb benutzt wird.
+* |AB-0964| Waffe ziehen während man sich auf der Stelle dreht beamt die Waffe in die Hand, ohne die Waffenzieh-Ani zu spielen (sollten wir im Zusammenhang mit Wafe ziehen während gehen oder rennen lösen!)
+* Model  : die Toe-Nodes werden nicht mehr aus den Models entfernt (Dieter)
+! Source : neu : zFonts.h / cpp
+! zCView : Methodennamenänderung : FontCol -> SetFontColor
+! Kampf  : Im Kampf gibts einige neue/alte Probleme (z.B. Parade geht nicht), bedingt durch einige Änderungen, 
+           die noch nicht fertig sind.
+! AI     : Zustände, die in den Skripten mit AI_DoState() gestartet werden, sollten, sofern sie
+           nur einmal durchlaufen werden sollen, mit AI_DoState(self,ZS_xxx,0) gestartet werden.
+	       Wichtig dabei ist die "0" ! Eine "1" ist bereits eine Zeitangabe -> Zustand wird eine
+	       Minute lang ausgeführt, und das ist z.B. bei "ZS_AssessEnemy" nicht erwünscht.
+
+Phoenix 0.61b
+*************
++ ZenGin 0.>77h
++ Skripte : geändert : "mst_default", "zs_reacttodamage", "ZS_TA", "ZS_Talk"
+            - Angegriffene NSCs rufen nach Verstärkung ( AI_Alarm )
+			- Dialogende bei NSCs wird aufgerufgen ( assessTalkEnd )
+* AI      : AlignToWP - Hack, klappt jetzt besser...
+
+Phoenix 0.61a
+*************
++ ZenGin 0.77g 
++ Skripte : neu/geändert : /Intern, "fai_shadow.d", "mst_default.d", 
+                           "zs_ta", "zs_talk.d", "items.d", "orc.d"
+            - Shadowbeast kämpft
+			- Monster reagieren auf Angriff oder Bedrohung ( auch Orks )
+			- Tagesablaufpunkt "ZS_PlayMusic"
++ Dialog  : Ansprechen eines NSCs möglich -> Reaktion des NSCs auf aktuellen 
+			Tagesablaufpunkt
+            Derzeit nur : ZS_PlayMusic, ZS_RepairHut, ZS_Cook
+			Erweiterbar in "ZS_Talk.d"
+* MDS     : Orc-Kampflimbs ( Orc trifft wieder mit Schwert )
+* Musik	  : Monster-Tot-Musik-Theme-Wechsel-Ruckler raus ( Thanx, Carsten ! )
+! Achtung : Das Game bitte mit dem "-NOVDFS" - Parameter starten !
+
+Phoenix 0.61
+*************
++ Externals : neu : AI_StandUp, AI_LookForItem, AI_RemoveFomHand
+! RandomAnis dürfen nicht auf Layer 1 liegen ( z.B."R_RepairHut_Check" );
+
+Phoenix 0.60h
+*************
++ ZenGin 0.77f
+* "Zen" - Format unterstützt
+* Bugs gefixed : Monster-Attacke, Perception
+* Item-Skripte geändert : neue Var : "use_slot"
+
+Phoenix 0.60g
+*************
+* Perception und Wahrnehmungsbugs gefixed.
+
+Phoenix 0.60f
+*************
++ ZenGin 0.77e
+* External : Mdl_SetVisualBody : Der dritte Parameter gibt jetzt die "Shape-Ani" für den
+			 Kopf an ( legt die Kopfform fest ).
+* AI       : AI_Attack Release-Bug gefixed.
+* FaceAnis : FaceAnis bei AI_Outputs aktiviert.
+
+Phoenix 0.60e
+*************
+* Parser :	geändert : Npc_GetAttitude		(self,other)
+			neu      : Npc_GetActiveSpell, Npc_GetActiveSpellCat
+			raus	 : Npc_Increase(Tmp)Attitude, Npc_Decrease(Tmp)Attitude
+            Die Attitüde nur noch über "Npc_GetAttitude" ermitteln, alle C_NPC.attitude und
+			C_NPC.tmp_attitude - Verweise bitte aus den Skripten entfernen !
+* Skripte : geändert : magic.d
+* SVM - Module funktionieren ( Sprachausgabe )
+! AI : Skripte : Zustände, die vom Programm übernommen werden, dürfen nicht mit AI_DoState 
+  gestartet werden ( z.B. ZS_Attack ) sondern direkt über ZS_Attack, bzw AI_Attack 
+  (wie einen normalen Funktionsaufruf behandeln).
+
+Phoenix 0.60d
+*************
++ ZenGin 0.77d
++ News aus den Skripten erzeugen und automatisches "spreading"
++ Parser : neue Skripte : /intern  "text.d"  "news.d"  "sld_reactions.d"  "guilds.d"
++ Magie  : Magiekranz ein- und ausfahrbar / diverse Bugfixes
++ AI	 : AssessEnemy Bugfix
+* Orcs werden jetzt wie Humans behandelt ( Inventory, Waffe ziehen / wegstecken )
+* Dialog mit Einschränkungen möglich ( noch kein ZS_RefuseTalk )
+
+Phoenix 0.6
+*************
++ ZenGin 0.77
++ ScreenDump : Taste F12  -> TGAs landen im Project-Verzeichnis
++ Konsole : "TOGGLE TIME" -> Weltzeit an / aus
++ Parser : neu : "intern" / "auftrag.d" / "svm.d" / "perception.d"
++ Parser : Die Funktionen "Mdl_SetVisual" / "Mdl_SetVisualBody" / "Npc_SetToFistMode" und
+           "Npc_SetToFightMode" benötigen jetzt als ersten Parameter eine NPC-Instanz (self).
+           "AI_Ask" : Parameter geändert ( siehe "externals.d" )
+		   "GiveItem" in "Npc_GiveItem" umbenannt.
++ Parser : Dialogstruktur C_DIALOG wird nicht mehr benutzt.
++ Parser : Externals : 
+           Npc_IsInFightMode, Npc_IsAiming, Npc_WarnFriends, 
+           Npc_IncreaseTempAttitude, Npc_SetPerception, 
+		   PC_IsNearFriendlyPC,
+           AI_WhirlAround, AI_PlayCutscene, AI_PlayCutsceneEx
+		   Wld_DetectItem, Wld_DetectPlayer, AI_DoState, TA ( Tagesablauf )
++ AI	 : Vorbereitungen Master - AI ( z.B. neue C_NPC - Vars )
+           Die alte Skript-AI ist damit komplett hinfällig und wird nicht mehr ausgeführt.
++ Perception - Skript - Klasse ( classes.d / perception.d )
++ Auftrags - Infos ( auftrag.d -> Beispiele + Beschreibung )
++ Standard - Voice Modul + Skript ( svm.d )
+* |AB-0986| Magie: Ruft man den Magiekranz auf muß der zuletzt benutzte Spruch vorne stehen.
+* |AB-0041| Magie: Steckt man den equippten "HumanControl"-Spruch weg, bleibt der Partikeleffekt im Level stehen
+* |AB-0042| Magie: Beim Waffentoggle zählt Magie/PSI auch als Waffenkategorie. Hat man also zuletzt einen Spruch benutzt und dann weggesteckt, muß ein kurzer Druck auf SPACE wieder diesen Spruch ziehen, nicht die Nahkampfwaffe. Hält man SPACE gedrückt, muß sich der Auswahlkranz öffnen in dem der zuletzt benutzte Spruch vorn steht.
+* Parser : StackBug gefixed / InfoFile schreiben erweitert+gefixed
+* Anpassungen an ZenGin 0.77 
+* Neue Klassen : zCVobStartpoint, zCVobSpot, zCVobMarker
+- Parser : AI_Ask funktioniert derzeit nicht !
+! Files rein   : oInfo.*, oNews.*, oRoutine.*, oSVM.*
+! Files raus   : oNpcInfo.* 
+! Sourcen      : Umstellung auf neue Verzeichnisstruktur
+! Nicht vergessen die neuen D-Files in das "game.src" einzubinden
+
+Phoenix 0.59d
+*************
++ Net 0.81b
++ Cutscene 0.16 
++ Parser  : Npc_SetToMad() -> Bsp in "items.d" Instanz "MadBull"
+* AI      : Bug bei den Reaktionen gefunden, trotzdem bringt irgendetwas manchmal noch den
+			AI - Manager durcheinander
+* |U-0028| Teleport Level 1 Freezt das Programm sobald 2 Pöppel investiert wurden
+* |U-0029| Oberwelt-Level crasht beim Laden wenn Sound eingeschaltet ist. Testlevel funzt mit Sound
+* |U-0031| Dialog: Spricht man einen NSC an, dann kann dieser danach erst dann ein weiteres mal angesprochen werden, wenn man sich vorher soweit dreht, daß der NSC nicht mehr im Focus ist.
+
+Phoenix 0.59b
+*************
++ ZenGin 0.76c
++ Net 0.01 (6.4.99)
++ Cutscene 0.15 
++ GR 0.41 / CS 0.22b / VFX0.07 / SND 0.02b
++ Konsole : "PLAY FACEANI [name]" - Starte eine Gesichtsanimation
++ MDS     : DEF_PLACE_BOLT / DEF_REMOVE_BOLT an entsprechenden Stellen in MDS ( Crossbow )
++ MDS     : Bei der Benutzung von Overlays sucht sich das Programm selbständig einen gültigen
+            Zustand. Soll z.B. bei dem "human_wounded" nur der "S_WALK" Zustand gültig sein, 
+			so müssen die "S_RUN" und "S_SNEAK"-Anis disabled sein.
++ Magie   : Zauberspruch Windfaust
++ Debug   : Einzelbildschaltung : F9 - an/aus     F10 - next step
+* |U-0840| Kampf: Crossbow verschießt keine Bolzen 
+* |U-0022| Teleport Stufe 1 beamt den SC oft in einen NSC der auf dem Zielwaypoint steht. Es wäre auch gut, wenn der Teleport den SC tendenziell eher von potentiellen Gegnern _weg_ statt zu ihnen hinbewegen würde.
+* |U-0024| Der SetToDrunk-Befehl führt zum Absturz. Ein Beispielscript, bzw. Benutzungshinweise werden dringend benötigt.
+           -> siehe Skript "potions.d" Instanz "beer". 
+		   Overlay-Mds muss "[species]_drunken.mds" heissen
+* |U-0023| Taschendiebstahl scheint nicht zu klappen. Ohne die Help-Texte ist auch sehr schwer nachzuvollziehen was eine spezielle Tastenkombination bewirken wird.
+           -> nicht festgestellt : Schaltet die Info des zu bestehlenden NSC ein ( SHIFT + ENTF ) 
+		   solange "P.detect (Player detected)" auf "no" steht, kann das Inv des NSC mit 
+		   PFEIL + RECHTS geöffnet werden. Wiederum mit PFEIL + RECHTS kann dann der selektierte 
+		   Gegenstand gestohlen werden.
+
+Phoenix 0.59
+*************
++ zEngine 0.76a
++ Model : Gesichtsanimationen können per Skript gestartet werden : Mdl_StartFaceAni(name,intensity,holdTime);
+          Zuvor muss ein entsprechendes MMS - Skript bei Mdl_SetVisualBody angegeben werden (head_mesh)
++ Stehlen laut Konzept V1.46
++ Skripte : erweitert : items.d -> INSTANCE TeleportStone -> Für den Teleport - Zauberspruch
++ Parser  : AI_Output / Npc_SetTeleportPos / Npc_SetToDrunk / Mdl_StartFaceAni / Mdl_ApplyRandomFaceAni
++ Kommandozeilenparameter : -LANGUAGE zur Einstellung der Sprache für die Output-Units (z.B.-LANGUAGE:GER)
++ Magie : Teleportation - Logik / Skript : magic.d geändert
+* MDS : DEF_PLACE_ARROW an entsprechenden Stellen in DEF_REMOVE_ARROW ändern : "t_BowRun_2_Bow".
+        "t_BowRun_2_Bow" darf keine AniAlias mehr sein, da dort eigene AniEvents benutzt werden müssen ( DEF_REMOVE_ARROW )
+* |U-0008| Konsole: TOGGLE TEXT führt zu einer ACCESS VIOLATION.
+* |U-0976| Mit ESC das Programm beenden läßt den 3DFX-Screen stehen. Erst ein weiterer Tastendruck auf Return schaltet den Screen ab. Im Windowed-Mode sieht man auch warum. Das Programm crasht mit der Fehlermeldung "Debug Assertion Failed..."
+* |U-0010| Inserten einiger NSCs (z.B. Gobbo) führt zu ACCESS VIOLATION. Wird ein Troll inserted ist er unsichtbar, wird aber im Focus angezeigt.
+
+
+Phoenix 0.58b
+*************
+* verschiedene Release Bugs gefixed ( Kamera, Tagesablauf, Programmende... )
+* Screenshots : Mit Taste "X" (!!) kann der aktive SC eingefroren werden.
+* |U-0974| Inventory: Kein selektieren/benutzen/anlegen mehr möglich. Außerdem bewegt sich der Spieler beim Navigieren im Inventory zusätzlich (tritt auf, sobald im Spiel einen NSC übernimmt)
+* |U-0009| Kamera: F6 Kamera dreht sich automatisch um die y-Achse statt höhenjustierbar zu sein und ist somit völlig unbrauchbar geworden.
+* |U-0010| Inserten eines NSC führt zu einer ACCESS VIOLATION
+
+Phoenix 0.58
+************
++ ZenGin 0.76
++ Glide-Renderer 0.40
++ AI : NSC-AI Umstellung auf neuen AI-Manager
++ Kampf : Restliche Nahkampfwaffen aktiviert. ( Nicht die optimalen Frames im MDS vergessen )
++ Screenshots : Die F6-Kamera kann man mit PGUP/PGDN nach oben und unten neigen.
++ Screenshots : Mit Taste "Y" kann der aktive SC eingefroren werden.
+* Focus-Bug gefixed ( automatisches Waffe wegstecken beim Inventory öffnen hat Focusmode nicht entsprechend verändert )
+* |U-0960| s_Jump: Auf "s_Jump" folgt wieder direkt "s_Hang". "t_Jump_2_Hang" wird leider nicht mehr benutzt
+* |U-0969| Kamera/Testtasten: Übernimmt man mit "O" einen NSC, dann wird die Kamera nicht übernommen. Sie bleibt an der zuvor benutzten Figur hängen und das läßt sich auch mit F4 oder anderen Kamera-Tasten nicht ändern.
+* |U-0971| Konsole: Toggle Frame funktioniert nicht mehr
+* |U-0973| Startbatch: '-window' funktioniert nicht mehr. Auch ohne diesen Paramter wird im Window-Mode gestartet
+! File rein : oNpcManager.* / oAINpc.cpp / oAIMove.cpp
+! File raus : oAICommand.*
+! Startmenu deaktiviert
+
+Phoenix 0.57
+************
+* Kommandozeile : -TIME geht wieder
+* Magie : Transform : BeamBug beim Rückverwandeln gefixed
+
+Phoenix 0.56d
+*************
++ ZenGin 0.75
++ Skripte : geändert : intern / magic.d
+* |U-0372| Magie-Lichtzauber: Lichtschalterprinzip: Ist der Zauber aktiv, so kann durch erneutes casten das Licht "ausgeschaltet", also der Zauber abgebrochen werden. (wenn mal Orks um die Ecke biegen muß man schnell das Licht löschen können)
+* |U-0368| Magie-Lichtzauber: Nach dem Auswählen sinkt das Spruchsymbol aus dem Auswahlkranz auf die Hand, wird automatisch (ohne CTRL) durch die Lichtspruch-Ani über den Kopf befördert und sollte dann _nicht_ mit der Abwärtsbewegung der Hand als Duplikat zusätzlich in der Hand bleiben. Danach ist der SC wieder im Normalmodus.
+* |U-0965| Magie: Heal: Wendet man den Heal-Spruch auf sich selbst oder einen NSC an, dann bewegen sich die PFX vom Caster geradeaus, ohne das Ziel (eigenen Körper oder NSC) zu treffen.
+* |U-0959| Magie: Der Human-Control Spruch funzt nicht. sobald man den Spruch gezogen hat, wechseln NSCs im Focus in die "CAST"-Haltung. Korrekt wäre die "VICTIM"-Haltung, allerdings erst dann wenn man den Spruch tatsächlich CASTET.
+* |U-0341| PSI-Kontrolle: Wird in den eigenen Körper zurückgekehrt ist die AI des Opfers ausgeschaltet (zumindestens wenn man aufgrund von SC-Schaden den Zauber beendet)
+* |U-0412| PSI-Kontrolle: Mit übernommenem NSC einen anderen NSC angreifen. Wenn übernommener NSC stirbt, muß man automatisch in den eigenen Körper zurückkehren
+! Die Zaubersprüche Transform + HumanControl können mit SPACE + PFEIL HOCH manuell beendet werden, das Symbol wird jedoch noch nicht angezeigt.
+! Umstellung auf neue Klassen für's Game / Netzwerk.
+! Neue Namensgebung für Klassen ( im Game : oCxxxx )
+  ( Game   : CNpc_Npc -> oCNpc / CItm_Item -> oCItem / CMob_Mob -> oCMob etc. )
+  ( Engine : Cdtp_item -> zCView )
+! Files raus : zParserU.h / zDesktop.*
+! Files rein : oGameInfo.* / oGameManager.* / oMenu.* / oMenu_Main.*
+			   oNpcManager.* / oInventory.* / oGameExternals.cpp / oGameKeys.cpp
+               zView.* / zViews.* / zAIManager.*
+
+Phoenix 0.56c
+*************
+* Figurenkollision : Quickfix : Bei Model-Modelkollision werden die Models leicht verschoben 
+  -> Haengenbleiben in einigen Fällen aber noch vorhanden :(
+* |U-0930| Jump: Aus dem Rennen springt der SC oft nicht wenn man ALT drückt. Auf "t_RunR_2_Jump" folgt dann sofort "t_Jump_2_Stand", danach manchmal auch noch "s_FallDn" und "s_FallDn_2_Stand".
+* |U-0431| Leiche durchsuchen: Wenn beide INV offen sind, TAB drücken -> Alle Item-Grafiken verschwinden, und der "Durchsuchen-Modus" kann nicht mehr verlassen werden!
+* |U-0904| Tote Menschen sollten sich, wie z.B. der Crawler, dem schrägen Untergrund anpassen.
+* Spieler - Resetbug gefixed ( Figur ließ sich manchmal nicht mehr bewegen )
+
+Phoenix 0.56b
+*************
++ Demo3-Intro : mit "-NOINTRO" abschaltbar
+* |U-0953| Musik: Kampfthema wird manchmal nicht abgeschaltet
+* |U-0934| Dyn. Musik: Benutzung des jeweiligen Bedrohungs-Themas "THREAT" sobald Gegner in der Nähe sind. Nur bei einem mindestens gleichstarken Gegner, oder mehreren, die in der Summe stärker sind, z.B. Gobbos, damit nicht jeder Meatbug das Bedrohungs-Thema auslöst. Wenn diese Abfragen zu komplex sein sollten, würde es erstmal reichen, das THREAT-Thema immer sann zu benutzen, wenn der SC die Waffe gezogen hat.
+           -> Threat-Theme : Wenn NSCs im Kampfradius mind. gleichstark ( NPC_ATR_STRENGTH ) wie der Spieler sind und eine Waffe gezogen haben.
+                             Den Meatbugs z.B. etwas weniger Stärke mitgeben.
+		   -> Fight-Theme  : Wenn sich ein NSC im Kampfradius im Angriffsmodus befindet.
+* |U-0955| Magie: Decals und pfx (Lichtspruch) aus dem Auswahlkranz bleiben vor dem SC stehen und werden dann nicht mehr entfernt. Man läuft danach immer mit einem Haufen Decals vor der Nase herum, selbst wenn der Auswahlkranz geschlossen wird. 
+* |U-0912| Resetten der Spielerfigur: Bitte auch ein Resetten des Animationszustandes/Todes OHNE Positionswechsel (z.B. mit SHIFT ENTF)
+           -> CTRL + ENTF
++ Debug :  ALT + Y	 : NSC-AI-Modus-Zähler
++ Debug :  CTRL + F3 : Abschalten des 3dfx-Screens
+
+Phoenix 0.56
+*************
+* |AI-0201| Sobald der Gobbo nach dem Wurf auf dem Boden aufkommt -> Access Violation
+* |AI-0200| Wird die permanente Attitüde z.B. auf ATT_ANGRY gesetzt, so beginnt die temp. Attitüde nicht auch bei Angry (bei Hostile genauso)
+* |U-0917| Kampf: Drehung der Figur bei Drehschlägen soll durch das Programm gesteuert werden und nur dann ausgeführt werden, wenn tatsächlich ein Ziel in Drehrichtung vorhanden ist.
+* |AI-0198| constants.d: Bitte ATT_COLD durch ATT_ANGRY ersetzen
+* |AI-0207| Läßt Darkman den Bogen fallen, bekommt man ihn nicht in den Fokus 
+            -> nicht festgestellt
+* |AI-0197| Darkman: Nimmt man sein Angebot (Bogen) an, so wird mit dem "ja" auf das AI_Ask() gleichzeitig ein Schritt vorwärtsgemacht -> man läuft in den fallenden Bogen rein, der dann fortan in der Luft schwebt.
+* |AI-0203| AI_Lie: Dürfen durch Ansprechen nicht aufgeweckt werden.
+* |AI-0204| AI_Lie: Visiert der SC den Schlafenden NSC an, so poppt er plützlich in den Wachzustand, hängt aber mit der Hüfte im Boden.
+* |AI-0165| Skripte: AI_Lie(): Zieht der SC eine Waffe vor dem schlafenden NSC, so steht dieser manchmal (nicht immer) kurz auf
+* |AI-0172| Skripte: Von Vlk-Nimblefinger ansprechen lassen -> Kdf_Hellfire greift Vlk_Nimblefinger an -> Access Violation
+* |AI-0195| Während Skriptanimationen werden keine Knockbackanimationen abgespielt.  
+* |U-0935| Wird die Spielfigur getroffen, so spritzt zwar Blut, aber es wird keinerlei Knockback_Animation abgespielt
+*?|U-0932| Startet man das Game, ohne daß Direct X 6.1 installiert ist (z.B unter NT), gibt es eine Fehlermeldung "FATAL: C:zmusic ... DirectMusic::Init() Failed to create loader object!" und das Programm wird nicht korrekt beendet. Ist es nicht möglich, in solchen Fällen einen WARN auszugeben und das Programm ohne MUSIK-Unterstützung zu laden? (Gleiches gilt auch für den SOUND)
+! Der Troll darf nicht die Default-AI besitzen, sonst springt er naemlich aus seiner Höhle und randaliert im Graben.
+
+Phoenix 0.55d
+*************
++ Parser : External : Npc_CanTrollCallGobbo(self) / AI_TrollCallsGobbo(self) 
+                      -> müssen immer ein Paar bilden ! ( Detect_Npc / process_Npc )
+           Skripte  : /intern - troll.d - gobbo.d
+* Fall Bug gefixed
+* Dialog : LOS - Check vorm Ansprechen
+* |U-0895| FallDn/Fall/FallB: Sobald eine Figur in "s_FallDn" wechselt sollte sofort getestet werden, ob der Sturz zu tief sein wird um auf den Füßen zu landen. Dann sollte von "s_FallDn" möglichst schnell nach "s_Fall" bzw. "s_FallB" gewechselt werden, und nicht erst nach Xm Falltiefe.
+* |U-0925| Nach einem Rückwärtsschritt (gehen nicht rennen) bleibt der SC oft in "t_WalkBR_2_Walk" hängen
+* |U-0931| Wenn für ein MOB kein "Zerstört-Mesh" angegeben ist, sollte das Mesh bei Zerstörung verschwinden. Zur Zeit wird es weiterhin angezeigt
+* |U-0847| Particles: Wenn eine Animation (z.B. s_Pee) abgebrochen wird, während ein eventPFX läuft, dann muß der Partikeleffekt ebenfalls unbedingt automatisch abgebrochen werden. Zur Zeit pinkelt der NSC munter weiter, wenn er während des Pinkelns angesprochen oder angegriffen wird (Besonders spaßig ist der Effekt, wenn man ihn dann tötet!!).
+* |U-0917| Kampf: Drehung der Figur bei Drehschlägen soll durch das Programm gesteuert werden und nur dann ausgeführt werden, wenn tatsächlich ein Ziel in Drehrichtung vorhanden ist.
+* |AI-0189| v0.54g stürtzt bei JEDEM Hochfahren mit einem PWF nach "D: WORLD: Loading VobHierarchy.." ab (TESTLEVEL.3DS geht, hat aber in einigen Levelbereichen merkwürdige Effekte (alle Wände werden transparent und licht geht auf 0 runter))
+* |AI-0190| Npc_DecreaseTempAttitude() vermindert die permanente, nicht die temporäre Attitüde
+* |AI-0157| Skripte: AI_Attack(): Zieht der angreifende NSC einen Bogen so gibt es beim Schuß eine Access Violation  
+! Troll - Anis beim GobboWurf machen noch Probleme und Slotposition des Gobbos ist nicht in der Ani angepasst.
+
+Phoenix 0.55b
+*************
++ Direct Music : Themes  : Tag/Nacht/Kampf
+                 Jingles : JungleKilledFoe
+
+Phoenix 0.55
+************
+* Bugs, Bugs, Bugs und noch ein paar Bugs weniger
+
+Phoenix 0.54g
+*************
++ Parser : neu : intern.d / externals.d
+		   Ext : Npc_DecreaseTempAttitude(self);
+* C++    : "zAIPlayer" rein / "zAniCtrl_Base" raus
+* |AI-0165| Skripte: AI_Lie(): Zieht der SC eine Waffe vor dem schlafenden NSC, so steht dieser manchmal (nicht immer) kurz auf, um +1+ |AI-0172| Skripte: Von Vlk-Nimblefinger ansprechen lassen -> Kdf_Hellfire greift Vlk_Nimblefinger an -> Access Violation
+
+Phoenix 0.54f
+*************
+* Parser : "this" heisst jetzt "self".
+
+Phoenix 0.54d
+*************
++ Parser : DAT-Files werden nur neu gesaved, wenn mindestens ein D-File neu geparsed wurde.
++ Kampf  : Automatische Anpassung der Schlaghöhen bei Attacken ( sofern Attacke im MDS mit AniComb definiert ).
+* |AI-0182| Skripte: Lernen: Kurz vor dem ersten Schlag des SCs -> Access Violation 
+* |AI-0179| Skripte: Lernen: Kann man zur Laufzeit eines Dialoges/Kampfes C_Npc.fighttactic ändern, so daß es sich sofort auswirkt? Ja.
+* |AI-0173| Skripte: NSCs in AI_Lean() dürfen sich nicht mehr drehen. 
+* |U-0898| Tränke: Müssen im Inventory noch zweimal angewählt werden, um sie zu Trinken. Können schon beim ersten mal getrunken werden, da das equippen von Tränken rausfliegt.
+* |U-0899| Tränke: Drückt man mehrmals die Tastenkombination für Trinken, dann werden danach alle Tastendrücke abgearbeitet und die Trinken-Ani läuft sogar noch wenn man keine Tränke mehr hat. Man sollte keinesfalls mehrere "Trinken-Kommandos" auf Vorrat vergeben können.
+* |U-0900| Kampf-AI: NSCs prüfen im Nahkampf scheinbar nicht den Höhenunterschied zum Gegner. Steht man im Testlevel (Schrägen-Raum) ca. 10m über dem NSC, so attackiert dieser trotzdem. Auch das Verfolgen des SC durch NSCs klappt nicht mehr. Vor einigen Monaten klappte das fast problemlos, und sie Kletterten und Sprangen dem SC hinterher. Das funzt leider überhaupt nicht mehr.
+* |U-0807| Kampf: Ein NSC im Kampfmode verfolgt den Spieler ins Wasser und steckt an der Wassergrenze korrekt das Schwert weg -> verfolgt den Spieler schwimmend -> doch sobald der NSC schwimmend sein Ziel (den Spieler) erreicht hat, switchen die Animationen wieder auf Kampf an Land -> nimmt im Wasser die Kampfposition ein und schlägt zu.
+* |U-0902| Fight-AI: Das Kommando "FWD" führt sehr oft dazu daß der NSC gegen den SC läuft. Er sollte nicht näher kommen, als die optimale Kampfentfernung. Wenn er die schon hat, muß das Kommando ignoriert werden. Die Entfernung zum Gegner sollte auch durch's Programm korrigiert werden wenn der NSC sich bewegt um zu verhindern daß er aufläuft.
+* |U-0879| Fight: Ein NSC pariert auch dann, wenn ein zweiter NSC den Spieler angreift.
+* |U-0896| Stürzt man in "s_Fall" zu Tode, dreht sich der SC auf den Rücken, sobald er auf dem Boden auftrifft, obwohl er eigentlich auf dem Bauch liegenbleiben müßte.
+* |U-0913| Tageszeiten: Werden im Spiel nur jede Spielminute angepaßt, was zu einem sehr "gerasterten" Tagesablauf führt. Mond und Sonne ruckeln über's Firmament.
+* |U-0763| trObj: Automatisches Anhalten an Kanten klappt nicht. Sollte genauso funzen wie beim normalen Walk (bis Stufenhöhe kein Anhalten, ab Stufenhöhe Autostop an Kanten)
+* |U-0724| CAPS-LOCK als Dauer-Shift (Toggle zwischen Walk und Run-Mode)
+           -> ist aus "Grade"-Gründen auf Taste "A" gelegt.
+* |U-0789| Dialogkamera: Das Kameraverhalten in während einer friedlichen Begegnung zwischen SC und NSC wechselt häufig 
+           -> Fokuskamera wird benutzt und bleibt aktiv
+
+Phoenix 0.54c
+*************
+* Tageszeit läuft wieder
+* String-Klasse geändert - läuft's jetzt stabil ?
+* |U-0884| Fight: ist ein NSC in der fight.d komplett auf WAIT gesetzt und wird vom Spieler attackiert, so tritt die SC-Klinge trotzdem oft nicht (...und die Parier-Funken sprühen)
+
+Phoenix 0.54b
+*************
++ ZenGin 0.74
++ GR 0.38
++ Parser : Im Skript definierte Klassen sollten zur Laufzeit auf Übereinstimmung mit der C++-Klasse 
+           überprüft werden. Funktion : CheckClassSize(zSTRING name, int sizeofclass) 
+           Bitte unbedingt benutzen um Skriptinkompatibilitäten auszuschliessen !
+* |U-0367| Magie: Magiesymbol in der Hand des Spielers muß verschwinden wenn der Caster stirbt und auch wenn er in's tiefe Wasser geht/springt.
+* |U-0889| Magie: Beim Toggeln der Sprüche im Auswahlkranz sollte das Decal des selektierten Spruchs erst nach einer kurzen Verzögerung durch einen PFX ersetzt werden. 
+* |U-0744| Springen aus dem Rennen: JumpUp statt Jump wenn Kletterkante zum hochklettern bis zu X m entfernt (2m scheint noch zu kurz zu sein).
+		   -> 4m
+* |U-0373| PSI-Kontrollzauber: Wenn man nach erfolgreicher Kontrolle in den eigenen Körper zurückkehrt, sollte man im Normal-Modus landen.
+           -> Wie kann der Spieler wieder zurück in _seinen_ Körper gelangen ?
+* |U-0716| DrinkPotion: ...bei Frame 85 soll Flasche aus der Hand verschwinden, nicht erst am Ende der Animation (Kann man sowas evtl. im MDS angeben?)
+* |U-0782| Tod: Stirbt ein NSC während er Schrägen rutscht wird er zum Untoten.
+* |U-0878| Attack MOB: Beim Vergleich Schaden <-> Hitpoints wird nur der Waffenschaden und nicht die zusätzlichen Stärkepöppel berücksichtigt. 
+* |U-0883| Verfolgt ein NSC mit gezogener Waffe den SC, und springt dieser dann eine Kante runter, bleibt der NSC "Kampfsteppend" an der Kante hängen und kann nicht folgen (noch zu klären: Wann springt er und wann nicht?)
+*?|U-0859| Anis: Interpolation zwischen Anis macht scheinbar Probleme. Testen mit den Anis t_1hSAim_2_1hSDefend, t_1hSDefend_2_1hSAim -> Schwert ziehen und STRG + CursorDn. Beim Wechsel von der 1hS_Defend-Pose zurück zu 1hSAim. zeigt die Schwertspitze manchmal kurz nach unten, obwohl das in der Ani nicht der Fall ist.
+* |AI-0157| Skripte: AI_Attack(): Zieht der angreifende NSC einen Bogen verhält er sich wie ein Nahkämpfer  
+* |AI-0170| Skripte: Wo steht die Grenze für Npc_IsNear()?? Sie ist zu groß und sollte besser bei ca. 3m liegen. -> v0.54: liegt immer noch bei ca. 5m!!!
+* |AI-0149| Skripte: "attacks_other()" wird nicht durchlaufen, wenn der Spieler einen NSC attackiert, der sich im Kampfmodus befindet (muß aber, da in der Praxis dies meistens der Fall ist)
+            -> wird durchlaufen
+            a) wenn der Angreifer der Spieler ist.
+            b) wenn NSC getroffen wurde oder pariert hat.
+            c) wenn der Zeuge den Täter gesehen hat.
+            d) wenn der Zeuge im Idle-Modus ist.
+* |AI-0163| Skripte: Npc_LearnFightTalent() sollte sich sofort auswirken, so daß es nach dem 2. von drei Lernschlägen gesetzt werden kann.
+            -> Das tat und tut es doch bereits ! Nach Starten des Befehls gilt das Talent sofort als gelernt.
+
+Phoenix 0.54
+*************
++ AI     : Kampf : Liegt Gegner am Boden, so wird die "fight_enemydown" - Skript-Funktion des Angreifers ausgeführt.
+           Sie hat eine höhere Prioritaet als die Reaktion im jeweiligen Kampfskript. Die Kampfskript-Reaktion wird
+		   nur dann gestartet, wenn die Skriptfunktion nicht vorhenden ist oder die Skriptfunktion keine neuen
+		   AI-Kommandos erezugt.
+		   Hier kann dann auch der Kampfmodus des NSCs beendet werden ( AI_SetToIdle ). Siehe "NPC_AI.D".
+* |U-0761b|Der "CamModMagic" bleibt oft aktiv wenn die Magieauswahl geschlossen wird und danach durch keine SC-Aktion mehr beeinflußt
+* |U-0761| JumpUp: Springt man an einer Wand hoch, dann wird nicht von CamModJumpUp zu CamModNormal zurückgeschaltet wenn man wieder auf dem Boden aufkommt. 
+* |U-0433| INV: Arrow-Multislot zeigt die Anzahl der Pfeile nicht mehr an.
+* |U-0716| DrinkPotion: Trank wird nicht mehr in der Hand angezeigt, während die Ani läuft 
+* |U-0822| Spieler muß nach tiefem Sturz (LP=0) genauso tot sein, wie nach einem verlorenen Kampf
+* |U-0666| Klettern: Wird der Spieler beim Klettern getötet, stirbt er nicht und der NSC läßt von seinem Ziel ab.
+* |U-0397| Nahkampf/Kollision: Wird der NSC beim Hochklettern in den Rücken geschlagen und bekommt Knockback nach vorne, fällt er in die Wand und hängt dort fest. Er kann nichts mehr machen. Wird er getötet, fällt er ganz durch die Wand ins Schwarze Nirwana. Nimmt er Schaden, während er in "s_Hang" ist, muß er loslassen (FallDn)
+* |U-0774| Gobbowurf: Wird der SC von einem geworfenen Gobbo getroffen, muß er auch Schaden nehmen und Knockback bekommen (Wieviel genau müssen wir noch klären!)
+           -> Derzeit entspricht Schaden der Stärke (ATR_STRENGTH) des Gobbos.
+* |U-0838| Kampf: Wenn der Crawler den SC tötet, folgt danach im zSpy die Endlosmeldung "Ani not found: t_FISTRUN_2_FIST" Diese Meldung gibt es auch im Zusammenhang mit anderen Monstern (Gobbo: t_1hRun_2_1h)
+* |U-0744| Springen aus dem Rennen: JumpUp statt Jump wenn Kletterkante zum hochklettern bis zu 1,50m entfernt. 
+		   Erst an Kletterkante abspringen, damit Sprung nicht zu kurz wenn man bis zu 1,50m vor der Kante ALT drückt. 
+           -> Passiert auch, wenn "normale" Wand im Weg ist ( unabhängig von der Kletterkante).
+* |U-0793| Magie-Auswahl: Hat man einen Spruch ausgewählt auf der Hand, drückt dann erneut SPACE um einen anderen zu wählen, hält SPACE gedrückt und selektiert einen anderen Spruch, dann wird beim Loslassen der Taste die Magie-Auswahl geschlossen, ohne den neuen Spruch zu equippen.
+* |U-0889| Tränke: Lebens- und Manatränke funzen nicht mehr -> keine Heilwirkung nach dem Trinken.
+* |U-0858| Kampf: die Kommandos "FWD", "WEAP_UP" und "PA" aus der Fight_AI.d scheinen nicht zu funzen
+* |U-0862| Kampf: Auch bei Kampfsteps mit einem Gegner im Focus soll der SC automatisch zum Gegner ausgerichtet werden (wie bei einer Attacke). Dadurch soll vermieden werden, daß man beim "Kampfsteppen" den Gegner aus dem Focus verliert, weil man nicht ganz genau ausgerichtet ist.
+           -> Ist drin, aber diskussionswürdig !
+* |U-0890| Startparameter "-silence" funktioniert nicht mehr
+           -> Startet jetzt nach dem Lesen der "config.d"
+* |AI-0137| Skripte: Figurenprobleme, die vermutlich irgendetwas mit der 40m-Grenze zu tun haben:
+* |AI-0170| Skripte: Wo steht die Grenze für Npc_IsNear()?? Sie ist zu groß und sollte besser bei ca. 3m liegen.
+* |AI-0171| Skripte: Wird ein NSC mit einem MOB beworfen so wird NICHT "attacks()" durchlaufen.
+* |AI-0164| Skripte: AI_Ask(): Manchmal taucht der Daumen nicht auf, manchmal verschwindet er wieder, Mis_OfferMission() geht garnicht mehr 
+* |AI-0167| Skripte: AI_Lean(): NSC sollte bei einem AI_GotoWP() erst schauen, ob er nicht sowieso in der Nähe ist BEVOR er aufsteht.  (steht auch nach mehrmaligem Durchlaufen von AI_Lean selbst an selber Stelle immer wieder auf) -> bei Ansprechen hängt der NSC mit Hüfte im Boden (AI_GotoWP in der Nähe und AI_Wait sollen AI_Lean nicht unterbrechen)
+* |AI-0168| Skripte: AI_Sit(): NSC sollte bei einem AI_GotoWP() erst schauen, ob er nicht sowieso in der Nähe ist BEVOR er aufsteht. -> beim Ansprechen hängt der NSC mit der Hüfte im Boden (AI_GotoWP in der Nähe und AI_Wait sollen AI_Lean nicht unterbrechen)
+* |AI-0160| Skripte: "AI_DropItem(self, item)" für Itemübergabe nötig (eine einfache Armaustreck-Geste und dann ist der Gegenstand "rübergebeamt" ist einfach nicht cool, Wird das Item dagegen auf den Boden geworfen und der Spieler muß es aufheben ist das erheblich besser)
+* |AI-0149| Skripte: "attacks_other()" wird nicht durchlaufen, wenn der Spieler einen NSC attackiert, der sich im Kampfmodus befindet (muß aber, da in der Praxis dies meistens der Fall ist)
+* |AI-0128| Skripte: "blocks_way()": Die AI-Kommandos werden irgendwie aufgespart und am nächsten erreichten Waypoint gesammelt abgespielt.
+* |AI-0161| Skripte: aus "fight_hasparaded()" bitte "fight_hasparried()" machen 
+
+Phoenix 0.53c
+**************
+* Magie  : Magiekranz + Partikeleffekte 
+           Einige Zaubersprüche sind noch nicht umgestellt : Transform / HumanControl
+* Parser : Externals : Npc_CreateSpell : Zauberspruch wird in Zauberkranz übernommen, gilt aber als "nicht gelernt"
+                       Npc_LearnSpell  : Zauberspruch wird in Zauberkranz übernommen, gilt als "gelernt".
+                       ( die alten CreateSpell und LearnSpell sind rausgeflogen )
+		   geändert  : constants.d
+* |U-0771| Jump/Hang: Will man sich aus dem Wasser heraus an einer Kante festhalten, dann wird nach der Ani "s_Swim_2_Hang" gesucht, statt nach "t_Swim_2_Hang" (Die anderen Transitions funzen!).
+* |U-0839| Kampf: Beim talentierten Schwertkampf funzt die Parade nicht (wird nicht ausgeführt)
+
+Phoenix 0.53b
+*************
++ ZenGin 0.73
++ Kollisions / Attack / Destruction - Sounds
++ SC/NSC  : Spezielle SC/NSC Bewegung : Verletzt, Wahnsinnig
+            Die entsprechenden Overlay-MDS werden automatisch aktiviert, sobald der 
+			entsprechende Wert (Hitpoints oder Wille) unter 3 Pöppel sinkt. 
+			Namenskonventionen : <Spezies>_<Overlayname>.mds
+			Bsp: "human.mds" -> "human_wounded" -> "human_mad"
+			! Problem : Spiel steht beim Laden der Overlays !
++ Magie	  : Zauberspruch "Heilung" implementiert ( Logik )
++ Magie   : Logische Magieparameter im Skript "magic.d" editierbar.
+* Magie   : Umstellung auf neue Magieschnittstelle - derzeit alles deaktiviert.
++ Parser  : Externals : Npc_HasTalent / Npc_LearnTalent / Npc_HasFightTalent / Npc_LearnFightTalent
+                        AI_SetToIdle / AI_Lean / Mdl_SetModelScale
++ Skripte : C_NPC.fight_hasparaded -> Skriptfunktion wird ausgeführt, nachdem NSC pariert hat.
++ Skripte : Beispielskript für Lehrer (1h-Schwertkampf-Talent) "teacher.d"
++ Skripte : C_MOB / C_ITEM.material und entsprechende Konstanten (MAT_WOOD, etc.) für Kollisionssounds
++ Skripte : Skript "fight.d" wieder in Projekt eingefügt ( muss im Dir Config stehen ).
+            Hier werden die Skriptfiles für die unterschiedlichen Angriffstaktiken angegeben.
+			Für jeden NSC kann diese Angriffstaktik jetzt eingestellt werden : C_NPC.fight_tactic.
+			Die Konstanten befinden sich in "constants.d" - beginnen mit "FAI_" und müssen mit der
+			Reihenfolge der Angabe der AI-Skriptfiles in "fight.d" übereinstimmen.
+			Angreifer : "fai_attack.d"	/	Verteidiger (Lehrer) : "fai_defend.d"
++ Skripte : Neue Species-Var : FIGHT_ATTACK_LENGTH -> Bewegung während der Ausfallattacke.
+* Kampf	  : Neue Distanzen und Positionierung während Attacken laut Schrieb von Mike.
+* AI      : NSCs können andere NSCs angreifen
+* AI      : NSC-Schlafmodus wird automatisch bei einem AI_Lie aktiv, aufwecken derzeit nur bei Angriff.
+* Debug   : Zusatzinfos für ein FokusVob mit "Q"-togglebar ( für den Spieler mit "STRG+Q" ).
+* |AI-0141| Skripte: "Sld_Grunt" macht verschiedene Probleme
+			-> Bitte für das Ansprechen des SCs die entsprechenden Dialog-Funktionen benutzen. 
+               Ich habe das "sld_grunt.d" angepasst.
+* |AI-0150| Skripte: AI_Lie: Beim Objekt OC_BED steht er vor dem sich Hinlegen noch auf dem Bett und schwebt nach dem Hinlegen dann 50cm über dem Bett
+* |AI-0122| Skripte: Mastermind mit equpptem Runesword ansprechen -> AI_EquipBestMeleeWeapon(self) in AIDefault_DlgStolenItem() funktioniert nicht -> Mastermind behält sein broadsword an der Hüfte
+* |AI-0145| Skripte: "attacks_other()" auch anspringen, wenn Spieler attackiert wird ("AI_Attack()" eines NSCs)
+* |U-0867| Kampf-AI: Die Angabe verschiedener Kampf_AI-Scripte (pro Spezies, bei Bedarf auch pro Individuum) wird recht dringend benötigt um den Nahkampf zu tunen.
+* |U-0873| PFX: Bitte für alle durch die Spiellogik ausgelösten PFX (Staub, Wasser, Blut...) von uns editierbare PFX aus der ParticleFX.d benutzen.
+* |U-0861| Batchparameter: Da der Konsolenbefehl Toggle Spy enorm Geschwindigkeit bringt, brauchen wir für die Demo einen Batchparameter, der dasselbe von Anfang an bewirkt
+            -> -SILENCE
+* |U-0853| Kampf: Funken-Effekt tritt immer nur auf wenn ein Schwertstreich "zufällig" das Schwert des Gegners trifft. Bei der regeltechnischen Parade funkt's dagegen nicht, obwohl es dort absolut sinnvoll wäre.
+* |U-0863| Torch: fällt neuerdings durch den Boden wenn man sie wirft.
+* |U-0854| Bei Gegnern im Nahkampf scheint der Oberkörper durch's Programm bewegt zu werden. Während sie Kampfsteps machen, sind sie seltsam nach vorn gebeugt. Falls das am Look-Autoaim liegt sollte dieser im Kampf erstmal ausgeschaltet werden, denn der Effekt sieht nicht gut aus.
+* |U-0805| Kampf: NSC im Nahkampf macht immer Attacke mit Ausfallschritt, auch wenn er schon halb im SC drin steht -> Das funzt jetzt zwar, aber das "Hinlügen" des Gegners klappt nicht. Die Entfernung zum Gegner ist nach jedem Schlag anders und der NSC steht trotzdem oft noch halb im SC drin. Je nach aktueller Entfernung zum Gegner muß die Entfernung, die während der Attacke zurückgelegt wird, an die aktuelle Entfernung zum Gegner angepaßt werden, damit nach einem Schlag möglichst immer eine optimale Kampfentfernung gewährleistet ist.
+* |U-0771| Jump/Hang: Beim Festhalten an Kanten während eines Sprungs folgt auf "s_Jump" direkt "s_Hang". Es muß aber die Transition "t_Jump_2_Hang" benutzt werden damit dafür eine brauchbare Animation (SC prallt heftig gegen die Wand -> TombRaider, Prince of Persia) gemacht werden kann. Entsprechend sollte es auch eine Transition "t_FallDn_2_Hang" geben (Man macht einen Schritt rückwärts über die Kante und hält sich beim Runterfallen an dieser fest)
+! Known :  Bug bei Kollision/Attacksound-Auswahl : Manchmal wird der Default-Sound gespielt, obwohl ein korrekter Sound in SFX.D vorhanden ist.
+
+Dieter :
+* |U-00870| Animationen: "s_Pee" und "s_Spit" (mit Partikeleffekten verbunden) beamen den NSC zum Nullpunkt des Levels (sobald der angehängte Partikeleffekt mit dem Level kollidiert?). "Beamen" passiert auch oft beim Spielen solcher Anis mit dem PLAY ANI Befehl, wenn die Kamera dicht bei der Figur steht.
+
+Phoenix 0.53a
+*************
+* Parser : Npc_IsNear / Npc_IsPlayer - Fix
+
+Phoenix 0.53
+************
++ ZenGin 0.71e
++ zNet 0.73
++ Parser  : Externals : Npc_IsNear(self,other) / Npc_IsPlayer(other) / Mdl_ApplyNewStandAni
+            überarbeitet / geändert : AI_Sit, AI_SitObj, AI_Lie, AI_LieObj (siehe "externals.d")
++ Konsole : Es können jetzt mehrere Konsolen gleichzeitg aktiv sein. Der Focus kann mit "SetFocus" auf die gewünschte Konsole gesetzt werden.
++ Kampf	  : Die Reichweiten für jeden Kampfmodus können pro Spezies eingestellt werden ( species.d )
++ Kampf   : Korrektur der NSC-Positionen auf optimale Kampfdistanz während der Schläge
++ Anis    : Jedem NSC kann per Skript eine neue Stand-Ani mitgegeben werden, um andere Haltungen 
+            zu ermöglichen. Über die Build-In-Funktion "Mdl_ApplyNewStandAni" gibt man 
+			den auszutauschenden Walkmode und die neue Animation an. Bsp:
+			Mdl_ApplyNewStandAni (self,NPC_RUN,"S_STAND_FRIGHTENED");
+			tauscht die Stand-Ani für den Run-Modus ("S_RUN") durch die angegebene "S_STAND_FRIGHTENED" aus.
++ Netz    : Net_PackNpcState / Net_UnpackNpcState
+* Kommandozeile : Fog/Light/Clip - Parameter haben auch im Outdoor-Level Wirkung.
+* AI      : Mein neuer NSC "Grunt" stürzt ab, wenn er DetectNearPC auslösen will. Hilfe!!!
+* |AI-0132| Skripte: Mit dem aktuellen SURFACE.PWF verlieren die NSCs extrem häufig das Wagnetz und irren mit RobustTrace durch die Gegend. 
+* |AI-0013| Skripte: "detect_nearPc()" soll in "detect_npc()" und "process_npc()" aufgehen -> dafür Distanz-Buildin nötig vielleicht "AI_IfNpcIsNear(self, other)".
+            -> DetectNearPc ist zwar weiterhin in der C_NPC vorhanden, wird aber nicht mehr aufgerufen.
+* |AI-0129| Skripte: AI_LieObj() funzt nicht. Der NSC tut nichts.
+* |AI-0130| Skripte: AI_Lie() setzt sich erst auf ein "Luft-Bett"
+* |U-0803| Kampf: Die Angaben aus der Fight.d sowie die Armreichweite sollten in die SPEZIES.d aufgenommen werden. -> und auch ins EDIT SPECIES Window zum Tunen.
+           -> Werte in der Kampfkonsole editierbar (ALT+K)
+* |U-0804| in der SPEZIES-Konsole kann nicht mehr editiert werden
+* |U-0802| Kampf: 1h-Kampf mit Talent1 freezt beim Ausholen (könnte daran liegen, daß das Talent1 jetzt das gleiche AIMING benutzt wie der untalentierte 1h-Kampf).
+* |U-0800| Kampf: Will man mit dem Crossbow schießen, werden statt dessen 1h-Attacks ausgeführt (Konnte keinen Fehler im MDS entdecken?!)
+* |U-0820| Gamestart: Spieler muß nicht nur die Position, sondern auch die Ausrichtung des Startpoints haben. 
+* |U-0734| Stehlen: scheitert jedesmal (Dieb Dex:3 und Talent STEAL, Opfer Dex:1) -> Vorschlag: Klauen ohne Talent ist im UI nicht mehr möglich. Klauen mit Talent gelingt immer, aber nur, wenn das Opfer den Täter nicht sieht/hört.
+* Speicherbedarf verringert
+
+Phoenix 0.52c
+*************
+* Speicherbedarf wesentlich geringer
+
+Phoenix 0.52b
+*************
+* Memchecker entfernt
+
+Phoenix 0.52
+*************
++ ZenGin 0.71d
++ Skripte : C_MOB	  : VAR STRING visual_destroyed
++ Skripte : C_Dialog  : Skriptfunktion, die nach dem Lernen ausgeführt wird ( has_teached )
++ Mob-Zerstörung ( Partikeleffekt : PFX_MOBDESTROY -> Tuningbedarf ! )
++ Gobbo als trag/werfbares Item
+* Skripte : geändert  : /_intern
+* Skripte : C_NPC.range entfernt / fight.d aus Projekt entfernt.
+* RobustTrace - Umgebungscheck nur noch jeden zweiten Frame
+* NSC-AI : einige MemoryLeaks gefixed
+* |AI-0033| Skripte: Wird "blocks_way()" ausgelöst, so kreiselt der NSC um den SC herum. Erst wenn der SC einen Schritt zurück tut, wird der Inhalt der Skriptroutine vom NSC "abgearbeitet". 
+* |AI-0117| Skripte: AI_Lie() gibt ein "Ani not found" aus 
+* |AI-0119| Skripte: Waynetbenutzung nach 10s RobustTracing 
+	-> Zeit ist von der Länge der Strecke abhängig
+* |AI-0125| Skripte: Knäuelbildung, wenn mehrere NSC an einem Waypoint zusammenkommen. Es bilden sich Trauben, die sich nicht mehr entzerren können.
+* |U-0805| Kampf: NSC im Nahkampf macht immer Attacke mit Ausfallschritt, auch wenn er schon halb im SC drin steht
+* |U-0797| StartBatch: Kommandozeilen-Parameter für Start-Uhrzeit
+	-> z.B. "-TIME:14:23"
+* |U-0803| Kampf: Die Angaben aus der Fight.d (FIGHT_STEP_LENGTH und FIGHT_RUN2WALK_LENGTH) sowie die Armreichweite (C_NPC.range) sollten in die SPEZIES.d aufgenommen werden.
+* |U-0799| Kampf: Rennt man mit dem gezogenen 1h-Schwert in einen Gegner rein, direkt nachdem man es gezogen hat, dann macht das Schaden. Das darf nur passieren wenn man attackiert. Oft scheint man auch schon Schaden zu machen, während die Ausholphase des Schlags läuft, wenn der Gegner sehr nah vor dem SC steht.
+* NSC-AI : Treppenproblem vorbereitet, es bedarf aber einer Datenänderung : Mehr dazu beim Treffen
+! Interface - Kollision -> Toten Gobbo plündern / aufnehmen !?!
+
+Phoenix V0.51e (Christmas - Edition)
+**************
++ ZenGin 0.71a
++ Partikel : Einfache Editiermöglichkeit für Partikeleffekte ( siehe console.txt )
++ Parser   : Externals : FUNC VOID Npc_DisableReactions / FUNC VOID Npc_EnableReactions
++ Console  : Letzten Befehl wiederholen : Taste "EINFÜGEN"
+* Test     : - Mit "G" wird NSC im Focus im Angriffmodus geschaltet, 
+               er versucht eingehende Schläge zu parieren.
+             - Mit "H" wird NSC im Focus angreifen und selber zuschlagen.
+* Kampf    : Waffe ziehen / wegstecken
+* Kampf    : Beam-Bug gefixed
+
+Phoenix V0.51d
+**************
++ zNet 0.70b
+* MDS : Bei allen Waffenzieh/wegsteck - Anis das SwapMesh entfernen und durch z.B.
+        *eventTag(7 "DEF_SWAPMESH" "zs_Sword" "zs_RightHand") ersetzen
+        Pfeil einfügen / entfernen beim Bogen (ziehen/wegstecken/reload) mit
+        *eventTag(7 "DEF_PLACE_ARROW")
+* Dialog : Missionsvergabe hat höhere Priorität als intro_unknown.
+* Parser : geändert : FUNC INT AIDefault_GivesItem(VAR INT count) -> keine ITEMID mehr
+           geändert : External : GiveItem erwartet jetzt eine Item-Instanz
+* |AI-0118| Skripte: if ((wld_hour==6 && wld_min>=3) || (wld_hour>6 && wld_hour<17) || (wld_hour==17 && wld_min<50)) -> gibt false, wenn es true geben müßte
+* |AI-0109| Skripte: stole_item(): AI_PointAtObj() -> AI_Ask() -> Figurenfreeze!!!
+* |AI-0112| Skripte: GetNearestWP() oder Hlp_StrCmp() stürzen bei Benutzung ab.
+* |AI-0111| Skripte: Funktion "AI_AlignToWP(self)" dreht die Figur in die selbe Richtung , in die der angegebene WP zeigt.
+
+Phoenix V0.51c
+**************
++ zNet V0.70
+* |U-0783| Start-SC: ...ist THEBRAIN. Sollte aber die Instanz PLAYER sein!
+* |U-0765| "Stack Overflow": Meatbug einsetzen, Angreifen (Bogen), Meatbug rennt auf SC zu, über den Meatbug rennen -> Programm crasht
+* |AI-0113| Skripte: Möglichkeit, um im Spiel die Weltzeit minutengenau setzen zu können. 
+* |AI-0114| Skripte: Die Zeile "if ((wld_hour==6 && wld_min>=5) || (wld_hour>6 && wld_hour<17) || (wld_hour==17 && wld_min<45))" gibt auch zwischen 0:00 und 1:00 true -> trotz dem jetzt vorhandenen Wld_IsTime() stimmt da irgendwas nicht!!!
+* |AI-0107| Skripte: Auftragsvergabe klappt garnicht mehr.
+* |AI-0103| Skripte: Wegsuche: NSCs bleiben wieder wie Fliegen an den Wänden kleben und laufen ewig dagegen. (z.B. Hawkeye im Testlevel -> der klettert auch nicht mehr bei Waypointen mit Kletterkennung) 
+
+Phoenix V0.51b
+**************
++ zEngine 0.71
++ Parser : External  : INT Wld_IsTime(INT hour1,INT min1,INT hour2,INT min2);
+           classes.d : C_ITEM.false_guild
+* AI : DetectSound wird nur ausgeführt, wenn das Geräusch verursachende Objekt nicht schon vorher über andere Sinne
+       detected wurde.
+* Parser : Variable "ask_answer" nach "answer_yes" umbenannt.
+* Partikelsystem aktiviert
+* Robust-Tracing Fix
+* |AI-0108| Skripte: NPCs sehen durch Wände hindurch, daß man deren Gegenstände aufnimmt -> infringes() 
+
+Phoenix V0.51
+**************
++ CS 0.21
++ GR 0.37b ( -> neue Grade Version noch nicht eingebaut )
++ Parser : geändert : "wld_daytime" -> "wld_hour" / _intern
+           External : VAR INT wld_min
+                      AI_StopLookAt (self) / AI_GetNearestWP(self) / Hlp_StrCmp(string1,string2)
+                      Npc_GetTrueGuild(npc)
++ Parser : Neue Konstanten in "species.d" eingetragen. Zum Festlegen der Dauer der temp. Attitüden
+           "Annoyed" und "Furious"
++ Debug  : Anzeigen der Attitüde in den NSC-Debug-Infos
+* Models : Alle zusätzlichen Rotationen von Objekten, die in ein Slot eingefügt wurden, herausgenommen.
+           -> Gobbo in der Trollhand
+		   -> Toter Gobbo im Snappermaul
+* |U-0652| "Toggle Screen": es würde sehr helfen, wenn diese Funktion auch wieder über eine Taste verfügbar wäre, so wie früher. Unter NT ist das ein echtes Handicap, wenn man oft zwischen Programmen switchen muß.
+           -> Taste F3
+* |U-0616| Konsole: Die Konsole muß mit einem Key aufgerufen werden, der international gleich belegt ist (F5 ?). Bei der Präsentation in London stellte sich heraus, daß die Konsole auf engl. Keyboards nicht aufgerufen werden kann (AAARRGH!!!)
+		   -> zusätzlich Taste F2
+* |U-0768| Tötet man einen Gobbo während eine seiner Script-Anis läuft (auf Boden klopfen) dann bleibt er als "lebende Leiche" stehen
+* |U-0765| "Stack Overflow": Meatbug einsetzen, Angreifen (Bogen), Meatbug rennt auf SC zu, über den Meatbug rennen -> Programm crasht
+* |U-0760| trObj: Wenn man ein TrObj aufhebt, dann wird vom CamModFocus nicht in den CamModNormal zurückgeschaltet solange man mit dem trObj in den Händen herumläuft.
+* |U-0766| NSCs werden durch Wände hindurch im Focus angezeigt
+* |U-0769| Focus: Problem mit Reichweiten bei Objektmanipulation. Der Abstand zum SC scheint immer zur Mitte des Objekts berechnet zu werden. Große Objekte (z.B. Tableheavy) werden deshalb nicht angezeigt wenn der Focus kleiner ist als die Abmessungen des Objekts. Erhöht man die Focusreichweite, dann kann der SC Items aufheben und Objekte schieben/ziehen, obwohl diese optisch noch nicht in seiner Reichweite sind. (Wie lösen wir das?)
+* |U-0779| JumpUp: Steht man _optimal_ positioniert vor einer Kante und drückt ALT um hochzuspringen, dann dreht sich der SC sehr oft ein Stück zur Seite. Springt man dann ohne ihn vorher zurückzudrehen, hält er sich nicht an der Kante fest.
+* |U-0778| Push/Pull: Trotz Auskommentierens des kompletten Bereichs im MDS (wie besprochen, damit das Schieben/Ziehen temporär disablet ist) bleibt der "Heavytable" am SC hängen wenn man ihn schieben will und bewegt sich dann mit dem SC durchs Level
+* |AI-0027| Skripte: "AI_SetWalkModeRoutine()" funktioniert nicht richtig: Wird der NSC während AI_GotoWP() bedroht und zieht daraufhin seine Waffe -> geht er weiter, dann behält er die Waffe in der Hand und macht Kampfsteps obwohl der WalkModeRoutine auf NPC_WALK gesetzt ist.  
+* |AI-0022| Skripte: AI_GotoSound() läßt den NPC erst zu einem Waypoint und dann zum Sound gehen. Das sieht meistens sehr seltsam aus. Der NPC sollte direkt auf die Soundquelle zugehen.
+* |AI-0102| Skripte: Tagesablauf "Quicktongue": Nach dem Satz "Quicktongue:'Du zum Beispiel, wann hast du das letztemal Drogen bekommen?" freezed er mit ausgestrecktem Arm und die Szene mit den drei Buddlern wird angehalten. 
+* |AI-0074| Wegsuche: Toleranz auch bei Überlaufen eines WPs
+            -> Toleranz : 50cm
+* |AI-0075| Wegsuche: Tagesablauf HAWKEYE: Pinkel-Animation wird unterbrochen. (AI_PlayAni() nicht synchronisiert)
+* |AI-0081| Skripte: Abregen: Text "NSC Instructor ist nicht mehr annoyed." wird ausgegeben, wird er aber angesprochen, so wird in "intro_annoyed()" gesprungen 
+* |AI-0082| Skripte: Abregen: von FURIOUS geht es nicht mehr zurück auf ANNOYED. Mach zum Testen bitte die Zeiten auf je 20 Sekunden.
+* |AI-0088| Skripte: Tagesablauf: Feinere Zeitabstufung nötig (Zweck: Wachposten inkl. Wachwechsel realisieren) 
+* |AI-0091| Skripte: "LookAtNpc()" funzt nicht. Sollte so wie "PointAt" auf zwei Funktionen ausgebaut werden und dann ein-/ausgeschaltet werden können. 
+* |AI-0098| Skripte: Auftragsvergabe wird noch mit alter "Ask()"-Routine erfragt.     
+* |AI-0021| Skripte: Das CTRL+HOCH für Auftrag annehmen bewirkt danach auch noch ein weiteres
+* |AI-0040| Skripte: "stole_item()" wird noch nicht angesprungen
+* |AI-0043| Skripte: Verkleiden, wahre/offensichtliche Gilde fehlt noch
+* |AI-0038| Skripte: gehen/laufen hinter einem NSC wird meistens nicht gehört (manchmal aber selten schon)
+* |AI-0096| Skripte= Custom-Funktionen wie "Ct_OtherIsMightier()" geben bei einem Vergleich wie "if (Ct_OtherIsMightier()) immer 0 zurück auch wenn in der Funktion selbst mit "return 1" zurückgekehrt wird.  
+* |AI-0085| Skripte: Custom-Made-Functions, denen man Parameter (auch solche wie C_NPC) übergeben kann und die VOID oder INT zurückliefern können (vielleicht auch Klassen wie C_NPC, ist aber nicht ganz so wichtig): Anwendungsfall: Zentralisierung von Abfragen wie "ist der SC mächtiger wie ich?" 
+* |AI-0090| Skripte: Zieht ein NSC per "DrawWeapon()" die Waffe um den Spieler latent zu drohen, so sollte er nicht in Attackstellung gehen, auch wenn er den Spieler im Fokus hat (was bei Dialogen fast immer der Fall ist). Die Attackstellung sollt erst ab "AI_Attack()" benutzt werden. Grund -> Drohgesten mit der Waffe (z.B. S_1STVIEW) sehen aus der Attackstellung heraus peinlich aus.  
+* |AI-0031| Skripte: "blocks_way()" wird erst ausgelöst, wenn der NSC und der SC direkt kollidieren und die Meshes sich bereits durchdringen -> sollte aber schon im Voraus gecheckt werden (vielleicht bei einem halben Meter Abstand).
+* |AI-0033| Skripte: Wird "blocks_way()" ausgelöst, so kreiselt der NSC um den SC herum. Erst wenn der SC einen Schritt zurück tut, wird der Inhalt der Skriptroutine vom NSC "abgearbeitet". 
+* |AI-0053| Skripte: Waffe vom Boden aufnehmen: "TakeItem()" transferiert die Waffe nur vom Boden direkt ins Inventory. Benötigt: Boden -> Hand
+                     -> "AI_TakeWeapon" erledigt das jetzt korrekt
+* |AI-0089| Skripte: Funktion "GetNearestWaypoint(C_NPC)" nötig.
+
+Phoenix V0.50h
+**************
+* Parser : _intern\classes.d
+* AI : SleepRange - Bugfix Oberwelt
+* |AI-0059| Wegsuche: Eine mit AIGOTO-Bewegte Figur bleibt beim Auftauchen mit dem Kopf unter der Wasseroberfläche hängen. Wird manuell aufgetaucht, funktioniert das allerdings. 
+* |AI-0076| Wegsuche: Tagesablauf HAWKEYE: Nach dem Pinkeln streift der auf dem Rückweg zur Rampe die Wand und versucht zu klettert, obwohl er eigentlich besser daran absliden sollte.
+* |AI-0099| Skripte: "C_NPC.aivars[50]" bitte in "C_NPC.aivar[50]" umbenennen
+* |AI-0100| Skripte: "aivar1" bis "aivar3" wird nicht mehr benötigt (alles durch "aivar[]" ersetzt)
+
+Phoenix V0.50g
+**************
+* Oberwelt-Bugfix
+
+Phoenix V0.50f
+**************
++ zEngine 0.70c
++ CS 0.20
++ Parser : Externals : AI_Ask(self,string)
++ Parser : Skripts : intern\
+                     config\fight_ai.d 
+					 -> Mike : Achtung : Format-Änderung der Angaben fürs Kampfsystem !
++ Dialog : AskBox (Bsp : Npc_Ai.d -> Intro_Known )
++ Nahkampf : AI basierend auf der "fight_ai.d" ( Noch nicht fertig )
++ gezielter Troll-Gobbo-Wurf
+* Parserfixes (Argh!)
+* MDS :	Troll : Transitions/States für den Gobbowurf geändert
+                -> Alex : Die Frames/AniLängen scheinen sich geändert zu haben, bitte trage die korrekten Frames ein.
+				-> SlotProbleme auch in der Gobbo-Hände-hoch-Haltung
+* |U-0752| Werfbare Items werden nach dem Werfen/Ablegen nicht mehr im Focus angezeigt und können nicht mehr aufgehoben werden
+* |U-0756| Will man mit einem Gobbo als Gegner den Nahkampf testen (H drücken) dann zappelt der Gobbo zwischen verschiedenen Anis hin und her statt in die Aim-Haltung zu gehen (s_Sneak, s_1hRun, ???TurnL ... die Anis wechseln zu schnell um genau zu sehen welche benutzt werden)
+* |U-0751| TrObj: Trägt man ein solches und streift eine Wand, bleibt das Objekt hängen, der SC geht weiter
+* |U-0419| Magie-Feuerball: Autoaiming/Anvisieren wie beim Bogen
+* |U-0698| Fackel: Beim Wechsel in die Wurfhand wird immer gleichzeitig die Turn-Ani gespielt. Mit einer Fackel in der Hand dürfen keine Random-Anis gespielt werden.
+* |U-0021| Ask-Box beim Angebot des Auftrags: Wir wollen für die Demo doch schon die "richtige" Grafik für die AskBox/Auftragsannahme verwenden 
+* |U-0690| Fackel: Muß erlöschen sobald sie ins Wasser fällt 
+* |U-0435| Fackel:Geworfene Fackeln liegen nicht flach auf dem Boden sondern stehen diagonal.
+* |U-0755| Monster machen Kampfsteps sobald ein Gegner im Focus ist [...] der erst dann Kampfsteps benutzt wenn der Gegner nah genug ist 
+* |U-0731| Meatbug klebt jetzt an der Wand wenn man ihn wirft.
+* |U-0306| Toten Gegnern sollte die Waffe aus der Hand fallen, während sie umfallen
+* |U-0740| Kein Wallsliding während Springen und Fallen -> immer noch aktiv
+* |U-0754| Gelbe Linien vor den NSCs und ähnliche Anzeigen sollten nur bei eingeschalteter Debug-Anzeige aktiv sein, oder garnicht.
+* |AI-0064| Skripte: "AI_TurnToSound()" ist in der EXTERNALS.D mit "AI_GotoSound()" eingetragen
+* |AI-0084| Skripte: AIVAR: kann man sich darauf verlassen, daß sie vor Benutzung den Wert 0 haben?
+            -> das kann man.
+* |AI-0083| Skripte: Anzahl der AIVARs auf 20 erhöhen (können später immer noch reduziert werden)
+            -> Sind jetzt insgesamt 53: C_NPC.aivars[50]
+* |AI-0094| Skripte: Stabilität: Die Zeile "AI_TurnToNpc(self,Vlk_Buddler);" im Tagesablauf ergibt einen Absturz, wennkein Vlk_Buddler instanziert ist. Kann man nicht generell bei ALLEN Instanzen, die nicht vorhanden sind, die Funktion einfach mit einer zSpy-Warnung abbrechen?
+
+- Partikel-System deaktiviert.
+
+Phoenix V0.50d
+**************
++ PARSER :  Externals : AI_TurnToSound(self),	PrintDebug(string);
+* |U-0107|	Pfeile sollten je nach Material des Ziels steckenbleiben.
+* |U-0735|	Pfeile bleiben nicht in Holz stecken. Sie prallen an allen Wänden ab und hängen dann in der Luft.
+* |U-0746|  Drehen während des Sprungs sollte nur ca. 45° Richtungsänderung ermöglichen statt 180°
+* |U-0745|  Festhalten an schrägen Kanten ermöglichen. Winkel editierbar
+            -> neue SpeciesVars : 	CLIMB_HEADING_ANGLE, CLIMB_HORIZ_ANGLE, CLIMB_GROUND_ANGLE;
+            -> Editierbar in "Species"-Konsole (ALT+E)
+* |U-0718|  Edit Species: Slide-Änderung funzt nicht (Hat keinen Effekt)
+* |U-0529|  Ändern des SLIDE Werts in der Konsole hat keinen Effekt im Spiel
+* |U-0653|  Humans im Kampfmodus und alle anderen Spezies schwimmen nicht mehr wenn auf der Rampe in den Pool läuft. Sie laufen beim Übergang zum tiefen Wasser automatisch unter Wasser weiter.
+* |U-0723|  Gobbo: Darf beim Rollen nicht automatisch an Kanten anhalten. Wir haben für's Rollen ja SNEAK benutzt, muß man das ändern, damit er nicht mehr an Kanten anhält?
+* |U-0719|  Auto-Roll funzt nicht mehr
+* |U-0740|  Kein Wallsliding während Springen und Fallen
+* |U-0737|  SC bleibt oft nach dem Sliden hängen, alle anderen Spezies (fast?) immer
+* |U-0727|  Crawler: Bleibt in s_Slide und s_SlideB Zustand hängen und hoppelt dann automatisch durch's Level (Testbar an den Rampen im Testlevel)
+* |U-0741|  t_FallDn_2_Stand im Wasser führt oft nach s_Run und die Figur freezt
+* |AI-0028| Skripte: Angriff mit Feuerball und Bogen laufen beide nicht über "attacks()" sondern reagieren hardgecodet
+* |AI-0049| Skripte: BuildIns "Npc_IsAnnoyed()" "Npc_IsFurious()" (ergibt bei Benutzung "func does not return int")
+* |AI-0072| Skripte: Aufenthalt vor Mastermind: Mastermind tritt die ganze Zeit auf der Stelle (die Turn-Anim von "AI_TurnToNPC()" spielt viel zu lange)
+* |AI-0073| Skripte: Aufenthalt vor Mastermind: Mastermind führt keine Skript-Anims aus (Animationslayer?)
+* |AI-0065| Skripte: Entfernen der tabellierten Spielersätze TXT_PC_..._PHRASE. -> AI_... in den NSC-Skripten.  
+* |AI-0068| Skripte: "AI_TurnToNPC(self,other)" in "intro_unknown()" stürtzt ab. ("other" definiert?)
+* |AI-0069| Skripte: "Npc_HasEquippedWeapon(other)" in "trade()" stürtzt ab. ("other" definiert?)
+* |AI-0064| Skripte: "AI_TurnToSound()" 
+* |AI-0077| Skripte: Automatische Erhöhung NORMAL -> ANNOYED -> FURIOUS bei "info()" entfernen
+* |AI-0071| Skripte: Mehr Zeilen im Textfenster (etwa 10) -> nur im Debug-Modus
+            -> Debug Messages aus den Skripten werden nicht ins Fenster, sondern im zSpy ausgegeben.
+* |AI-0079| Skripte: "AI_TurnToSound()" -> sofortiges "detect_npc()" erzwingen (hört der NSC das Ziehen einer Waffe in seinem Rücken, muß er sofort erkennen, daß der SC eine Waffe in der Hand hat)
+
+Phoenix V0.50c
+**************
++ PARSER : Externals :	FUNC INT Npc_HasEquippedWeapon		(VAR C_NPC self) 
+						FUNC INT Npc_HasReadiedWeapon		(VAR C_NPC self) 
+						FUNC INT Npc_HasEquippedMeleeWeapon	(VAR C_NPC self) 
+						FUNC INT Npc_HasReadiedMeleeWeapon  (VAR C_NPC self) 
+						FUNC INT Npc_HasEquippedRangedWeapon(VAR C_NPC self) 
+						FUNC INT Npc_HasReadiedRangedWeapon	(VAR C_NPC self)
+						FUNC INT Npc_HasEquippedArmor		(VAR C_NPC self) 
++ KAMPFSYSTEM : parametrisiert : Werte per MDS oder per Skript setzen (siehe auch fight.d)
++ KAMPFSYSTEM : Feintuning : per Kampfkonsole (ALT+K) Zusatzbeweungen bestimmter Anis definierbar
++ SCRIPTS : neu : fight.d
++ CONSOLE : neu : toggle turn
+* |AI-0052| Skripte: "AI_UnquipRangedWeapon()" in "AI_UnequipRangedWeapon()" umbenennen (das "e" von Unequip vergessen!)
+* |U-0653| Humans im Kampfmodus und alle anderen Spezies schwimmen nicht mehr wenn auf der Rampe in den Pool läuft. Sie laufen beim Übergang zum tiefen Wasser automatisch unter Wasser weiter.
+* |U-0702| Knien: Knien soll nicht mit gezogener Waffe möglich sein. Ist eine Waffe gezogen, löst ALT + CursorDown die Rückwärtsbewegung des entspechenden Modus aus. Drückt man SPACE, erfolgt Aufstehen und Waffe ziehen.
+* |U-0710| Während des manuellen Umsehens (Taste 0) müssen die Random-Anis deaktiviert sein
+* |U-0712| Bow: Will man mit dem Bogen zielen, dann landet man in "s_1hAim" und der SC freezt
+* |U-0717| Hebt man das Schwert (STRG) ohne daß ein Ziel im Focus ist, freezt man beim Senken des Schwerts in "s_Walk"
+* |U-0725| Drehen während vorwärts Schwimmen oder Tauchen darf nicht die Turn-Anis auslösen
+*?|U-0729| Läuft das Spiel im Windowed Mode, dann fallen sehr oft Items durch den Boden wenn man sie inserted
+! Turn-Anis müssen jetzt auf Layer 20 liegen !
+
+Phoenix V0.50b
+**************
++ UI :      Hinknien
++ SCRIPT :  Neue Speziesvar : SURFACE_ALIGN
+* |AI-0009| Skripte: Stehlen stürzt mit einer Access Violation ab (sobald man ein Item aus dem Opfer-Inv nehmen will) 
+* |AI-0048| Skripte: "intro_address()" des derzeitigen Masterminds stürtzt ab, sobald ich in seinen Sichtbereich reinlaufe (Access Violation) 
+* |AI-0035| Skripte: Schwertziehen des SCs im Rücken eines hörenden NSCs wird nicht erkannt. 
+* |AI-0040| Skripte: "stole_item()" wird noch nicht angesprungen
+* |AI-0044| Skripte: Gerasterte Attitüden
+* |AI-0050| Skripte: "AI_SetToAngry()" umbenennen in "AI_SetToAnnoyed()" 
+* |AI-0049| Skripte: BuildIns	"Npc_IsAnnoyed(self)"	/	"Npc_IsFurious(self)" 
+* |AI-0046| Skripte: "intro_call()" wird gelooped
+* |AI-0014| Skripte: Der Zeitparameter in "Wait()" sollte nicht so grob gerastert sein (zur Zeit in Sekunden). Halbe oder viertel Sekunden sind manchmal nötig, weniger allerdings nicht.
+			-> Ist jetzt ein "Float" z.B. 3.5 Sekunden
+* |AI-0017| Skripte: Für sinnvolles NSC-Verhalten, bräuchte ich freie Merker-Variablen (vielleicht auch 3 fest vordefinierte, die frei belegt werden können). Nur so kann ich NSCs darauf reagieren lassen, daß sie z.B. den SC 3 mal aufgefordert haben, die Waffe wegzulegen, bevor sie angreifen. Es gibt auch andere Situationen in denen solch ein Zähler nicht immer durch die "count"-Variable erlesbar ist.
+			-> C_NPC : aivar1 - aivar3			
+* |AI-0051| Skripte: "Give_Items()" an MASTERMIND: Nur die Fernkampfwaffen werden nicht von ihm equipped, die Rüstungen schon.  
+* |AI-0030| Skripte: In "GiveItem()" kann der NSC das Geschenk noch nicht quippen (Item-Transfer-BuildIn oder zwei Skript-Routinen?).
+* |AI-0036| Skripte: "aims_other()" funzt garnicht mehr.
+
+Phoenix V0.50a
+**************
++ zEngine 0.70b
+* |U-0701| Nach dem Aufheben eines werfbaren Items bleibt der SC in der IAim-Haltung hängen
+* |U-0697| Turn-Anis für SWIM, DIVE und Turn & Strafe für WALKW werden noch nicht unterstützt
+
+Phoenix V0.5
+*************
++ PAR : Externals : AI_TakeItem(self,item)
++ MDS : Umstellung auf neue Graphen
+
+* automatisches "Abregen" der NSCs (FURIOUS->ANNOYED->NORMAL) F-A : 5min Echtzeit A-N : 3min Exhtzeit
+* |U-0675| Skripte: Regelung für ANNOYED und FURIOUS: Von normal auf diese beiden Zustände wird durch Skriptfunktionen geschaltet, zurück (also der NSC beruhigt sich wieder) wird per Timer automatisch. Dies gilt dann auch für die ursprüngliche Verwendung im Dialog. 
+* |U-0692| t_<w>Run_2_<w> wird fälschlicherweise auch bei Monstern gesucht
+* |U-0677| Skripte: schleicht man sich von hinten an einen sehenden & hörenden NSC heran, bemerkt er den SC korrekterweise nicht. Sobald man dann mit CTRL zum Schlag ausholt (und gedrückt hält) springt er dann ca. 1 Sekunde später in "detect_nearPC()". Warum?
+* |U-0672| Skripte: "aims()" wird auch im Rücken erkannt -> kein Anschleichen möglich 
+* |U-0673| Skripte: "ready_weapon()" wird manchmal, "unready_weapon()" wird oft nicht angesprungen, wenn der SC die Waffe zieht/wegsteckt. 
+* |U-0686| Skripte: Reset-Funktion für infringes()-Zähler. 
+		   -> getimed : passiert automatisch, nachdem eine Stunde Weltzeit vergangen ist.
+* |U-0688| Skripte: infringes()-counter ist zwar getrennt nach MOB und ITEM 
+			(das wäre eigentlich garnicht nötig), allerdings nicht nach unterschiedlichen 
+			Personen (falls diese die gleiche AI-Instanz nutzen). 
+			Daß viele NSCs später gemeinsame AI-Instanzen haben, 
+			wird die Regel sein !!! 
+
+! Layer für die TorchAni sollte jetzt >2 sein, da Layer 2 ausschließlich für Turns benutzt werden sollte.
+
+Phoenix V0.49
+*************
++ PAR : "latente" Funktionen ( Tagesablauf )
++ PAR : Externals neu : AI_SetWalkModeRoutine,    AI_EquipBestMeleeWeapon,
+                        AI_EquipBestRangedWeapon, AI_EquipBestArmor
+        Externals ch. : AI_EquipMeleeWeapon,      AI_EquipRangedWeapon, 
+                        AI_EquipArmor
+                        ( siehe auch externals.d )
+* Parserfixes
+* |U-0646| Nahkampf: Dreht man sich vom Gegner weg um schnell wegzurennen, dann macht man meistens trotzdem Kampfsteps statt zu rennen, obwohl der Gegner nicht mehr im Focus angezeigt wurde. 
+* |U-0634| Skripte: C_Dialog.intro_address() bzw. address_criteria() werden nicht benutzt. Obwohl ich bei address_criteria() 1 zurückgebe, wird intro_adress() nicht ausgeführt.
+* |U-0650| Werfen: Wird ein "Wurfapfel" aufgenommen, so erscheint das Mesh nicht in der Hand, kann aber geworfen werden. Gleiches gilt für die brennende Fackel, die erst dann zu sehen ist, wenn sie die Hand verläßt.
+
+Phoenix V.048a
+**************
+* KeyBuffer / Netzwerk - Fix
+
+Phoenix V.048
+**************
++ GR 0.37
++ CS 0.16
++ PAR : Externals : AI_PointAt, AI_PointAtVob, AI_StopPointAt, AI_Sit, AI_Lie
+* PAR : diverse Parser-Bugfixes ( DAT-Files, Version-checking etc... )
+* Nahkampfsystem überarbeitet
+* |U-0507| Läuft man (s_Run) im spitzen Winkel auf den Pool zu, so bleibt man schwimmend an der Kante hängen
+* |U-0504| Fällt man an der tiefsten Stelle in den Lavagraben, hängt der SC/NSC immer noch in "s_FallB" oder "s_Fall" in der Luft
+* |U-0565| In den EDIT-Konsolen können keine negativen Zahlen als Parameter eingegeben werden. Das ist z.B. für die Kameraparameter unbedingt erforderlich.
+* |U-0406| Nahkampf: die leichte und die schwere Parade fehlt noch (Konzept) 
+
+Phoenix V.047
+**************
++ Parser :
+	- Die DAT-Files sind wieder da ! ( Kommandozeile z.B. : parse:demo2.dat )
+	  werden beim Parsen von SRC-Files automatisch erzeugt.
+	- Pseudo-Code kürzer
+	- Skripte	: _intern
+	- Externals : AI_PlayAniSnd,
+				  Mdl_SetVisual,          Mdl_SetVisualBody,
+				  Mdl_ApplyOverlayMds,	  Mdl_ApplyRandomAni,	Mdl_ApplyRandomAniFreq				
+    ! Die Build-In Funktionen "Mdl_SetVisual" und "Mdl_SetVisualBody" ersetzen jetzt die
+      zahlreichen "visual_"-Vars in den Skripten. Das Aussehen eines Models wird jetzt 
+	  ausschließlich über diese beiden Funktionen definiert. Die "visual_"-Vars gibt's zwar
+	  noch, haben aber keinen Effekt mehr ! 
+	! Alte Tre-Files löschen !
+
++ Einfache Synchronisation von Sound/Ani/Text mit "AI_PlayAniSnd"
++ Aktions - SFX
++ Konsole : neue Befehle
++ Kommandozeilenparameter : -WINDOW : Starte im Windowmodus.
+* Sprung aus dem Lauf ( vom linken Fuß )
+* AI : Skript-AI-Funktionen priorisiert, damit fallen z.B. doppelte Aufrufe kurz hintereinander
+       ( keine Ansammlung alter AI-Befehle in der AI-Liste mehr ) und weitere Probleme weg.
+* Materialbib wird nicht mehr geladen. 
+* |U-0614| Nahkampf: Bei den Drehschlägen darf nicht zusätzlich eine Drehung der Figur durch die Programmlogik erfolgen
+
+! Setzt man den Layer für die "s_look"-Ani höher als die der Skript-Anis, so schaut der NSC den SC auch 
+  während der Skript-Anis an !
+
+Phoenix V.046
+**************
++ AI     : - Angry / Furious
+		   - Besitzmanipulationen werden detected ( + Änderung der Skriptfunktionen ).
+		   - Hören enabled ( noch nicht ganz fertig/buggy ).
++ Parser : 
+  - Externals : AI_SetToAngry, AI_SetToFurious, Npc_GetReadiedWeapon,
+				AI_GotoSound,  AI_GoRandom,
+				Npc_GetEquippedMeleeWeapon, Npc_GetEquippedRangedWeapon,
+				Npc_GetEquippedArmor,
+				Hlp_Random
+  - Classes.d : C_Item/C_Mob : VAR owner + VAR ownerguild -> Besitzer angeben
+                C_NPC.give_item Funktionsweise geändert
+  - AI        : DetectSound / ProcessSound aktiviert ( noch nicht ganz fertig )
+  - Skriptsprache sicherer : Zugriff auf nichtinitialisierte Instanzen liefert immer "0".
+  - Mergemodus ( für Kapiteländerungen ) enabled
+  ! Alte "TRE"-Files aus "_work"-Verzeichnis löschen !
+
+* |U-0484| Wurfreichweite für ungezielten Wurf (kein Ziel im Focus) muß (ungefähr) "npc_range2" in FOCUS.D entsprechen, damit ungezielte Würfe nicht weiter gehen als die maximale Entfernung eines gezielten Wurfs. Zur Zeit werden MOBs noch viel zu weit (so weit wie Items?) geworfen. 
+           Die  mob_range2 (im Modus Focus_Throw_Mob !) ist aktuell mit 200 cm angegeben. Der ungezielte Wurf von MOBs geht aber immer noch wesentlich weiter.
+           -> Rechnerisch war die Weite ok, die Physik hat den Mob jedoch noch weiter rutschen lassen, habe jetzt zusätzlich Tempo rausgenommen.
+
+Phoenix V.045e
+**************
++ Kommandozeilenparameter : -3d2:xxx.3ds  
+  ( dann muss auch -3d:xxx.3ds ein 3ds-File sein !! )
+  Beide 3ds-Files werden wie Levelkomponenten behandelt und gemerged
++ Kommandozeilenparameter : -loaduncompiled
+  Die im PWF enthaltenen LevelComponenten-Meshes-Bsps werden ignoriert und die
+  dazugehoerigen 3ds-Files neu geladen (bei 3ds-File Update).
+
+Phoenix V0.45c
+**************
+* NPC-Attack-Mode : Je nach Entfernung wird "run" oder "walk" benutzt
+* kleinere Fixes ( z.B. Inventory auf / zu geht jetzt immer )
+* |U-0577| Blutspritzer sind plötzlich wieder häßliche Dreiecke (in der v0.44 war es gut) -> Carsten kümmert sich drum!
+           -> Diesmal aber wirklich.
+
+Phoenix V0.45b
+**************
++ zEngine 0.68e
++ Glide 0.35d
++ Item an NSC geben
++ neues External : Snd_Play3d (C_NPC, Soundname) : Sollte benutzt werden, wenn NSCs etwas
+                   sagen, da die Entfernung/Position mitberücksichtigt wird.
+* |U-0573| Animations- und Untergrund-Sounds funzen nicht weil an die Sound-Identifier ein .WAV angehängt wird (zSpy-Meldungen)
+* |U-0574| Torch, die mit INSERT eingefügt wird, wird nicht im Focus angezeigt und kann nicht aufgehoben werden.
+* |U-0581| Skripte: Detect_NearPC()-Timer muß bei jedem Durchlaufen einer anderen Skriptroutine wieder resetted werden. Auch darf er während des Dialoges nicht gestartet werden.
+* |U-0582| Skripte: AI_RemoveWeapon funzt nicht mehr.
+* |U-0583| Skripte: AI_Attack() aus der Detect_Near_Pc() heraus funzt nicht. Er springt zwar in "Attack_Start()" und arbeitet die dortigen Skriptbefehle ab, greift aber nicht wirklich an (hat das Schwert vorher schon manuell gezogen)
+* |U-0587| Skripte: Dlg_OpenInv() wird nicht angesprungen
+* |U-0577| Blutspritzer sind plötzlich wieder häßliche Dreiecke (in der v0.44 war es gut) -> Carsten kümmert sich drum!
+* diverse AI-Bugfixes
+
+Phoenix V0.45
+**************
++ zEngine 0.68d
++ Glide 0.35c
++ Neues PWF-Format
++ Skripte	:	Externals	:	Npc_IncreaseAttitude,		Npc_DecreaseAttitude,
+								Npc_IncreaseGuildAttitude,	Npc_DecreaseGuildAttitude,
+								Npc_IncreaseCampAttitude,	Npc_DecreaseCampAttitude
+								etc. ( siehe externals.txt )
++ AI : Neue Funktionen laut Konzept V1.42 : 
+		- Zeugenermittlung 
+		- Tagesablauf (es fehlen noch einige Externals zur vollen Nutzung)
+		- Standard - Angriff - Modus wieder aktiviert
+		- Missionen + Externals wieder verfuegbar gemacht
+		- Beispiele im bekannten "Npc_Ai.d" - File
+* Kommandozeilenparameter PLAYER erwartet jetzt den Namen der Skriptinstanz und nicht mehr 
+  über Nummer kodiert.
+* MDS :	Zombie - MDS erweitert ( siehe zombie.mds )
+* |U-0549| Fackel im Inventory Benutzen lädt zwar laut zSpy das Mesh "torch_burning.3ds" sowie ein das Lichtobjekt "light.3ds" ein, zeigt aber weder die Animation (Arm hoch), noch die Fackel mit Flammendecal
+* |U-0527| INV-Items werden nicht mehr angezeigt
+* |U-0568| Skripte: AI_PlayAni(): Hier muß der Animationsname immer komplett in Großbuchstaben geschrieben werden. Besser wäre caseINsensitive, also egal wie geschrieben. 
+* |U-0570| Skripte: C_NPC.weapon ist auch mit gezogener Waffe 0 (kein Abfragen möglich)
+* |U-0571| Skripte: BuildIn "TurnTo(C_NPC)" und "TurnAwayFrom(C_NPC)" nötig
+* |U-0572| Skripte: BuildIn "Wait(time)" nötig
+* |U-0563| Wenn der SC dicht bei einem NSC steht, dann fängt er oft an zu "zappeln", d.h. seine Position auf dem Boden springt kurz zwischen zwei Punkten hin und her. Manchmal "teleportiert" er danach auf eine andere Position.
+* |U-0566| AIGOTO-Befehl der Konsole läßt den SC festhängen, wenn er z.B. beim Drehen mit dem Level kollidiert
+			-> konnte ich in dieser Version nicht mehr feststellen.
+* |U-0558| AI-Doku: Da jetzt die EXTERNAL.D rausgeflogen ist, braucht Stefan dringend eine Auflistung aller BuildIn-Funktionen mit Parameterbeschreibung. 
+* |U-0520| Zombie: Die Flugweite des abgeschlagenen Kopfes ist sehr unterschiedlich (wonach richtet sie sich?). Fällt der Kopf dem Zombie direkt vor die Füße, dann hat man keine Zeit ihn aufzuheben, da der Zombie ihn viel zu schnell selbst aufhebt. Es kommt auch vor, daß der Kopf in der Luft stehenbleibt, statt zu Boden zu fallen.
+			-> auch die Access-Violation gefixed
+* |U-0514| AI: Zusätzlicher Wahrnehmungscheck von NSCs wenn sie in den SC-Fokus geraten. Dadurch würde z.B.der Gobbo im Demolevel nicht solange stehenbleiben bis der SC an ihm vorbeigerannt ist bevor er zum Alarmieren losrennt.  
+
+Phoenix V0.44b
+**************
+* SND	 : Infos vom Soundsystem werden angezeigt.
+* Parser : TRE-Load enabled.
+
+Phoenix V0.44
+**************
++ SND 0.01: Miles Sound System
++ Der Parser benötigt im "Scripts"-Verzeichnis ein Unterverzeichnis "_work", 
+  dort landen die ".tre" - Files. Die alten ".tre"-Files löschen.
++ Skripte :		/intern		: neu
+				Externals	: AI_EquipMeleeWeapon,	AI_EquipRangedWeapon,
+							  AI_UnequipMeleeWeapon,AI_UnequipRangedWeapon,
+							  AI_ReadyMeleeWeapon,	AI_ReadyRangedWeapon,
+							  AI_EquipArmor,
+							  AI_TurnToNPC,			AI_LookATNPC,
+							  AI_TurnToObject,		AI_LookATObject,
+							  Snd_Play							  	
++ Skripte/Klassen überarbeitet : NSC - Reaktionen I ( Konzept V1.42 ) :
+	Sicherheitsabstand / Anvisieren / Treffer / getroffen werden / sterben etc.
+	-> Ich bin gerade mittendrin
++ Neue Konsolenkommandos : siehe "Console.txt"
+* Konsole : Autocomplement für Parserinstanzen -> "insert..." ( Thanx, Andre! )
+* |U-0501| Tauchen: Ertrinkt man im Tunnel, so folgt "s_FallDn". Danach steht man unter Wasser im Tunnel und kann darin herumlaufen
+* |U-0544| Habe die Dummy-Anis umbenannt in D1-Dx. Wäre schön, wenn Du die Tasten F9-F12 mit den Anis D1-D4 belegen könntest. Beim starten der Dummy-Anis (D1-Dx) mit dem PLAYANI-Befehl freezt der SC kurz nachdem eine Animation gestartet wurde.
+* |U-0534| ACCESS VIOLATION wenn man eine Mana-Potion benutzt
+* |U-0541| Transform: Das Verwandeln von SCs/NSCs in Dialogreichweite fehlt noch (Die NSC-AI soll auf Verwandlungsversuche reagieren)
+			-> Skriptfunktion "attack" wird ausgeführt
+* |U-0484| Wurfreichweite für ungezielten Wurf (kein Ziel im Focus) muß (ungefähr) "npc_range2" in FOCUS.D entsprechen, damit ungezielte Würfe nicht weiter gehen als die maximale Entfernung eines gezielten Wurfs. Zur Zeit werden MOBs noch viel zu weit (so weit wie Items?) geworfen.
+			-> ca. i_range2 fuer Items
+			-> ca. m_range2 fuer Mobs
+* |U-0385| Skripte: Wie kann ich in den Detect/Process-Routinen Infos über den NSC selbst herausfinden ? Der Spieler ist die globale Variable "npc" (unglückliche Namensgebung!), welche ist der NSC selbst?
+			-> Der NSC selbst		: "self"
+			-> Der ermittelte NSC	: "other"
+
+Phoenix V0.43
+**************
++ Engine 0.67
++ Skripte :		/intern		:	Konstante "ATR_PROTECTION" um Ruestungsschutz zu setzen
+				Externals	:	AI_TakeDeadGobbo, AI_HasDeadGobbo, AI_DropDeadGobbo,
+								Npc_IsDead
+				Snapper-AI	:	snapper.d
+				text.d		:	"Transform"-Spruch
+				guilds.d	:	Instanz für speziesabhängige Werte
+
++ Snapper nimmt toten Gobbo auf / lässt ihn fallen
++ Konsolen AutoComplement	( ausser bei Instanznamen )
++ Zauberspruch "Verwandeln" ( ohne Effekte )
++ Neue Konsolenkommandos	( siehe "Console.txt" )
+
+Phoenix V0.42b
+**************
++ Umstellung auf neue Animations-Walkcycle
+
+Phoenix V0.42
+**************
++ Engine 0.66e
++ Sound 0.01c
++ Glide Renderer 0.34
++ Skripte	:	- intern neu
+				- Zombie-AI : zombie.d
+				- Externals : AI_HasHead
++ Parser V0.8
+	+ partielles / automatisches Parsen neuer Skripte
+	+ Editier- und speicherbare Instanzen
+	+ Debug Mode ( durch PCode steppen )
+	+ stark geschrumpfter und schnellerer PCode 
+	+ Syntaxerweiterungen ( z.B. INSTANCE npc1, npc2, npc3,... (C_NPC) )
++ neue Konsolen-Befehle ( siehe Console,txt )
++ Kommandozeilenparameter -OUTDOOR : Outdoor-Renderer benutzen
++ Snapper Wasser-Attacke
++ Kampflimbs
+* |U-0504| Fällman an der tiefsten Stelle in den Lavagraben, hängt der SC/NSC in "s_FallB" oder "s_Fall" in der Luft
+* |U-0310| Kante: Wenn man an eine Kante heran"walkt" oder "sneakt" dann fällt man zwar nicht herunter, bleibt aber auch nicht sofort stehen, sondern läuft ewig auf der Stelle.
+* |U-0311| Figurenbewegung: Gegen Wand "Sneaken" oder "Walken" läßt Figur auf der Stelle weiterlaufen, statt sofort stehenzubleiben.
+* |U-0522| solange sie noch einen Kopf auf den Schultern haben, dürfen sie sich keinen zweiten aufsetzen.
+* |U-0523| Zombie: Zombie dreht sich nicht zum auf dem Boden liegenden Kopf. 
+* |U-0524| Meatbug: Nach dem Schießen hat der Käfer eine sichtbare BoundingBox 
+- AI-Tagesablauf-Externals ( AI_Timed... etc ) sind obsolete !
+
+Phoenix V0.41
+**************
++ neuer Kommandozeilenparameter -TESTMODE
++ Skripte : - intern neu
+			- Externals : Hlp_IsItem, AI_TakeHead
+			- Zombie-AI : Mst_Zombie.d -> Zombie sammelt Kopf wieder ein
++ Zombie nimmt Schaden im Wasser
++ Meatbug als werfbares Item 
++ Meatbug -> Saeure - Attacke ( noch ohne CD )
+* Die Ani "t_JumpUpLow_2_JumpStand" hat jetzt "s_JumpStand" als Nachfolgezustand ( same : JumpMid )
+  -> damit gibt's auch keine Hänger dee SCs mehr, wenn dieser einen JumpLow/Mid im Kampfmodus macht.
+* |U-0502| Stellt man sich im "Lavagraben" an der tiefsten Stelle (quadratisches Loch) dicht an die Wand und springt mit "JumpUpLow" nach oben läßt sich der SC nicht mehr bewegen.
+* |U-0503| Im "s_Run" Modus kann man sich nicht rückwärts über eine Kante bewegen (automatisches Anhalten nur beim Gehen und Schleichen)
+* |U-0311| Figurenbewegung: Gegen Wand "Sneaken" oder "Walken" läßt Figur auf der Stelle weiterlaufen, statt sofort stehenzubleiben.
+* |U-0310| Kante: Wenn man an eine Kante heran"walkt" oder "sneakt" dann fällt man zwar nicht herunter, bleibt aber auch nicht sofort stehen, 
+* |U-0504| Fällt man an der tiefsten Stelle in den Lavagraben, hängt der SC/NSC in "s_FallB" oder "s_Fall" in der Luft
+* |U-0508| Höchste Stufe auf der Rückseite des Pools: Steht man etwas vom Rand entfernt und Springt dann hängt der SC an der viel zu niedrigen Kante und durchdringt bis zur Brust den Levelboden. 
+* |U-0513| Konsole: Komplette Trennung zwischen Spiel- und Test-Tasten. _ALLE_ Testtasten sollten nur dann funzen wenn man vorher in einen speziellen Testmode toggelt.
+		   -> Testmode mit ALT + T togglebar
+* |U-0512| Konsole: RMODE funzt nicht 
+		   -> richtig ist : RDRAW
+* |U-0499| Springt man aus dem flachen Wasser ins tiefe, dann freezt die Figur an der Wasseroberfläche in "s_FallDn"
+
+! Versionsnummer - Korrektur auf 0.41
+
+Phoenix V0.803
+**************
++ Neue Skripte :		/intern
+  neue Spezies-Vars :	VAR INT GIL_DISABLE_AUTOROLL	-> Autoroll-Feature an/aus
+						VAR INT GIL_SLIDE_ANGLE			-> Rutschen ab x Grad
++ Konsole ( siehe Console.txt )
++ LOOK - Ani beim Umschauen
++ Zombie kopflos / Kopf als Wurfitem -> Skriptinstanz "ZombieHead" in misc.d
+* Rausklettern aus Wasser mit JumpUpLow oder JumpUpMid ( SC blieb haengen )
+* Bugfix beim Tragen von grossen Objekten (z.B. CrateSmall / FireBowlSmall )
+
+Phoenix V0.802
+**************
++ Camera-System 0.16 ( + neue CamSys - Skripte )
++ Neue Skripte :		/intern
+  neue Spezies-Vars :	VAR INT GIL_STEP_HEIGHT			-> Stufenhoehe	   (cm)	
+						VAR INT GIL_JUMPLOW_HEIGHT		-> JumpUpLow Hoehe (cm)
+						VAR INT GIL_JUMPMID_HEIGHT		-> JumpUpMid Hoehe (cm)
++ JumpUpLow / Mid
++ AI : Umgebungscheck "klettern"
++ AI : Robust-Tracing I ( Ausweichen von Levelhindernissen -> Wegsuche ausserhalb von Wegnetzen )
+* geändertes HUMAN.MDS ( JumpUpLow / JumpUpMid )
+* |U-0488| Wenn man mit ENTF eine Figur zurücksetzt, und dort schon eine andere steht, dann hängen sie ineinander. Keine kann bewegt werden und man muß das Programm neu starten
+		   -> 2x hintereinander ENTF gibt der Figur einen "Schubs" nach vorne.
+* |U-0486| ALT+F zeigt Framerate nicht mehr an.
+* |U-0491| Tauchen: Drückt man ENTF nachdem der SC ertrunken ist, dann wir er zwar an den Startpunkt zurückgesetzt, bleibt aber in s_drowned Haltung und läßt sich nicht mehr bewegen.
+* |U-0483| Neue Transition "t_SwimF_2_Dive" (ist schon in die MDS eingetragen) um aus der Vorwärtsbewegung zu Tauchen, ohne anzuhalten.
+* |U-0496| trObj: geht man mit einem trObj von oben auf eine Schräge, dann bleibt das trObj in der Luft hängen, sobald der SC rutscht, oder er rutscht mt dem trObj in den Händen, wird aber am Ende der Schräge "in die Luft" gestellt. Vorschlag: Sobald SC rutscht, läßt er trObj fallen.
+* |U-0492| Tauchen: Auch im bzw. unter Wasser muß es möglich sein, Items aufzuheben und Kisten/NSCs zu durchsuchen (Neue Animationen?)
+* |U-0485| Springt man mit einem Human im Kampfmodus ins tiefe Wasser, dann freezt er in "s_Dive" (erstmal "Fake"-Waffenwegstecken, ohne Animation benutzen)
+* |U-0493| Tauchen: Dreht man sich in "s_Dive"-Haltung in Bodennähe, dann bleibt man oft (mit dem Füßen) daran hängen, und kann die Figur nicht mehr bewegen. Gut zu testen über der Rampe, passiert aber auch oft auf dem flachen Grund.
+* |U-0458| Schwimmen: schwimmt man im Pool über der Rampe, in der Nähe des flachen Wassers, so wird die Figur beim Losschwimmen und Anhalten unter Wasser gezogen
+* |U-0470| Wenn man mit dem Gobbo ins tiefe Wasser springt, dann freezt er oder bewegt sich in s_Dive-Haltung nach oben aus dem Wasser (evtl. MDS-Problem?)
+* |U-0113| Wenn SC gegen Rampe taucht, sollte er nicht hängenbleiben, sondern an der Rampe entlang tauchen (Wallsliding)
+* |U-0478| Sprunghöhen: Stufenhöhe, JumpUpLow und JumpUpMid und JumpUp editierbar pro Spezies, wobei nicht alle Spezies über JumpUp (Hängen an Kante) verfügen! Muß man dabei nicht doch mit Höhenangaben arbeiten um zu bestimmen, welche Ani zu welcher Höhe passt?
+* |U-0261| Gobbo kommt die Treppen im Testlevel nicht hoch. Höhenangaben für "Hochpoppen", JumpUpLow, JumpUpMid und JumpUp für verschiedene Spezies.
+* |U-0275| JumpUpLow: Steht man vor einem solchen Hindernis, geht einen Schritt zurück und Springt dann, macht der SC einen Jump (nach vorne) erkennt die Kante und hängt sich daran: Da aber die Kante viel zu niedrig ist, um daran zu hängen, verschwinden die Beine komplett im Boden
+* |U-0301| Fallen: s_Fall erst ab 3,50 m Falltiefe (Testlevel: Zum Wanddurchbruch hochspringen, und danach mit JumpB wieder rückwärts über die Kante springen und sich festhalten. Wenn man sich nun fallen läßt fällt man um, obwohl die Falltiefe (Füße bis zum Boden) weniger als 3,50m sind)
+
+Phoenix V0.801
+**************
++ Camera - System 0.15
++ Wegnetz - Editier - Modus ( siehe Keys.txt )
++ Kampfsteps im tiefen Wasser
++ NSC - AI : Schwimmen / Tauchen / rausklettern
++ neue Wegpunkt-Eigenschaften SWIM und DIVE
+* "s_Drown" ist raus, neue Transition "t_Dive_2_Drowned"
+* Automatisches Waffe wegstecken bzw. fallenlassen vor Schwimmen.
+* Außerdem wird Scriptfunktion Intro_Call  scheinbar nicht durchlaufen (keine Textausgabe des SC-Textes auf dem Screen).
+* |U-0484| In den Kampfmodi Kampfsteps in mitteltiefem Wasser statt WalkW (für alle Spezies). 
+* |U-0479| Werden NSCs in Rufreichweite "angesprochen", dann darf man sie nicht bestehlen können. 
+* |U-0474| trObj: Objekte werden nicht mitrotiert, wenn der SC sich dreht  
+* |U-0446| Während dem Laufen Inventory Öffnen (SC gefriert, sollte aber seinen Move noch zu Ende machen) und dann im Inventory ein Item Ablegen -> SC bleibt auch nach Schließen des Inventories noch mitten im Lauf gefreezed
+* Kleinere Kamerafixes ( Konsole, Umschau-Kamera etc )
+
+Phoenix V.08
+*************
++ AutoRoll
++ neue Skripte :	intern
+					guild.d		(Schwimm / Tauchzeiten)
+					text.d		(Hilfetexte)
++ Kamera System 0.14
++ Umschau - Kamera 
+* |U-0475| Fernkampf: Wenn Ziel im Fernkampf-Fokus, kein automatischer Wechsel zu Kampfsteps (Automatismus nur im Nahkampf).
+* |U-0469| Auto-Roll: Nur beim Tauchen und Rennen. 
+* |U-0473| trObj: Wenn man mit trObj abstürzt, oder ins tiefe Wasser (Schwimmtiefe) geht/fällt, muß das trObj fallengelassen werden (ohne spezielle Animation)
+* |U-0430| Nahkampfkamera darf nicht eingeschaltet werden, solange SC im Kampfmodus rennt (Konzept). Erst wenn er stehenbleibt oder während des Walk-Loops, soll in den CamModMelee gewechselt werden (sonst dreht die Kamera ständig zur Seite, obwohl man nur an ein paar Gegner vorbeilaufen will!)
+* |U-0423| Stehlen: Stürzt mit einer Access Violation ab.
+* |U-0468| Schwimmen/Tauchen: hier fehlen noch die pro Spezies editierbaren Werte für Tauchzeit (Atemluft) und Schwimmzeit. 
+	       -> siehe "guilds.d"
+* |U-0460| Fokussystem: getötete NSCs/SCs sollten im Melee- und Normalmodus wie MOBs behandelt werden. 
+		   Im Fernkampf sollten sie komplett ignoriert werden 
+		   -> tote NSc nehmen im Focussystem jetzt die Eigenschaften von MOBs an, 
+		      d.h. sind MOBs in der Focusskriptinstanz als "ignoriert" eingestellt, 
+			  tauchen auch keine toten NScs im Focus auf.
+		   -> Das AIMABLE Flag ist noch nicht benutzbar
+* |U-0300| Fallen: "Fall" während Sprung (t_Jump_2_Fall) wenn zu tief. Nicht nur während FallDn.
+* |U-0452| Springen: ...schaltet nach entsprechender Tiefe immer noch nicht auf Fallen um
+* |U-0454| Tauchen bitte nur durch ALT (ohne CURSOR-Taste) auslösen. Wenn man im Wasser ist, und alle Bedingungen zum Herausklettern erfüllt sind, dann soll Tauchen nicht möglich sein, sondern nur Herausklettern mit ALT+CursorUp
+* |U-0471| Anderer Help-Text für NSCs/SCs in Rufreichweite (call)
+
+
+Phoenix V.0799
+***************
++ Konsole zum editieren speziesabhängiger Konstanten ( Tasten siehe "keys.txt" )
++ Mobs aufnehmen / tragen / werfen / ablegen ( Pre-alpha )
++ automatische Höhenkorrektur des Wegnetzes  
+* geändertes PPF-Wegnetzformat ( fuer Wegpunkteigenschaften )
+* geänderte Skripte :
+	- Intern
+* |U-0449| Nahkampfmodus: Ist ein NSC im Fokus, kann die gezogene Nahkampfwaffe nicht mehr weggesteckt werden 
+* |U-0450| Kameramodus: Beim Hineinspringen wird nicht auf CamModSwim, beim Abtauchen nicht auf CamModDive umgeschaltet
+* |U-0455| Springen aus dem Rennen funzt nicht in den Kampfmodi und beim Gobbo
+* |U-0459| Kampfmodus: Waffentoggle und Kampfmodus beenden funzt nicht wenn ein Gegner im Focus ist
+* |U-0462| Schwimmen: Wenn man mit dem Gobbo am rechten Rand des Pools schwimmt und dort tauchen will, dann kollidiert er mit dem Grund während die Ani "t_Swim_2_Dive" läuft. Danach folgt die "Oops"-Ani und der Gobbo freezt stehend auf dem Grund (evtl. Oops-Ani während Schwimmen und Tauchen deaktivieren?)
+* |U-0456| Umsehen/Autoaiming: Wie im Konzept beschrieben, Ansehen von Objekten nur dann, wenn ACTION gedrückt und eines in Reichweite ist.
+* |U-0467| Fokussystem: Fokusreichweite soll Manipulierreichweite entsprechen. Ist ein Objekt in Aufhebereichweite und ACTION gedrückt, soll das Objekt angesehen und in die IAim-Pose gewechselt werden, bei schieb/ziehbaren Objekten entsprechend in die PAim-Pose (erst wenn man ACTION etwas länger gedrückt hält).
+* |U-0466| Fokussystem: Zurufreichweite und Focus_Throw für trObj fehlt noch
+
+Phoenix V.0798
+***************
++ Focus System editierbar
++ Wasser- und Sprunghöhen je Spezies editierbar
+* Einige Model-Movement Bugs beseitigt
+* Neue/geanderte Skripte :
+	- Focus.d
+	- Guilds.d
+	- Intern
+
+Phoenix V.0797
+***************
++ ZenGin 0.66
++ Glide-Renderer 0.32d
++ Focusobjekt anvisieren ( Test )
++ Sprung aus dem Laufen
+* |U-0322| Nahkampf: Ist ein Gegner im Visier, werden bei UP/DOWN keine Kampfsteps gemacht (sollte dann so aussehen wie jetzt zusammen mit SHIFT)
+* |U-0399| Figurenbewegung: Hat Mensch oder Gobbo Schleichen-Talent, dann wird fälschlicherweise immer die Sneak-Pose gespielt während man mit der Waffe ausholt.
+* |U-0355| Tagesablauf funzt nicht
+* |U-0272| Tagesablauf: AI_Stray() funktioniert nicht: Die Figur bleibt einfach auf der Stelle stehen.
+* |U-0400| Wenn eine Nahkampfwaffe aktiv und ein Gegner in Reichweite ist, muß automatisch in den "Walkmodus mit Waffe" gewechselt werden (Sobald der Kameramodus auf Nahkampf geschaltet wird). siehe Konzept.
+* |U-0411| SC-Drehung beim Autoaiming im Nahkampf ist viel zu langsam.
+		   -> Drehgeschwindigkeit 150 Grad / sec -> wird später per Skript einstellbar sein
+* |U-0410| NSCs, die sich zum Spieler ausrichten (Gobbos im Kampf, angesprochener Lehrer...) drehen sich zu langsam + TURN-Ani 
+
+Phoenix V.0796
+***************
+* Skripte : "Neue Text.d"
+* AI : SENSE_SMELL / SENSE_SEE Verwechselung gefixed
+* |B-0065/U-0184| Spacer-Waypoints: Linien dürfen durch Wände hindurch NICHT sichtbar sein, sonst wird es bei 30 Waypoints oder so wirklich unübersichtlich.
++ Wegnetzstrecken können jetzt Eigenschaften zugeordnet werden ( derzeit : JUMP, CLIMB )
++ AI : Obstacle Avoidance ( noch nicht 100% )
++ dyn. Generierung von "Kletter-Waypoints"
++ Schwimmen / Tauchen
+
+Phoenix V.0795d
+***************
+* |U-0442| Figuren-Übernehmen mit POS1 und ENDE: Alle Debug-Anzeigen (z.B. Animationsanzeige) müssen auch bei übernommenen Figuren abschaltbar sein (Video-Erstellung!)
+           -> AI-Info kann jetzt mit EINFG an- und ausgeschaltet werden.
+		   -> Kamera ist jetzt die AI-Camera
+* |U-0432| Fogrange: wie funzt die? Scheint nicht den Beginn des Foggings anzugeben (Wäre es nicht sinnvoll, den Beginn des Foggings anzugeben, wobei die maximale "Fog-Dichte" immer der Clipping-Grenze entspricht?)
+		   -> Über die Fogrange wird jetzt der Beginn des Foggings geregelt (NEARZ)
+		      Das Ende des Foggings (FARZ) ist immer gleich der ClipRange
+
+Phoenix V.0795c
+***************
+* Fackel-PPF Bug gefixed
+
+Phoenix V.0795b
+***************
++ ZenGin 0.65b
+* Anzeige Player-LightRange
+* |U-0393| Skript: "AI_PlayAni()" muß von anderen Animationen korrekt overridet werden. 
+
+Phoenix V.0795
+***************
++ ZenGin 0.65
++ Inventory
++ Fackel - Logik
++ Neue Kommandozeilenparameter : 
+	- SKIPANIDETECT
+	- CAMLIGHTRANGE
+	- LIGHTRANGE hat jetzt andere Bedeutung ( siehe keys.txt )
++ Neue Intern-Skripte
+* Taste "I" erzeugt jetzt Fackel
+* |U-0413| Spieler zurücksetzen mit ENTF bzw. Spielerposition Laden/Speichern: Das muß _immer_ funzen. Sobald der Spieler durch eine ungewollte Kollision in einer Wand, einem NSC oder Objekt festhängt und sich nicht mehr bewegen kann, funktioniert das Zurücksetzen des Spielers auch nicht mehr :(((
+* |U-0394| Animationen: Drehung auf der Stelle ist viel zu langsam
+* |U-0273| SC-Lichtquelle darf nicht auf der Kamera, sondern muß auf der SC-Figur liegen.
+
+Phoenix V.0794c
+***************
+* Fireball - Fix
+* Fogging - Fix
+
+Phoenix V.0794
+**************
++ verbesserter Focus
++ Feuerball
+* |U-0388| Truhen-Inventory: Schmiereffekt ist dort immer noch. Außerdem gibt es eine Access-Violation, wenn mann das Inventory der BowGuard ausplündern will.
+* |U-0389| Fogging-Range mit Tasten 7/8 gibt verrückte Zahlen und Effekte (brauchen wir um gute Werte zu ermitteln)
+* |U-0396| Nahkampf: Autoheading sollte auf 40° eingestellt werden (ist auf 15°)
+* |U-0398| Ansprechen: ...von NSCs macht gleichzeitig einen Schritt nach vorne
+* |U-0395| AI: SC-Angriff auf SwordGuard -> BowGuard schießt aus versehen auf SwordGuard -> SwordGuard wendet sich von SC ab und tötet BowGuard -> SwordGuard bleibt über getöteter BowGuard stehen und reagiert auf nichts mehr. Weder ein in den Blickwinkel laufen des SCs noch ein Angriff läßt SwordGuard aus seiner Starre erwachen
+			- NSC greifen sich erstmal nicht mehr untereinander an.
+* |U-0390| Ranges, um Animationen auszuschalten, bzw. NSC-Physik wie runterfallen usw. sollte wohl besser an Farclipping gekoppelt und nicht stumpf reingehackt sein. Man kann unanimierte Figuren, die in der Luft hängen, sehen und abschießen, wenn man am Farclipping herumspielt. Abgeschossene NSCs fallen erst dann tot um, wenn man näher kommt.
+* |U-0353| Lensflares/Coronas funzen nicht (stürtzt beim Level-Laden ab, im Spacer wird dasselbe Level korrekt geladen und die Lensflares/Coronas korrekt angezeigt)
+		   -> Quickfix 
+* |U-0370| Magie-Lichtzauber: Das Licht sollte dem Spieler mit einer Trägheit folgen (Carsten hat dazu schon etwas programmiert)
+
+Phoenix V.0793
+**************
++ ZenGin 0.64
++ neue Intern-Skripte :	- BuildIn : AI_TakeWeapon	     -> Waffe wird aufgenommen und sofort aktiviert
+						-			"C_Item self_weapon" -> Die Waffe des aktuellen NSCs
++ AI : Gobbo kann jetzt bessere Waffe aufnehmen
++ Partikelsystem im Kampf eingebaut ( Treffer im Nah- und Fernkampf )
+
+* |U-0383| SC tot: Wenn SC tot ist, kann er gedreht werden (wie damals bei "s_Hang" und bei "Fallen/FallenB")
+* |U-0384| Kamera: CamModRanged wird nach CTRL-Loslassen nicht wieder zu CamModNormal
+* |U-0348| FPS-Anzeige standardmäßig aus!
+* |U-0348b| Hilfefenster defaultmäßig ein
+* |U-0349| Lernen: Kaufen kostet keine XP mehr
+* |U-0347| Sämtliche Desktop-Grafiken (Pöppel, Hilfefenster,...) NICHT transparent machen
+* |U-0357| Fontfarbe für Fokus von Textfarbe abheben (z.B. rot)
+* |U-0360| Werfen: Shortcut um werfbaren Gegenstand zu erzeugen (so wie früher "I" für den Apfel)
+* |U-0361| Werfen/Ansprechen: Kein Ansprechen mit werfbarem Item in der rechten Hand
+* |U-0356| Textfenster nach ca. 20 sec eine Zeile weiterscrollen (sonst bleibt die Ganze Demo über der Ausruf des ersten Wächsters "INTRUDER!!!" auf dem Bildschirm stehen)
+* |U-0358| Inventory: Drehung der selektierten Objekte: Alte Frames werden nicht gelöscht -> Schmiereffekt
+* |U-0354| Farclipping-Fogging-Reichweiten unterscheiden sich zu sehr -> getrennte Kommandozeilenparameter für Farclipping und Fogging wären ideal um feinzutunen
+			-> Parameter siehe "Keys.txt"
+* |U-0354b| Getrennte Regler für Farclipping/Fogging/SC-Light
+			-> Tasten siehe "Keys.txt"
+* |U-0378| Kampf: Ist der SC durch einen Treffer zu Boden gefallen und bleibt liegen, schlägt/schießt der NSC lustig weiter, obwohl er den SC garnicht mehr trifft.
+* |U-0381| Fernkampf/NSC-AI: Wache schießt seinem Kollegen in den Rücken. Vor dem Schießen sollte geprüft werden ob etwas/jemand im Weg steht. Ist zwar durch die Bewegung der Ziele nicht immer gewährleistet, aber besser als ganz ohne Prüfung.
+* |U-0343| NSC-AI: NSCs, die in den Abgrund gefallen sind und auf der Nase liegen (oder auf dem Hintern) stehen von alleine nicht mehr auf.
+* |U-0345| SC tot: NSCs schlagen auch auf toten SC noch pausenlos ein (sind sie mit Bogen bewaffnet schießen sie über den toten SC hinweg)
+* |U-0363| NSC-AI: Wenn NSC auf den toten Spieler einschlägt, dann wird dieser heftig animiert (t_fallB?)
+* |U-0359| NSC-AI: keine Reaktion auf SC-Angriff mit Bogen oder Feuerball
+* |U-0376| Fernkampf: Bogen-Autoaiming funktioniert noch nicht so richtig: Reichweite des Bogenfokus ist zu gering, trotz Erfassung stehender Ziele wird öfter vorbeigeschossen
+* |U-0382| Fernkampf/NSC-AI: Wenn der Spieler etwas weiter entfernt ist, gehen alle Pfeiel des NSC daneben. Er sollte lieber etwas gezielter schießen, dafür aber nicht nonstop ohne sich zu bewegen
+
+! Feuerball stürzt mal wieder ab. AAAARGH !!!
+
+
+Phoenix V.0792
+************** 
+* |U-0319| Lernen: Talent Schwertkunst I wird trotz lernen nicht aktiv (Schleichen dagegen klappt)
+* |U-0321| Lernen: mehr als fünf Lernpakete erzeugen beim Aufruf der Lernbox eine "Access Violation"
+* |U-0326| einzelner Gobbo im ersten Raum sollte zur Gobbohöhle laufen (AI_GotoWP), dreht aber am ersten gefundenen Waypoint dorthin endlose Runden
+* |U-0330| Lernenbox stützt mit Access-Violation wieder ab (auch mit 5 Lernpaketen)
+* |U-0333| Feuerball wächst nicht
+* |U-0317| Inventory entweder wieder wie vorher oder fertig umbauen (Vergrößerung der Items weglassen!)
+* |U-0335| Feuerball-Symbol auf Hand bleibt im Level stehen, wenn man den Magiemodus ausschaltet
+* |U-0334| Feuerball kann durch kurzes CTRL ohne MP kosten abgeschossen werden und verursacht dann auch keinen Schaden
+* |U-0327| Level-Reset: Wachen haben danach keine Waffen mehr und sind noch in der Kampfbereitschaftsstellung
+* |U-0325| Lichtzauber: Decal bleibt im Level stehen wenn mit 1-4 die Figur gewechselt wird. Der eigentliche Lichteffekt bleibt allerdings an der neuen Figur kleben (beides sollte beim Figurenwechsel/Levelreset weg)
+* |U-0324| SC tot (ich habe die beiden Wachen angegriffen) -> SHIFT 1 -> neue Figur hat noch Schwert gezogen und keine LP mehr
+* |U-0289| Für die Final-Demo2: Start-SC-Instanz: Demo2_Fighter
+* Magie-Symbol in Hand kleiner
++ Neuer Kommandozeilenparamter : -PLAYER:x 
+  Wobei mit x ( eine Zahl von 1 - 4 ) die Playerinstanz beim Start ausgewählt wird :
+    1 - Demo2_Fighter (Default)
+	2 - Demo2_Thief
+	3 - Demo2_Mage
+	4 - Demo2_Novice
+
+Phoenix V.0791
+************** 
++ ZenGin 0.63j
+* |U-0292| Magie-Symbole in Auswahlkranz und in Handslot
+* |U-0291| Feuerball stürzt ab
+* |U-0313| Turning: Es werden keine Anis mehr abgespielt wenn die Figur auf der Stelle dreht
+* |U-0296| Gegenstände werden noch durch Wände hindurch erkannt
+* |U-0297| Aufhebe-Focus zeigt Objekte nicht, die dicht beim Spieler liegen.
+* |U-0298| Aufhebe-Reichweite sollte so klein sein, daß der Spieler nicht AI-gesteuert zum Item laufen muß bevor er es aufhebt.
+* |U-0293| CamModRanged wird jetzt überhaupt nicht mehr eingeschaltet
+
++ Lichtspruch
++ Levelreset mit SHIFT + gewünschte Figur ( 1-4 )
+
+Phoenix V.0789
+************** 
++ Neuer Splash-Screen
++ Lernen
+* regeltechnische Falltiefen geändert ( 3,5 m, 6,5 m... )
+* CamModRanged nur wenn CTRL gedrückt
+* Magiesymbol in Hand
+* HumanControl-Zauber :
+	- wird nur ausgeführt, wenn Gegner im Focus
+	- Abbruch, wenn Caster Schaden erleidet.
+* Werfen - Hänger - Bug 
+! Gibt derzeit noch Probleme mit Decals -> darum laeuft der Magiemodus noch mit den Helmen
+! und ist bei den Sprüchen recht instabil
+
+Phoenix V.0788
+************** 
++ ZenGin 0.63f
++ Hoeren eingefuegt						( Sneak + Wurf )
+* Neue Kommandozeilenparamter			( siehe keys.txt )
+* Feuerball schneller, Pfeil schneller
+* Werfen / fallenlassen von Wurfitems	
+  ( Wurf-Apfel kann mit Taste "I" direkt in Hand erschaffen werden )
+* Pöppel werden nur noch angezeigt, wenn Magie/Psi vorhanden
+* Bugfixes
+
+! Inventory im Umbruch ! 
+! Achtung : ungetestete Version !
+
+Phoenix V.0787
+**************
++ ZenGin 0.63d
++ Verbesserte Bewegung der NSCs ( Wegnetze, Angriff )
+* Bugfixes
+* Kollisionsabfragen
+* Feuerball
+! Animationen neu parsen
+
+Phoenix V.0786
+**************
++ Neue Skripte / Neue Build-In-Funktionen :
+	AI_PlayAni ( "name" )	-> Spiele Animation ab.
+	Wurf-Item-Flag : ITEM_THROW -> Gegenstand kann geworfen werden
++ Fallen
+* |U-0193| Im Stand drehen und dann Losrennen: Dreht man die Figur ein wenig und will dann loslaufen, muß erst die "Auf-der-Stelle-Trampel-Anim" komplett abgespielt werden, bevor die Figur sich vorwärts bewegt -> nach drücken der Vorwärtstaste vergeht bis zu einer Sekunde, bis die Figur sich dann auch wirklich bewegt.
+* |U-0258| Unterbrechungs-Anis wie z.B. s_Stumble, s_Oops etc. sollten keine feste Follow-Ani haben, da sie aus zahlreichen Anis benutzt werden müssen. Dazu müssen wir uns ein System überlegen. Es scheint beim Gobbo u.a. ein Problem mit s_Oops zu geben. Oft läßt er sich nicht mehr bewegen nachdem s_Oops gespielt wurde. Im zSpy wird ausgegeben, daß s_Run nicht gefunden wurde obwohl diese Ani im Gobbo-MDS nicht vorkommt (Fataler Unterschied zu den Follow-Anis in Human.MDS?)
+* |U-0276/D-0066| (Alex:)Autoaiming zielt nicht mehr richtig: Entweder zu hoch oder zu tief
+* Fixes...
+
+Phoenix V.0785
+**************
++ zEngine 0.63
++ Camera-System 0.1b
++ Glide-Renderer 0.26
++ Neues Inventory
++ tote NSCs plündern
+* Gobbo-Kampf-AI verbessert
+* Gobbo-Ani-Hänger entfernt
+* |U-0266| CamModMelee wird bei Toten (die zur Zeit aber noch stehend angezeigt) eingeschaltet. Sollte nur bei lebendigen Gegner passieren. 
+* |U-0218| Getroffene NPCs erleiden jetzt zwar einen Knockback, stehen am Ende der Anim aber wieder (tot) auf den Beinen (Anim: S_RUN)
+* |U-0215| Item aufheben: Es gibt laut Konzept kein "in Hand" und "in Rucksack" mehr.
+* |U-0065| getroffener Gegner dreht sich vor dem Umfallen nicht in Fallrichtung -> Stand 27.05.: Dreht sich nach dem Getroffen werden erst langsam in die richtige Richtung und erleidet dann den Knockback (sieht nicht so toll aus) -> Besser: Die Drehung wird schneller und gleichzeitig mit der Knockback-Anim durchgeführt.
+* |U-0244| Knockback: Funktioniert der schwere Knockback mit Umfallen ? (Konzept VI.1.6.1.1)
+* |U-0245| Rutschen auf 45°-Schrägen  
+* |U-0265| Text "shoot" im Hilfefenster, wenn keine Pfeile mehr.
+* |U-0279| Gobbo: nach t_oops - Ani (speziell nach Sprüngen) hängt der Gobbo; stellenweise kann mit ENTF ein Reset ausgeführt werden
+* |U-0177| Regler für Farclipping/Fogging auf Tasten. (am besten natürlich ein gemeinsamer Regler, der Fogging immer so regelt, daß gerade eben "unsichtbar" das Farclipping stattfindet.
+		   -> Licht / FarClip / Fog - Regler auf Zehnerblock-Tasten "+" und "-" 
+* |U-0269| CamModMelee: Zähler, nachdem Gegner in Fokus kommt, dauert zu lange. Sollte etwa 0,5 Sekunden sein.
+		   -> 500ms -> über Kampfkonsole editierbar
+* |U-0277| übernommener Gobbo springt oft nach vorn gegen die Wand, obwohl er schon sehr dicht an dieser steht und man eigentlich nach oben springen wollte 
+		   (Toleranzbereich für Sprünge nach oben?) 
+		   -> Genau ! Jetzt 1 m.
+
+Phoenix V.0784
+**************
++ zEngine 0.62
++ Neue Skripte / Neue Build-In-Funktionen :
+		AI_Attack	( C_NPC enemy )		-> Greife Gegner an
+		AI_Alarm	( C_NPC enemy )		-> Alarmiere Gildengleiche NSCs ueber Feind
++ Texturekonvertieren muß jetzt mit Kommandozeilenparameter -TEXCONVERT aktiviert werden
+  (-> schnellerer Startup)
+* |U-0243| Figur sinkt immer noch in Bodenschrägen ein und hängt fest
+* |U-0208| Angelegter Bogen (gedrückte CTRL-Taste) -> Figur zittert stark
+* |U-0241| man kann immer noch auf eine schräge Wand springen und kommt von da ohne ENTF nicht mehr weg
+* |U-0125| Über Abgrund Springen und an gegenüberliegender Kante festhalten (wie Tombraider halt).
+* |U-0224| Beim direkten Waffe ziehen (SPACE nur kurz drücken und nicht festhalten) bleibt die Hand viel zu lange an der Waffe (s_1h) bevor das Schwert gezogen wird. Das Waffenziehen sollte eine fließende Bewegung sein.
+* |U-0232| Waffenziehen- und Wegstecken (Schwert, Bogen, Magie und Psi): ruckelt stark.
+* |D-0034| Rüstungsteilsystem (beim Anziehen wird mit alten Mesh überlagert, beim Ausziehen wird komplett ersetzt) 
+* |U-0268| Frame-/und Poly-Anzeige abschaltbar machen -> ALT+F
+* |U-0231| geblendete Anis tauchen nicht in der Ani-Liste auf 
+* |U-0238| nach Wechsel in Modus 'Waffenloser Kampf' ist das Mesh beim ersten Drücken von STRG kaputt 
+* |U-0254| Monster werden durch Wände hindurch vom Fokus erfaßt.
+* |U-0210| AI: Attack-Befehl für Skripte ?
+* Gobbo Anis (+Ani-Namen) ueberarbeitet, siehe Gobbo.mds
+
+Phoenix V.0783
+**************
++ Netzwerk 0.59b
++ Neue Skripte	:	caminst.d		-> CamModmagic als neue Instanz
+					externals.d		-> Neue Build In Funktionen
+					text.d			-> erweiterte Texte fuers Hilfefenster
+
+* |U-0220| Inventory-Texte "exzellent",... entfernen (Zustand von Items gibt es ja nicht mehr). Genauso das Gewicht "2 Steine" textmäßig entfernen
+* |U-0233| Inv. öffnen mit gezogenem Bogen läßt Pfeil in der Hand zurück.
+* |U-0223| Hat man für den Bogen keine Pfeile mehr, darf der Bogen mit CTRL nicht angehoben werden.
+* |U-0226| s_Hang: Die Figur kann gedreht werden während sie hängt.
+* |U-0239| extreme Schwierigkweiten, den Magiemodus wieder zu verlassen
+		   -> MDS -> Transition "t_mag_2_magrun" muß als Folgezustand "s_magrun" haben
+* |U-0203| Inventory: Links-/Rechtstasten bewirken neben Inv-Kategorie-Wechsel auch ein Drehen der Figur
+		   -> nicht festgestellt
+* |U-0158| Monsterübernahme ist noch nicht komplett ausprogrammiert.
+		   -> Rückkehr mit BACKSPACE
+* |U-0206| Bedingung für CamModMelee: Nahkampfwaffe gezogen UND Gegner im Fokus 
+		   -> Das Umschalten in den Modus geschieht immer erst nach ca.3 Sekunden um ein
+		      Wechseln des Kameramodus zu verhindern, wenn Gegner nur kurz im Fokus auftaucht.
+* |U-0206b|Bedingung für CamModRanged: Wird mit Bogen gerannt kann auf CamModRun umgeschaltet werden....
+* |U-0216| Neuer Kameramodus benötigt: CamModeMagic() -> solange Magie als "Waffe gezogen" wurde
+* |U-0207| Im Nahkampfmodus wird das F1-Hilfefenster nicht angesteuert 
+* |U-0164| AI: BuiltIn-Funktion GetComrades() -> ermittelt die Anzahl Gildengleicher NSCs in unmittelbarem Umkreis
+* |U-0165| AI: BuiltIn-Funktion GetNeighbours() -> ermittelt die Anzahl Lagergleicher NSCs in unmittelbarem Umkreis
+* |U-0213| NPC_SetToFistMode()
+* |U-0240| im Magiemodus ist nach gedrückter STRG-Taste die Beschriftung der Help-Keys auf 'Throw' angepasst - Pfeil nach oben -> Throw; Pfeil nach rechts -> into inv
+
+
+Phoenix V.0782
+**************
++ Gobbo - Test - Special - Key : ALT+G - Wechsel zwischen 1H-Modus und FIST-Modus
+* Hat jemand gemerkt, daß die Items im Inventory nicht mehr rotierten ? :)
+* |U-0204| Troll wirft Gobbo: Wenn Gobbo nicht genau passend auf Troll zuläuft...
+* |U-0209| Bogen: Autoaim funzt nicht mehr
+* |U-0190| Die Dummy-Anims werden wieder durch die Physik "abgewürgt" -> Jetzt aber :)
+* |U-0202| Während dem Waffenziehen (CTRL gedrückt) kann man sich drehen 
+* |U-0196| Anims: Dolchziehen ist laut Alex keine extra Anim (also kein T_RUN_2_DAG) sondern T_RUN_2_1H
+
+Phoenix V.0781
+**************
++ Neue Parser Build-In-Funktionen :
+			Npc_SetToFightMode(...)	-> Sofortiges Umschalten in Kampfmodus mit angegebener Waffe ( Gobbo )
+			AI_DrawWeapon()			-> Waffe ziehen
+			AI_RemoveWeapon()		-> Waffe wegstecken
++ Einstellen der Kampftalent-Stufen mit (NUMLOCK OFF) 
+			-> Zehnerblock "0"		-  Kein Kampftalent
+			-> Zehnerblock "1"		-  Kampftalent Stufe 1
+			-> Zehnerblock "2"		-  Kampftalent Stufe 2
+			-> Zehnerblock "3"		-  Kampftalent Stufe 3
+			-> Zehnerblock "4"		-  Talent "Schleichen" an/aus
++ Default Glide-GammaCorrection auf 1.0
+* |U-0022|	Texte im Hilfefenster sollten in einer Datei vorliegen und von uns editiert werden können 
+			-> Text.d -> TXT_HELP
+* |U-0146|	Demo2: Umschalten des SCs: Für die Demo2 brauchen wir noch einen Umschalter für den SC (Fighter, Thief, Mage, Novice). 
+			-> "1"	- Fighter
+			-> "2"	- Thief
+			-> "3"	- Mage
+			-> "4"	- Novice
+* |U-0191|	Umschalten zwischen Walk- und Sneak-Modus (Talentiert) wird zu Testzwecken benötigt
+* |U-0181|	Endlos-Schwertzieh-Anim. In Zusammenhang mit Inventory öffnen bei gezogener Waffe. Leider kann ich es nicht genau nachvollziehen, 
+* |U-0182|	Waffen automatisch wegstecken wenn Inventory geöffnet wird. 
+* |U-0159|	BuiltIn-Funktion DrawWeapon()
+* |U-0151|  Bogentreffer ohne compilierte Physik erzeugt eine Access-Violation
+* |U-0176|	Springen stürtzt manchmal ab
+* |U-0173|	ca. 50% aller Gamestarts stürzen beim Reinlesen der Anims-MANs ab
+* |U-0187|  Werden NSCs mit dem Bogen erlegt, fallen sie oft nicht um, sondern bleiben atmend stehen.
+* |U-0147|  Demo2: Die Kameramodi sollten noch durch Spielsituationen umgeschaltet werden. 
+* |U-0065|  getroffener Gegner dreht sich vor dem Umfallen nicht in Fallrichtung 
+
+
+Phoenix V.078
+**************
++ zEngine 0.61
++ Kämpfen kann immer mit "BACKSPACE" beim letzten mit "N" erzeugten NSC-Fighter aktiviert werden.
+* Kampfsystem : Parade aktiviert
+* |U-0055| 1h-Kampf: Wenn nach einem Schlag die ACTION-Taste gedrückt bleibt, dann ist die Pose 1h-AIM nicht korrekt (anders als 1h-Aim vor dem Zuschlagen, die auch nicht korrekt ist, da das Schwert zu wenig angehoben ist)
+* |U-0162/C-0017| Wenn die Figur "gebeamt" wird, muß die Camera mitgebeamt werden
+* |U-0188| Default-Kamera sollte Carstens Kamerasystem sein. "Besenstiel"-Kamera optional umschaltbar.
+* |U-0190| Die Dummy-Anims werden wieder durch die Physik "abgewürgt" (z.B. Exercise-Anim) 
+* |U-0178| "...ist abgenibbelt...": ALT+D sollte alle Nicht-Spiel-Kommentare ausblenden.
+* Das Laden der MaterialBibliothek muß jetzt explizit mit dem 
+  Kommandozeilenparameter "-MAT" angegeben werden.
+
+Phoenix V.0779
+**************
++ zEngine 0.60
++ Camera-System 0.09
++ Neue Intern Skripte ( Ergaenzungen in C_NPC )
+
+Phoenix V.0778
+**************
++ Neues Bewegungssystem nach MDS-Graphen 0.55 ( noch nicht 100 % )
+  -> Sprünge funktionieren noch nicht richtig.
++ Neue Intern Skripte ( Talente, Ergaenzungen in C_NPC )
+* Wegnetz mit ALT+W ein- und ausschaltbar
+* Taste "O" zum schnellen Übernehmen des Monsers im Focus
+* |U-0157/C-0018| Inventory-Öffnen auf Voodoo 2 erzeugt einen Freeze
+* |U-0160| CamSys: Eingabe von "bestElevation=45" erzeugt einen Hänger/Freeze 
+* |U-0161| Wie kann ich das Wegnetz ausblenden ? ( ALT + W )
+* |U-0171| Der blaue Konsolenbalken von Carstens Kamerasystem geht nach einmaliger Parametereingabe nicht mehr weg.
+* |U-0172| "noclip=1" muß bei Gamestart in die Kamerakonsole eingehackt werden
+
+Phoenix V.0777
+**************
++ Camera-System 0.09
+
+Phoenix V.0776
+**************
++ Camera-System 0.08
+* Beim Start automatische Texture-Konvertierung (TGA->3dfx)
+
+Phoenix V.0775
+**************
++ zEngine 0.59
++ zNet 0.56	( Bert )
++ Taste "^" - Toggeln zwischen Full- und Windowed-Mode ( für NT ).
++ Taste "N"			erzeugt einen "Demo2_Fighter"
+			+ SHIFT erzeugt einen "Gobbo"
+			+ ALT	erzeugt einen "Troll"
+			+ STRG	erzeugt einen "Demo2_Mage"
+* Klasse "C_VOB" aus den Intern-Skripten entfernt
+* Check, ob benutztes Pseudo-DAT-File kompatibel zu aktueller Version ist.
+  -> automatischer Reparse
+
+Phoenix V.0773
+**************
++ zEngine 0.58
++ Grade 98.114 -> die ALT-Taste verursacht keinen Focusverlust mehr !
++ Material-Bib wieder aktiviert
++ Glide-Renderer 0.19
++ Gamma-Correction		( Tasten "/" und "*" auf Zehnerblock )
++ Resolution-Wechsel	( ENTER auf Zehnerblock )
++ Compilen : C			: Compile Level mit BSP-Qualität 1
+			 C + SHIFT	: Compile Level mit BSP-Qualität 0.2	( Quick-Compile )
+* (U-0129) Waypointnetz (Helpervobs + Verbindungslinien) ist im Spiel sichtbar
+* (U-0131) Willenspunkte nehmen ab (wie damals die Wahnsinnspunkte). Müssen zunehmen, wie auch Lebens- und Magiepunkte.
+* (U-0134) Psi-Zauber verbraucht Mana statt Willenspunkte
+* (U-0127) Fallhöhe höher. Bis 1m Höhenunterschied nach unten weiterrennen, 
+* (U-0057) INV: Cursorposition und Kategorie im INV wird nicht beibehalten wenn man INV schließt und wieder öffnet.
+* (U-0105) Springen: SC sollte so lange an Kante hängen (s_Hang), bis man nochmals CURSOR UP drückt. Erst dann zieht er sich nach oben.
+* (U-0120) Klettern-Tasturbelegung wie im Konzept (nicht über Taste "X")
+* (U-0138) Wenn der SC über manche Kanten vorwärts bzw. vor allem rückwärts geht/rennt --> er fallt, kollidiert beim Fallen mit der Kante und wird dann oft 10 Meter weitergebeamt.
+* (U-0137) Food steigert über die Max-LP hinaus
+- Dialog-Modus ist ausgeschaltet ( Sorry Stefan, muss aber sein :)
+! Beim Start befindet sich das Programm wieder im "uncompiled"-Modus. 
+  Damit alles klappt, wieder von Hand compilen !
+
+Phoenix V.0772
+**************
++ zEngine 0.57b
++ Code fürs Netzwerk eingefügt -> Bert ( Kommandozeile -NET )
++ Wegnetze werden ins PPF geschrieben
++ Oops - Ani ins MDS eingefügt
++ Neu in den Skripten : 
+  C_NPC :	bodymass		-> Körpermasse
+			range			-> Armreichweite
+  C_ITEM;	range			-> Klingenreichweite bei Nahkampfwaffen
++ STRG + 9 : Message-Window fürs Camera-System ein / ausschalten 
+* (U-0092) Auswählen der Waffenkategorie (Nahkampf, Fernkampf, Magie, Psi): Auswählen von Psi bringt den SC in den "Ewig-Psi-Mode"
+* (U-0096) Kontrolle von Menschen: ist ein Psi-Spruch (liegt noch bei den normalen Zaubern)
+* (U-0099) Zauberbereitschaft: Soll der Zauber gewechselt werden, so muß dies zur Zeit über die Rückkehr in den Normalmodus 
+* (U-0095) Konstantenbenennung: SPL_FIREBALL statt SPL_FIREBAL, SPL_DEAMON statt SPL_DAEMON
+* (U-0094) Auswählen der Waffenkategorie: Wird nur eine Fernkampfwaffe equipped, so sollten die Fäuste die Nahkampfwaffe sein
+* (U-0087) Springen-Anims, die Kollidieren müssen sofort abgebrochen werden
+* (U-0102) Fernkampf-Armbrust: Armbrust wird zu Pfeil, der beim Abschießen nach oben fliegt
+* (U-0106) Bogenschießen: (keine Gravitation für PFeile/Bolzen)
+* (U-0084) Fehlerhaftes Ausschalten der SC-Wand-Kollision.
+* (U-0109) Kollision von SC mit Hindernis (Wand): Sc muß stehenbleiben, wenn er gegen eine Wand läuft. Bei der Kollision sollte eine "Oops-Anim" benutzt werden. 
+* (U-0104) Automatisches Waffenwegstecken vor Inventory
+* (U-0108) NSCs die von Pfeilen getroffen werden verschwinden in Wänden wenn sie zurückweichen oder umfallen.
+* (U-0101) Nahkampf: Faustkampf trifft nicht
+* (U-0090) Feuerball: beim Aufladen befindet sich das Mesh bereits zwischen den zaubernden Händen
+* (U-0056) Automatisches Waffenwegstecken wenn INV im Kampfmodus geöffnet wird
+* (U-0100) Nahkampf: Neues Reichweitensystem (mit Armlänge und Waffenlänge aus Skript)
+* (U-0083) Kamerakonsolentextfenster nicht laenger transparent
+* (U-0085) Ablegen: Gegenstand ist aus Inventory weg. Keine Ablege-Anim, Gegenstand liegt nicht auf dem Boden.
+* (U-0097) Kontrolle von Menschen: Kamera-Target auf Opfer wechseln
+* (U-0086) Nahkampf: Automatisches Hindrehen zum Gegner innerhalb +-20° fehlt 
+* (U-0091) Feuerball: Muß auch bei Kollision mit Wand zerplatzen. 
+* (U-0082) Spieler wird durch am Boden liegende Pfeile oder auch durch das grüne StartVOB beim Gehen/Rennen/Drehen/Springen manchmal blockiert -> SC hängt
+* (U-0107) Pfeile sollten je nach Material des Ziels steckenbleiben oder beim Aufprall daran zerbröseln statt abzuprallen. Es dürfen keine intakten Pfeile in der Welt herumliegen.
+* (U-0123) Nahkampf: Hieb mit 1H-Schwert von der Seite: SC bleibt nicht 90° gedreht stehen. Seltsamer Weise ist das nicht immer so. 
+* (U-0072) Magie "ziehen" -> erneutes Spruch wechseln mit SPACE -> keine Zaubericons
+
+Phoenix V.0771
+**************
+* Physik wird bei Dummy-Anis ausgeschaltet
+
+Phoenix V.077
+**************
++ zEngine 0.55
++ Kampfsystem : (Fake) Auto-Aiming, Distanzen, Treffen
++ Treffer / Schadenspunkte System laut Konzept 1.34
++ legendäres Pöppelsystem eingeführt :)
++ Kampfsystem-Konsole mit ALT+K aufrufbar -> Danach Werte ändern mit Taste "K"
++ Regeneration LP,MANA,SANITY
++ Magie - Grundsystem ( Auswahl Sprüche )
++ Überwindungs und Aufladezauber ( Kontrolle von Menschen + Feuerball )
++ Kamerasystem von Carsten eingebaut :
+  STRG + 1 - 7	: Aktiviert einen vorgefertigten Kameramodus aus den Skripten
+  STRG + 8		: Schaltet Kamerasystem-Konsole ein
++ Physik - Unterstützung 
++ Klettern / Schwimmen moeglich ( Achtung : Klettern derzeit mit Taste "X" )
++ Skript - NSC (NSC_001) kann mit Taste "N" erschaffen werden ( zwecks verhauen ).
+* Faustkampfsystembugs entfernt
+* angepasste Skripte : _INTERN, TEXT.D
+- Diese Version lädt derzeit keine MaterialBib
+! Alte Kameramodis (F5-F8) immer noch funktionsfähig ( für'n Animator )
+! Beim Start wird automatisch die Welt compiled ( Quickcompile ), darum bitte nur
+  geeignete Levels verwenden ( z.B. "testlevel.3ds" )
+! Known Bug : Irgendwann funktioniert die Model <-> Statische Welt-Kollision nicht mehr !?
+
+Phoenix V.075
+**************
++ zEngine 0.53
++ Animationssystem	( Nahkampfwaffen  )
++ Talente angepasst ( incl. Skripte ! )
+* Special - Alex - Key :) ALT + P 
+  senkt die Prozessor-Auslastung von Phoenix, so dass auch andere Programme gleichzeitig 
+  laufen koennen.
+* (U-0042) Waffe gezogen, dann SPACE drücken und gedrückt halten...
+* (U-0046) Text der Anim-Anzeige ist kaum lesbar, weil gerastert (gepixelt)
+* (U-0048) Defaultbewegung im Normalmodus soll RUN sein, nur in den Kampfmodi ist es WALK.
+* (U-0049) Schild ziehen funzt nicht mehr
+* Dummy - Anis wieder über F9 - F12 abspielbar
+! Im Kampfmodus kann mit Taste "D" die Distanz zum (imaginären) Gegner eingestellt werden, 
+  um so Schläge zu testen, die von der Entfernung abhängen (default = Nahkampf).
+
+Phoenix V.074
+**************
++ zEngine 0.51
++ Waypoint-System implementiert
++ Pfadsuch-Algo Dyjkstra ( + Beam-Search ) 
++ ALT + M = zSpy.Messages an / aus.
++ Zu Beginn "normaler" Screen anstelle des 3dfx-Screens aktiv
++ Bei Fehlern wird automatisch der 3dfx-Screen weggeschaltet
+* Fixed Skin-Handling der NSCs
+* Neue Animator-Anzeige uebernommen
+* PPF-Speicher Bug gefunden und vernichtet
+* Erste Umstellung auf neues Ani-System : 
+  normale Bewegung / Kampfmodus auswählen / 1H - Kampftest
+- Eingeschränkte Spielerbewegung : 
+  derzeit keine Manipulation von Objekten in der 3D-Welt (aufheben / schieben etc.)
+
+Phoenix V.0733
+**************
++ Debug Infos an/aus : ALT + D
++ Textfenster an/aus : ALT + T
++ Ani-Tester-Info jetzt in jeder Version zuschaltbar ( ALT + A ). 
+  Die Funktionen ( F4 - F12 ) funktionieren jederzeit.
+* Aufheben / Ablegen - Ani - Problem gefixed.
+
+Phoenix V.0732
+**************
++ zEngine 0.50b
++ Glide 0.13b
+
+Phoenix V.0731
+**************
++ zEngine 0.50
++ Glide 0.13
+* PPF-Loader angepasst
+
+Phoenix V0.73
+**************
++ zEngine 0.49
++ Verzeichnisreform
+* Neue/geänderte Parserfunktionen :
+	Hlp_SetBit, Hlp_HasBit, Hlp_ClrBit
+	Mis_OfferMission, Mis_PlayerIsOnMission, Mis_CancelMission
+	Mis_PlayerHasCompleted, Mis_PlayerHasFailed
+* Mesh-Kombinierbarkeit
+
+Phoenix V.072
+*************
++ zEngine 0.47
+* Texturen bei den Inventory-Gegenständen wieder an.
+* Lichtstärke auf 1000
+* Einbindung der Mesh-Kombinierbarkeit in Skriptsprache
+  Neue intern-Skripte ( siehe C_NPC )
+
+Phoenix V0.711
+**************
++ Ani-Set zum einfachen Schlagen mit STRG + PFHOCH im Kampfmodus
+  ("1h_hit","2h_hit","bow_hit","crossbow_hit","fist_hit")
+- Texturen bei den Inventory-Gegenständen kurzzeitig abgeschaltet 
+  ( Probleme beim Software-Renderer )
+
+Phoenix V0.71
+*************
+* Bugs beim Waffen ziehen beseitigt.
+* Rüstung wechseln klappt, sofern Playermesh = "Mesh_Guard"
+! Hint : falls Spieler in First-Person-View in schmalen Gängen hängen bleibt, kurz "Y" druecken.
+
+Phoenix V0.7
+************
+* Inventory Anzeige - Multislots
+* Quickfix : Schriftbug (?) unter Glide umgangen
+* Quickfix : Item ablegen / aufnehmen funktioniert
+* Fixed Darstellung der Waffenziehanimation (Schild+1H-Schwert+Bogen)
+* Fixed "First-Person-Mode + BSP-Tree ist auf 0-Höhe"
+* Mesh-Wechsel ( Helm, Koerper ) funktioniert jetzt
+* Lichtdaten speichern / laden funktioniert
++ Glide v0.1 eingebunden
++ zEngine v0.46 eingebunden
+
+Phoenix V0.69
+*************
++ zEngine 0.45 eingebunden
++ Splash Screen implementiert ( Thanx, Carsten ).
++ Tasten zum Aufrufen / Speicherung der Lichtdaten :
+	Shift + L	- Licht berechnen ( jetzt nicht mehr Standard beim Laden des Levels ! )
+	S			- Speichern der Lichtdaten
+	L			- Laden der Lichtdaten
++ neuer Kommandozeilenparameter : -LoadLight
+  Lädt automatisch beim Start das entsprechende Licht-Info-File.
++ Taste "ENTF" um die Spielerposition zu resetten
++ Glide kann jetzt Transarenz
++ Neue Build In : 
+    EquipItem (npc, item) -> Die Slots des NSC-Meshes werden mit den angegebenen Gegenstand 
+	belegt. Am besten in der NSC-Instanz aufrufen ( siehe auch Bsp. Skript NPC_001.D )
+
+* Item ablegen noch etwas verbessert, manche Gegenstaende schweben aber noch ! 
+  Geht derzeit leider nicht besser. ( oder Meshes umstellen... )
+
+- Laden und Speichern von ppf-Files zur Laufzeit entfernt ( Tasten "S" + "L" )
+
+
+! Die Lichtfunktionen funktionieren nur, wenn sie vor dem Compilen des Levels benutzt werden
+! Wichtig : Alle alten 3dfx-Texturen loeschen
+
+
+Phoenix V0.68
+*************
++ zEngine 0.44 eingebunden
++ Inventory - Kameraplazierung / Rotation / neue Grafik etc.
+* Musik wird später gestartet
+* Anis : Item ablegen / aufheben
+! Item ablegen noch nicht ganz fertig ( Items erscheinen unter dem Boden )
+* ESC-Bug entfernt
+* Fake - Camera - System Bug gefixed
+* Text im Textfenster wird nicht mehr rechts abgeschnitten
+* Fake-Physik funktioniert wieder
+* verbesserte Focus-Funktion ( geht vom Spieler aus )
+
+Phoenix V0.67
+*************
++ Music - Support : 
+  Über Kommandozeilenparameter -MUSIC:xxxxxxxx.xxx kann ein Musikfile angegeben werden, 
+  daß von Galaxy unterstuetzt wird ( z.B. MOD, AM etc. ). Wird automatisch gestartet und 
+  gelooped ( Max. 500 KB ! ).
++ Lichtstaerke des Spielers über Tasten "+" und "-" ( Zehnerblock) einstellbar.
++ Animationsset ("fist_") fuer Spielerfigur hinzugefuegt
+* Hilfs-Objekte ( Kameras, Lichter, etc.) werden nicht mehr angezeigt.
+* Fixed transparente Texturen Bug.
+* Compile funktioniert.
+* LP / Mana / Wahnsinn - Balken
+* Font Spaces vergrößert
+* einige Gegenstand rüsten / wegstecken Ani-Bugs entfernt
+
+Phoenix V0.66
+*************
++ User-Interface
++ Materialbibliothek eingebunden
+
+Phoenix V0.651
+**************
++ zEngine 0.43 eingebunden
+
+Phoenix V.065
+*************
++ zEngine 0.42 eingebunden
++ Animator : Ani-Files (MDS + ASC) werden jetzt aus "data\anis\humans\" geladen.
+

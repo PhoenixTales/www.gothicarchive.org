@@ -1,0 +1,1798 @@
+cChanges.txt
+****************************
+Carsten Edenfeld
+chase@rumburakhq.ping.de
+****************************
+
+Revision History:
+*****************
+
+  ! Note
+  * Change/Fix
+  + Added feature
+  - Removed feature
+
+Version 1.00 06.12.2000
+-----------------------
+
+- Bugfixes siehe Testtracker
+
+
+Version 0.99 22.11.2000
+-----------------------
+
+- Magie: Bugfixing/Cosmetic
+- Files rausgeschmissen: zCpuSpecs*.*
+- globale Keybindings Methoden in zCInput verlegt
+- zCCSCamera: neues Flag: autoCamUntriggerOnLastKeyDelay, siehe Bugeintrag FR #2706
+
+Version 0.98 08.11.2000
+-----------------------
+
+- Magie: 
+	- Testing/Korrektur des OnDamage/Magieeffekt Interfaces. Stumble Anis, Victim Anis und Hit Anis werden jetzt alle in oCNpc::OnDamage() getriggert
+	- oCVisualFX Klasse: RefCtr Überarbeitung Part I -> Keine Crashes mehr im Zusammenhang mit aktiviertem Sound
+	- Spell Damage Types sind jetzt kombinierbar
+	- Interface Änderung: Investiert wird mit CTRL-UP, CTRL only visiert die gültigen Ziele an, CTRL-Left/Right toggelt durch die gültigen Ziele
+	- Neuer Fokus Mode Focus_Magic in der focus.d
+
+	- Bugfixing/Cosmetic
+
+
+Version 0.97 26.10.2000
+-----------------------
+- Magie:
+	- Skripting/Bugfixing
+	- neue Spells:  FIREBOLT, FIRESTORM, FIRERAIN, SPEED, TELEPORT, TRANSFORM [MONSTER], CHAINLIGHTNING, THUNDERBOLT, THUNDERBALL, ICECUBE, 
+					ICEWAVE,  SUMMONGOLEM, ARMYOFDARKNESS, STORMFIST,  TELEKINESIS2,  BREATHOFDEATH, SHRINK, UNDRESS,  DANCE, BERZERK
+					
+	- Damagetype Fire implementiert
+	- neues OnDamage Interface von Roman benutzt
+	- Skript Auslagerung von Art, Anzahl, Reichweite und Suchwinkel für einzusammelnde Targets in die Spell_params.d
+	- diverse Verbesserungen an der Visualisierungs Klasse (siehe Testtrack)
+	
+					
+- Soundsystem:
+	- Threadsafe!
+	- Consolen Kommando "ZTOGGLE SHOWSOUNDS" gibt alle Sounds mit Speicherbedarf und Typ auf dem Screen aus
+	- Performance & Speicheroptimierungen
+	- grössere Säuberung/Wartung
+ 	
+
+
+Version 0.96 11.10.2000
+-----------------------
+
+- Magie Skripting/Bugfixing: "Übergabe" der Logik-Magieskripte an Clemens.
+- Cutscene Camera: Bugfixing
+	- neues Feature: Pro Keyframe einstellbarer Timescale Faktor inkl. getrenntem MotionType
+	  damit lassen sich Camerafahrten wie im Film "Matrix" erstellen, d.h. die Zeit kann beschleunigt/verlangsamt werden
+	  (dies betrifft eigentlich alle Systeme, d.h. Zeitlupe etc. fürs gesamte Game sollte möglich sein)
+
+
+
+Version 0.95 4.10.2000
+----------------------
+
+Magie:	
+	- Alle Magiesprüche sind laut Konzept umgesetzt. Es fehlen noch vernünftige Visualisierungen, Game Balancing und
+	  Bugfixes (Testtracker, und noch unbekannte). Auch noch nötig: Implementierung des OrcShaman Feuerballs
+	  Zusätzlich zum Konzept: Fear Spruch
+
+oCVisualFX Klasse:
+
+	- neue "Visualtypen": 
+		-Camera Tremor Effekt
+		-Polystrip Effekte für Blitze und Trails
+		-Screen Blend Effekt
+	- neue Parameter:
+		-sendAssessMagic: sendet ein AssessMagic an den getroffenen NPC, z.B. Humanburn Effekt
+		-secsPerDamage:	  zieht alle x Sec Y Hitpoints ab. (-1: kein Abzug von Hitpoints)
+		-userString[]:	  für einige Visuals gesonderte Bedeutung (besser als 1000 neue Variablen)
+		
+
+	- neue Files oCVisualFX_MultiTarget. (Für Sprüche die mehrere Targets vor dem Casten "einsammeln")
+	  Möglich ist damit, für jedes Target eine getrennte oCVisualFX Instanz anzugeben (wird im Moment nur für Massdeath benutzt)
+
+oCNpc Klasse:
+	- Es kann nur jeweils ein Effekt der mit einem Zustand gekoppelt ist auf einem NPC abgespielt werden. 
+	  D.h. z.B.: ein laufender Humanburn Effekt wird durch ein Zapped Effekt ausgetauscht, und der alte Zustand
+	  ZS_Burn wird durch ein ZS_Zapped ersetzt. 
+	 
+zCSndFX_MSS:
+	- Ein Sound wird jetzt auch als noch aktiv zurückgemeldet, wenn er gerade aus der Hörweite ist. Vermeidet
+	  in Cutscenes das Abbrechen von Sounds, wenn die Camera kurzzeitig die Scene verlässt. (Bekanntes Intro Cutscene Problem)
+	- Performance Optimierung: Ein Sound der mit Lautstärke NULL wird nicht angespielt (betrifft nosound.wav und sehr weit entfernte
+	  Sounds die aber trotzdem getriggert werden). Hat auch positiven Einfluss auf die Polyphonie (->Geier Prob?)
+
+
+
+(vor 0.95):	   
+
+zCAICamera (in game Camera AI):
+	- Rotationen des Targets werden über einen Quaternion Ringbuffer gemittelt. Behebt Ruckeln der Camera
+	  für den Fall, das die Rotationen des Target NPCs aus der Ani genommen werden ("R" Flag im MDS).
+	- leichte AI Pipeline Verbesserungen. Damit die Camera bei Rechenungenauigkeiten nicht zwischen zwei Ausweich-
+	  positionen hin- und herzumpelt wird nur noch eine neue Ausweichposition genommen, wenn die Distanz zur
+ 	  Idealposition eine Verbesserung darstellt. Ist leider aber immer noch Tuningbedarf.
+
+
+Buildins:
+	- Npc_GetActiveSpellLevel(): 	gibt den aktiven Level eines gerade aktiven Spruches zurück
+	- Npc_PlayAni():		spielt eine Ani ausserhalb der AI Pipeline unmittelbar ab
+
+.
+.
+.
+
+ECTS-/Publisher- Demo Work in progress
+.
+.
+.
+
+
+
+Version 0.90 16.08.2000
+-----------------------
+
+Magie:
+
+	- Magiekranz überarbeitet
+	- Lightning Spruch überarbeitet 
+	- Bugfixing 
+
+
+Version 0.89 7.08.2000
+----------------------
+
+Magie-Spezialeffekt Klasse oCVisualFX
+
+	- Bugfixing (Div By 0 Exception)
+	- Memory Leaks behoben	(Todes Ref Counter Dröhnung, jetzt stabil)
+	- Level Übergang sicher
+	- PolyStripe Implementation (Blitz Effect, Weapon Trails, etc)
+	- Collisions Interface erweitert, jetzt keine Probs mehr -> saubere Kollision mit Level und dyn. Vobs. 
+	  Trotzdem wird durch die "nur" AABB Boxen in einigen Fällen eine Collisions Vorbestimmung/Eingrenzung durch die 
+	  Spell Logik nötig sein (z.B. bei der Windfaust)
+	- Wartungsarbeit: Abarbeitung der Spells in den einzelnen Invest Stufen jetzt einfacher/konsistenter. 
+	- unterteilt in Editor- und Basis- Sourcen (neue Files oVisualFX_Edit.*)
+	- Evaluation von neuen Editor Mechanismen (im Moment über Console gehandhabt, mit dem Spacer wäre es besser gewesen, aber die Umstellung würde
+	  zu viel Zeit auch anderer Programmierer fressen)
+	- NULL-Wrapper für Visualisierungsklasse - Visualisierungs System kann komplett disabled werden
+
+Magie Klasse oCSpell:
+
+	- an neues Human MDS angepasst: Transition Kürzel stehen in den C_Spell Skript Instanzen
+	- überarbeitetes Skript Interface
+	- alle Sprüche als Template eingebaut (CPP und Skript)
+	[DENNIS]
+	- Magiekranz <-> Inventory Interface an neues Konzept angepasst
+
+SoundSystem: 
+
+	- Ambiente Lautstärke Falloffs an die 3d sounds angepasst
+	- Bugfix: Lautstärke Verlauf korrigiert
+
+
+- Glide Renderer rausgeschmissen
+- zCTexConvert Klasse an Kurt übergeben
+- Init/-Deinit DirectX Problematik behoben Teil 72344 (wurde immer noch nicht korrekt beendet bei Programmende)
+- ZARCTEST Crash in in Game Camera AI behoben
+- Memory Profiler Anpassungen
+- Anpassungen an neue globale Projekt Header Datei zCore.h
+
+Version 0.88  20.07.2000
+------------------------
+
+* Menusystem Tuning & Bugfixes
+* Characterscreen Tuning & Bugfixes
+
+  
+  
+Version 0.87  11.07.2000
+------------------------
+
+* Glide Hänger beseitigt, allerdings gibts im Debug Mode eine Div By 0 Exception in der glide.dll
+  falls noch unbedingt mit dem Glide Renderer gearbeitet werden soll, sollte man dass "Div by 0" Exception Handling 
+  im Debug Mode ausschalten (Dieter weiss, wie das geht)
+* Menusystem Bugfixes
+* "endless Exception"-Bug gefixt
+* div by 0 Bug in der in-game Camera AI gefixt
+  
+  
+
+Version 0.86b 29.06.2000
+------------------------
+  
+* Menu System Cursor Bugfix 
+
+
+  
+Version 0.86 27.06.2000
+------------------------
+  
+* Menu System wieder reaktiviert
+* Bugfixes siehe Testtracker
+
+
+Version 0.85a 14.06.2000
+------------------------
+  
+* ExceptionHandler: Release Callbacks werden auch bei einem Fatal aufgerufen (d.h. D3D & co. werden auch bei einem zERR_FATAL korrekt deinitialisiert)
+* Cutscene Camera : Bugfix: Autocamera akzeptierte kein "autoCamFocusVobName" Parameter
++ Textur Konverter: bessere Paletten Generierung nach dem Median Cut Algorithmus
+  
+  
+Version 0.84a 10.06.2000
+------------------------
++ Consolen Befehl "GOTO CAMERA"       bewegt den Spieler zur aktuellen Camera Position
++ Consolen Befehl "GOTO POS x y z"    bewegt den Spieler zur Position (X,Y,Z)
++ Consolen Befehl "ZTOGGLE TIMEDEMO [num]"  
+	spielt einen Camerafahrt mit Namen "TIMEDEMO" oder "TIMEDEMO_num" ab, 
+	falls sie sich in der Welt befindet, und gibt die durchschnittliche FPS Rate
+	am Ende auf dem Spy aus
+
+
+Version 0.84 09.06.2000
+-----------------------
+
+* Anpassungen an Engine 0.91
+  
+
+Version 0.83 08.06.2000
+-----------------------
+* Cutscene Camera: Bugfix: easeToFirstKey/easeFromLastKey funktioniert jetzt korrekt
+* Magie Effekte:   Bugfix: Bei Kollision mit einem NPC wird der origin vob übergeben -> NPC's erkennen den verantwortlichen Caster
+
+Version 0.82a 24.05.2000
+------------------------
+* Exception Handler: Aufruf von Destruktoren allozierter Objekte nach einer Exception auch im Developerstudio möglich (über Callback Funcs )
+
+
+Version 0.82 23.05.2000
+-----------------------
+* Sound Sys: E3 Hacks wieder deaktiviert, Bugs (Crashes, Sounds werden nicht gespielt, etc) aber hoffentlich beseitigt
+
+
+Version 0.81 09.05.2000
+-----------------------
+* Exception Handler: Destruktoren aller DirectX abhängigen Module wird aufgerufen, um
+  im Falle eines Crashes DirectX wieder in den Ausgangszustand zu versetzen.
+* Pfeil Schiessen auf NPC's für E3 gehackt (kein Crash mehr, aber evtl. Memoryleaks)
+* D3D (Kurt): Fackeln haben korrekten Blending Mode, Inventory funzt, Garbage Screen am Anfang ist raus, Ladescreen wird angezeigt
+
+
+
+Version 0.80 08.05.2000
+-----------------------
+* Sound System: Ladezeit optimiert (Searchfile wird nicht mehr unnötig aufgerufen)
+* Dialogcamera Code implementiert, Ansteuerung fehlt noch
+* Glide Renderer: DrawPolySimple für die neuen 2d Blit Algos implementiert
+
+Version 0.79c 06.05.2000
+------------------------
+
+* zCTex_RndGlide::ReleaseData() gibt jetzt auch wirklich den Speicher frei
+* Hurra: Mipmap Flimmer Bug behoben, wer hätte das gedacht...
+
+
+Version 0.79b 04.05.2000
+------------------------
+* SearchFile Anpassungen (Fürs Multithreading)
+
+
+
+Version 0.79a 04.05.2000
+------------------------
+
+* Sound Sys Resource Managment Bugfixes Part II
+
+
+Version 0.79 28.04.2000
+-----------------------
+
+* Magie System: Interface Änderungen, jetzt wesentlich stabiler. 
+* Cutscene Camera: Bug, der dazu führte das Presets manchmal nicht beendet wurden, gefixt
+
+
+
+Version 0.78a 21.04.2000
+-----------------------
+
+* Sound Sys Resource Managment Bugfixes
+
+
+Version 0.78 20.04.2000
+-----------------------
+
+* Low Level Resource Caching Implementation für die Klassen zCSndFX_MSS und zCTex_RndGlide
+
+
+Version 0.773d 19.04.2000
+-------------------------
+* Bugfixes fürs ResourceManagment Texturen/Sounds
+
+
+Version 0.772d 12.04.2000
+-------------------------
+ 
+ * zCResource Anpassungen für Texturen und Sounds
+
+
+ 
+Version 0.771d 12.04.2000
+-------------------------
+
+ * Durchschnittsfarbe für Texturen in die zCTexConGeneric Klasse implementiert
+
+
+Version 0.77d 06.04.2000
+------------------------
+ * Defect 674 entschärft
+ * Defect 672 behoben 
+
+
+Version 0.77c 05.04.2000
+------------------------
+ 
+ * sporadischer "Camera lost orientation" Bug hoffentlich eliminiert
+ * ExceptionHandler: Bug behoben, der dafür sorgte, das die aktuelle Cameraposition nicht ausgegeben wird, behoben
+
+
+Version 0.77 22.03.2000
+-----------------------
+
+! Anpassung des eigenen Changes Datei Formates an die Projekt Changes Datei (Versionsnummern statt Datumsangabe)
+
+* Anpassungen an Engine 0.88
+
+* Cutscene Camera: 
+	+Doku: camera_system.doc
+	*Ein Camera Preset kann jetzt mehrfach in einer Cutscene benutzt werden
+	+neue Parameter: autoCamFocusVobName, autoCamPlayerMovable -> siehe camera_system.doc
+	+fehlerhafte Zeit-Angaben an den Keyframes werden besser abgefangen
+	!Ulf: zCAICamera::GetPlayerIsMovable() gibt an, ob dem Spieler durch eine Camera Cutscene die Kontrolle entzogen wurde
+	*Spacer: Hilfsklasse spcCCamVob entfernt, neuer und einfacherer Editiermechanismus
+
+* Renderer & Texconvert Klasse: Änderungen am Interface:
+	+Textur Methoden sind "pitch-fähig"
+	+Set-/GetCacheAlphaPolys
+	*Performance Optimierung für Alpha Polys: zFloat2Int() wird benutzt, BucketSort statt QSort
+
+!Bert: Für den Spacer: Die Methode initializeGradeMFC heisst jetzt initializeSystemMFC
+
+
+03.03.00
+--------
+* Sound Sys: 
+	* Defect 477,513: Lautstärke Einstellung für Sounds im Spacer
+	* Soundverwaltung überarbeitet (u.a. behebt das das "too many active sounds in scene" Problem)
+	* auf Sblive Karten wird der Sound in grösserer Distanz nicht mehr zu dumpf abgespielt
+	* Sound Karten, die nur über den Wave Mapper laufen (und nicht Direct Sound kompatibel sind, z.B. die Terratec Maestro) laufen jetzt auch mit Direct Music zusammen.
+	* wrapped MP3 Support für Ambient Waves (nur RIFF Format, d.h. als WAV Format gekapselt). Diese können naturgemäss allerdings nicht sauber
+	  geloopt abgespielt werden. Man muss von Fall zu Fall unterscheiden, ob ein Sound als MP3 sich geloopt korrekt anhört oder nicht
+	+ ambiente Soundfiles können jetzt ebenfalls mit Occlusion-,Obstruction, und Reverbeffekten belegt werden. 
+	  Diese hören sich allerdings anders an, als bei den nicht ambienten 3d Sounds, darauf sollte man beim Setzen von Ambienten Sound Zonen achten
+	  (d.h. evtl. müssen der Reverblevel und die Lautstärke gesondert angepasst werden)
+	+ besseres Format Checking
+	! neue sfx.d benötigt, reverb3.flt Datei im Exe Verzeichnis benötigt
+
+29.02.00
+--------
+*Sound Sys:
+
+	*  Defect 501: Sound Instanzen, in denen für das Wave File ein Leerstring übergeben wird, werden nicht gespielt
+
+*Status Screen:
+	*  Defect #???: kachelt manchmal ab, wenn Missionen gelöst wurden
+	*  Schnellerer Aufbau, keine Transparenz mehr, schliesst auch mit Backspace
+
+
+28.02.00
+---------
+* Glide Renderer: kleine Performance Optimierung (siehe Dieters Profiling Ergebnisse: 10%)
+* Exception Handler: bedauerlicherweise müssen die Symbole doch im Executable mit eingebunden werden, und
+  können nicht in einer seperaten PDB Datei stehen, ansonsten gibts keinen kompletten Callstack :(
+
+22.02.00
+--------
+* Cutscene Camera: 
+	-Im Game wurden keine mehrfachen Camerafahrten innerhalb einer Cutscene abgespielt -> Fix
+	-Abgefangen: Falsche Zeitangaben für Keyframes im Spacer
+
+18.02.00
+--------
+* Texconvert Klasse: Texturen mit Kantenlänge > 256 werden wieder korrekt konvertiert
+
+
+10.02.00
+--------
++ Exception Handler: Die Debug Infos für das Game/den Spacer sind jetzt nicht mehr im Executable abgespeichert,
+  sondern werden in einer seperaten PDB Datei mitgeliefert (nur falls nötig). Vorteil: Das Exe ist kleiner, und dem End Customer
+  werden keine zusätzlichen Infos mitgegeben, die ein Reverse Engeneering erleichtern würden.
+
+
+04.02.00
+--------
+
+* Einige Boundschecker Warnungen behoben
++ Exception Handler:
+	+ Exception Report im Spy enthält zusätzliche Informationen (geladener Level, letzte Spieler Position etc.)
+	+ Bei einem Crash werden die wichtigen Infos automatisch auf dem Clipboard abgelegt, so daß nur noch CTRL-V
+	  in einem Editor/im TestTracker gedrückt werden muss um den Callstack etc. auszugeben.	
++ Alle Miles spezifischen Dateien bis auf Mss32.dll liegen jetzt im DATA\SHARED Verz.
+* Menu Anpassungen an zCView Klasse
++ zCTexConvert Klasse von Adrian übernommen, in zCTexConGeneric umbenannt
+
+
+25.01.99
+--------
+
+* Sound Sys:
+	* Logging der Sound Instanzen niedriger priorisiert
+	* Ambient 3D Sounds Bugfix
+	* Defect #307, NPC's sprechen mit zu hoch gepitchten Stimmen
+	! neue sfx.d Skriptdatei nötig
+	! neue miles 6.0b Version, verhindert Crashes bei Benutzung von Reverb Effekten bei einigen Software 3d Providern
+* Glide Renderer: 
+	* Textur Alpha Informationen werden nicht mehr aus der Basisklasse genommen (hilft das bei dem Alpha Texturen Bug ?)
+	* potentieller Cache Bugfix
+* Mini Cutscene Recorder:
+	! Rausgeschmissen. Die Camerafahrt der Introcutscene kann jetzt auch besser mit der normalen Cutscene
+  	  Camera gemacht werden. Aber da muss man sich auch noch was überlegen, genauso wie für die Credits, etc. (-> Marco)
+  	  -> die Dateien introcutscene.cut,intro.zen und intro.dat können darum gelöscht werden
+* zarctest bestanden (nur knapp - nee war ein Scherz)
+* CS Camera: 
+	+Eine Milliarde Fixes (circa)
+	+neuer Parameter adaptToSurroundings gibt an ob die Kamera Spline sich an die Umgebung anpassen soll.  Vorsicht: Sollte nur ausgeschaltet bleiben wenn sicher ist, daß die Camera nicht durch Wände fahren kann.
+	+Fixe Cameras können benutzt werden, indem Trigger/Untrigger Messages an in die Welt gesetzte zCCSCamera Objekte gesendet werden
+	+neue Message EV_GOTO_KEY kann benutzt werden, um z.B. einfach Schwenks zwischen zwei Vobs zu realisieren
+	+MotionTypen komplett implementiert (bis auf CUSTOM, wird das gebraucht ?)
+	+Camerafahrten können geloopt abgespielt werden (Restart & Pingpong Modus)
+	+Positionen der Referenzvobs werden über einen Zeitraum gemittelt (bessere 'Besenstielkameras' -> sieht nicht so angeklebt aus)
+	+tension, bias und continuity Parameter pro Keyframe einstellbar (der Vollständigkeit halber)
+	+timeIsFixed Parameter pro Keyframe bestimmt, ob beim Editieren im Spacer die Zeit (an diesem KF) automatisch angepasst werden soll (default),
+	 oder ob die Zeit nicht verändet werden darf (z.B. weil genau zu diesem festen Zeitpunkt die Camera auf dem Punkt sein muss, bzw. auf den Punkt schauen soll).
+	+Mit den Parametern easeToFirstPos/easeFromLastPos kann angegeben werden, ob ein Switch oder eine Kamerafahrt zum ersten/vom letzten Keyframe stattfinden soll
+	+Das Visual der zCCSCamera Klasse wird beim Drücken auf den Play Button der Übersichtlichkeit halber ausgeschaltet
+	+Falls keine Targetkeys für die Kamerafahrt gesetzt wurden, lässt sich die Orientierung der Camera während der Fahrt
+	 auf verschiedene Arten (Parameter splLerpMode) bestimmen:
+	 	1. Die Camera orientiert sich entlang der Steigung der (Camera-)Spline (Achterbahnmässig) = PATH
+	 	2. Die Camera orientiert sich entlang der Steigung der (Camera-)Spline, aber die y und z Achsen sind immer parallel zur Welt ausgerichtet = PATH_IGNORE_ROLL
+	 	3. Die Camera ermittelt die Orientierung aus den Ausrichtungen der (Camera-) Keyframes	  = PATH_ROT_SAMPLES
+	+Editor: Mit dem neuen Button GOTOKEY kann man zu einem bestimmten Keyframe fahren. Die Zeitdauer der Fahrt,welche Nummer, und der Typ des Keyframes werden
+	 aus den anderen Feldern des Camerafahrt-Dialogs ermittelt
+	+Sequencer: EV_CAM_GOTO_KEY Message in das Add Track Menu aufgenommen, Messages leicht umbenannt
+
+13.01.00
+--------
+* CS Camera: 
+	*World Frame Of Reference Kamerafahrten funktionieren jetzt (ich liebe Matrix Operationen...)
+	*Visuals der Keyframes werden der Übersichtlichkeit halber im Spacer deaktiert falls eine Kamerafahrt stattfindet.
+	*Korrektur der Flugbahn bei Kollision mit der Welt wieder reingenommen
+	+rollOff Faktor für Rotationen der Camera um die lokale z Achse pro Keyframe implementiert
+	+Vertigo Effekt (Linsen-Brennweite pro Keyframe einstellbar)
+	+getrennte Motiontypen für rollOff und Brennweitenveränderung der Camera pro Keyframe
+* Menu Items Bugfix
+
+12.01.00
+--------
+* CS Camera: 
+	*Im Spacer funktioniert nun das Removen einzelner Keyframes, 
+	*einzelne Bugfixes
+	*Korrektur der Flugbahn bei Kollision mit der Welt erst mal deaktiviert, macht noch Probleme
+
+10.01.00
+--------
+* Sound Sys Handleverwaltung Bugfix. 
+* CS Camera: Archive/Unarchive Bugfix
+
+07.01.00
+--------
+* Anpassungen für zengin 0.85
+* Paletten Bug Fix für den glide renderer, Texconvert rausgeschmissen
+* Klassen Checks durchgeführt (noch nicht:arctest)
+!TexConvert.lib wird nicht mehr benötigt
+
+
+05.01.00
+--------
+* Sound Sys: Interface Änderungen. UpdateSound3d Radius implementiert, Per Sample Volume Weight
+
+03.01.00
+--------
+* Sound Sys: Ambient Sound Fix, Klassen Checks, Stereo Files werden abgefangen
+
+
+28.12.99
+--------
+* Kamera: Mob Interaction Probs behoben (z.B. bei chest small)
+* Memory Overwrite Bug in zInput_Win32.cpp behoben
+* Sound Sys Vorbereitungen: Interface Änderungen, Obstruction Features, Reverb Zone Features, Sound Cones, Ambient 3D Sounds , Loop Points
+
+
+22.12.99
+--------
+* Spacer: Cameracutscenes Bugfixes
+
+20.12.99
+--------
+* FreeLook nur wenn im Fullscreen Mode
+* Spacer: FreeLook/FullScreen
+* Spacer: Camera Play/Stop Button Fixes
+* Commandozeilenparameter ZNOEXHND startet Spacer/Game ohne ExceptionHandler (wichtig für Dr Watson unter NT)
+
+
+14.12.99
+--------
+
+- Glide Renderer: Texturierungsbug Spacer wieder behoben 
+- Sound Sys: Terratec Maestro und andere Karten, die den Wave Mapper benötigen, unterstützt
+- Magiekranz Crashes behoben, aber das Magiesystem wird bis zum Anfang der Magie Stage nicht funktionieren :(
+
+
+8.12.99
+-------
+
+- Mouse FreeLook zur normalen FreeCam (F6) hinzugefügt
+
+
+3.12.99
+-------
+- Camera: Keine Probs mehr bei Büschen
+- RndGlide: Textur Laden beschleunigt (schneller geht nicht), neue Texconvert.lib erforderlich
+
+- neue Game Version 0.69f
+	- VDFS Unterstützung
+	- Netz Unterstützung
+
+
+1.12.99
+-------
+
+- Musik System: neue Transition Typen, Transition Type NONE funzt jetzt, neue Skripte sind nötig
+- Sound System: Miles 6.0 Änderungen. Neue DLL wird benötigt -> liegt im Phoenix_Work -> Sync it baby
+- Spacer: Andere Compilereinstellungen (schneller ?). ExceptionHandler integriert.
+
+
+30.11.99
+--------
+
+- Glide Renderer Lightmap Bug Fix
+- Cutscene Camera Fixes
+
+
+12.11.99
+--------
+
+
+* CS 0.26: + Kameraänderungen: Smoothere Schulterkamera, komplette AI Überarbeitung, normale 
+			 in-Game-AI sollte jetzt wesentlich besser funzen.
+
+
+* GR 0.47d: Zum PBF Punkt: 
+
+			-1- |MR-0325|	die Mipmap-Stufe bei Objekten (speziell Aplha-Texturen) ist viel zu niedrig. Wir sehen nur 4 Pixel Texturen und koennen nix
+			erkennen.
+
+			* TOGGLE MIPALGO in der Konsole wechselt zu einem anderen Mipmap LOD Selection Algorithmus, der
+             langsamer ist, aber auf der Oberwelt bessere visuelle Ergebnisse erzielt (oder anders gesagt:
+			 sieht viel geiler aus, aber teilweise el ruckeldieux, is aber auch temp)
+
+
+! folgende PBF Punkte sind übrigens schon behoben:
+-1- |AB-0145| Auto-Repeat wenn Taste gedrückt fehlt noch (für Toggle zwischen Menu-Items und Sliderbenutzung)
+-3- |AB-0995| Konsole: Texte in der Konsole sind alle am Unteren Rand abgeschnitten. "Underbar" ist z.B. überhaupt nicht zu sehen. Das ist
+ziemlich verwirrend
+
+
+20.10.99
+--------
+* CS 0.25:  +First Person Camera.
+		    Änderungen an der Ansteuerung/Nomenklatur: 
+				LoadCamSys(...)		entfällt
+				SetRenderCamera		entfällt
+				SetWorld			entfällt
+				ChangeCamMode()		-> SetMode()
+				IsCamModeActive()	-> IsModeActive()
+				
+		    Umschau Kamera wird jetzt mit CamModLook aktiviert
+		    1st Person Camera wird SetMode(CamModFirstPerson) aktiviert
+
+* Anpassung an Engine 0.83
+
+
+14.10.99
+--------
+* Controller Menu: Bug, der zu Stillstand des Spiels führte wenn man das Controller Menu verlässt, gefixed
+* SND 0.05b: zCSoundFX::GetPlayingTimeMSEC implementiert
+* GR 0.47c: zTRnd_Stats: polysRendered/trisRendered hinzugefügt, chromakeying entfernt (ausser für lfb-blits)
+
+
+10.10.99
+--------
++ status screen, neue skripte DATA\SCRIPTS\menu.src, DATA\SCRIPTS\CONFIG\menuinst_status.d,
+  neue Files, omenu_status.*
++ GR 0.47 mul2 blending
+
+
+05.10.99
+--------
+
++ noch besserer Exception Handler / besseres Error Handling. Bei einem Fehler (Exception, Assertion Failure,
+  Boundary Check Failure) werden detaillierte Informationen in einem Fenster, im Spy und in der Datei
+  filename.rpt (rpt = report) angezeigt bzw. angelegt. Zu den Informationen gehören:
+	-Callstack mit Zeilen-, Funktionsnamen, Klassen-, Modul- und Parameterinformationen
+	 (Es werden pauschal _immer_ 4 Parameter ohne Typinformationen ausgegeben, unabhängig von der tatsächlichen 
+	 Anzahl der Parameter)
+	-Status Informationen über den verwendeten Rechner (Zeit, Username, Speicher, Prozessor)
+	-geladene DLL's zum Zeitpunkt des Crashes mit Versionsinformationen
+  Folgende Massnahmen sind nötig, um das Ding zum laufen zu kriegen:
+  - bugslayerutil.lib mit einbinden
+  - zRes.rc			  mit einbinden
+  - bugslayerutil.dll, msdbi.dll und imagehl2.dll mit ins exe Verzeichnis kopieren
+  - Projekt mit Debug Informationen compilieren (auch im Release Build)
+  - inkrementelles Linken deaktivieren
+  - Keine Programmdatenbank verwenden (Symbole müssen im Exe vorhanden sein)
+	!Etwas verwirrend: Projekt Einstellungen/C++/Allgemein/Debug-Info muss auf Programmdatenbank stehen,
+	 und Projekt Einstellungen/Linker/Anpassen/Programmdatenbank deaktiviert sein 
+  - die mitgelieferten include dateien basetsd.h, wincrpyt.h, imagehlp.h und wintrust.h in ein Verzeichnis kopieren,
+    und die Projekteinstellungen so ändern, daß diese VOR den standard include Dateien (vom Developer Studio)
+	geladen werden.
+
+* Die neuen zERROR Makros zERR_ASSERT, zERR_ASSERTT, zERR_ASSERT_STRICT, zERR_ASSERT_STRICTT, zERR_BOUNDS,
+  zERR_BOUNDST, zERR_BOUNDS_STRICT und zERR_BOUNDS_STRICTT geben ebenfalls detaillierte Informationen bei einer
+  fehlgeschlagenen Bedingung aus. In der Entwicklungsumgebung werden bei einem Debug-GO allerdings keine Info-Fenster
+  geöffnet, bzw. Dateien geschrieben, da dies dort nicht erwünscht ist.
+
+
+24.09.99
+--------
+
++ besserer Exceptionhandler: wird ein MAP File mit dem Projekt erzeugt und in das DATA\ Verzeichnis gelegt
+  so gibt es bei einem Crash einen detaillierten CallStack mit Symbol Namen und verantwortlichem Modul.
+  Leider zeigt dieser aber im Release Mode nicht immer den _kompletten_ Call Stack an.
+  Mit der Commando Option -znoexhnd wird der Exception Handler ausgeschaltet.
+  Nach einem Crash finden sich detailliertere Ausgaben auch in der Datei errorlog.txt.
+
+
+19.09.99
+--------
+
++ Controller Menu: Über das Menu können den Game Keys einzelne Controller zugeordnet werden. Möglich sind
+  zwei Controler-Keys pro Game Key. Die Zuordnungen werden beim Beenden des Spiels gespeichert.
+! Wichtig: Der Joystick muss richtig kalibriert sein. Notfalls kann man diesen im Menu abschalten, 
+  (oder mit -ZNOJOY)
+
+
+16.09.99
+--------
+
+* Camera CS Klasse Keyframes können über seperate Methoden editiert werden (Andre)
+* MSS: 3d sounds stürzten bei Programmende ab + ein paar Bugfixes
+* Optionklasse: Write-/ReadRaw Methoden implementiert
+* zWin32.* etc: Memoryleaks entfernt, Compile Probs behoben (inkl. Direct Music), Änderungen für den Spacer 
+* Input Klasse: Vorbereitungen für das Controller Menu, neue Methode IsBinded()
+* Spacer Texturierungsprob: neuer texconvert verhindert crashes, ist aber lahm und fliegt mit D3D wahrscheinlich raus
+
+! neue Miles DLL 5.0q nötig. LIB, DLL und Header Datei liegen auf dem PB Server, die DLL auch im Phoenix_Work\Game Verzeichnis.
+
+-1- |AB-0145| Auto-Repeat wenn Taste gedrückt fehlt noch (für Toggle zwischen Menu-Items und Sliderbenutzung)
+
+
+08.09.99
+--------
+
++ neu: Input Klasse mit Joystick Support. Die alten Grade kbPressed() etc. fliegen raus. Statt dessen gibt es eine globale Variable zinput
+  vom Typ zCInput. Darüber sollten alle Input-Controler spezifischen Anfragen laufen.
+  Zugehörige Dateien sind: zInput*.*
+* Die ehemals Grade spezischen Dateien sind in cpp Dateien umgewandelt worden (z.B. zWin32.c -> zWin32.cpp)
+! neue Dateien zCSCamera.*
+* Bugfix im Magiesystem (aber immer noch Probs bei einigen PFX) -> neue Skripte nötig
+* Skript-Update menuinst.d
+! extern "C" MainProg muss in int MainProg umbenannt werden...
+
+
+07.08.99
+--------
+
+VFX 0.02:  Telekinese Spruch Visualisierung,Einige Vars rausgeschmissen, Anpassung der PFX an Grösse der Vobs möglich, 'Missile'-FX möglich
+SND 0.04:  3d provider support inkl. doppler effect(EAX, DirectSound3D Software, DirectSound3D Hardware, A3d, Dolby Surround, RSX, Fast Miles 2d), 
+		   neue PlaySound3d Methode - die Instanzen/Waves können nun für bequemeres Abspielen von Sounds direkt angegeben werden
+		   diese Sounds werden nach 30 Sec. automatisch aus dem Speicher entfernt
+		   !alle M3D Dateien müssen für den 3d Provider Support ins Game Verzeichnis kopiert werden
+In diesem Zusammenhang:
+
+-2- |AB-0085| SFX: Die Lautstärke der SFX nimmt nicht stark genug ab wenn sich die Geräuschquelle (z.B. Schrittsounds) vom Spieler entfernt. Auch wenn die
+Schritte sehr weit entfernt sind hört man sie sehr laut.
+
+
+GR  0.46b: zCTex_RndGlide::Draw() Methode crasht jetzt hoffentlich nicht mehr (Spacer Texturierungs Prob)
+* die Options werden nun auf Defaultwerte gesetzt falls sich das Format ändert
+
+
+
+04.08.99
+--------
+
++ grade ist jetzt in einzelne Dateien verteilt. Die meisten unnötigen Funktionalitäten sind rausgeschmissen
+  worden (u.a. auch der splash screen, falls sich jemand wundert ...).
+  Jedes Modul kann jetzt von einem dafür zuständigem Programmierer gewartet werden.
+  Folgende Dateien müssen nun ins Projekt eingebunden werden:
+
+  zVideo_Win32.c:   Windows spezifische Video Routinen (Direct Draw, Window öffnen, etc.), wird von mir übernommen
+  zWin32.c		:   allgemeine Windows spezifische Funktionen (z.B. Timer, per Frame Message Polls (sysEvent), etc.), wird von mir übernommen
+  zNet_Win32.c	:   Windows spezifische Netzwerk Routinen. Wird von Bert übernommen
+  zInput_Win32.c:   Windows spezifische Joystick / Keyboard Routinen. Wer übernimmt die ?
+
+  Ebenfalls mit ins Projekt eingebunden werden muss die resource spezifische Datei res.rc. Dort stehen die im Moment noch 
+  benutze Dialoge für ehemals grade spezifische assertion-failures, bound check failures etc. 
+
+  Die Header Datei grade.h gibt es nicht mehr. Statt dessen müssen jetzt bei Bedarf die verschiedenen Headerfiles der
+  gewünschten Module included werden, d.h. z.B. zWin32.h für Timer Funktionen, zInput_Win32.h für Keyboard Funktionen etc.
+
+  !Raus muss jetzt selbstverständlich auch die grade library...
+  !Folgende Dateien werden ebenfalls nicht mehr verwendet: project.h, types.h (statt dessen zTypes.h benutzen)
+  !Statt Rand() bitte zRand() benutzen, statt min() zMin(), etc.
+
+* Die Option Klasse arbeitet jetzt eher 'Archiver-gemäss'
+! Der Exceptionhandler ist jetzt auf Engine Ebene angesiedelt (oExceptionHandler.* -> zExceptionHandler.*)
+  HandledMainProg wieder in MainProg umbenennen
+
++1+ |AB-0044| Programm und Spacer tragen sich in die Registry ein, aber unter eigenen Rubriken. Das Programm unter "Piranha Bytes",
+wo es für _jede_ neue Version einen eigenen Folder gibt und der Spacer einmal unter "PiranhaBytesGmbH". Die Zengine trägt sich
+unter der Rubrik "YourCompany" ein. Sollte man nicht darauf achten, diese Eintragungen möglichst kompakt und übersichtlich zu
+halten um sie bei Bedarf auch wieder entfernen zu können? -> es werden keine Registry Eintragungen mehr vorgenommen
+
+CS 0.23d:  Ansteuerung des Unterwassereffektes (Logik)
++ Anpassungen an Engine 0.80a
+
+
+07.07.99
+--------
+
+GR	0.45:	Vid_BlitGfx: Clipping implementiert
+MS	0.03:	Credits-/Load-/Save-Menu, neue Funktionen -> Doku
+VFX 0.1 :   Anpassung für Invisible/Petrify Spells
+! neue Sourcen oVisFX_Invisible*.*, oVisFX_Petrify*.*
+
+
+01.07.99
+--------
+GR  0.44f:  neue Methode zCTex_RndGlide::HasAlphaChannel()
+VFX 0.09b:  Licht Bug ist raus
+MS  0.02c:  Spieler bewegt sich nicht mehr nach Schliessen des Menus
+CS  0.23c:  Auto Beam Check (für Teleport Trigger), Nahkampf Schulterkamera disabled
+
+29.06.99
+--------
+
+SND 0.03d: pro vobSlot kann nur ein Sound gespielt werden -> Bugfix, nu aber.
+MS  0.02b: Fixes & co.
+
+
+28.06.99
+--------
+
++ Mini - Camera Cutscene Recorder / Player. Aufnahme aktivierbar mit Cmd-Switch -ZCSREC. Im Game sind dann folgende Tasten belegt:
+  (Im testmode kann man mit Alt-D Debugging Messages einschalten)
+
+  CTRL-1: Recorder starten
+  CTRL-2: Aktuelle Camera Position und Orientierung als Keyframe der Cutscene hinzufügen
+  CTRL-3: Camera Fahrt starten
+  CTRL-4: Cutscene speichern (als introcutscene.cs im DATA\CUTSCENES Verz.)
+  CTRL-5: Cutscene speichern (loopbar)
+  CTRL-6: Cutscene laden     (introcutscene.cs im DATA\CUTSCENES Verz.)
+  CTRL-7: Letzte zur Camerafahrt hinzugefügten Keyframe löschen
+  CTRL-8: Dauer der Cutscene um 1 Sec erhöhen
+  CTRL-9: Dauer der Cutscene um 1 Sec vermindern
+  CTRL-P: Interpolations Modus der Camerafahrt festlegen. Entweder wird die Orientierung der Camera während der
+          Fahrt durch die einzelnen Keyframe-Orientierungen festgelegt, oder durch die Steigung der Kurve
+
++ SND 0.03c: pro vobSlot kann nur ein Sound gespielt werden -> Bugfix
++ GR  0.44e: Methoden Get-/SetPixelWriteEnabled() ...
+
+
+26.06.99
+--------
+
+CS  0.23b: Nahkampf Bugfix (aber noch nicht fertig) , Focus Cam funzt wieder
+GR  0.44d: Implementation neuer Methoden: ResetZTest, HasPassedZTest
+SND 0.03b: pfxName zu Script Sounds hinzugefügt, LoadSoundFX() lädt bei Bedarf WAV Files falls Name mit Endung übergeben, sonst Instanz
+MS  0.02 : Umstrukturierung, jetzt komplett auf Engine Ebene, Cutscene Hack für PSI Camp, Musik Fix,
+		   Möglichkeit im Menu die aktiven/inaktiven MenuItems zu definieren.  Start Option einstellbar -> Doku
+ 
+ !Exception Handler wurde temporär deaktiviert
+ !fürs Menu muss eine lokale Kopie eines funktionsfähigen DAT-files mit Namen INTRO.DAT ins DATA\SCRIPTS\_COMPILED Verzeichnis gelegt werden
+
+22.06.99
+--------
+
++ MS 0.01: Item-Implementationen: Slider, Input, Button und Text. PFX pro Item möglich (auto-size), FadeIn/Out, Zoom und
+  Positions-Effekte, Musik-Thema pro Menu etc. + Doku
+* Option-Klasse: Bugfixes
+
+09.06.99
+--------
+
+Übernommene Dateien: oGameManager.* , omenu_*.*, zviews*.*
++ zCOption/oCOptions Klassen erstellt:  durch die globale Klasse zoptions kann auf beliebige Optionen zurückgegriffen werden.
++ Blitz Spruch, neue Dateien oVisFX_Lightning.*
++ Menusystem (MS), neue Dateien zmenu.* zmenu_item.*
++ neue Skripte: menu.src, menu.d, menuinst.d
+
+11.05.99
+--------
+
+GR 0.44b: Viele Texturen waren unnötigerweise in einem 16 Bit Format. Per Default werden die Texturen jetzt 
+in ein komprimiertes Format gewandelt. Falls eine TGA Datei mit 256 Farben gespeichert wird, wird sie auch 
+für den 3dfx Renderer in ein palettiertes Format gewandelt. Zusätlich kann über den Dateinamen auch eine 16 Bit
+Konvertierung erzwungen werden, wenn ein 16BIT im Dateinamen enthalten ist.
+Commando grTexStat gibt zusätzlich zu zRndStat auf dem Spy Infos über in der aktuellen Szene befindlichen 
+Texturen aus.
+E3 Hack: manche Texturen (Berge, Wald) werden immer in der maximalen Detailstufe gerendert
+DM 0.02b: E3 Hack, benutzte Samples aus den DLS Dateien bleiben im Speicher, um beim Wechsel von Kampf<->Normal
+Pattern nicht immer auf die Platte zugreifen zu müssen
+
+! alle 3df's löschen
+
+
+09.05.99
+--------
+VFX 0.09: Collision Hack, dyn. Coll. klappt jetzt besser, Licht wird nicht schon beim Selektieren eines Spruches aktiviert, sondern erst beim Casten
+SND 0.03: geloopte Sounds ausserhalb Hörweite werden beim Wieder-Eintritt in diesen Bereich korrekt abgespielt
+
++ Klassendeklarationen für den Archiver
+
+
+07.05.99
+--------
+GR 0.44  : Texturecache: Neuer best-fit Algorithmus + Bugfix, neue Dateien zRndGlide_Cache.*, zRndGlide_Draw.*, zRndGlide_State.*
+SND 0.02e: SetIsLooping virtual korrigiert
+
+
+06.05.99
+--------
+GR 0.43g : 
+texconvert recompile failure fix, VDFS changes (schon wieder)
++2+ |AB-0032| Lightmaps: Compile mit Lightmaps bewirkt daß seltsame Farbeffekte generiert werden, aber keine Schatten
+
+SND 0.02d: zNoSound CmdLine führte manchmal zu crashes bei Programm-Ende
+VFX:   neue Skripte
+
+
+04.05.99
+--------
+
+VFX 0.09: Für Auflade Zauber kann ein FX am Origin und am Target für die Dauer des Aufladens angegeben werden.
+GR 0.43d: VDFS Changes, Music & Snd Bug Fixes
++2+ |AB-0040| Magie: Teleport-Stufe 2 Zielort soll durch einen Partikel-Effekt markiert sein.
+!1! |AB-0012| Die Maus ist wieder aktiv und durch etwas Klicken im Hintergrund passieren "lustige" Dinge, während das Programm
+Fullscreen läuft! (Bei einem kurzen Test wurde so versehentlich die "Netscape.exe" in Ultraedit geladen und modifiziert!!!
++1+ |AB-0016| Musik: Die Jingles aud der Musicinst.d scheinen nicht gespielt zu werden (Gegner getötet, cooles Item gefunden, etc.)
++2+ |AB-0019| SFX / MUSIK: Eine lineare Lautstärke-Einstellung und für beide gleiche Ansteuerung wäre sinnvoll
+-1- |AB-0057| Nach Absturz und erneutem Programmstart "c:Failed to initialize Sound, MSS reported WaveOutOpen()"-Fehlermeldung.
+-> Laut RadGameTools Developer Support manchmal nicht vermeidbar, liegt an den Soundkarten Treibern :(
+
+
+29.04.99
+--------
+
+GR 0.43/Texconvert : VDFS Anpassungen (3DF-load beschleunigt, etc)
+-D-Skript Class Size Checks
+VFX 0.08: Collision FX werden wenn möglich dem aktuellen Level angepasst, Decals inkl. Skalierung möglich
+		  Einige neue Key Modifier
+
+!dsound.lib kann wieder raus
+...
+
+23.04.99
+--------
+
+GR 0.42b: VDFS Anpassung
+
+21.04.99
+--------
+
+GR 0.42:  Cache Fix
+CS 0.23b: +1+ |AB-0014| Kamera: Umsehen-Kamera dringt auf der Oberwelt durch Wände
+
+20.04.99
+--------
+
+Dateinamenänderungen oDbgTools.* -> zDbgTools.*, oMathTools.* -> zMathTools.*
+
+
+15.04.99
+--------
+
+CS 0.23: NK...
++1+ |U-0944| Kamera: Auf der Oberwelt (Fluß) funzt die Schwimm- und Tauchkamera nicht korrekt. Der SC wird immer von unten
+gezeigt und nach dem Auftauchen bleibt die Kamera unter der Wasseroberfläche
+
+GR 0.41b: Banshee Fixes
+
+Änderung File-Namen: cTools.* -> oDbgTools.*, cMath.* -> oMathTools.*, cKBSplines.* -> zKBSplines.*
+Änderung Klassen Namen: CKBSpline -> zCKBSpline
+
+
+
+
+04.04.99
+--------
+
+GR 0.41 : Angleich Ulfs Sourcen, Kommandozeilen Parameter ENABLETASKSWITCH um Win95 Keys/Maus zuzulassen (Debug)
+CS 0.22b: Einzelschrittmodus führt nicht mehr zu Fehlern
+VFX0.07 : Mehrere Gegner können getroffen werden (z.B. Windfaust). Bounce FX mit Einfallswinkel = Ausfallswinkel möglich
+
+
+02.04.99
+--------
+
+SND 0.02b: 	
+- beschleunigtes Laden von Sounds
++1+ |U-0011| Ist der Sound aktiviert, stürzt das Programm beim ersten eventSFXGrnd im MDS ab.
+
+VFX      : Skripte Sprüche Teleportation/Windfaust
++2+ |U-0004| Konsolenbefehl EDIT CAMERA funzt nicht mehr
+
+
+16.03.99
+--------
+
+neue Grade Version 1.0. Jetzt grade.lib/gradeD.lib statt w95.lib/w95D.lib benutzen  -> Netzwerk Init Bug gefixed. 
+Fast alle Module aus Grade werden im Moment nicht benutzt. Nur vom Keyboard Handler und von den Netzwerk Routinen
+wird Gebrauch gemacht. Wir sollten besprechen was definitiv vom Rest nötig ist.
+Auf Tiffi liegen auch die Sourcen und ein entsprechendes Visual C++ 6.0 Projekt.
+
+DM 0.02: Andere Initialisierungs-Routinen. (hoffentlich jetzt kompatibler zum Miles Sound System)
++1+ |U-0952| Musik: Volume-Einstellung in Musicinst.d hat keinen Effekt. Obwohl der Wert auf 0.3 eingestellt wurde, bleibt
+die Lautstärke unverändert -> Achtung: im Moment kein linearer Verlauf. Sinnvolle Werte von 0.7 - 1.0. 
+
+!dsound.lib mit einbinden
+
+03.03.99
+--------
+GR 0.40
++ Voodoo 3 / Voodoo Banshee Support (Banshee nicht getestet)
++ Auflösungen bis 1280x1024 (auf der Voodoo 3)
+* Änderungen SetByArray/LightMapFormat
+
+* Anpassungen neue Sourcen Dieter/Ulf
+
+25.02.99
+--------
+
+
+* Voodoo 2 Mipmap Boundary Bug behoben
++1+ |U-0808| Kamera: Schulterkamera zuckelt und zappelt oft sehr stark beim Wechsel zurück zur Verfolger-Kamera. Von der Verfolgerkamera zur Schulterkamera
+sieht die Bewegung dagegen sehr flüssig und elegant aus.
+!2! |U-0589| Screenshot-Funktion klappt nicht. Drücken der ROLLEN-Taste hat keinen Effekt, außer daß das LED an und aus geht. Besser wäre, die Funktion auf
+"F12" zu legen.
+!1! |U-0950| UI: Wechsel auf andere Apps: Es kommt noch vor, daß ein anderes Programm den Focus hat, obwohl PHOENIX im Fullscreen-Modus läuft (Passiert
+eventuell wenn man während des Programmstarts ein anderes Programm, z.B. Ultaedit, benutzt). In diesen Fällen gibt es KEINE Möglichkeit mehr, diesen
+Zustand zu beenden. Man muß den Computer ausschalten!!
+-1- |U-0957| Magie-Sfx: Feuerball-Sound wird auch dann noch gespielt wenn der Magiemodus beendet wurde! (Vorher wurde ein Feuerball abgeschossen, danach
+der Magiemodus beendet)-> tritt nur in Indoor Environments auf -> Dieter
+-2- |U-0958| Sound: Wird ein .WAV-File nicht gefunden, darf das Programm nicht abgebrochen werden. Ein WARN im zSpy (NAME.wav not found) sollte reichen. -> Default.wav wird abgespielt
+-2- |U-0968| Batch-Parameter: Bitte die neuen Parameter ändern. Als Default sollten beide Optionen ausgeschaltet sein! (-INTRO statt -nointro; -MINSPEC
+statt -ignoreminspec)
+VFX 0.06 : Licht Hacks
+
+18.02.99
+--------
+
+!3! |U-0589| Screenshot-Funktion "ScreenDump()" -> mit welcher Taste? 
+	-> Mit der 'Rollen' Taste (rechts neben der Druck Taste - einleuchtend, oder ?)
+-1- |U-0950| UI: Wechsel auf andere Apps mit ALT-TAB oder CTRL+F9 nötig (Autom. auf Window-Mode schalten)
+-1- |U-0951| UI: Im Window-Mode muß die Maus wieder das GOTHIC-Fenster verlassen können
+  -> CTRL F9 und ALT-TAB gehen nicht ohne grösseren Aufwand. Im Windowed Mode (F3) funzt aber alles wieder 
+  so wie es soll
++1+ |U-0945| Sound: beim "WARN Sound Identifier unknown" muß unbedingt der Name des betreffenden Identifiers ausgegeben werden, damit eine Fehlersuche
+			 möglich ist
+  -> Das wird auch so gemacht. Dort wird fälschlicherweise ein Leerstring übergeben !
+
+-1- |U-0955| Magie: Decals und pfx (Lichtspruch) aus dem Auswahlkranz bleiben vor dem SC stehen und werden dann nicht mehr entfernt. Man läuft danach immer
+			 mit einem Haufen Decals vor der Nase herum, selbst wenn der Auswahlkranz geschlossen wird.
+
+* Mindesthardwareanforderung wird auf 330 Mhz Proz. abgesenkt (falls mal Tasks im Hintergrund laufen).
+  Generell ist der Prozessortakt allerdings nicht unbedingt aussagekräftig für die Performance , sondern eher
+  ein interner Polythroughput Test o.ä. (wie auch bei MDK)
+
+FX 0.05b Fix für Magiekranz, Überlagte PFX hinzugefügt
+GR 0.38c Win95 Keys werden nur im Release Modus disabled. Ist wohl besser bei Breakpoints etc.
+
+
+16.02.99
+--------
+
+GR 0.38b
+  -Texturen die im Namen ein 16BIT enthalten werden automatisch in ein 16 Bit Format konvertiert,
+   dadurch müssen die momentanen Problemfälle (Magiesymbole, Feuer, Himmel etc.) nicht immer von
+   mir manuell bearbeitet werden. 
+  -Hardware Dithering für Alpha-Texturen ist immer ausgeschaltet
+  -neuer Texus (3DF Version 1.4), beim Konvertieren ist dithering jetzt ausgeschaltet, Texturen
+   mit 8-Bit Alphakanal werden jetzt nicht mehr in ARGB4444 konvertiert, sondern in AYIQ8442.
+   Darum am besten die alten 3df's löschen und mit Parameter -TEXCONVERT neu konvertieren
+
+(CS 0.22)
+-1- |U-0918| Kampfkamera: Muß schneller abgeschaltet werden, wenn der SC von einem Gegner wegrennt. Zur Zeit ruckelt die Kampf-Kamera noch
+			 sehr lange auf der ständigen suche nach einer neuen Opptimalposition und der SC sieht nicht wo er hinläuft.
+			 -> switches sind jetzt abgeschaltet, nur beim ersten Hinschalten wird ein Switch ausgeführt, und
+			 wenn die Camera die Seite wechseln muss.
+			 Ulf, der Verzögerungstimer beim Wechsel Kampf<->Normal sollte jetzt auf 0 stehen, und statt
+			 dessen sollte beim Rennen sofort in die normale Kamera zurückgeschaltet werden - argh
+-2- |U-0943| Konsolenkommando MUTE MUSIC funktioniert nicht -> Befehl sollte außerdem TOGGLE MUSIC heißen
++1+ |U-0063| Programmtoggle mit ALT & TAB darf nicht funzen, wenn das Programm Fullscreen läuft
++1+ |U-0374| Win95-Taste disablen (man kommt wirklich oft drauf und verliert dadurch den Fokus -> Spiel scheint abgestürzt
+	-> gilt allerdings nur für Win95, in Windows NT funktionieren die Tasten noch weiterhin
++3+ |U-0589| Screenshot-Funktion "ScreenDump()" von Carsten unterstützen 
+    -> Ins Hauptverzeichnis abgelegt, Bild hat allerdings noch einen kleinen Rand
++2+ |U-0788| Hardwareabfrage: Wird nicht ein Mindest Prozessor (z.B. Pentium II 350), mindest RAM (z.B. 64 MB) oder mindest Grafikkarte (z.B. Voodoo I)
+			 entdeckt, wird der Programmstart mit einer höflichen Windowsmeldebox abgebrochen, in der die Mindest-Hardware nochmal aufgeführt wird.
+	-> Anforderungen: PII 350, 128 MB RAM wird gecheckt. Dürfte in den meisten Fällen funktionieren.
+	   Notfalls kann mit dem Parameter -ignoreMinSpec ein Startup erzwungen werden
+
++ Maus Events werden nicht mehr angenommen -> Game bleibt im Focus
++ ExceptionHandler. Bei einem Crash wird im Game Verzeichnis eine Datei errorlog.txt erstellt,
+  in der eine genaue Fehlerbeschreibung plus aktuellem call stack angezeigt wird. 
+  Bei Benutzung ist im Hauptprogramm nötig den Main Loop in HandledMainLoop() umzunennen.
+  -> damit dürfte jetzt auch die ewige Passthroughkabel - Umsteckerei behoben sein!
+
+* neue Dateien oExceptionHandler.*, zCPUSpecs.*
+
+VFX 0.05: Crashes sind weg, lag an den Lichtern, ist vielleicht mit der neuen Engine Version behoben
+
+
+12.02.99
+--------
+SND0.01g Consolen Kommando SOUNDSTAT gibt den benutzten Sound Speicher aus. Durch IMA ADPCM Komprimierung
+         kann der Speicherbedarf ungefähr halbiert werden. Mit Wavelab oder den Miles Tools lässt
+		 sich diese Komprimierung durchführen. (Mit CTRL-B in Wavelab)
+		 Weiterhin habe ich die Skripte unterteilt. Die Klassendefinitionen stehen jetzt im _INTERN Verzeichnis
+		 in der Datei sfx.d und die Instanzen in CONFIG\sfxinst.d
+		 Bitte übernehmt diese Dateien, da ansonsten der Reverb nicht funktioniert.
+
+
+DM 0.01  Direct Music Implementation: Folgende Files sind nötig: 
+         zzCarsten.*/zmusic.* + Skripte music*.*
+		 Mit dem Parameter -znomusic lässt sich die Musik ausschalten.
+		 Im Game gibt es folgende Consolenkommandos:
+		 PLAY THEME INSTANZNAME: Lädt ein aktuelles Thema, spielt eine evtl. Transition und
+		 dann das gewünschte DM-Segment.
+		 PLAY JINGLE INSTANZNAME: Spielt ein Jingle synchronisiert zum aktuellen Thema.
+         Im Game können einfach via zMusicSys_DM::PlayThemeByScript() und zMusicSys_DM::PlayJingleByScript()
+		 die Themes/Jingles abgespielt werden. 
+		 Pro Themen Instanz gibt es die Möglichkeit, die Geschwindigkeit und Art einer eventuellen
+		 Transition anzugeben.
+		 So kann eine neues Thema entweder auf dem nächsten Beat, auf dem nächsten Takt oder sofort erfolgen,
+		 und dafür entweder ein BREAK,FILL,INTRO,END oder auch kein Transition Pattern ausgewählt werden.
+		 Break-Transitions sind per Definition ruhigere Übergänge als FILL-Transitions, INTRO & END
+		 Transitions sind nützlich für Tag/Nacht Wechsel oder Levelübergänge. 
+
+		 Man kann z.B. für ein Kampf Thema zwei Instanzen definieren, eine mit einer normalen Transition
+		 und eine andere für einen schnellen Übergang falls ein NPC plötzlich hinter einer
+		 Ecke auftaucht. (Im Moment in der musicinst.d OC_FIGHT und OC_FIGHTFAST)
+		 Das aktuelle Thema von Kai ist ca. 5 MB gross-beim Spielen eines neuen Themas werden immer
+		 die neuen benutzen Instrumente eingeladen, was zu einer Verzögerung im Spiel führt.
+		 Das tritt jedoch nur einmal auf, danach bleiben die Instrumente im Speicher. Ein besseres
+		 Cache Handling folgt noch.
+		 Auf Tiffi liegt in meinem Verzeichnis ein Test von Kai. Allerdings stimmen dort einige
+		 Instrumente noch nicht. 
+
+06.02.99
+--------
+
+GR 0.38: neuer Texture-Cache - mipmap basiert, weiterhin noch Platz
+         für Optimierungen.
+		 Mipmaps werden selektiert via eines conservative estimation schemes basiert auf dem nahesten
+		 Vertex pro Poly. (Diese Methode ist nicht exakt, eigentlich müsste die Anzahl sichtbarer Pixel pro Texel 
+		 zu Grunde gelegt werden)
+		 Commandozeilenparameter -MipRange gibt die hintere MipMap-Grenze an. Default ist 10000.0 (100m)
+		 Hinter dieser Grenze werden Texturen die innerhalb einer Szene auf die 3d Karte geladen werden,
+		 nur mit der niedrigsten Mip Map Stufe gerendert (also 1x1, was einem Gouraud schattierem Poly 
+		 entspricht)
+		 Problematisch sind zu niedrig gewählte Grenzen, da die Mip-LOD Stufen dann sehr
+		 sichtbar sind- das lässt sich vielleicht noch vermeiden.
+
+29.01.99
+--------
+GR 0.37d: Methoden GetStatistics()/ResetStatistics();
+		  Transparente Polys werden in FlushPolys zurückgesetzt, nicht mehr in BeginFrame
+
+VFX 0.04e
+
+
+25.01.99
+--------
+VFX 0.03: Erweiterung der FX Klasse, Magiekranz, Skript-Dummysprüche (nur Cut&Paste, Beispiele folgen noch)
+		  Die wichtigsten Parameter sollten sich über die Scripte editieren lassen.
+		  Wegen der grossen Anzahl der Parameter konnte noch nicht alles auf Stabilität überprüft werden.
+
+
+22.01.99
+--------
+
+VFX 0.02: fixes
+
+SND 0.01f: 
+*Bug gefixed, der sich bei hoher Kanal-Belastung zeigte
++Per sample reverberation hinzugefügt. (editierbar ist der Level pro Sound Instanz, und reflection-/decaytime über die Sound System Instanz)
++sound system preferences editierbar (via Console: EDIT SOUNDSYSPREFS), geänderte Werte werden sofort übernommen
++sounds editierbar (via Console: EDIT SOUND IDNAME), geänderte Werte werden sofort übernommen
+
+* started revision log in header Files
+
+
+19.01.99
+--------
+
+Visual Effects (VFX) 0.01 Implementation, seperate Doku folgt
+
+
+13.01.99
+--------
+SND 0.01e: zwei Bugs gefixed: gestoppte Loop-Sounds und mehrmals gelöschte und wieder geladene Waves führten zum Crash
+
+* neue Files: oFxVis.h/oFxVis.cpp, ooCarsten.h/ooCarsten.cpp
+
+* zwei Memory Leaks behoben
+* #ifdefs gekapselt
+
+10.01.99
+--------
+
+SND 0.01d: neues virtual zCParser* GetSFXParser()
+
+04.01.98
+--------
+
+GR 0.37d:
+* Alpha - Bugfix fürs Inventory (aktives Slot wird falsch gerendert, falls sich transp. Decals in der Szene befinden)
+* Bereitstellung von vertex Alpha für alle Rendermodi, Materialien der polys müssen dann explizit einen Alpha Modus ungleich
+  zRND_ALPHA_FUNC_NONE besitzen
+
+
+15.12.98
+--------
+
+CS 0.21b: Schulterkamera parametrisiert & überarbeitet
+
+12.12.98
+--------
+
+CS 0.21:
+* Offsetwinkel Ruckler behoben
+* Neuer Parameter: seekPlayerPOI. Gibt an, ob für einen Modus die Camera auch den
+  Point of Interest des Spielers berücksichtigen soll, so dass die C. immer das sieht, was
+  auch der Spieler sieht. Die Überprüfung findet nur statt, wenn der Spieler nicht rotiert &
+  sich nicht bewegt.
+  Im Surface Level ist die Camera dann allerdings langsam. 
+  Ich bin mir nicht sicher, ob das ein Datenproblem ist (->BochumWoche)
+* Beim Stehen der Figur bleibt die Camera ruhig
+
++3+ |U-0764| Kamera: "Toggle Camdebug" läßt beim Ausschalten eine BBox um den SC zurück.
+
+GR 0.37b:
+* Bei Texturen mit mehreren Frames wird nur noch die erste Textur im Spy ausgegeben (Performance)
+
+* neue Grade Version, behebt nicht Aufrufen von manchen Destruktoren bei Programmende
+
+
+6.12.98
+-------
+
+CS 0.20
+
++ Parser-Parameter haben sich geändert, rausgeschmissen worden sind die Dynamik-Parameter
+  (accel..., deccel...) und die getrennten Beschleunigungsparameter timePosChangeStart, Stop etc.
+  Diese sind jetzt nicht mehr nötig.
+  Hinzugekommen ist die Möglichkeit, via targetOffsetX/Y/Z einen Positionsoffset für den 
+  Spieler anzugeben. Damit muss nicht immer direkt auf die Hüfte gezielt werden, und
+  ist manchmal vielleicht bequemer als mit den OffsetWinkeln zu arbeiten
++ Umschau Kamera + Kollision & Abgleiten an Wänden
++ Mit TOGGLE SEEKPLAYERFOCUS sieht die Camera immer das, was der Spieler sieht - noch buggy wenn
+  der Spieler rückwärts an der Wand steht, darum erst mal disabled
+* Überarbeitete OffsetWinkel
+* Mit TOGGLE INDOLENCETARGET schaltet man die Trägheit für das Ermitteln der Spielerposition
+  an und aus. 
+* Spieler wird jetzt immer gesehen
+* neue/andere Consolevariablen (siehe console.txt)
+! Cameramodi mit Y-offsetwinkeln (dialog, etc.) sind im Moment buggy. Vielleicht kann
+  man temporär hierfür auf den Positionsoffset-Parameter zurückgreifen...
+
+
+25.11.98
+--------
+
+CS 0.18b 
+* drastische Reduzierung der Rays, die von der AI pro Frame und Ausweichmanöver gecasted 
+  werden.
+
+23.11.98
+--------
+
+CS 0.18
+
+* Die kleinste Sphäre bei mehreren NSC's beinhaltet jetzt auch den SC und nimmt immer den
+  Mittelpunkt als Bezugspunkt. Die AI funktioniert damit ähnlich wie bei einem NSC.
+
+
+21.11.98
+--------
+
+CS 0.17
+
+Melee Camera:
++ Camera Debugging Modus: Zuschaltbar via TOGGLE CAMDEBUG in der Console
++ Kampf gegen mehrere Gegner: 
+  Ermittlung der kleinsten Sphäre um alle sichtbare Gegner. Befindet sich
+  der Spieler innerhalb dieser Sphere, wird der nächste Gegner als Bezugspunkt
+  genommen, ansonsten der Mittelpunkt der Sphere
+
+
+14.11.98
+--------
+GR 0.37
+* Vid_SetGammaCorrection schneller
+* DrawLineZ Bug gefixed
+* Partikel Alpha Blend Bug gefixed, die alte Gamma Correction Methode brachte wohl
+  diverse glide states durcheinander
+* direkt in den Framebuffer gerenderte Pixel werden mit konstantem Alpha geschrieben 
+  (fps Anzeige, etc.)
+
++ Texus Messages können via dem Consolenkommando TOGGLE TEXUSDEBUG, oder via der zCRnd_Glide
+  Methode SetTexusMsgEnabled() an-/ausgeschaltet werden
+
+CS 0.16
++ Nahkampfkamera AI. Es liegt auf der Hand, das die nächsten Arbeiten an der Performance
+  stattfinden müssen, insbesondere, wenn noch mehr Regeln für den Gültigkeitsbereich
+  der Kamera festgelegt werden (z.B. NSC verdeckt SC etc.)
+  Für die Nahkampf Kamera sind per default Switches aktiv. Umgeschaltet werden
+  kann mit der Konsole via TOGGLE SWITCHAI.
+  
+  !Neue Sourcen zAICamera_Util.cpp, zAICamera_Core.cpp
+ 
+
+
+08.11.98
+--------
+
+GR 0.36
++ Texus komplett als Library implementiert, texus.lib mit ins Projekt einbinden,
+  texus.exe kann gelöscht werden
++ neues 3df Binär Format, ATR Files können gelöscht werden -> schnelleres Startup
++ neue Methode zCTex_RndGlide::GetAverageColor()
+* CPU abhängiges zCPUGetTimer() rausgeschmissen
+* diverse Bugfixes
+! Neue Sourcen zRndGlide_Util.cpp/zRndGlide_Util.h
+
+SND 0.01c
+* Bei 3d sounds funktioniert jetzt die Pitchvarianz
+! Neue Grade Version ohne die Galaxy Libraries
+
+Direct Music (DM)
++ temporäre Files zSnd_DMTest.cpp / zSnd_DMTest.h, nur einbinden falls Direct Music
+  vorhanden
+  
+  Übergangsweise kann durch die Soundklasse mit der Methode PlayDirectMusicSegment()
+  ein Direct Music Segment abgespielt werden (Dateiendung SGT)
+  Da die aktuelle DM Beta Version aber expired ist, und noch ein paar
+  Tage bis zum Update vergehen, habe ich die Ansteuerung via Compiler Switches 
+  erst mal deaktivert. 
+  Beim Eintreffen der neuen DirectX 6 SDK CD kann man Direct Music installieren,
+  und die Methode mit dem Compiler Switch _DIRECTMUSIC_TEST_ im zSndMSS.cpp File 
+  aktivieren. 
+  Achtung: Direct Music funktioniert nur unter Windows 95.
+
+
+24.10.98
+--------
+
+GR 0.35d
+* Texturen mit Alphakanal werden im 1. Pass wieder korrekt gerendert (Partikel)
+* Leicht korrigierte Version wegen Inkompatibilitäten von MS Visual C++ Version 5 zu Version 6
+
+
+
+23.10.98
+--------
+GR 0.35
++ Lightmap Methoden Get-/SetLightmapBilerpFilterEnabled(), GetBinaryVersion		(zFILE& file)
++ 16 Bit Lightmaps zum schnelleren Konvertieren (ca. 2 bis 3 mal so schnell wie 8 Bit)
++ texus bug der dazu führte daß in der linken oberen Ecke einer Textur manchmal fälschlicherweise
+  ein weisses Quadrat erzeugt wurde gefixed
+
+
+22.10.98
+--------
+
+GR 0.34c
++ Lightmap Methoden Load-/SavePortableBinary()
++ 8 Bit Lightmaps (RGB oder Intensity, einstellbar via zCTexRnd_Glide::SetLightmapFormat())
+
+19.10.98
+--------
+SND 0.01b
+  * Nomenklatur-Änderung LoadSoundFXByIdentifier -> LoadSoundFXByScript
+  * Spy Messages bei der MSS Initialisierung gefixed
+  * Auto Update 3D Sounds ausgeschaltet
+
+
+14.10.98
+--------
+SND 0.01:
+  * zSound auf das Miles Sound Sytem umgestellt (Versionsnummer wieder 0.1)
+  * neue Grade Version  ( grade.h , w95.lib noch mit galaxy )
+  * neue lib mss32.lib
+  * mss32.dll muss ins Executable Verzeichnis!
+  + Soundparameter werden jetzt aus seperaten Sound-Instanzen in der Skript-Datei sfx.d
+	gelesen. Diese Skript Datei wird vom SoundSystem geparsed, und sollte daher nicht
+	in einer Game-Src Datei stehen, z.B. in demo2.src
+	Statt dessen schreibt bitte ins DIR_DATA_SCRIPT Verzeichnis eine sfx.src Datei, die 
+	dann bei der Initialisierung des Sound Systems geladen wird.
+	Genauso wird auch bei der Camera vorgegangen, d.h. eine camera.src Datei sollte existieren.
+	
+	!!! Es dürfen im Identifier keine Semikoli als Trennzeichen verwendet werden
+
+10.10.98
+--------
+GR 0.34b
++ Lightmap Routinen
+
+03.10.98
+--------
+SND 0.01c
+* Bug beim Dateinamen-Parsing behoben
+! Dateinamenänderung cLRUCache.* -> zLRUCache.*
+
+
+01.10.98
+--------
+GR 0.34
+
+* Chromatexturen benutzen kein Mipmapping mehr, da texus die Chromakeyfarben
+  beim Berechnen der einzelnen Mipmapstufen nicht berücksichtigt.
+  Vorteil von Chromatexturen gegenüber Texturen mit 1 Bit Alphakanal: Möglichkeit
+  die Textur mit 8 Bit Farbtiefe zu speichern, dadurch wird nur die Hälfte im
+  Texturspeicher belegt.
+  Nachteile: Kein Mipmapping, kein bilineares Filtering
+* ATR Files werden über die zFILE Schnittstelle geladen
+
+CS 0.15b
+* Camera 180° Bug gefixed
+
+SND 0.01b
+
++ Änderung der Namens-Nomenklatur. Angegeben kann jetzt im Dateinamen:
+
+  _VX : Voice Nummer
+  _AY : Alternativer Sound
+  _PZ : Pitchvarianz in Halbtönen
+
+  Beispiele:
+
+  grmbl.wav			: eine Stimme (normal)
+  grmbl_a1.wav		: eine Stimme, 1. Alternative
+  grmbl_v0.wav		: 1. Stimme
+  grmbl_v0_a1.wav	: 1. Stimme, 1. Alternative
+  grmbl_v2_a1_p4.wav: 3. Stimme, 1. Alternative, Pitchvarianz 4 Halbtöne
+
+  Die Pitchvarianz kann für jede Alternative getrennt aktiviert werden.
+  
+  Anmerkung: Der Methode LoadSoundFX werden Dateinamen ohne Pitchvarianz und Alternative
+  übergeben, d.h. bei z.B. existierender obiger letzter Datei würde grmbl_v2 oder grmbl_v2.wav
+  übergeben werden
+
+
+
+15.09.09
+--------
+Sound System (SND) V0.01:
+Erste Version fertiggestellt. 
+
+Neue Files: 
+zSndGalaxy.cpp/zSndGalaxy.h  - Galaxy Soundsystem Implementation
+cLRUCache.cpp/cLRUCache.h    - allgemeiner LRU Cache für beliebige Klassen.
+zList2.h					 - notwendige weitere Liste für den Cache
+
+! Der Cache ist noch in Arbeit, bisher werden die zu allokierenden Speicherblöcke
+  via malloc() und free() ermittelt. Die nächste Version arbeitet mit
+  drei Listen für jeweils benutze und unbenutzte Blöcke aus einem bei Programmstart
+  reservierten Memorypool. Die endgültige Version könnte auch für andere Anwendungen
+  interessant sein, insbesondere für Datentypen, die nur unbekannte Speichergrössen
+  vom Cache anfordern. Bei Datentypen dessen Speicherforderungen i.a. bekannt sind,
+  gibt es oft bessere Lösungen (z.B. bei den Texturen, dessen
+  Dimensionen eine Basis von 2 besitzen)
+
+Noch unklare Punkte:
+Wann erkennt Galaxy, daß eine geloopte Audiodatei geladen worden ist?
+Bestimmte WAV-Typen scheinen nicht korrekt zu funktionieren (Stereodateien, oder
+Dateien mit unterschiedlicher Samplerate)
+
+
+04.09.98
+--------
+CS 0.16
+* bugfixes
+
+31.08.98
+--------
+
+CS 0.15
+* Umschau Kamera: neuer Parametersatz, Rotation um den Kopf, andere Richtungen,
+  Collision mit Entfernungskorrektur (noch Buggy)
++ Neuer Parameter maxLOSBlockTime. Gibt an, wie lange der Spieler ein Focus
+  verdecken darf, fall der AI Typus AI_TYPE_CHECK_PLAYER_HIDES_FOCUS aktiviert ist
+* Timing des Headings & der Translation bei Camerafahrten stimmt jetzt überein
+* BestAziMode ist jetzt verknüpfbar, d.h. beide BestAziModi können gleichzeitig
+  aktiviert werden
++ Neuer CameraModus für Foci, Focusse, oder Focae. Na, wie heisst es denn jetzt ?
+* Beamen der Camera sollte jetzt funktionieren
+* Bogenschiessen: Wechsel der Targets klappt jetzt hoffentlich
+
+
+23.08.98
+--------
+
+CS 0.14B
++ AI verbessert, seperat über die caminst.d Skripte einstellbar, Doku folgt.
++ generelle AI für mehrere Targets, noch nicht optimiert.
++ zwei neue 'Best Azimuth Modi'. 
++ temporäre Umschau-Kamera.
+
+
+12.08.98
+--------
+GR 0.33
+* Alphabugs gefixed
++ neue Methoden Get/SetZBufferCmp()
+* Vid_Clear() Parameterwechsel int -> zCOLOR
+
+
+28.07.98
+--------
+
+GR 0.32d
+
+* Voodoo 2 funktioniert wieder
+
+
+27.07.98
+--------
+
+GR 0.32
+
++ SetChromaKeyColor auf zCOLOR umgestellt. Vorschlag: Wie wärs mit 
+  GetXYZColorPacked(), SetXYZColorPacked() für schnelleren Zugriff auf API interne Color-
+  Formate?
+* hässlichen Inventory-Strich Bug gefixed
++ neue Methoden SetZBias()/SetZBufferWriteEnabled();
+
+20.06.98
+--------
+
+GR 0.31
+
++ Alphapolys speichern ausser den Materialien auch die Textur
+
+CS 0.13
+
+* No evasion found bug entschärft. Dadurch ergibt sich aber im Moment das Problem,
+  das die Camera wie in TR durch NSC's durchfahren kann. Günstiger Nebeneffekt
+  ist dadurch aber auch, das sich die C. ruhiger verhält.
+* Beim Rückwärtsgehen zeitweiliges Ausweichen der Camera vermieden
+* CamModDeath geht unabhängig von Bauch oder Rückenlage des Spielers immer auf
+  90 Grad Höhenwinkel. Ich habe den Fehler aber auch bei mir nicht nachvollziehen können.
++ Die Offsetwinkel sind nun abhängig von den Azimuth- bzw. Elevationwinkeln.
+  Bei den Elevationwinkeln macht das eigentlich immer Sinn, aber für ein Parametersatz
+  wie bei der CamModMelee ist das Resultat wahrscheinlich so nicht immer gewünscht.
+  Da fehlen noch grundsätzliche weitere Gedanken zur Kampf-Kamera.
++ Die Trägheitsparameter gelten nun auch nicht nur während eine Systems, sondern
+  auch während der Ausweichmanöver der Camera. Dadurch können manchmal Ruckartige
+  Ausweichmanöver vermieden werden. Für eine sinnvolle Benutzung ist aber noch eine 
+  weitere Parametrisierung nötig.
++ Die Elevation geht nun bei einer (Dach-)Kante frühzeitiger runter.
++ Überarbeitung der Skript-Files camera.d und caminst.d. Bitte unbedingt übernehmen!
+
+irgendwann
+----------
+
+GR 0.30
++ Neue Methoden SetWaitVerticalRetrace(),Flush()
+* Gouraud only Level & Inventory Health Potion Bugs gefixed
+
+FB:
++2+ |U-0339| Feuerball: hat keine angehängte Lichtquelle (zumindest scheint
+es so, denn er macht in der entfernten Dunkelheit nicht hell)
+
+* Material Cntr. not zero fixed
+* Bodenschatten Problem gefixed
++ neue Sourcen CFx.cpp, CFx.h
+
+
+28.06.98
+--------
+GR 0.29c
+* texture-cache überarbeitet und getestet
++ Vid_SetLfbAlphaFunc() für verschiedene Blending-Modi während 
+  des Lfb-Accesses
+
+* Neuer Visual Type zVISUAL_FIREBALL für den Feuerball (FB)
+CS 0.12d
+
+* Ausweichmuster bei nicht gültigem Camera-Parametersatz beinhaltet
+  jetzt auch die Offsetwinkel (siehe allowEvasionSearch)
+
+
+
+22.06.98
+--------
+GR 0.29b
+* spacer texture Draw Methode überarbeitet
+* kleiner fix im textur cache
+CS 0.12
+* matrix can't invert Fehler gefixed
++ AI verbessert
++ neues (parser-)Flag eingeführt: allowEvasionSearch. 
+  Wenn auf 1 gesetzt, entscheidet die AI, ob der gewünschte Azimuth Winkel zulässig ist; ist er es
+  nicht wird nach Ausweichmöglichkeiten gesucht ( erst neg. Azimuth, dann höhere Elevation ).
+  Dies gilt nur beim Wechseln des Camerasystems, und hat keinen Einfluss auf die generelle AI.
+
+
+17.06.98
+--------
+
+GR 0.29
+
++ Chromatexturen funktionieren zwar, sind aber unschön aufgrund der Notwendigkeit
+  von Point-Sampling statt bilinearem Filtering, darum:
++ neuer texus. Erkennt automatisch einen vorhandenen alpha channel in einer tga textur.
++ spacer Texture Draw Methode überarbeitet
+
+
+16.06.98
+--------
+GR 0.28
+
++ transp. Polys speichern jetzt auch die Materialien
++ SetFog... Methoden erweitert
+
+
+12.06.98
+--------
+GR 0.27
+
++ neue Methode ScreenDump() - sehr nützlich, speichert im TGA-Format
+* einige Bugs im Zusammenhang mit alpha gefixed
+
+07.06.98
+--------
+GR 0.26:
+
++ tiefeninformationen aus alpha polys werden nicht mehr in den z-buffer geschrieben, 
+  sondern nur noch mit diesem verglichen, dadurch werden einige Probleme vermieden.
+* z buffered line methode geändert
+* fixed lfb memcpy bug
+
+CS 0.1B:
+
++ Raytests treffen keine FX-Polys mehr.
+
+
+
+
+
+04.06.98
+.--------
+GR 0.25b:
+
+* changed z buffered line method
+* added Vid_IsLocked() for Ulfi
+
+
+03.06.98
+--------
+GR 0.25:
+
+* Fixed Draw Line Alpha Bug
+* Added z buffered line function
+
+
+29.5.98
+-------
+
+GR 0.24:
+
+* diverse Optimierungen des AlphaBlendings. 
+* Sortierung der Alpha-Polys via SetSortAlphaPolys() an-/ausschaltbar.
++ neue Texus Version: automatisches Erkennen der Default Chromakey Farbe in 
+  der Textur. 
+  !! Bitte ins Hauptverzeichnis kopieren
++ glide-Funktion um den noch freien Hw-Textur-Speicher zu ermitteln 
+  ( GetFreeTextureMem()/GetTotalTextureMem() )
+! Bitte alle 3df files löschen.
+
+
+
+26.05.98
+--------
+
+CS 0.1: 
++ Etwas bessere AI unter Türen und höherer Elevation
+
+
+
+25.05.98
+--------
+
+GR 0.23
+
++ renderer schnittstelle erweitert. 
+  Neue Möglichkeiten:
+  teilweise transparente texturen, explizites an-/ausschalten von dithering & filtering
+  pro Material, vertex alpha. 
++ SetPixel FalschFarben Bug endlich behoben
+* !!! Die SetPixel Routine ist saulahm, da für jeden Pixel Renderstates ermittelt 
+  und ggf. gesetzt werden müssen. Ein SetPixel innerhalb einer 
+  Vid_Begin-/Vid_EndLfbAccess() Kombi sollte eigentlich ok sein (nicht auf der 
+  Rush, natürlich:) , aber nicht so schnell wie folgende Vorgehensweisen:
+
+  a) direkte Manipulation des Framebuffers via
+     - Vid_Lock()
+	 - lfbAddr = Vid_GetFrameBufferPtr();
+	 - write pixels into lfbAddr (Glide Format RGB565)
+	 - Vid_Unlock()
+  b) - alloc eigenen Speicherblock 
+	 - dort alle Pixel setzen (Glide Format RGB565)
+	 - Mit Vid_BlitGfx() in den Lfb kopieren.
+  
+
+
+
+20.05.98
+--------
+GR 0.22
++ bei transp. Polys werden ausser den Polys auch noch die Renderstates abgespeichert.
++ diverse Alpha Blending Möglichkeiten
+
+
+17.05.98
+--------
+GR 0.21:
++ dynamisches Array für transparente Polys. Auch werden die Polys kopiert, statt
+  Pointer darauf gemerkt, da dasselbe Poly mit unterschiedlichen Koords
+  gerendert werden kann.
+|C-0026/D-0022| Falsche Transparenz bei Figurenschatten - Workaround 
+
+camera system (CS) 0.09
+
+|C-0017/U-0162| Wenn die Figur "gebeamt" wird, muß die Camera mitgebeamt werden
+|C-0019| Rangeverbesserung setzt manchmal aus
+|C-0020| Rangekorrektur in die Ausweichkoordinatenreihenfolge integrieren
+|C-0021| Kamera fährt gelegentlich (selten) noch durch Wände/Ecken hindurch
+|C-0022| Elevationhöhenkorrektur nach Kollision
+
+
+10.05.98
+--------
+
+glide Renderer (GR) 0.20:
+
+* mehrmaliges Aufrufen von Vid_BeginLfbAccess und Vid_EndLfbAccess vermieden
+! Eine Vid_Lock/Unlock Kombi darf nur dort stehen, wo mit Vid_GetFramebufferPtr()	 
+  der Framebuffer _direkt_ manipuliert wird. Da das im Moment glaube ich nirgendwo
+  passiert, können alle Vid_Locks/Unlocks rausgeschmissen werden.
+
+|C-0018/U-0157| Inventory-Öffnen auf Voodoo 2 erzeugt einen Freeze 
+|C-0025| Glide-Render-Versionsnummer bei Game-/Spacerstart in zSpy rausgeben
+
+v0.19b - 05.05.98
+-----------------
+* nach dem Screenmode umschalten wird der Nebel wieder korrekt gesetzt
+* vorsichtshalber gamma auf user-defaults im Konstruktor gelassen, und
+  nicht mehr auf 1 gesetzt. Könnte evtl. Probleme verursachen. 
+  Vid_SetGammaCorrection funktioniert aber weiterhin.
+* 3dfx-splash Screen via Umgebungsvariablen deaktiviert
+! Vorschlag Videoschnittstelle: Vid_SetScreenMode anstatt Vid_Fullscreen.
+  Ist auch für den Spacer günstiger. Ulf, was hältst Du davon ?
+
+
+v0.19 - 21.04.98
+****************
++ Polys mit durchsichtigen Materialien werden zuletzt gezeichnet ->
+  dadurch z.B. korrektes Darstellen von SC's unter Wasser
++ Voodoo 2 Support
++ Voodoo Rush Support (glide 2.43 am stabilsten)
++ 256 Color palettized Texture-Type
++ Vid_SetGammaCorrection User-Override umgangen (nur Voodoo 1)
++ Vid_FullScreen jetzt für alle Voodoos
+
++ Video Schnittstelle:
+  Im Constructor wird eine Liste aller möglicher VideoModi erstellt.
+  Diese Liste kann mit Vid_GetModeList() abgefragt werden.
+  Die einzelnen Modi können dann entweder mit Vid_SetNextMode() durchgecycled
+  werden, oder explizit via Vid_SetMode() angegeben werden.
+
+! Im Constructor wird keine Default Auflösung mehr eingestellt.
+! Zwischen einem zrenderer->Vid_Lock() und einem zrenderer->Vid_Unlock()
+  dürfen nur Methoden stehen, die direkt auf den Framebuffer zugreifen.
+  Im Moment gilt das nur für Vid_BlitRect() und Vid_GetFrameBufferPtr().
+  Wenn andere zCRnd_Glide spezifische Methoden dazwischen aufgerufen werden,
+  wie z.B. Vid_BeginLfbAccess() -> expect undefined results.
+  In dem Zusammenhang sind die ganzen kleineren Probleme glaube ich verschwunden.
+
+
+v0.18 - 04.04.98
+****************
+* einige Debugging Messages hinzugefügt
++ Texture Cache Brute Force für Sonderfall implementiert
+- Wired Polys nicht mehr anti aliased
+- Vid_FullScreen für Rush Karten disabled, bis ich Zeit habe, mich darum zu kümmern
+* Alpha funktioniert wieder, war auskommentiert (aus welchem Grund auch immer) :)
+* pot. Bug-Möglichkeiten beseitigt.
+
+
+
+v0.17b - 21.02.98
+*****************
+* neue Vid_SetGammaCorrection akzeptiert Werte von 0.0 - 1.0
+  Aber: Der User kann via Umgebungsvariablen oder mitgelieferten Tools
+  diese Methode wirkungslos machen. Daher noch Workaround für diesen Fall
+  nötig.
++ Vid_GetGammaCorrection hinzugefügt
+! Gamma Correction funktioniert nicht auf Rush Karten
++ glide-lib wird im Destruktor sauber entfernt
+
+
+
+v0.17  - 20.02.98
+*****************
++ dynamisches Laden der glide2x.dll implementiert.
+  Die Library wird im Constructor geladen, falls vorhanden.
+  Dadurch sollte renderer switchen on the fly ermöglicht werden.
+  (Keine verschiedenen Executable für die Renderer nötig)
+  Methode IsPresent() überprüft, ob Hardware im Constructor gefunden wurde.
+* Vid_Lock erkennt nun Rush Karten und gibt keine Warnung mehr aus.
+  Rush Karten könnnen keine transparenten Bitmaps direkt in den Framebuffer
+  rendern, hier muss noch ein Workaround mit Polys hinzugefügt werden
+! glide2x.lib nicht mehr beim Linken mit einbinden.
+
+
+
+v0.16  - 19.02.98
+*****************
++ Windowed Mode für normale Voodoo Karten hinzugefügt.
+  Aufruf mit Vid_FullScreen(FALSE)
++ Vid_SetGammaCorrection hinzugefügt. Defaultwert ist 1.0
++ TextureCache-Defragmentation
+
+
+
+v0.15  - 11.02.98
+*****************
+ConvertTextures in zCTex_RndGlide gepackt...
+
+
+
+v0.14b - 09.02.98
+*****************
+* Texturkonvertierung aus dem Constructor von zCRnd_Glide geholt.
+  Modification Dates werden nicht mehr überflüssigerweise neu gesetzt...
+  zCRnd_Glide :: ConvertTextures sollte aber eigentlich zumindest im
+  Spiel vorm Start aufgerufen werden, damit nicht zur Laufzeit neue
+  Texturen konvertiert werden müssen.
+  Sorry Dieter, bei mir dauert das Aufrufen von ConvertTextures nie mehr als
+  2 Sec.
+
+
+v0.14  - 08.02.98
+****************
+! Started log
++ Texturen werden jetzt beim Start konvertiert, und nicht mehr zur Laufzeit.
++ SetDrawMode implementiert. DrawPoly unterscheidet zwischen Material,Flat, und
+  WiredRendering. Wired Polys sind AntiAliased und mit Default Color Weiss.
++ Fog/Bilinear Filtering Methoden implementiert
+* Bug im Texturcache behoben
+! DrawTexture Routine für Spacer 
+

@@ -1,0 +1,676 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+06.12.2000
+-----------
+	Magie:				- NSC-AI auf die Magiespr¸che angepasst (Reaktionen auf das Casten von Magie)
+						- Details zum aktuellen Stand in der Datei "Magie_Spruchliste.doc" im Gothic_Shared_Data\Figuren-Verzeichnis
+
+	Monster:			- neue Mesh- und Texturvarianten
+							- Harpie	(Weibliches Wesen mit Fl¸geln und Krallen... Animationen noch nicht komplett fertig...)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+23.11.2000
+-----------
+	Magie:				- Script-Logik f¸r alle Magie-Spr¸che ¸berarbeitet
+						- Details zum aktuellen Stand in der Datei "Magie_Spruchliste1.doc" im Gothic_Shared_Data\Figuren-Verzeichnis
+						
+	Monster:			- neue Mesh- und Texturvarianten
+							- SkeletonMage	(Schwebendes Skelett mit Umhang... Animationen noch nicht komplett fertig...)
+							- OrcShamanUndead
+							- OrcWarriorUndead
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+08.11.2000
+-----------
+	Magie:				- Script-Logik f¸r Ice-Cube, IceWave, Berzerk, Shrink, und diverse ƒnderungen an bestehenden Magie-Scripten	
+					
+	Monster:			- neue Mesh- und Texturvarianten (noch nicht final)
+							- GolemIce		(Variante von Golem)
+							- GolemFire		(Variante von Golem)
+							- Demon2		(Variante von Demon)
+	
+	R¸stung:			- neue R¸stung "STT_ARMOR_H" (heavy Shadows Armor)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+26.10.2000
+-----------
+	Magie:				- Neue Magiespr¸che (Magiescripte, Artifacts und Rockefeller-Scripte entsprechend erweitert)	
+					
+	Monster:			- neue Mesh- und Texturvarianten (noch nicht final)
+							- Bloodhound	(Variante von Shadowbeast)
+							- Razor			(Variante von Snapper)
+							- Scavenger2	(Variante von Scavenger)
+	
+	Babe:				- "Datenfix" f¸r Texturkonvertierung. Alle 7 Kopf und 6 Kˆrper-Varianten werden richtig dargestellt
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+11.10.2000
+-----------
+	Humans:				- CS-Anis : Groﬂe Beschwˆrung
+						- CS-Anis : Intro
+						
+	Monster:			- div. Fixes an JumpUp-Anis f¸r Monster
+						- Orc Item-Interacts, Tuning, Magie-Modus
+						- Shadowbeast: Dead
+	
+	Babe:				- Look-Ani
+						- Facial Expressions
+						- Walk/RunLoop neu
+		
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+04.10.2000
+-----------
+	Monster:			- Animationen der ORCs ¸berarbeitet, Probleme behoben
+						- Orcdog ist jetzt Variante des Wolfs, alter Orcdog ist raus
+
+	Humans:				- Sneak-Posen verbessert
+						- Gesichts-Anis f¸r Babes	
+						- Walk und Run f¸r Babes verbessert und neues Mobsi (Badezuber) ;-)
+						- Ruckler bei Dialoggesten minimiert
+						- jede Menge kosmetischer fixes...
+
+	Texturen:			- neue Menu-Grafiken von Kai (Work in Progress)
+						- Texturvariation f¸r Wachen im Intro
+						- Nackt-Textur und Badezuber-Mobsi f¸r Babe
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+12.09.2000
+-----------
+	Monster:			- Animationen aller Monster ¸berarbeitet, Ruckler entfernt, ...
+						- Gobbo, Minecrawler: Meshes und Texturierung verbessert
+
+	Humans:				- Magie-Anis verbessert
+	
+	
+	Texturen:			- neuer LOADING-Screen mit aktuellstem GOTHIC-Schriftzug und in hˆherer Auflˆsung
+	Fonts:				- "handgeschriebener" Font (Scrolls.tga) f¸r Beschriftung von Karten und Schriftst¸cken
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+15.08.2000:
+-----------
+	Monster:			- Monster Cosmetic Fixes Bloodfly, Golem, Minecrawler, Demon, Gobbo, Lurker
+						- Gobbo: Drehschl‰ge raus
+						- Wolf, Shadowbeast, Molerat: neues Rest & Roam Verfahren (Stefan N.) eingebaut
+							
+	Humans:				- 1x1 Platzhalter-Texturen im Heads\C0 Verzeichnis auf 4x4 vergrˆﬂert
+						- Schrumpf-Kˆpfe gefixed
+						- RicePick Anis ¸berarbeitet
+						- neue Door-Anis
+						- neues Dialog-Ani System (alte Daten weiterhin drin)
+							*Ambient-Haltungen f¸r Dialoge
+							*aktive Dialoggesten (f¸r Sprecher)
+							*passive Dialoggesten (f¸r Zuhˆrer)
+						
+	Mobsi:				- Ropeway: Hebel auf Platform bugsiert
+							
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+07.08.2000:
+-----------
+	Monster:			- Monster komplettiert, neue (coole?) Strafings, Attacke aus dem Rennen
+						
+						- Scavenger Texturvariation (Sca_Body_V1.tga)
+						
+						- Zombie als eigenst‰ndiges Monster, nicht mehr Humans-Overlay-MDS
+		
+
+	Humans:				- Tuning Blendingwerte Script-Anis, Ruckler entfernt
+						
+						- Fernkampftalente ausgebaut (Overlay-MDSses)
+						
+						- Humans.mds durchkommentiert, besonders Script-Anis (am Ende der Datei zu finden)
+						
+						- ƒnderungen an den Walkstyle-Overlay-MDSses
+							Humans_WalkA1.mds  => Humans_Arrogance.mds    (Walkmode usw. waren f¸r EBR eingeplant)
+							Humans_WalkA2.mds  => Humans_Relaxed.mds (lockere Gangart und Sitzanis - Chair, Bench usw.)
+							Humans_WalkA3.mds  => Humans_Militia.mds (strammes "Marschieren" als Walk,war f¸r SLD/GRD angedacht)
+							Humans_WalkA4.mds  => Humans_Tired.mds (m¸de Gangart, Arme h‰ngen,"hoffnungslose" Haltungen)
+							Humans_WalkMage.mds => Humans_Mage.mds (H‰nde in "ƒrmel" gesteckt, leicht gestelzt)
+						
+						- neue Wachanimationen, 1x Wache mit leichter R¸stung (LGUARD), 1x Wache mit schwerer R¸stung (HGUARD)
+
+						- statische State-Anis durch Ambientbewegungen aufgelockert
+
+						- Ani f¸r Practice Magic, weitere folgen (t_practicemagic)
+						
+						- auf Boden schlafen als Script-Ani
+	
+						- neue Script-Anis f¸r Humans_Drunken.mds (auf Boden schlafen, Pinkeln, Waffe ziehen, Losrennen und hinfallen)
+						
+						- neue Anis inklusive Randoms f¸r Essen, Trinken
+						
+						
+	
+	Mobsi:				- neues Mobsi: BARBQ_SCAV, Chickenstick
+					
+						- Mobsi BARRELO (Versteck-Fass) vergrˆﬂert f¸r "dicke" Jungs
+
+	
+	Desktop-Texturen: 	- Dummy-Texturen f¸r die neuen Textboxen und YES/NO-Choice-Box. Alte Daumen-GFX entfernt
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+18.07.2000:
+-----------
+	Monster:			- neues Orc-Head Textur, Frikadelle raus	
+						- Babe C3 Variation
+						- neue Anis:
+							Bloodfly: 		WalkTurn, DeadB
+							Demon:			DeadB, WhirlAround
+							Crawler:		FreeLook
+							Orc:			2hAmbient, Warn
+							Swampshark:		Perception, Whirlaround, WalkTurns, Warn
+							Wolf:			SitDown
+							Golem:			Dead, Warn, Perception
+							Orcdog:			Warn, Perception
+							Shadowbeast:	Perception, Eat-Loop
+							Snapper:		WalkLoop
+							Waran:			Sleep, Perception
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+07.07.2000:
+-----------
+
+	Monster:			- Fix: Orcdog Mesh, Z‰hne nicht mehr durch den Kopf
+						- Scavenger: neuer Attack
+						- Shadow: neuer t_warn
+
+	Human:				- neuer Swim/SwimBAck
+						- neue SitOnFloor-Variationen in Humans_WalkA.mds Overlays
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+01.07.2000:
+-----------
+	Mobsi:				- besser Synchronisierung zwischen Ani, SFX u. PFX bei Pick_Ore, im ganzen z¸giger
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+26.06.2000:
+-----------
+	Monster:			- Umstellung Random Anis auf R_ROAMx u. R_RESTx (AI-Vorgaben v. Stefan N.)
+						  einhergehend mit Aufstockung div. Monster um weitere Random-Anis 
+						- CrwQueen NEU Textur+Bones inklusive Steinplatte und Schleimf‰den (Level passend machen ?)
+						- Run/WaterWalk/Swim - Fix laut Ulf
+						- Attacks aus der Bewegung: Gobbo, Lurker, Molerat, Orcdog, Scavenger, Snapper, Shadowbeast, Waran, Wolf
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+23.06.2000:
+-----------
+	Human:				- HUMANS_CARRYBASKET.MDS als TA_PickRice Overlay-MDS, WALK = Korb unterm Arm und langsam gehen,RUN = Gehen mit Korb in einer Hand
+						  T_PICKRICE als Aufheben-Ani benutzen
+	Mobsi:				- BASKET_RICE.ASC als neues tragbares Objekt (-->Overlay) f¸r TA_PickRice
+
+	Monster:			- Attack-Moves aus dem Laufen f¸r Snapper, Scavenger, Orcdog, Gobbo
+						- neue Orc_Warrior Texturen
+
+19,06.2000:
+-----------
+	Human:				- T_PEE wieder drin (PFX ?)
+						- T_SEARCH ohne Schulterzuck --> neue Ani T_NOTHINGFOUND
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+12.06.2000:
+-----------
+	Armors:				- mal wieder SLD <--> GRD
+	
+	Monster:			- div. Fixes, Wolf, Shadowbeast, neue MDS (<--kai)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+10.06.2000:
+-----------
+	Mobsi:				- ORE_GROUND skaliert, neu FIREPLACE_ORCSTAND (Orctempel)
+
+	Monster:			- div, Fixes
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+09.06.2000:
+-----------
+	Monster:			- div. Fixes gem. Feedback Stefan/Kai/QA
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+06.06.2000				Z.Z. BEI EINIGEN MONSTER S_SURPRISE = S_FISTRUN, WOHL PROBS MIT MODELENGINE ƒNDERUNGEN
+----------
+	Monster:			- Babe Mobsi Door, Babebed, Ladder, Chair, Bench
+						- Orcs Mobsi: Bedlow, Chair, Fireplace, Idol, Ladder, Lever, Touchplate, VWheel
+								Item: Potion, Foodhuge, Alarmhorn
+							    FP:	  Pray (T_STAND_2_PRAY), Orcdance (T_DANCE, T_DANCE_RANDOM1)
+								Orc_Drunken.MDS Overlay
+
+						- Wolf NEW: Dead, Run
+						- Waran NEW: Dead, JumpB, 
+						- Snapper NEW: Swim, Dive
+						- Scavenger NEW: Swim, JumpB
+						- Orcdog NEW: Strafe, Run, Walk, Attack
+						- Molerat NEW: Strafe, Jump
+					
+	Mobsi:				- LOVEBED MUSS RAUS !!! daf¸r BABEBED (andere Ausrichtung)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+05.06.2000
+----------
+	Monster:			- FIX Orcs, 1h --> 2h 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+03.06.2000
+----------
+	Monster:			- neue Orc-Anis, Fist-Mode, Kriegstanz (siehe dazu scripts\anims\_work\zs_orcwardance.d sowie hangaround.d (orc-Instanzen)),
+						  Item-Interact
+			
+	Level:				- AI_testlevel um "Meﬂraum" erweitert (--> Jochen/Mike)
+						- FPs sowie Drums f¸r Orc Kriegstanz
+
+						(In die GOTHIC.SRC die dateien ANIMS\_WORK\ZS_ORCWARDANCE.D und ANIMS\_WORK\HANGAROUND.D aufnehmen, im AI_Testlevel zu WORLD_FOREST_2,
+						und dort 2x "Insert Orcdrummer" und 3x "Insert Orcdancer") Viel Spaﬂ !
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+31.05.2000
+----------
+	Monster:			- Look+Strafe Demon, Gobbo RunAttack + Normalmode, Bloodfly diverses
+	
+	R¸stung:			- da war schon wieder ein Gardistensˆldner, aber diesmal endg¸tltig (?)	
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+30.05.2000
+----------
+	Monster:			- Stumble/Look Swampshark
+						- Strafe Bloodfly
+
+	Meshes:				- neue invisible_zCxxxxx  Meshes f¸r Spacer ( -> Carsten)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+29.05.2000
+----------
+	Kampf:				- FIX Schwertstellung Drehschl‰ge
+
+	Mobsi/FP:			- Pray in FP-Methodik dabei ("T_STAND_2_PRAY", "S_PRAY", "T_PRAY_2_STAND", "T_PRAY_RANDOM")
+
+	Monster:			- FIX "Hochploppen" beim Springen 
+
+	Item-Interact:		- Umbau der FOOD, FOODHUGE, RICE, SOUP, JOINT Interaktionen auf Random-Anis (Test z.Z. nicht mˆglich wg. AI-Bug)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+26.05.2000
+----------
+	Monster:			- Meatbug jetzt ohne Kampf
+	
+	Mobsi:				- div. Fixes (Cauldron, kleiner Thron, Ropeway, smallChest, Fireplace)
+
+	Kampf:				- alle Kampfmodi togglen aus der Bewegung 
+						- Vorbereitung f¸r neue FK-Talente, Overlays vorbereitet 
+							HUMANS_BOWT1.MDS				Bogenschieﬂen Talentstufe 1
+							HUMANS_BOWT2.MDS				Bogenschieﬂen Talentstufe 2
+							HUMANS_BOWT3.MDS				Bogenschieﬂen Talentstufe 3
+
+							HUMANS_CBOWT1.MDS				Armbrust Talentstufe 1
+							HUMANS_CBOWT2.MDS				Armbrust Talentstufe 2
+							HUMANS_CBOWT3.MDS				Armbrust Talentstufe 3
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+24.05.2000
+----------
+	Mobsi:				- Erz-Seilbahn-Mobsi am Spielstart neu (mit Mario) wg. Level‰nderung
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+23.05.2000
+----------
+	Animationen:		- Fix Swampshark (funzt wieder, neu-kompilieren hÑtte ausgereicht :-( )
+						- Fist-Mode Human neu
+						- 2h-Moves Update
+
+	Texturen:			- div. neue Texturen RÅstungen
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+10.05.2000
+----------
+	Animationen:		- Fix Golem-Dead
+						- neue Monster-MDS mit SFX (<-- KAI)
+						- Fixes Human
+
+	Scripts:			- neue Species.d, Humans Wassertiefen
+						- Spell.d: Transform fÅr alle Monster ( --> KAI)
+						- neu: ZS_Babe_Dance (--> JOCHEN)
+
+	Texturen:			- fix: Hum_Head_MAIN_V11_C0.tga (Milten)
+						- fix: Hum_Body_Naked_V0_C1.tga und _V1
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+09.05.2000 b
+----------
+	Animationen:		- div. Monster-SFX (<--Kai)
+
+	Mobsi:				- Fix: Bip01 Fire Position FIREPLACE_PCHIGH2.MDS
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+09.05.2000
+----------
+	Animationen:		- HUMANS_WALKMAGE.MDS --> HUMANS_WALKA5.MDS, neuer Buddler-Walk (HUMANS_WALKA4.MDS)
+
+	Scripts:			- Species.d aktualisiert
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+08.05.2000
+----------
+	Monster:			- fehlende Monster-Anis (fÅr AI) eingebaut
+						- fehlerhafte Overlay-MDSses korrigiert, derzeit inaktiv bzw. nicht up-to-date wg. fehlender Daten
+						  HUMANS_DRUNKEN.MDS, HUMANS_MAD.MDS, HUMANS_WOUNDED.MDS
+
+	Mobsi:				- Korrektur Bedlow (PC/NC) Animationen und Mesh
+					   	- neue Cauldron
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+07.05.2000
+----------
+	Texturen:			- neuer Pool Nebencharaktere (Hum_Head_*.tga)
+	
+	Monster:			- div. Anis fÅr Monster implemtiert
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+03.05.2000 BUGFIX RELEASE
+----------
+	Meshes:				- Orcs: neue Kopf-MMS (ORC_HEADWARRIOR, ORC_HEADSHAMAN), AI wurde informiert
+						- Humans: neue Kopf-MMS (HUM_HEAD_MA_BALD, _FATBALD, _FIGHTER, _PSIONIC, _THIEF, _PONYTAIL) fÅr
+						  Hauptcharaktere
+
+	Texturen:			- Hauptcharakter-Kopftexturen (HUM_HEAD_MAINNPC_V0 bis _V21). !!! BEI VERTEILUNG AUF HAUTFARBE ACHTEN !!!
+
+	Level:				- AI-Testlevel (Wasser funzt), 3 ORE-Mobsis fÅr verschiedene Hîhen
+
+	Overlay-MDS:		- WALKA1 fÅr EBR gedacht
+	
+	Kampf:				- 2h Talent 1 (untested) da Bugfix noch aussteht, Humans_2hST1 bis Humans_2hST3 (analog zu T1),
+						  Attacks in öberarbeitung, bisher alle = T1
+
+	Animationen:		- Umstellung Humans.mds s_look -> t_look sowie alle weiteren Look-énhlichen (Point etc.), Umstellung
+						  Monster.mds auf t_look
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+29.04.2000
+----------
+	Animation			- 1h-Kampf neu (Axe = Sword), untalentiert, Talent 1,2 und 3
+						- Finishing Moves + Opfer-Anis
+						- Bow/CBow neu
+
+	Items				- Armors Umstellung GRD <-> SLD endgÅltig (?) durch
+						- neue Waffenmeshes (<-Horst)
+
+	Texturen			- Aufteilung Head-Textures in 'Pool' (C0 bis C3) und 'MainActors'
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+22.03.2000
+----------
+	Umstrukturierung Nomenklatur gemÑ· Figuren_System.doc (Meshes, Texturen)
+
+	Overlay-MDS:		- eigene CHAIR-Anis pro alternativem Overlay (Humans_WalkA?.MDS)
+						- Vorbereitung der Talentstufen-Overlays auf Kampfsystem
+	
+	Texturen			- 12 Nacktmesh-Variationen pro Hautfarbe
+						- div. neue Texturen fÅr Monster 
+
+	Mobsi				- ORE_GROUND.MDS reicht nun fÅr Hîhe 0 bis 200cm
+						- Leitern haben nun lÑngere Holme, N/SC greift an die Holme und nicht mehr an die Sprossen
+
+	Items				- SCDENIED wieder raus
+						- neue Armor-Inventory-Visuals
+						- Morph-Longbow mit beweglicher Sehne (TEST)
+						- Entfernung SCHEME-NAME bei Bagpipe, Drumscheit, Cello und Harp
+
+	Animation			- Sound-Update fÅr div. Monster/Mobsis (Kai)
+						- Vorbereitung Humans.mds auf Kampfsystem (Combo, aniComb, Parades, AttackL/R, Wounded/B (k.o.), Finishing Moves)
+
+	Level				- AI_TESTLEVEL.ZEN *neu* (Kletterraum, Mobsi-Raum, Monster-Arena)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+	
+29.02.2000
+----------
+	Neue Items:
+		SCDENIED		Dummy-Item als 'useWithItem'-Instanz fÅr Mobsis die fÅr SC tabu sein sollen
+		ITMISTOMPER		Stampfer-Item fÅr HERB_PSI.MDS Mobsi
+		ITFORAWMEAT		Rohes Fleisch fÅr PAN_OC.MDS ItFoRawMeat=> ItFoMutton
+		ITMIFLASK		Flasche fÅr TA_PotionAlchemy
+
+	Umstrukturierung	Mob-Interaktion
+
+		LAB_PSI.MDS		S1 Loop, useWithItem:ItMiFlask,
+		PAN_OC.MDS		S1 Loop, useWithItem:ItFoRawMeat
+		HERB_PSI.MDS	S1 Loop, uswWithItem:ItMiStomper
+		IDOL_			S1 Loop
+		ORE_XXXX.ASC	S1 Hack-Loop, useWithItem:ItMwPickaxe
+		BOOK_BLUE.MDS	S1 Loop
+		
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+25.02.2000
+----------
+	MOBSI:	
+		ORE_GROUND.ASC	(z=0cm)
+		ORE_MIDDLE.ASC	(z=100cm);
+		ORE_HIGH.ASC	(z=200cm);
+						Mobsis fÅr TA_PickOre - useWithItem:"ITMWPICKAXE"
+
+	Modelle:
+		Waran			Update 
+		Wolf			Update 
+		Razor			Update 
+		
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+23.02.2000
+----------
+	Modelle:
+		Babes			neues Biped, Animationsumfang temporÑr verringert (Run&Walk)
+		
+	Armors:				alle drin
+
+	MOBSIs				alle Bed* Mobsis als oCMobDoor realisiert (<-Einsteigen von 2 Seiten mit unterschiedlichen Anis mîglich)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+21.02.2000
+----------
+	-Update der Monster-Scripts
+	-Update der In-Extremo Konzert-ZustÑnde (ZS_IE*) 	( ->Jochen )
+	-Update der TA.D fÅr In Extremo						( ->Jochen )
+
+	Modelle:
+		Razor			(RAZOR) added
+		Waran			(WARAN) added
+		Golem			updated
+		Wolf			updated
+
+	Animation:
+						In Extremo "Musik-Video" komplett auf MOBSIs (useWithItem) umgestellt:
+						NPC:							Mob-Visual:				Keyword:		useWithItem:
+						--------------------------------------------------------------------------------------
+						INEXTREMO_THEFLAIL				DRUM_IE.ASC 			DRUM			ITMIDRUMSTICK
+						INEXTREMO_THOMASTHEFORGER		MCELLO_IE.ASC			MCELLO			ITMICELLO
+						INEXTREMO_UNICORN				MLUTE_IE.ASC			MLUTE			ITMILUTE
+						INEXTREMO_YELLOWPFEIFFER		MPIPE_IE.ASC			MPIPE			ITMIYELLOWPIPE
+						INEXTREMO_FLEX					MPIPE_IE.ASC			MPIPE			ITMIBLUEPIPE
+						INEXTREMO_LUTTER				MDRUMSCHEIT_IE.ASC		MDRUMSCHEIT		ITMIDRUMSCHEIT
+						INEXTREMO_DRPYMONTE				MHARP_IE.ASC			MHARP			ITMIHARP		
+						
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+17.02.2000
+----------
+	Morp-Meshes (.MMS):
+	
+	Misc:
+						(added)
+						BUSH_MESH.MMS, BUSH2_MESH.MMS, BUSH4_MESH.MMS, BUSH7_MESH.MMS, BUSH8_MESH.MMS, BUSHWATER_MESH.MMS
+						(als zCVobAnimate einsetzen, wenn mîglich "Dynamic Collision" auslassen)
+
+	Overlay-MDS:
+		
+		Humans_1hST1.MDS	(data change auf neues Kampfsystem)
+		Humans_1hST2.MDS	(data change auf neues Kampfsystem)
+	
+						(added)
+		Humans_1hST3.MDS	fÅr 1h-Schwertkampf Talentstufe 3
+	
+	ARMOR:
+						korrekte ARMOR.D vorhanden, 
+						aber noch alte Datei im UPDATE da NSC-Scripte erst geÑndert werden mÅssen (-> Story)
+
+	Items:
+						In Extremo Musikinstrumente neu exportiert (->erneute Ani-Anpassung notwendig, Bugtrack #443) 
+						temporÑr Item-Interaktion mit Instrumenten fÅr Nicht-In-Extremos entfernt
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+14.02.2000
+----------
+	Overlay-MDS:
+	
+		Humans_
+		Humans_CarryBackpack.mds	added
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+10.02.2000
+----------
+	Modelle:
+	
+		Human			(PC_ROCKEFELLER, PC_FIGHTER, PC_HERO, PC_MAGE, PC_PSIONIC, PC_THIEF)
+		Babe			(NPC_BABE)
+		
+		Blutfliege		(BLOODFLY)
+		Minecrawler		(CRAWLER)
+		Crawler-Queen	(CRWQUEEN)
+		DÑmon			(DEMON)
+		Gobbo			(GOBBO)
+		Golem			(GOLEM)
+		Fleischwanze	(MEATBUG)
+		Molerat			(MOLERAT)
+		Orc				(ORC_WARRIOR, ORC_SCOUT, ORC_SHAMANE)
+		Attack Chicken	(SCAVENGER)
+		Shadowbeast		(SHADOW)
+		Razor			(RAZOR)
+		Lurker			(SNAPPER)
+		Sumpfhai		(SWAMPSHARK)
+		Troll			(TROLL)
+		Wolf			(WOLF)
+		Zombie			(ZOMBIE1, ZOMBIE2, ZOMBIE3, ZOMBIE4)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+	Morph-Meshes (.MMS):
+
+		Heads			Bab_Head_Hair1, Bab_Head_Hair2
+						Hum_Head_Std_Bald, Hum_Head_Std_Hair, Hum_Head_Std_Pony	(Standard-Gesicht inkl. Frisurvariationen Glatze, Haar, PferdeschwÑnzchen)
+						Hum_Head_Fig_Bald, Hum_Head_Fig_Hair, Hum_Head_Fig_Pony	(PC_Fighter Gesicht + Variationen)
+						Hum_Head_Psi_Bald, Hum_Head_Psi_Hair, Hum_Head_Psi_Pony (PC_Psionic Gesicht + Variationen)
+						Hum_Head_Thi_Bald, Hum_Head_Thi_Hair, Hum_Head_Thi_Pony (PC_Psionic Gesicht + Variationen)
+				
+						Gob_Head_V0, Gob_Head_V1		(Gobbo Kîpfe grÅn + braun)
+						Orc_Head
+						Zom_Head_1, Zom_Head_2, Zom_Head_3, Zom_Head_4
+
+			(untested)
+		Misc			BUSH_MESH.MMS			(wackelnder Busch)
+						FLAG_MESH.MMS			(im Wind flatternde Fahne)
+						ITRWLONGBOW.MMS			(Ranged-Weapons Longbow mit biegender Sehne)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+	Overlay-MDS:
+
+		Babe_Sexy.MDS			Alternativer Walk-Loop
+
+		HumanS_Zombie.MDS		fÅr Zombie-Model
+		HumanS_Skeleton.MDS		spezielle Todes-Ani fÅr Skelett-Model ("free" Biped)
+
+		HumanS_Acrobatic.MDS	fÅr Akrobatik-Talent
+		HumanS_Wounded.MDS		fÅr 1 Lebenspîppel
+		HumanS_Drunken.MDS		fÅr ZS_DRUNK
+		HumanS_Carry.MDS		Default-Tragen (Backpack)
+		HumanS_Mad.MDS			wahnsinnig sein
+		HumanS_Sprint.MDS		fÅr schnelleres Rennen
+		HumanS_Swim.MDS			fÅr schnelleres Schwimmen
+		
+		HumanS_WalkA1.MDS		alternativer Walk-Loop #1
+		HumanS_WalkA2.MDS		alternativer Walk-Loop #2
+		HumanS_WalkA3.MDS		alternativer Walk-Loop #3
+		HumanS_WalkMage.MDS		alternativer Walk-Loop (fÅr NSCs mit Magierkutten KDF_, KDW_)
+
+		HumanS_1hST1.MDS		fÅr 1h-Schwertkampf Talentstufe 1				
+		HumanS_1hST2.MDS		fÅr 1h-Schwertkampf Talentstufe 2				
+	
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+	MOBSIs:
+		
+		Truhen&Container	BACKAPCK_1.MDS, 
+							CHESTBIG_OCCHESTLARGE.MDS, CHESTBIG_OCCHESTLARGELOCKED.MDS
+							CHESTBIG_OCRATELARGE.MDS, CHESTBIG_OCCRATELARGELOCKED.MDS
+							CHESTBIG_OCCHESTMEDIUM.MDS, CHESTBIG_OCCHESTMEDIUMLOCKED.MDS
+							CHESTSMALL_OCCHESTSMALL.MDS, CHESTSMALL_OCCHESTSMALLLOCKED.MDS
+							CHESTSMALL_OCCRATESMALL.MDS
+							CHESTSMALL_OCCRATESMALLLOCKED,MDS
+							
+		Betten				BED_1_OC.ASC, BED_2_OC.ASC, BEDHIGH_PC.ASC, BEDHIGH_NC.ASC, BEDLOW_NC.ASC, BEDLOW_OC.ASC, BEDLOW_PC.ASC
+		
+		StÅhle				CHAIR_1_NC.ASC, CHAIR_2_NC.ASC, CHAIR_3_OC.ASC, CHAIR_1_OC.ASC, CHAIR_2_OC.ASC, CHAIR_1_PC.MDS, CHAIR_2_PC.MDS
+							CHAIR_THRONE.ASC
+							THRONE_BIG.ASC
+
+		BÑnke				BENCH_1_NC.ASC, BENCH_1_OC.ASC, BENCH_2_OC.ASC, BENCH_3_OC.ASC
+
+		Leitern				LADDER_X.ASC ( X = 2-10 = 2m bis 10m in 1m-Schritten)
+							CLIMB_X.ASC ( X =2-12 = 4m bis 24m in 2m Schritten)	
+
+		Lichtquellen		FIREPLACE_GROUND.MDS, FIREPLACE_GROUND2.MDS
+							FIREPLACE_HIGH.MDS, FIREPLACE_HIGH2.MDS
+							FIREPLACE_MIDDLE.MDS, FIREPLACE_NCSTONE.MDS, FIREPLACE_NCSTONE2.MDS
+							FIREPLACE_PCBOWL.MDS, FIREPLACE_PCHIGH.MDS
+
+		Schmiede			BSANVIL_OC.MDS (ItMiSwordRawHot), BSCOOL_OC.MDS (ItMiSwordBladeHot), 
+							BSFIRE_OC.MDS (ItMiSwordRaw), BSSHARP_OC.MDS (ItMiSwordBlade)
+		
+		TÅr					DOOR_WOODEN.MDS, SECRETDOOR_STONE.MDS
+		
+		Steingrab			GRAVE_ORC_1.MDS, GRAVE_ORC_2.MDS, GRAVE_ORC_3.MDS, GRAVE_ORC_4.MDS
+		
+		Krautstampfer		HERB_PSI.MDS
+
+		Destille			LAB_PSI.MDS
+
+		Trigger				LEVER_1_OC.MDS, PRIESTGRAVE_OT.ASC, PUSH_STONE.MDS, TOUCHPLACE_STONE, TURNSWITCH_BLOCK.MDS, VWHEEL_1_OC.MDS
+
+		Diverses			STOMPER_OM.MDS, STONESMILL_OM.MDS, REPAIR_PLANK.ASC, PILLAR_ORC.MDS, SMOKE_WATERPIPE.MDS, WASH_SLOT.MDS, ROPEWAY_OW.MDS
+							SPORTAL_SLEEPER.MDS, BARRELO_OC.MDS, PAN_OC.MDS, BELLOW_MINE.MDS, BOOK_BLUE.MDS, IDOL_SLEEPER3_PC.ASC, DRUM_IE.ASC
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+	ARMOR:
+							DMB_ARMOR_L, DMB_ARMOR_M
+		                    			 EBR_ARMOR_M, EBR_ARMOR_H, EBR_ARMOR_H2
+                            GRD_ARMOR_L, GRD_ARMOR_M, GRD_ARMOR_H
+                            			 GUR_ARMOR_M, GUR_ARMOR_H
+                            KDF_ARMOR_L, KDF_ARMOR_M
+                            KDW_ARMOR_L, KDW_ARMOR_M, KDW_ARMOR_H
+                            NOV_ARMOR_L, NOV_ARMOR_M, NOV_ARMOR_H
+                            ORG_ARMOR_L, ORG_ARMOR_M, ORG_ARMOR_H
+                            SFB_ARMOR_L
+                            SLD_ARMOR_L, SLD_ARMOR_M, SLD_ARMOR_H
+                            STT_ARMOR_L, STT_ARMOR_M
+                            TPL_ARMOR_L, TPL_ARMOR_M, TPL_ARMOR_H
+                            VLK_ARMOR_M
+                            VLK_ARMOR_L
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 

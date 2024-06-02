@@ -1,0 +1,626 @@
+ **************************************************
+ ** Spacer                                       **
+ **************************************************
+ ** Mad Scientists                               **
+ **    Dieter Hildebrandt                        **
+ **    Ulf Wohlers                               **
+ **    Bert Speckels                             **
+ ** dieter.hildebrandt@fortytwo.uni-oldenburg.de **
+ ** ulf.wohlers@debitel.net                      **
+ **************************************************
+
+Revision History:
+*****************
+
+  ! Note
+  * Change/Fix
+  + Added feature
+  - Removed feature
+
+---- FÜR BUGFIXES BITTE IN DEN TESTTRACKER SCHAUEN ---
+
+
+Spacer 1.28 06.12.2000
+**********************
+- Alle Programmierer beteiligt.
+
+
+Spacer 1.27 22.11.2000
+**********************
+- Alle Programmierer beteiligt.
+
+
+Spacer 1.26 08.11.2000
+**********************
+- Alle Programmierer beteiligt.
+- Neue Miles DLL 6.0k
+
+Spacer 1.25 26.10.2000
+**********************
+- Alle Programmierer beteiligt.
+- Neuer Pfad in der paths.d DIR_VIDEO für globale gerenderte Cutscenes
+- Neue DLL Binkw32.dll für globale gerenderte Cutscenes
+- Exe mit Intel Compiler 4.5 compiliert
+
+Spacer 1.24 11.10.2000
+**********************
+- alle Programmierer beteiligt.
+
+
+Spacer 1.23 05.10.2000
+**********************
+- alle Programmierer beteiligt.
+- neue DLLs für MSS/Heapmanager
+
+
+
+
+.
+.
+.
+
+ECTS/Publisher Versionen
+.
+.
+.
+
+  
+Spacer 1.17 07.08.2000
+***********************
+* zEngine 0.89
+* cSrc 0.89
+* uSrc 0.89
+* bSrc 0.89 (Game) / 1.17 (Spacer)
+
+Glide Version entfernt (d.h. Spacer & WinNT ab dieser Version nogo)
+
+  
+Spacer 1.16a 21.07.2000
+***********************
+* zEngine 0.92f
+* cSrc 0.88
+* uSrc 0.88
+* bSrc 0.88 (Game) / 1.16 (Spacer)
+
+
+
+Spacer 1.15b 14.07.2000
+***********************
+
+*cSrc 0.87
+*bSrc 1.15 (Spacer Core Src)/ 0.87 (Game Src)
+*uSrc 0.87
+*zEngine 0.92e
+
+Spacer 1.14a 29.06.2000
+***********************
+
+*bSrc 1.14a (Spacer Core Src)
+*zEngine 0.92d
+
+
+
+Spacer 1.14 27.06.2000
+***********************
+
+*cSrc 0.86
+*bSrc 1.14 (Spacer Core Src)/ 0.86 (Game Src)
+*uSrc 0.86
+*zEngine 0.92c
+
+Neue zusätzliche Exe spacer_pdb.exe für alternative Debugging Mechanismen
+
+Spacer 1.13b 15.06.2000
+***********************
+
+*cSrc 0.85a
+*bSrc 1.13b (Spacer Core Src)
+*zEngine 0.92b
+
+
+NEU: Miles DLL Version 6.0h
+NEU: Zusätzliche Exe Spacer_Glide.exe: Läuft auch unter NT, dann allerdings nur mit Voodoo Karten.
+
+
+Spacer 1.13 12.06.2000
+**********************
+  
+*bSrc 1.13 (Spacer Core Src)
+*zEngine 0.92
+  
+
+
+Spacer 1.12a 10.06.2000
+**********************
+  
+*uSrc 0.84
+*bSrc 1.12 (Spacer Core Src)
+*cSrc 0.84a
+*zEngine 0.91
+
+
+
+
+Spacer 1.12 08.06.2000
+**********************
+  
+*uSrc 0.84
+*bSrc 1.12 (Spacer Core Src)
+*cSrc 0.84
+*zEngine 0.91
+
+
+Spacer 1.11 08.06.2000
+**********************
+  
+*uSrc 0.83
+*bSrc 1.11 (Spacer Core Src)
+*cSrc 0.83
+
+Bitte die Changes von Bert lesen (D3D Hinweis)
+
+  
+Spacer 1.1 23.05.2000
+*********************
+  
+*uSrc 0.82 
+*bSrc 0.82
+*cSrc 0.82
+*zEngine 0.90
+  
+Bugfixes siehe Filter im Testtracker
+  
+
+Spacer 1.09 08.05.2000
+**********************
+*uSrc 0.81
+*bSrc 0.81 (Engine/Game)/ 1.09 (Spacer)
+*cSrc 0.81
+*zEngine 0.89i
+
+Bugfixes siehe Filter im Testtracker
+
+
+
+Spacer 1.08 08.05.2000
+***********************
+*uSrc 0.80
+*bSrc 0.80 (Engine/Game)/ 1.08 (Spacer)
+*cSrc 0.80
+*zEngine 0.89g
+
+Bugfixes siehe Filter im Testtracker
+
+
+
+Spacer 1.07c 06.05.2000
+***********************
+
+Bugfixes siehe Filter im Testtracker
+
+
+
+Spacer 1.07b 04.05.2000
+***********************
+
+*zEngine 0.89e
+
+Bugfixes siehe Filter im Testtracker
+
+
+Spacer 1.07a 04.05.2000
+***********************
+
+*cSrc 0.79a
+*uSrc 0.79a
+*bSrc 0.79a (Engine/Game) / 1.07a (Spacer)
+*zEngine 0.89d
+
+Bugfixes siehe Filter im Testtracker
+
+
+
+Spacer 1.07 28.04.2000
+**********************
+* cSrc 0.79
+* uSrc 0.79
+* bSrc 0.79 (Engine/Game) / 1.07 (Spacer)
+* zEngine 0.89a
+
+Bugfixes siehe Filter im Testtracker
+
+Spacer 1.06 20.04.2000
+**********************
+* cSrc 0.78
+* uSrc 0.78
+* bSrc 0.78(Engine/Game) / 1.06(Spacer)
+* zEngine 0.89a
+
+Bugfixes siehe Filter im Testtracker
+
+Spacer 1.05f 12.04.2000
+***********************
+
+Fixes siehe Testtracker Filter "Fixes Spacer 1.05f"
+
+
+Spacer 1.05e 06.04.2000
+***********************
+
+Fixes siehe Testtracker Filter "Fixes Spacer 1.05e"
+
+
+Spacer 1.05d 06.04.2000
+***********************
+*cSrc 0.77d
+*uSrc 0.77d
+*Spacer Core Src 0.57f
+
+
+Spacer 1.05c 05.04.2000
+***********************
+
+*uSrc 0.77c
+*cSrc 0.77c
+*Spacer Core Src 0.57e
+
+
+Spacer 1.05 22.03.2000
+**********************
+* uSrc 0.76
+* cSrc 0.77
+* bSrc 22.03.00
+* zEngine 0.88a
+* Spacer Core Src 0.57
+
+! Umstellung auf neue Verzeichnisstruktur
+! VDFS Unterstützung Teil 1 (noch ohne Kompression)
+
+
+Spacer 1.04a 03.03.2000
+***********************
+* cSrc 03.03.2000
+
+
+
+Spacer 1.04 28.02.2000
+***********************
+! Umstellung auf paths.d statt config.d. Diese muss im selben Verzeichnis wie das Executable liegen. 
+* Berts Spacer Core 0.56
+* bSrc 15.02.2000
+* cSrc 28.02.2000
+* aSrc 28.02.2000
+* uSrc 0.73c
+* zEngine 0.87e
+
+Spacer 1.03  08.02.2000
+***********************
+* zEngine 0.87
+! Trigger BBoxes können wieder in der Grösse verändert werden
+
+
+Spacer 1.02  04.02.2000
+***********************
+* Berts Spacer Core 0.53
+* aSrc 04.02.2000
+* bSrc 04.02.2000
+* cSrc 04.02.2000
+* uSrc 04.02.2000
+* zEngine 0.86
+
+
+Spacer 1.01  26.01.2000
+***********************
+*Berts Spacer Core 0.52
+*bSrc 25.01.00
+*cSrc 26.01.00
+*Defect #47  Texturrotation bei ungleichmäßigen Texturen (16x32)
+*Defect #??  kaputte .3ds Files werden rausgeschrieben
+*Defect #350 Waynet beim Laden der Surface.zen im Eimer
+! neue Doku Spacer.doc in Berts Exchange, bzw. im Phoenix_Docs Verzeichnis
+
+
+Spacer 1.0d 17.01.2000
+**********************
+* Logical Vob Editor Fix
+
+Spacer 1.0c 17.01.2000
+**********************
+*Hi-Level Texturemanagment: Es werden immer die Referenz Grössen von Texturen verwendet. (Rotationsproblem beim Texturieren)
+*potentielle Bugs im CS Sequencer gefixed (Andre)
+*Buttons im CS Sequencer werden richtig dargestellt
+
+
+Spacer 1.0b 17.01.2000
+***********************
+!Log Datei von Carsten Edenfeld übernommen
+
+*uSrc 0.71
+*Berts Spacer Core Src 0.50
+
+
+----------------------------------------------------------------------
+ Version 0.99b2, 17.1.2000
+----------------------------------------------------------------------
+
+- Vob-Selekt-Bug behoben
+- CANCEL-Button in "Do you want to save"-Dialog
+
+----------------------------------------------------------------------
+ Version 0.99b2, 12.1.2000
+----------------------------------------------------------------------
+
+- Carsten: Denk dran: Im Spacer muss jetzt die NONET definiert sein!!!!
+
+- Neue Buttons im Cutscene-Editor (muss Andre noch mit Leben füllen)
+  Vorerst also IGNORIEREN
+
+- Texturierung:
+  - Anpassung der Textur-Konvertierung in der Texturliste und -vorschau
+  - Texture-Movement-Speed auf der Materialpage einstellbar!
+    - 0.01 bis  0.1 in Schritten von 0.010
+	- 0.10 bis  2.0 in Schritten von 0.100
+	- 2.00 bis 10.0 in Schritten von 1.000
+
+- behobene Bugs
+  - Entfernen von Keyframes
+  - Absturz nach Load-Tmp-Doc (!pickVob)
+  - Insert as child: fälschlicherweise wurde beim rechtklick die Propertypage des angeklickten Vobs angezeigt
+  - Compiled im Editormode: Flag wird beim Laden eines Levels nun korrekt gesetzt
+  - Absturz beim Einfuegen einss Partikeleffekts ohne dass einer aus der LIste ausgewaehlt wurde
+
+----------------------------------------------------------------------
+ Version 0.99b, 10.1.2000
+----------------------------------------------------------------------
+
+- Carsten: Update von Ulfs oworld.cpp ist notwendig (Stichwort: AddVobAsChild)
+
+- Sound-Vorschau
+  - Button PLAY auf der Soundseite
+  - Sound wird nicht in die Welt eingefuegt, verhaelt sich aber so, als
+    waere die Quelle an der aktuellen Kameraposition zum Zeitpunkt des Einfuegens
+  
+- Invisible Vobs
+  - Invisible Vobs sind alle Vobs, die im Spiel kein Visual besitzen (Kamera, Sound, Licht etc.)
+  - Die im Spacer sichtbaren Visuals von "Invisible Vobs" werden nicht mit abgespeichert und beim Laden im Spacer generiert.
+ 
+- Ist der Parameter "-parse" angegeben, so werden die Parser-Einstellugen im Spacer ignoriert
+  und stattdessen der Parse-Parameter beruecksichtigt.
+
+- Aktuelle Sourcen
+  - Engine 0.85 integriert
+  - Gameversion vom 9.1.2000
+
+- Toolbars
+  - Einige Aenderungen an Toolbars zur besseren Unterscheidung
+
+- Special-Vobs
+  Auf der Special-Vob-Page habe ich Startpoints und Marker entfernt. 
+  Diese muessen nun ueber die dynamische Vob-Page erzeugt werden.
+
+- Popupmenüs für Vobs und Polygone über Tastenkombination aufrufbar: SHIFT+[^] (also auf den meisten Tastaturen das Gradzeichen "°")
+
+- Visuals/Meshes von Vobs:
+  
+  1. Viele Vobs bekommen ein Visual verpasst (entsprechend dem Eintrag im Vob-Dialog, dem Script etc.).
+  
+  2. Bei Vobs ohne Visual (Waypoints, Sound, Licht, Kamera, Sports, NICHT GEFUNDENE MESHES) wird nach einem Mesh mit ihrem
+  Klassennamen gesucht: z.B. zCVobSound.3ds. Diese Meshes sollten im Verzeichnis meshes\_intern abgelegt werden!
+  Damit kann man nicht nur Helpervobs ein Mesh verpassen, sondern auch Vobs, deren Mesh nicht gefunden wurde.
+  
+  3. Wird auch solch ein Mesh nicht gefunden, so wird nah dem Mesh zCVob.3ds gesucht!
+  
+  Achtung:
+  Dieter hat das Zuweisen eines Visuals fuer einige Vobklassen deaktiviert (z.B. Zones, Sounds)
+  Daran kann der Spacer leider auch nichts aendern!
+
+- Namenskonvention:
+  - Die eingebetteten Dialoge am unteren Bildschirmrand (verschiedene Vob-Typen, Materialien etc.)
+    heissen nun allgemein "Propertypages" oder kurz "Page".
+    Also z.B. NPC-Page, Item-Page, Dynamic-Vob-Page, Logical-Vobedit-Page
+
+
+
+----------------------------------------------------------------------
+ Version 0.99a, 5.1.2000
+----------------------------------------------------------------------
+
+- Neue Dateien: spcCInformationDlg.h/cpp
+
+- Speichern
+  - nur noch sinnvolle Optionen sind verfügbar
+    - Speichern eines compiled ZENs nur noch bei compilierten Leveln möglich
+	- EditorCompiled-Level können nicht mehr compiled abgespeichert werden
+  - Bennenung der Speicheroptionen vereinheitlicht
+  - Letzte Einstellung in einer Spacersession bleibt erhalten
+
+- Texture-Movement
+  Bei ausgeschaltetem Grid (SETTINGS-Menue oder Taste [G] erhaelt man eine Genauigkeit von 0.01 (statt vorher nur 1.0)!
+
+- Dirty-Flag
+  - Bei den meisten Aktionen merkt der Spacer nun, dass der Level
+    geändert wurde und weisst beim Wegwerfen des Levels darauf hin
+  - Dirtyflag ist in der Titelzeile "Spacer" als STERN (*) zu erkennen!
+
+- Neuer Menüpunkt TOOLS/INFORMATIONS
+  - Einige Wichtige Informationen über den Level können abgerufen werden
+
+
+----------------------------------------------------------------------
+ Version 0.99, 4.1.2000
+----------------------------------------------------------------------
+
+- Probleme mit GRADE-Netzwerkmodus behoben:
+  - Gradeparameter nonetwork wird berücksichtigt
+  - Dadurch werden diverse Hänger des Spacers (Oldcamp-Compile) behoben!
+
+
+----------------------------------------------------------------------
+ Version 0.98l, 3.1.2000
+----------------------------------------------------------------------
+
+- Shortcuts für Vob-Copy/Paste wieder deaktiviert, weil
+  1. bereits durch eine andere Funktion belegt
+  2. Ein Einfuegen immer in Zusammenhang mit einem ParentVob steht (deshalb nur ueber Mausklick-Popup verfuegbar)
+
+- Weitere Bugfixes
+  - Bug bei Parameterauswertung wurde behoben
+  - Bug des LOAD-MESH-Makros behoben
+  - Bug des COMPILE-WORLD-Makros behoben
+  - Bug bei PASTE-VOB behoben, wenn man den Vob als Child eines anderen Vobs einfügen wollte
+  - Absturz bei Benutzung von Kommandozeilenparametern behoben
+
+----------------------------------------------------------------------
+ Version 0.98k, 29.12.1999
+----------------------------------------------------------------------
+
+- Zahlreiche Warnings beim Compilen des Spacers behoben
+
+- Kommandozeile wird nun auch im Spacer beruecksichtigt
+  - NICHT ALLE PAREMETER SIND FUER DEN SPACER AUCH ERLAUBT
+    Erlaubt sind z.B.: zlog, znosound und znomusic (weitere koennten funktionieren, sind aber noch nicht getestet)
+	Erlaubt sind z.B. nicht: 3d, parse und zrnd
+
+- Copy&Paste von Vobs (siehe Popupmenü)
+  - Ein Vob kann nun als Kopiervorlage gewaehlt werden (COPY)
+  - Beim Einfuegen (PASTE) wird ein neuer Vob mit den Eigenschaften der Kopiervorlage (zum Zeitpunkt des COPY) erstellt.
+  - Dabei wird der Vobname um eine Nummer (VOBNAME01 etc.) ergänzt.
+  - Es gelten auch die bekannten Tastenkombinationen STRG+C (Copy) und STRG+V (Paste)
+
+- Nur zur Erinnerung, falls es einigen von Euch nicht (mehr) bekannt ist:
+  - Mit CTRL+Rechtklick kann man die Physik auf einen Vob anwenden, 
+    der dann dadruch auf den Boden faellt.
+	Eventuell ist das zweimal noetig, weil es einen recht niedirgen Timeout gibt
+	-> wenn sich ein Vob auch nach X Sekunden noch bewegt, wird die Physik wieder abgeschaltet.
+
+----------------------------------------------------------------------
+ Version 0.98j, 28.12.1999
+----------------------------------------------------------------------
+
+- Neue Makros (siehe spcMakros.doc im Spacer-Help-Verzeichnis)
+  - LOAD MESH (anstatt LOAD WORLD xxx.3ds)
+  - SAVE WORLD xxx.zen { COMPILED }
+  - SAVE MESH xxx.3ds
+
+- Speichern von Leveln:
+  - Die Spacer-Kamera wird nicht mehr entfernt
+    - Dadurch duerfte der Save-Crash vorerst umgangen sein (ist ein Workaround!)
+	- Beim Laden eines mit der neuen Version gespeicherten Levels, startet die Kamera so wieder am letzten Ort (und nicht am Ursprung)
+
+- Position
+  - Im Tools-Menue habe ich den Positions-Dialog erweitert.
+    Neben den Positionsdaten wird auch der lookAt-Vektor angezeigt. 
+	Der Button CopyToClipboard kopiert eine Zeile in die Zwischenablage, die die Lage der Kamera in der Welt beschreibt.
+	Beispiel: "unknown <-170.150513, 254.983276, 105.113411> at <0.777201, -0.406737, -0.480130>"
+	Benutzt dies bitte fuer Bugreports, wenn es um die Angabe einer genauen Position in einem Level geht!
+
+----------------------------------------------------------------------
+ Version 0.98i, 23.12.1999
+----------------------------------------------------------------------
+
+- Neue Dateien
+  - spcCPositionDlg.h/cpp
+
+- Dateien rausschmeissen:
+  - spcCPositionDialog.h/cpp
+
+- Neuer Position-Dialog (Tools-Menü)
+  - CopyToClipboard-Button kopiert die angezeigte Position in die Zwischenablage
+
+- NPCs koennen wieder per Mausklick selektiert werden  
+- Menuepunkte Open, Merge und Save nun fuer ZEN und 3DS-getrennt  
+  - Das zuletzt besuchte World- bzd Mesh-Verzeichnis wird gemerkt. Dort landet der nichts Fileopen-Dialog dann auch wieder.
+  - Merge ist nur bei uncompilierten Leveln moeglich
+
+- Properties / Vob-Tree:
+  - Jeder VOB, dem kein Mesh zugeordnet wird erhaelt ein StandardVob. 
+    Gesucht wird nach einem File in data/meshes/_intern
+	mit dem Namen der Vobklasse (z.B: zCVobSpot) zzgl. der Endung 3ds (zCVobSpot.3ds)
+  - Ist dieses File nicht da, so wird eben auch kein Mesh zugeordnet, ist also weiter nicht tragisch
+  - Einige entsprechend umbenannte Dateien liegen in meinem Exchange-Verz ("speckels/data/meshes/_intern")
+  - So koennen z.B. auch verschiedene Default-Meshes fuer NSCs/Items etc.
+    angelegt werden, bei denen kein passendes Mesh gefunden wurde
+  - Vielleicht ist es wirklich sinnvoll, für jede Klasse (die im VobTree zu sehen ist), ein solches Mesh anzulegen!
+  - Achtung: Bisherige Level mit Vobs fuer Lichter, Waypoints etc. benutzen weiterhin die alten Meshes LIGHT.3DS etc.
+  - Bei einigen Klassen ist das Zuweisen von Visuals allerdings deaktiviert (z.B.bei Sounds) -> Dieter
+  - Weiteres:
+    - Keyframes bekommen nun das Visual "keyframe.3ds" (als Kopie von zCVobWaypoint.3ds, liegt ebenfalls in meinem Exchange)
+
+- Achtung: Das Verhindern der Rotation eines Triggers ist wieder abgeschaltet worden, da dieses 
+  nicht praktikabel ist.
+
+----------------------------------------------------------------------
+ Version 0.98e-h, 22.12.1999
+----------------------------------------------------------------------
+
+- Neue Dateien:
+  - spcCConsoleDlg.h/cpp
+  - spcCMacro.h/cpp
+  - spcCMacroDlg.h/cpp
+  - spcCPositionDialog.h/cpp
+
+- Console
+  - Die Spacer-Console (STRG+F1) ist nun ein Dialog mit Autocompletion (abschaltbar)
+  
+- Start des Spacers:
+  - Ausführlicherer Working-Dialog
+  - Todo: Matlib bei Bedarf laden
+  - Todo: Presets manuell/bei Bedarf laden
+  - Bug behoben: Es wird nicht mehr zwanghaft das DAT-File geladen, sondern je nach Einstellungen in den Settings
+  - Die Output-Infos werden nun nicht mehr beim Start aktualisiert (dauert zu lange).
+    Wer die neuen Eintraege sehen will, muss den OU-Update-Button in der Cutscene-Toolbar (blaue Sprechblase) drücken!
+
+- Andre!!!
+  Es gib nun ein globales spcCWorkingDlg* workingDlg.
+  Dies sollte verwendet werden. Entferne also jedes Erzeugen von Working-Dialogen
+  aus deinen Sourcen (z.B: spcCList_ou.cpp) und verwendet den Pointer workingDlg wie folgt:
+  if (workingDlg) workingDlg->AddMessage(...)
+  Die Variable ist in spacer.h deklariert!
+
+- Spezielle Funktionen befinden sich nun im Menü Tools unter "Special"
+  - Alte (nicht mehr benötigte) wurden entfernt
+  - NEU: Save- bzw. LoadTmpDoc
+
+- Macroeditor implementiert (STRG+ALT+[M])
+  - Kurze Dokumentation in der Datei spcMacros.doc
+  - Macros einfügen, entfernen und ändern
+  - alle Macros werden in der Datei "tools\macros.zmf" gespeichert
+  - Makros ausführen (Doppelklick)
+  - Befehle (Beschreibung siehe spcMacros.doc)
+    - RESET
+    - LOAD WORLD worldname	
+	- Todo: SAVE WORLD worldname	
+    - COMPILE WORLD | LIGHT	
+	- SET ERROR	
+
+- Console (STRG+F1)
+  - Es gibt nun auch eine Spacer-Console: Aktivieren mit STRG+F1
+  - Autocomplete implementiert
+  - Autocomplete abschaltbar  
+
+- Goto-Befehle
+  - Position merken: STRG+[Taste 1-9]
+  - Zu Position springen: STRG+ALT+[Taste 1-9]
+  - Goto Position 
+  - Goto Origin (CTRL+ALT+0)
+  - Todo: Goto VOB (Name eingeben)  
+  - Todo: Goto Startpoint
+
+- kleinere Änderungen an der Benutzeroberfläche
+  - Im dynamischen Vob-Dialog werden die Eingaben nun direkt übernommen (ohne RETURN)!
+  - Umbenennung einiger Elemente zum besseren Verständnis
+  - Umgruppierung von Elementen (Menues, Buttons etc.)
+  - Spezielle Toggle-Buttons verbessert (edit/insert, new/old)
+  - Aussehen von Dialog-Internen Buttons unterscheidet sich nun von anderen Buttons (sind "flach")
+
+- Fullscreen-Modus (F3)
+  -> Erhebliche Beschleunigung des Rendervorgangs: (Fast) Game-Speed
+  -> Mouse-Freelook
+
+- Behobene Bugs und andere Probleme  
+  - Absturz nach dem Laden ueber den File-Open-Dialog behoben
+  - Bug bei Bedienung der Keyframe-Buttons behoben (Absturz falls keine Keyframnes definiert)
+  - Makefile-Bug (Absturz, falls eine Datei nicht gefunden wird)
+  - Eintraege im Makefile sind nun relativ zum entsprechenden Daten-Vezeichnis (WORLDS bzw. MESHES)
+    Absolute Angabe der Pfade ist nicht mehr erlaubt.
+

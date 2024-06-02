@@ -1,0 +1,853 @@
+2000_12_06	Surface			Texturen, Mesh, Objekte
+2000_12_06	OrcTemple		Events, Texturen, Mesh, Objekte
+
+2000_12_05	Item_Pool		Texturen, Meshes, Scripte
+
+2000_12_04	PsiCamp			FP's & WP's
+2000_12_04	OldCamp			FP's & WP's
+2000_12_04	NewCamp			FP's & WP's
+
+2000_11_30	PsiCamp			Objektierung, Lichtsetzten, Füllen der Truhen
+2000_11_30	OldCamp			Objektierung, Lichtsetzen
+
+2000_11_28	NewCamp			Objektierung, Meshfixing
+2000_11_28	OldCamp			Objektierung, Meshfixing
+
+2000_11_28	NewCamp			Füllen der Truhen, Objektierung, Meshfixing, Texturfixing
+2000_11_28	OldCamp			Füllen der Truhen, Objektierung, Meshfixing, Texturfixing
+
+*************************2000_10_22   WORLD.ZEN*************************
+
+2000_11_23	Surface			Eventfixing
+
+2000_11_22	Dyn. Vob-Trees		Sounds, 3ds-Zuweisung
+2000_11_22	OldMine			Items gelöscht
+2000_11_22	Surface			Meshfixing, Objektierung, Texturierung
+2000_11_22	OrcTemple		Objektierung, Events, Meshfixing, Texturierung
+
+2000_11_21	OldCamp			Objektfixing
+2000_11_21	Demontower		Portalfixing; löschen des Aufzugsevents und Objektierung von Leitern
+
+2000_11_16	Surface			Objektierung; Meshfixing; Texturierung; WP's & FP's 
+2000_11_16	NewCamp			Triggerfelder für Durchgangswachen; 
+					Drehkreuz mit Besitzergilde versehen	
+2000_11_16	PsiCamp			Triggerfelder für Durchgangswachen
+
+2000_11_09	OrcTemple		Objektierung; Events; Texturierung; Portal eingefügt
+					Meshkorrekturen und Vorbereitungen auf Events; 
+2000_11_09	Surface			Alte Items gelöscht; Meshänderungen; Objektierung
+2000_11_09	OldCamp			Alte Items gelöscht; Triggerfelder für Durchgangswachen
+
+2000_11_07	Surface			Texturen nach MAX Benutzung neu benannt und Wege angefangen;
+					Meshänderungen, Texturierung
+2000_11_07	OldCamp			AI-notwendige Anpassung der Triggerfelder, Wach-Way- und Freepoints
+
+2000_10_31	Surface			Orcgebiet vervollständigt; Löcher geschlossen;
+					Brücke hinzugefügt
+
+2000_10_26	AI_Testlevel		StaticVob-Flag am Backpack korrigiert 
+2000_10_26	OrcTemple		neue Texturen texturiert; einige Events schon mal eingebaut 
+2000_10_26	OldCamp			visionenraum angebaut
+
+2000_10_20	Surface			ne menge mesh änderungen
+2000_10_18	OldCamp			Bugfixing
+
+*************************2000_10_11   WORLD.ZEN*************************
+
+2000_10_11	NewCamp			Lichtfixing, WP's, FP's
+2000_10_11	Surface			FP's (Banditenlager)
+
+2000_10_10	OldCamp			Objektfixing, Objektierung
+2000_10_07	NewCamp			Meshfixing
+
+2000_10_06	PsiCamp			Meshfixing; Tempelerweiterung; Texturierung; Freepoints; Waypoints
+2000_10_06	Riesenfläche		Diverse Bugfixes; Feuer kleiner gemacht; 
+					Rucksack und Ricebasket -> takeble
+2000_10_06	Surface			Banditenlager neu objektiert 
+
+2000_10_05	PsiCamp			Mesh-, Objekt-, WP- & FP-Fixing
+
+2000_10_04	Surface			Meshifixing
+2000_10_04	OldCamp			Objektfixing
+
+*************************2000_10_04   WORLD.ZEN*************************
+
+2000_10_04	OldMine			WP's & FP's
+2000_10_04	Riesenfläche		Objektierung
+2000_10_04	OldMine			strechy poly umgemappt
+
+2000_10_02	OldMine			Objektierung; Austauschplätze Objektiert; Lichtobjekte nachgesetzt
+2000_10_02	OldCamp			Objektfixing
+2000_10_02	Surface			Items Startlokation; Waypointnetz Nebelturmdungeon; 
+					Objektfixing
+2000_10_02	OldMine			Diverse Begradigungen und eine crawlerhöhle umgemodelt;
+					Waynetüberarbeitung begonnen 
+2000_10_02	PsiCamp			Way- und Freepoints am Tempel verändert
+
+2000_09_29	OldMine			Plattformen übergänge entschärft 
+2000_09_29	PsiCamp			Anpassung des Tempels nach horsts Vorstellungen; 
+					Fackelschalen und Wachplattformen; 
+					Feuer objektiert und Balken
+
+2000_09_28	Surface			Waypointzumpeln, Objektfixing
+2000_09_28	AI_Testlevel		SCAV_MEAT.ASC eingefügt (Scavenger-Container-Mobsi)
+2000_09_28	OldCamp			Waffenkammer objetiert; Erzbaronhütte verschönert und
+					Balken an den Wänden objektiert
+2000_09_28	OldMine			FPs 
+
+2000_09_27	OldCamp			Meshfixes, Texturfixes
+
+2000_09_26	Surface			Objektfixes, Meshfixes
+
+*************************2000_09_22   WORLD.ZEN*************************
+
+2000_09_22      OldMine                 WPs,FPs 
+2000_09_22	NewCamp			FP-Fixing; Objektfixing Ricelord-Haus
+2000_09_22	Surface			Soundzones Wasserfälle Psicamp gefixed; 
+					Items objektiert (Startlokation);
+                                        Degenerate-Poly-Meshfixing
+
+2000_09_21	AI_Testlevel		Objektierung Bellow (Blasebalg)
+2000_09_21	Surface			Wasserfälle PsiCamp; Meshfixing; Texturierung; 
+					Sumpf objektiert; neue Bäume modelliert; FP's Monster; 
+					hütte im sumpf; Doppelrankenplanzen-polys am Sumpf; 
+					Bugfixing von untexturierten Polys am Anfang; 
+					entfernen von unnützen polys; Stein umgesetzt und Partikel überprüft, 
+					aber nicht fixen können 
+
+2000_09_20	OldCamp			Portalbugfixing Arena
+
+*************************2000_09_19   WORLD.ZEN*************************
+
+2000_09_19	PsiCamp			WPs; Waynet-Fix; FPs; Sumpftexturfixing
+2000_09_19	AbandonedMine		durchs mesh fall bug gefixt(not tested yet)
+2000_09_19	NewCamp			Vogelscheuchen objektiert
+2000_09_19	FreeMineCamp		Portale eingebaut
+
+2000_09_18 	Surface			Monster FP's; Objektierung; Meshfixing; Texturfixing
+2000_09_18	MewCamp			Hütte eingefügt und Newcamp vergrößert; Lichtsetzung
+2000_09_18 	OldCamp			Waynet-Fixes
+2000_09_18 	PsiCamp			Wege zum Tempel umgemodelt, kleinigkeiten; 
+					Waynet, FPs, TA-Objektierung
+
+
+2000_09_15	Surface			Sumpferweiterung, Objektierung Sumpferweiterung, 
+					Bugfixing Sumpf bim Tempel (schiefes Wasser"
+2000_09_15	AbandonedMine		Fallgrube verbreitert, verengert und abgekantet
+2000_09_15	FreeMine		Lichtsetzung
+2000_09_15	OrcTemple		Lichtsetzung; Säule entfernt; Texturkorrekturen; 
+					aus Statuen und Treppen Objekte gemacht 
+					und aus Level-Mesh entfernt; 
+					Statuen und Wasserspeier objektiert 
+
+2000_09_14	PsiCamp			Schmiede Objektiert und kleinere Bugfixes; Meshveränderung 
+					und Schmiede angefügt
+
+2000_09_13	PsiCamp			Bugfixing, im Zuge der PsiCamp-Vervollständigung;
+					Waynet neuer Tempel gelegt; neue FPs; 
+					Waynet/FPs Alter Tempel entfernt
+2000_09_13	Surface			Eingänge zum Nebelturmdungeon verbreitert; 
+					Schiffswrack etwas höher gesetzt und Stein drunter, 
+					Kollisionsprob sollte nun eingedämmt sein; 
+					Monster FP's; WP's
+
+2000_09_12	Surface			Freepoints Introchicken, WP's zum Rostigen Schwert (Intro)
+2000_09_12	PsiCamp			Bugfixing, neue Lampen objektiert
+
+*************************2000_09_11   WORLD.ZEN*************************
+
+2000_09_11	OldCamp			Objektierung
+2000_09_11	NewCamp			ReisBunker & Texturierung & Objektierung
+2000_09_11	PsiCamp			einige kleine Änderungen am Psilager und Mesh-vergrößerung;
+					Anpassung von Vobs, Leitern objektiert, neues Mesh compiled
+2000_09_11	Surface			Teil vom Mesh rausgenommen und am Psicamp angefügt;
+					Kleines Teil vom Mesh dem NewCamp angefügt, 
+					Cutszene relevante Änderungen, Objektierung
+
+2000_09_06	OldCamp			Texturfixing, Meshfixing, Objektfixing
+2000_09_06	Surface			Objektfixing, WP
+2000_09_06	NewCamp			Texturfixing, WP, Meshfixing, Objektfixing
+
+2000_09_05	OrcCity			Focusnames
+2000_09_05	OrcGraveyard		Focusnames
+2000_09_05	AbandonedMine		Focusnames
+2000_09_05	FreeMine		Focusnames
+2000_09_05	OldMine			Focusnames
+2000_09_05	OldCamp			Objektfixing, Focusnames
+2000_09_05	Surface			Focusnames, Objektfixing
+2000_09_05	NewCamp			Focusnames
+2000_09_05	DemonTower		Objektfixing, Focusnames
+2000_09_05	FreeMineCamp		FP & Waypoints, Focusnames
+
+*************************2000_09_02   WORLD.ZEN*************************
+
+2000_09_02	OldCamp			Objektierung, FP, Triggerscripte, Key für OCR47 (Story)
+2000_09_02	Surface			Objektierung, FP, MusicZoneDefault
+
+*************************2000_09_01   WORLD.ZEN*************************
+
+2000_08_31	Scripte			neue Key-Instanz für Story
+2000_09_01	OldCamp			Fireplaces TA-Fixing, Story-Relevante Objektierung
+2000_09_01	Surface			Objektierung, FP & WP
+
+2000_08_31	Testlevel		mehr licht im Kampftestraum
+2000_08_31	Scripte			Waffenranges; Richterrobe (oooops)
+2000_08_31	OldCamp			TA-Objektierung; WPs; FPs; Küche objektiert; 
+					Boundingboxen der Triggerscripte für die Torwachen gefixt;
+					Boundingboxes von Triggerfeldern gefixt; 
+					Erzbaronhaus Objektiert+Vorraum	
+2000_08_31	Surface			Wachposten beim Start gebaut, texturiert, objektiert; 
+
+2000_08_30	FackelVobTree		Rotation gelöscht
+2000_08_30	FreeMineCamp		Meshfixing
+2000_08_30	Surface			Objektierung, Meshfixes, Texturfixes
+2000_08_30	NewCamp			Objektierung
+2000_08_30	OldMine			Objektierung
+
+*************************2000_08_29   WORLD.ZEN*************************
+
+2000_08_29	OldMine			Objektierung (Oremobsi's), Waypoints
+2000_08_29	OldCamp			FP & Waypoints 
+2000_08_29	Surface			Weg Startpoint<->OldCamp umgebaut, texturiert, objektiert; 
+					FP Monsterfixing, allgemeine Objektierung 
+
+2000_08_28	NewCamp			Sfx, Pfx
+2000_08_28	OldCamp			Sfx, Pfx
+2000_08_28	FreeMine		Kletterkanten, Story Anpassung; Spinnweben, Schleim, Balken usw...
+
+2000_08_25	Surface			Freepoints Monster
+2000_08_24	OldCamp			Sfx und Pfx, Soundzones
+
+*************************2000_08_23   WORLD.ZEN*************************
+
+2000_08_23	AI_TestLevel		Änderungen wie laut Defect #1557 vorgenommen
+2000_08_23	FreeMine		Kletterkanten eingefügt und einige Meshvereinfachungen 
+					(Begradigungen); Crawlerhöhlen kenntlich gemacht mit 
+					Schleim und Spinweben; einige Stege schon mal entfernt	
+2000_08_23	Scripte			NSC:
+ 					- NSC-TAs in Oldcamp und Newcamp komplett umgestellt. 
+					  Erzbaronhaus und Gardistenhaus stehen noch leer.
+			 		- TAs im Psicamp noch auf altem Stand
+					
+					ZS_Skripte:
+ 					- testfertig: TA_Cook, TA_Eat, TA_Eat_Rice, TA_Eat_Soup, 
+					  TA_Eat_Meat, TA_HangAround, TA_RepairHut, TA_Listen, 
+					  TA_PotionAlchemy, TA_HerbAlchemy, TA_PlayTune, TA_CookForMe, 
+					  TA_Pray, TA_Sleep, TA_Smoke, TA_WashSelf, TA_ReadBook, 
+					  TA_PickOre, TA_Smith_Anvil, TA_Smith_Cool,
+					  TA_Smith_Sharp, TA_Smith_Fire, TA_PickRice, TA_FightTraining,
+					  TA_IEPYMONTE, TA_IEFLEX, TA_IELUTTER, TA_IEPFEIFFER, 
+					  TA_IEFLAIL, TA_IETHOMAS, TA_IEUNICORN, TA_Ebr_HangAround,
+ 					  TA_Orc_Stonemill, TA_Orc_Stomper, TA_TestMultiHangAround, 
+					  TA_Babe_Sweep, TA_Babe_Dance, TA_Orepile, TA_Meditate, 
+					  TA_Babe_Sleep, TA_TestWalk, TA_TestSit, TA_TestBored	
+ 					- TA_RoastScavenger noch nicht komplett mit Mobsis objektiert
+ 					- TA_PracticeMagic enthält erst eine Ani	
+ 					- TA_Speech, TA_Teaching, TA_Preach, TA_Preach_YBerion, 
+					  TA_SmallTalk default-text
+					- TA_Guard, TA_GuardPassage, TA_GuardPatrol, TA_TestGuardBored
+					  enthalten nur Anis, keine Funktionalität
+				 	- TA_PalisadeGuard noch Probleme mit der fehlenden ranged-FAI
+ 					- leer: TA_TradeElixier, TA_TradeOreToFood, TA_TradeWeaponToOre,
+					  TA_HerbDealer, TA_CollectRoots, TA_Beggar, TA_PracticeLeader,
+					  TA_PracticeDisciple, TA_MCHunting, TA_MCMilking, TA_ArenaFight,
+					  TA_ArenaBet, TA_Highwaymen, TA_Barkeeper, TA_Schutzgeld, 
+					  TA_PracticeBow, TA_ExchangeOre, TA_BodyGuard, 
+					  TA_SleepingGuard TA_GuardDigger, TA_SearchPerson, TA_Lookout, 
+					  TA_Hunt, TA_Plunder, TA_FightTeacher, TA_TestBully
+					- prefinal: TA_WalkAround, TA_DrinkAlcohol, TA_TestSitandPee,
+					  TA_TestRepairHut, TA_DrunkandPee, TA_PeeRepairhut, TA_TestGuard
+
+2000_08_23	Surface			Location AbandonedMineEntrance umgemodelt, umobjektiert; 
+					Trigger für Cutscenes
+2000_08_23	NewCamp			Magierhütten Textur Außen
+2000_08_23	OldCamp			Tor Außenring Don'tLod; FPs, WPs innerer Ring
+
+2000_08_21	NewCamp			TA's; Freepoints; Waypoints
+2000_08_21	OldMine			einige Gänge breiter gemacht und Böden gerade gezogen; 
+					Objekte umtexturiert; Geländer höher gemacht;
+					Mine komplett umobjektiert; Spinnweben und Schleim gesetzt 
+
+2000_08_18	Surface			versuch Waldportalfehler zu beheben (gescheitert)
+2000_08_18	OrcCity			Meshfixes; Texturfixes; Decals gefixed;
+					OrcStatue mit Level verschmolzen (Portalprobs)
+
+2000_08_17	Surface			Meshfixing (Vertexverschoben bei FreeMineCamp), 
+					Texturfixing (Verzerrte Texturen durch Meshfixies)
+2000_08_17	AI_Testlevel		Seil-Mobsi entfernt
+2000_08_17	OldCamp			Versteck-Fass-Mosbi angepasst
+
+2000_08_16	DemonTower		Skeletons Objketiert (glotzen einen immer an)
+2000_08_16	OldCamp			Doorfixing (ASC -> MDS); FreePoints
+
+*************************2000_08_15   WORLD.ZEN*************************
+
+2000_08_15	PsiCamp			Triggerfelder für den Psi-Walk
+2000_08_15	Surface			Freepoints Monster (Snapper & Wölfe)
+2000_08_15	NewCamp			FPs
+2000_08_15	OldCamp			TA-Objektierung; FPs
+
+2000_08_14	OldMine			Decalfixing
+2000_08_14	Surface			Dungeon unter Nebelturm ausgeleuchtet;
+					Texturenoptimierung; Freepoints Monster
+2000_08_14	OldCamp			Objektierung Burgkern; Objektierung Haus der Magier;
+					Partikeleffekte; Objektierung Aussring (fixes, mobsis);
+					FPs/WPs nach Datenverlust neugebaut; Guard-FPs
+2000_08_14	NewCamp			Meshfixing Berg am Tor (höher gesetzt)
+
+2000_08_11	AI_Testlevel		Objektfixing
+2000_08_11	DemonTower		AufzugEvent, Portalfehlerfixing (noch nicht behoben)
+2000_08_11	OrcCity			Beleuchtung
+
+2000_08_10	OldMine			Reverbzone rausgenommen (wegen monsterhall)
+2000_08_10	AbandonedMine		Bugfixing der Gitter (Mover); 
+					Wiederherstellung der Decals in der CQ-Höhle;
+					Material-Libary
+2000_08_10	Surface			FPs/WPs Newcamp Eingang, Waynet-Fix NC->FMC
+2000_08_10	OldCamp			Texturnamen angepaßt und Material zugewiesen
+2000_08_10	DemonTower		Lodding verändert
+2000_08_10	NewCamp			FPs Reisterassen umgestellt;
+					Reispflanzen gesetzt; Matlib-bug gefixed
+
+2000_08_09	PsiCamp			Matlibs und Texturen Optimiert
+2000_08_09	OrcGraveyard		decals wieder hergestellt und angepasst
+2000_08_09	OldCamp			Objekttuning & Fixing
+2000_08_09	NewCamp			kiste in hut03; buch_blade in lees hoehle;
+					Freepoints; Matlibs und Texturen Optimiert;
+					objektierung der plätze
+
+2000_08_08	NewCamp			Finetuning Objektierung
+2000_08_08	OldCamp			Moverfixing (Visualbug); 2 WPs im OCC;
+					Truhe und Stuhl in Hut 11 umbenannt;
+					Decals gesetzt; Soundvobs Daytime gesetzt;
+					Finetuning Objektierung
+2000_08_08	OldMine			Focusnamen
+2000_08_08	FreeMine		Focusnamen
+2000_08_08 	PsiCamp			Focusnamen
+2000_08_08 	Surface			Focusnamen; Mover am Wachposten Newcamp; 
+					Durchgang des Wachpostens erweitert;
+					Fixing Occluder; Lichtblockungspolygone für Höhlen gesetzt
+
+*************************2000_08_07   WORLD.ZEN*************************
+
+2000_08_07	NewCamp			Aufgänge zu den beiden Terassen gemodelt; 
+					Portale bei den Magiern gesetzt; 
+					Objektierung (Feuerstellen, Steine etc.)
+2000_08_07	OldCamp			WPs, FPs, TA-Objektierung
+2000_08_07	AI_Testlevel		Barbq_Scav Mobis eingefügt
+2000_08_07 	Surface			FPs an WP_CIRCLE_01, Verbesserungen fuers Intro;
+					WP/FP/Trigger für Missionen
+
+2000_08_04	Objektpool		Optimierung & Überarbeitung Objekte Teil 2
+2000_08_04	NewCamp			Waynet & Freepoints
+
+2000_08_03	Surface			Neues Tunnelsystem am Nebelturm Modeliert & Texturiert; 
+					Wachposten NewCamp Modeliert & Texturiert; 	
+					Startpunkt verschoben; Ropeway verändert; 
+					neues Tunnelsystem am nebelturm objektiert
+
+2000_08_01	Texturpool		neue Texturen OldCamp & PsiCamp
+2000_08_01	OrcTempel		Kamerafahrten
+2000_08_01	OldCamp			Beleuchtung Keller
+2000_08_01	OrcGraveyard		Beleuchtung
+2000_08_01	Objektpool		Optimierung & Überarbeitung Objekte Teil 1
+2000_08_01	NewCamp			Portale in die Magierhütten eingefügt;
+					Feuerstellen rausgenommen
+2000_08_01	Surface			Events unterm Magierturm + Geheimlabor;
+					texturierte Höhle unter Nebelturm eingefügt;
+					Occluder im Newcampbereich korrigiert;
+					Höhlensystem Nebelturm (Texturierung, Modeln)
+
+2000_07_27	Itemscripte		Wartung/Pflege, anlegen der Spell-Runestones und Spell-Scrolls
+2000_07_27	Objektpool		Bugfixing, Item Runestone
+2000_07_27	NewCamp			Objektierung
+
+2000_07_26	NewCamp			Wachposten   Modeln, Texturierung & Objektierung
+2000_07_26	Surface			events und waynet unterm magierturm (neue PFX.d erforderlich)
+2000_07_26	OldCamp			neue FPs, WP-Fix am Marktplatz, Dynamic-Light Umstrukturierung 
+					bei den Fackeln (Zusammenfassung von Lichtgruppen)
+2000_07_26	Demontower		Beleuchtung (Dummy)
+
+2000_07_25	Surface			Überarbeitung Ghostoccluder
+2000_07_25	Freemine		Bugfixing
+2000_07_25	Objektpool		Einbindung neuer Objekte
+2000_07_25	OldCamp			Objektierung, Einbau eines Wachbunkers (Nordtor), 
+					Meshänderungen
+
+2000_07_21	Objektpool		neue Objekte (Barrelholder, Kräutergehänge)
+2000_07_21	OldCamp			FPs an der neuen Arena
+
+*************************2000_07_20   WORLD.ZEN*************************
+
+2000_07_20	Testlevel		Texturen, kleiner gemacht, Licht gesetzt
+2000_07_20	AbandonedMine		ItemSlots, Cam-Event
+2000_07_20	OldCamp			Objektierung Marktplatz
+
+2000_07_19	AI_Testlevel_monster 	den Leveldaten hinzugefügt
+2000_07_19	AI_Testlevel		Versteck-Faß in den MobInteract-Raum gestellt
+
+2000_07_18	SPC_CKLST_IN		Mover gefixed (Defect#1338)
+2000_07_18	OrcGraveyard		Texturkorrektur
+2000_07_18 !!!	FreeMine		umgewandelt nach OldMine, Namenskonvertierung der Waypoints
+2000_07_18 !!!	OldMine			umgewandelt nach FreeMine, Namenskonvertierung der Waypoints, 
+					Fixing der Zerstörten Waypoints (durch Konvertierung)
+2000_07_18	Objektpool		neue Objekte für Lagerfeuer + Texturen (Chickens etc.)
+2000_07_18	OldCamp			neue Arena, Waypointanpassung Arenalocation, 
+					neue Objektierung Arenalocation, Zuggitterevent Arenalocation
+
+2000_07_17	NewCamp			Lichttuning
+
+2000_07_12	AbandonedMine 		Schleim und Eier eingefügt
+2000_07_12	Itemdatenpool		Itemmeshes & Texturen übernommen
+2000_07_12	Objektpool		Crawlerobjekte nebst Texturen hinzugefügt
+2000_07_12	NewCamp			Objekt- & Lichtfixing
+
+2000_07_11	NewCamp			Texturfixing Reisterassen
+2000_07_11	FreeMine		Crawlerqueen-Location angefügt, 
+					Crawlerqueen-Location objektiert und Lichter überarbeitet
+2000_07_11	AbandonedMine 		texturkorrektur vorgenommen 
+
+*************************2000_07_10   WORLD.ZEN*************************
+
+2000_07_10	OldCamp		Lichtfixing
+2000_07_10	Surface		Trigger (Cutscenes)
+2000_07_10	AbandonedMine	kletterkanten überprüft, feedback, texturen umbenannt, 
+				gobos sollten jetzt nicht mehr hängen bleiben, 
+				aus dem wasser gehen funzt jetzt wieder, truhe rausgenommen, 
+				einige objekte noch eingefügt
+
+2000_07_07	Surface		Triggerfelder für Tutorial beim Gamestart. Spinnweben Alphafix
+2000_07_07	OldCamp		Trigger fuers Intro, Lensflares Fackeln Erzbaronburg, 
+				Lichttuning Keller Erzbaronburg
+2000_07_07	AbandonedMine	Crawlerqueenlocation hinzugefügt, Feedback angearbeitet
+				Crawlerqueenloc. mit Decals objektiert, Gobbo FP + Lever-Cams
+
+2000_07_06	Surface		Treffpunkt vier Freunde objektiert
+2000_07_06	OldCamp		Lichtfixing Erzbaronburg
+
+2000_07_04	NewCamp		Fixing der Stühle
+
+2000_06_30	Surface		neue Freepoints gesetzt
+2000_06_30	OldCamp		Kameraupdate
+2000_06_30	NewCamp		Kameraupdate
+2000_06_30	AbandonedMine	lichter überarbeitet, events zum laufen gebracht, 
+				fackeln gesetzt, weitere kleine objekte gesetzt
+
+2000_06_29	OrcCity		mehr spinnweben und deckenpalsnen, lichter überprüft, 
+				sounds gesetzt, truhen gesetzt
+2000_06_29	Surface		Kameraupdate, Texturfinetuning
+
+*************************2000_06_27   WORLD.ZEN*************************
+
+2000_06_26	OrcGraveyard	Soundsetzung
+
+2000_06_23	Surface		Finetuning Objektierung
+2000_06_23	OldCamp		Triggerscript-Feld vor der Buehne
+2000_06_23	OrcGraveyard	gräber höher gemacht und rest texturiert,
+				mumien objektiert, mumien in container umgewandelt,
+				mumien zu container ASC's umgewandelt und mit items versehen, 
+				man kann die jetzt durchsuchen, mumien mit focusnamen versehen
+
+2000_06_21	OrcGraveyard	Mumienobjektierung
+2000_06_21	OldMine		Vertexverschmelzung
+2000_06_21	FreeMine	Vertexverschmelzung
+2000_06_21	AbandonedMine	Vertexverschmelzung
+2000_06_21	Objektpool	Texturfehler bei einigen Objekten behoben, 
+				Orc-Mumien hinzugefügt (plus zugehörige texturen)
+
+2000_06_20	NewCamp		Erzhaufenkamera
+
+2000_06_15	OrcGraveyard	Loadingzones Kamera-Fixing
+2000_06_15	AI_Testlevel	Objekte (Betten), Kollisionsflagfixing
+2000_06_15	OrcCity		Loadingzones Kamera-Fixing
+2000_06_15	OldMine		Loadingzones Kamera-Fixing
+2000_06_15	FreeMine	Loadingzones Kamera-Fixing
+2000_06_15	AbandonedMine	Loadingzones Kamera-Fixing
+
+2000_06_14	Objektepool	Erzseilbahnplattformen
+2000_06_14	Surface		Portalwasserfix bei der Tempel-Old-Demontower-Location, 
+				Erzseilbahnplattformen objektiert, Loadingzones Kamera-Fixing
+2000_06_14	OldMine		Focusnames, Objektfixing
+2000_06_14	FreeMine	Lichtfixing, Focusnames, Objektfixing
+2000_06_14	OldCamp		Objektfixing
+
+*************************2000_06_13   WORLD.ZEN*************************
+
+2000_06_13	Objektepool	Texturfixes
+2000_06_13	Surface		Anpassung an neues Datenformat
+2000_06_13	PsiCamp		Anpassung an neues Datenformat
+2000_06_13	OldCamp		Anpassung an neues Datenformat
+2000_06_13	NewCamp		Anpassung an neues Datenformat
+2000_06_13	MagicFrontier	Anpassung an neues Datenformat
+2000_06_13	FreeMineCamp	Anpassung an neues Datenformat
+2000_06_13	DemonTower	Anpassung an neues Datenformat
+2000_06_13	OrcTempel	Objektfixing, Anpassung an neues Datenformat, Portale				
+2000_06_13	OrcGraveyard	Objektfixing, Anpassung an neues Datenformat, Portale,
+				Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons)
+2000_06_13	OrcCity		Objektfixing, Anpassung an neues Datenformat,
+				Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons)
+2000_06_13	OldMine		Objektfixing, Anpassung an neues Datenformat,
+				MDS nach ASC (Fireplaces), Portale,
+				Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons)
+2000_06_13	FreeMine	Objektfixing, Anpassung an neues Datenformat,
+				MDS nach ASC (Fireplaces), Portale,
+				Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons)
+2000_06_13	AbandonedMine	Objektfixing, Anpassung an neues Datenformat
+2000_06_13	AI_Testlevel	Wassertexturfixing, Objektfokusnamen, Objekteigenschaften
+
+*************************2000_06_12   WORLD.ZEN*************************
+
+2000_06_12	OrcTempel	Portale
+2000_06_12	OrcGraveyard	Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons), Portale
+2000_06_12	OrcCity		Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons), 
+				Portale (wieder entfernt da Portalfehler)
+2000_06_12	Vobtrees	An neue Objektstruktur angepasst (einladen und wieder rausschreiben)
+2000_06_12	Oldmine		MDS nach ASC (Fireplaces), Portale
+				Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons)
+2000_06_12	Freemine	MDS nach ASC (Fireplaces), Portale
+				Fireplaces mit neuem Vobtree (Fireplace_Medium_Dungeons)
+2000_06_12	Surface		MDS nach ASC (Fireplaces)
+2000_06_12	PsiCamp		MDS nach ASC (Fireplaces)
+2000_06_12	OldCamp		MDS nach ASC (Fireplaces)
+2000_06_12	NewCamp		MDS nach ASC (Fireplaces)
+2000_06_12	FreeMineCamp	MDS nach ASC (Fireplaces)
+
+*************************2000_06_10   WORLD.ZEN*************************
+
+2000_06_10	FreeMine	Erzmobsis korrigiert
+2000_06_10	OldMine		Erzmobsis korrigiert
+2000_06_10	Surface		Kameras gesetzt, Freepoints, Objektfixing
+2000_06_10	Oldcamp		Lovebed ausgetauscht
+2000_06_10	OrcCity		Fackeln, Lichter, Spinnweben und Leiter objektiert;
+			 	OrcLampen von zCVob -> oCMobFire
+2000_06_10	OrcGraveyard	Fackeln, Pilze und Schädel objektiert;
+				OrcLampen von zCVob -> oCMobFire
+2000_06_10	OrcTempel	Portale modeliert, wieder aus meshentfernt (enginupdate erst später)
+2000_06_10	Objekte		Texturfixing
+2000_06_10	Texturpool	2 Texturen für Testlevel (Markus)
+
+2000_06_09	Freemine	Erzmobsis objektiert
+2000_06_09	Objekte		OrcTempelleuchter texturiert
+2000_06_09	Surface		Erzmobsis objektiert, Texturfixes
+2000_06_09	NewCamp		Freepoints und Waynet
+2000_06_09	OldCamp		Freepoints
+2000_06_09	Oldmine		Erzmobsis objektiert
+2000_06_09	Orcgraveyard	texturiert
+2000_06_09	OrcCity		Statue texturiert
+
+2000_06_08	PsiCamp 	Feuerstellen in Hütten mit Partikeleffekten objektiert
+2000_06_08	OldCamp 	Feuerstellen in Hütten mit Partikeleffekten objektiert
+2000_06_08	Surface 	gobbohöhlen objektierung und sound vobs
+2000_06_08	OrcCity 	feedback punkte, hauptsächlich decken höher, 
+				orc_gate_5x5m gitter eingefügt
+
+2000_06_07	OrcCity 	Texturpool erneuert
+
+*************************2000_06_06   WORLD.ZEN*************************
+
+2000_06_06	OldMine 	Waynet
+2000_06_06	Orcgraveyard	spinnweben, fackeln usw.. objektiert
+2000_06_06	Oldcamp		Triggerfeldfix
+2000_06_06	FreeMine 	Waynet
+2000_06_06	OrcTempel	Objektierung, Lichtsetzung
+2000_06_06	PsiCamp		Freepoints
+
+2000_06_05	OldCamp		kanten entzumpelt, gräber nochmal etwas bearbeitet, QA feedback erledigt
+
+2000_06_02	OldMine 	boden begradigt; lichter, fackeln, stege usw. gesetzt und verbessert
+2000_06_02	FreeMine 	Waypoints
+
+2000_05_31	Objekte 	Fackelobjekte für Tempel; Orc-Objekte für OrcCity
+2000_05_31	Lensflare.zen 	Lichteffekte für Tempel
+2000_05_31	OrcCity 	Waynet gepflastert
+2000_05_31	FreeMine 	löcher zu und boden angepasst; letzte stellen texturiert;
+				lichter; fackeln; breitere stege; alles zu fuß erreichbar
+2000_05_30	OrcTempel 	Waynet gelegt, Meshfehlerbehoben
+2000_05_30	OldCamp		IchWinkeMeinemVolkSims Objektiert
+2000_05_30	Orcgraveyard	Waynet verlegt
+
+2000_05_29	NewCamp		Freepoints
+2000_05_29	PsiCamp		Freepoints
+2000_05_29	Surface		modeln Gobbo-Location, Texturierung Gobbolocation, Kameras
+2000_05_29	AbandonedMine	Meshänderungen, Lichtobjektierung, Eventobjektierung,
+				Levelübergang Surface + einfügen Kamera <-> Change_Level 
+2000_05_29	Orcgraveyard	Meshänderungen, Lichtobjektierung
+
+2000_05_27	Surface		modeln Gobbo-Location
+2000_05_27	OldCamp 	Freepoints
+2000_05_27	OrcTempel 	Texturierung
+
+2000_05_24	ITLSTORCHBURNING Licht-Lensflare tiefer gesetzt
+2000_05_24	Demontower	Waynet Feedback
+2000_05_24	PsiCamp		Waynet Feedback
+2000_05_24	OldCamp		Waynet Feedback
+2000_05_24	NewCamp		Waynet Feedback
+2000_05_24	Surface		Levelübergang Orcity + einfügen Kamera <-> Change_Level, Waynet Feedback
+2000_05_24	OrcCity		Levelübergang, einfügen Kameras <-> Change_Levels, Objektierung, Lichtsetzung
+2000_05_24	OldMine		Levelübergang Final, einfügen Kameras <-> Change_Levels
+2000_05_24	FreemineCamp	Waynet-Feedback umgesetzt
+
+*************************2000_05_23   WORLD.ZEN*************************
+
+2000_05_23	FreemineCamp	Focusnamen, einfügen Kameras <-> Change_Levels
+2000_05_23	Demontower	Focusnamen
+2000_05_23	PsiCamp		Focusnamen
+2000_05_23	OldCamp		Focusnamen
+2000_05_23	NewCamp		Focusnamen
+2000_05_23	Surface		Focusnamen, einfügen Kameras <-> Change_Levels, 
+				einfügen Kamera <-> Castle_Event_Aufzug
+2000_05_23	SPC_CKLST_IN	einfügen Kamera <-> Change_Level
+
+2000_05_22	Surface		Untwerwassertempel (alte Ruine im See beim Castel), 
+				BBoxfixes an Levelübergängen, Levelübergangsgänge wieder frei betretbar
+				Objekttuning Sumpf
+
+2000_05_18	PsiCamp		Objektfixing (schwebende Objekte)
+2000_05_18	FreemineCamp	Objektfixing (schwebende Objekte)
+2000_05_18	SPC_CKLST_IN	neucompilierung mit neuem Spacer
+2000_05_18	SPC_CKLST_OUT	neucompilierung mit neuem Spacer
+2000_05_18	Surface		Waypoints am Game_Start
+2000_05_18	NewCamp		Kamerafahrt Erzhaufen   
+
+2000_05_10	Freemine	Übergang FreeMine <-> FreemineCamp (Modell'n & umsetzten Ladezone)
+
+*************************2000_05_09   WORLD.ZEN*************************
+
+2000_05_09	World		erstellen und herrausgeben einer World in Binärformat 
+				(doppelt so schnelle Ladezeiten)
+2000_05_09	Objekte		Texturfixing (Gitter Newcamp-Loch, SteinEvent Castle)
+2000_05_09	Surface		Objektfix (schweben), WPs, FPs für TAs
+
+*************************2000_05_09   WORLD.ZEN*************************
+
+2000_05_09	PsiCamp		Waynet angepaßt
+2000_05_09	OldCamp		Texturfix, FPs für TAs, Mobsi-Fixes, WP-Fixes, Vogelsound auf Occluder gesetzt
+2000_05_09	Surface		reverb zonen gelöscht und getestet, Objektfix (schweben), WPs, FPs für TAs
+2000_05_09	NewCamp		Objekteigenschaftfix (Steg in der Höhle), 
+				ReverZonen gelöscht und getestet, Texturfix, Objekt über großes Loch Objektiert
+				Reisterassenfix, FPs für TAs
+2000_05_09	FreeMineCamp	Objekteigenschaftfix (Brücke)
+
+*************************2000_05_08   WORLD.ZEN*************************
+
+2000_05_08	OldCamp		FPs für TAs, Mobsi-Fixes
+2000_05_08	MagicFrontier	Texturierung richtiges Mesh
+2000_05_08	OrcCity		Objekt- & Lichtsetzung
+2000_05_08	AbandonedMine	Crawlerhive angeschlossen
+2000_05_08	PsiCamp		TA-Mobsis gefixt, Wegtexturfix
+2000_05_08	NewCamp		TA-MobSi-Fixes, FPs für TAs, Reverbzonenkleiner und Brücke und Steine
+2000_05_08	Surface		Wasserterassen beim PsiCamp gefixed, Reverbzones verkleinert, 
+				Wasser am PsiCamp übergang und Wasserfall, Weg zum Psicamp objektiert, 
+				Verschieben, Löschen und Einfügen von FPs
+
+*************************2000_05_07   WORLD.ZEN*************************
+
+2000_05_07	MagicFrontier	Texturierung (noch falsches Mesh)
+2000_05_07	FreeMine	Texturen Sortiert und nichtvorhandene in "Keine" umbenannt
+2000_05_07	FreeMineCamp	Texturen Sortiert und nichtvorhandene in "Keine" umbenannt
+2000_05_07	NewCamp		Texturen Sortiert und nichtvorhandene in "Keine" umbenannt, 
+				Freepoints für Tagesabläufe
+2000_05_07	OldCamp		Texturen Sortiert und nichtvorhandene in "Keine" umbenannt
+2000_05_07	OldMine		Texturen Sortiert und nichtvorhandene in "Keine" umbenannt
+2000_05_07	PsiCamp		Texturen Sortiert und nichtvorhandene in "Keine" umbenannt, 
+				WegSegmentierung (Modelln und Texturieren)
+2000_05_07	Surface		Texturen verbessert, Einstiegslokation Texturiert, 
+				Stomper Oldmineeingang, Sichweite auf 170m reduziert
+
+2000_05_06	Surface		Einstiegslokation neugemodelt, Waynet überarbeitet, Erzmobsis gesetzt
+2000_05_06	OrcGraveyard	Kamera Objketierung
+2000_05_06	PsiCamp		Mobsis für TAs
+
+2000_05_05	Objekte		Bäume neu Texturiert
+2000_05_05	OldCamp		Repairhutplanks gefixed (UseWithItem), Couldron gefixed (UseWithItem)
+2000_05_05	NewCamp		Partikeleffekte wieder eingefügt, Reissterassen wieder auf Wasser gesetzt (Ooops)
+2000_05_05	Objekte		Bäume neu Texturiert
+2000_05_05	Surface		Freepoints Monster, Meshfixing Wasser, Meshfixing, 
+				See vor Demontower -> Sumpf, Objektierung Sumpfbäume, 
+				Objektierung Fackelständer, LevelChangeSpots verschlossen
+
+2000_05_04	PsiCamp		Mobsis für TAs
+2000_05_04	OldCamp		Kamera an die Tore
+2000_05_04	NewCamp		Mobsis für TAs
+
+*************************2000_05_04   WORLD.ZEN*************************
+
+2000_05_03	PsiCamp		Mobsis für TAs
+2000_05_03	Surface		Wasserfälle, Freepoints Monster
+2000_05_03	OldCamp		TA-Mobsis, Spawnpoints
+2000_05_03	NewCamp		Texturfehler gefixed
+2000_05_03	Vobtrees	Vobtrees der Lagerfeuer, Fackelständer etc. Final (Vorsicht Touchdamage in den Trees Bugy)
+2000_05_03	SPC_CKLST_IN	andere Ruestung, ocCS-Trigger geaendert, NSC Erzaehler entfernt,Hebel und Triggerscript eingefuegt
+
+2000_05_02	NewCamp		UseWithItem Fix der Lagerfeuer, Partikeleffektfix OreHeap
+2000_05_02	PsiCamp		ocCS-Trigger, Meshfehler gefixed (Psi_Labor_Basement_4)
+
+2000_04_29	OrcCity		wege neu texturiert, meshveränderungen, damit man überall hinkommt
+
+*************************2000_04_28   WORLD.ZEN*************************
+
+2000_04_28	SPC_CKLST_IN	Anpassung Change_Level->Neue Verzeichnissstruktur
+2000_04_28	SPC_CKLST_OUT	Anpassung Change_Level->Neue Verzeichnissstruktur
+2000_04_28	PsiCamp		Waypointtuning
+2000_04_28	NewCamp		Objektierung Fackeln, Magische Erzhaufen
+2000_04_28	Surface		Wasserfälle (noch nicht fertig), Change-Level-Bbox gefixed (Bug mit editieren)
+2000_04_28	OldCamp		Alter Fliegensound gelöscht, Couldrons zCVOB --> OcMobInter
+
+2000_04_27	PsiCamp		einfügen Portal->Tempel
+2000_04_27	Surface		Textur-Map-Animation Wasser, Verschmelzung Wasser <-> Magische Barriere
+2000_04_27	MagicFrontier	Löschen der Backfaces (vom Spieler abgewante Seite)
+
+2000_04_25	OldCamp		Partikeleffekte (Schornsteine), Finetuning
+2000_04_25	OrcGraveyard	Anpassung Change_Level->Neue Verzeichnissstruktur
+2000_04_25	FreeMine	Anpassung Change_Level->Neue Verzeichnissstruktur
+2000_04_25	OldMine		Anpassung Change_Level->Neue Verzeichnissstruktur
+2000_04_25	Surface		Anpassung Change_Level->Neue Verzeichnissstruktur, Wasserfälle Texturierung
+2000_04_25	FreemineCamp	Anpassung Change_Level->Neue Verzeichnissstruktur
+
+2000_04_24	Surface		Finetuning Waynet (Gamestart)
+2000_04_24	OldCamp		Finetuning Waynet
+2000_04_24	PsiCamp		Finetuning Waynet
+
+2000_04_18	Surface		Wasserfälle an Dieters Design angepasst
+
+2000_04_17	PsiCamp		Lampenobjektierung
+2000_04_17	Surface		Lampenobjektierung (Psicamp Eingang)
+
+2000_04_14	ChecklistIndoor	Bett in BETT benannt, Item Alarmhorn und Ruestung
+2000_04_14	PsiCamp		Mover mit PFX Controller
+2000_04_14	OldCamp		Freepoints im Eingangsbereich, Feuerstellen umbenannt
+
+2000_04_13	OrcGraveYard	Lichtertuning, Meshtuning
+
+2000_04_12	Surface		Waynet überarbeitet, Freepoints, Finetuning
+2000_04_12	PsiCamp		Waypoints
+
+2000_04_11	OldCamp		Lagerfeuerfix (instanzezuweisung itlstorchburning);Spinnenweben OldCamp -> Namensnomenklatur;Zuweisung oCMobfire -> Lich-Vobtree
+2000_04_11	FreeMineCamp	Waypoints
+2000_04_11	PsiCamp		Waypoints
+
+2000_04_10	OrcGraveYard	Lichtsetzung, Changelevel Surface
+2000_04_10	Surface		Changelevel OrcGraveYard
+
+*************************2000_04_06   WORLD.ZEN*************************
+
+2000_04_06	OrcGraveYard	Namensnomenklatur Texturen
+
+2000_04_05	FreemineCamp	Finetuning
+2000_04_05	Surface		Finetuning Objektierung, Texturierung
+
+2000_04_04	Objekte		Materialnamensfixing
+2000_04_04 	OldCamp		TorEvent innerer Kernbereich
+2000_04_04	Surface		Bugfixing, anpassung Loadingzones
+
+2000_04_03	OldCamp		Bugfixing
+2000_04_03	Surface		Bugfixing
+
+2000_04_01	FreeMineCamp	Levelübegang-Gang 
+
+2000_03_31	Objekte		Verfeinerung Baumobjekte
+2000_03_31	Surface		Castle Keller Event, Texturierung, Meshverfeinerung
+
+2000_03_30	OldCamp		Maingate-Events
+2000_03_30	Surface		Texturierung
+2000_03_30	FreeMineCamp	Objektierung, Texturierung
+
+*************************2000_03_24   WORLD.ZEN*************************
+
+2000_03_24	Surface		Texturkantenverbesserung,Finetuning Objektierung, Waldbugfixing
+2000_03_17	OrcCity		Einmodeln OrcShamanenGrab
+
+2000_03_22	FreeMineCamp	Umgemodelt (bessere Begehbarkeit)
+
+2000_03_17	OldCamp		Bugfixing
+2000_03_17	PsiCamp		Bugfixing
+
+2000_03_17	OrcCity		Bugfixing
+2000_03_17	OldMine		Bugfixing
+2000_03_17	FreeMine	Bugfixing
+2000_03_17	OldCamp		Bugfixing
+2000_03_17	DemonTower	Bugfixing
+2000_03_17	PsiCamp		Bugfixing
+2000_03_17	NewCamp		Bugfixing
+
+2000_03_15	Objekte		Bugfixing, Texturnomenklation, Texturraffung
+2000_03_15	OldCamp		Bugfixing
+2000_03_15	NewCamp		Bugfixing
+
+2000_03_14	PsiCamp		Bugfixing
+2000_03_14	NewCamp		Bugfixing
+2000_03_14	OldCamp		Bugfixing
+
+*************************2000_03_10   WORLD.ZEN*************************
+
+2000_03_10	NewCamp		Texturnomenklation, Texturraffung
+2000_03_10	OldCamp		Texturnomenklation, Texturraffung
+2000_03_10	PsiCamp		Texturnomenklation, Texturraffung
+2000_03_10	FreeMineCamp	Texturnomenklation, Texturraffung
+2000_03_10	Surface		Texturnomenklation, Texturraffung
+2000_03_10	OldMine		Texturnomenklation, Texturraffung
+2000_03_10	FreeMine	Texturnomenklation, Texturraffung
+2000_03_10	Surface		Soundsetzung
+2000_03_10	NewCamp		entfernen von reverbzonenfehler und veränderung von sounds am wasserfall
+				
+*************************2000_03_08   WORLD.ZEN*************************
+
+2000_03_07	PsiCamp		Waynetüberarbeitung 
+2000_03_07	NewCamp		Waynetüberarbeitung 
+2000_03_07	Surface		ErdbebenPFX 
+2000_03_07	OldCamp		Soundsetzung, Waynetüberarbeitung
+2000_03_07	FreeMineCamp	Waypointanbindung an Surface.Zen
+2000_03_07	FreeMine	kleine Meshbugs entfernt, Texturierung; Soundsetzung; Lichtsetzung
+
+2000_03_03	OldMine		Raffen und Zählung Objekte
+2000_03_03	PsiCamp		Raffen und Zählung Objekte
+2000_03_03	FreeMineCamp	Raffen und Zählung Objekte
+2000_03_03	FreeMine	Raffen und Zählung Objekte
+
+2000_03_02 	AbandonedMine	Texturierung
+2000_03_02	FreeMine	Soundsetzung
+2000_03_02	PsiCamp		Soundsetzung
+2000_03_02	DemonTower	Raffen und Zählung Objekte
+2000_03_02	NewCamp		Raffen und Zählung Objekte
+2000_03_02	Surface		Raffen und Zählung Objekte
+2000_03_02	OldCamp		Raffen und Zählung Objekte
+
+2000_03_01	NewCamp		Soundsetzung
+2000_03_01	OldMine		Soundsetzung,Startpoint gesetzt
+2000_03_01	FreeMine	Soundsetzung,Startpoint gesetzt
+2000_03_01	OldCamp		Screenfxcontroller eingefuegt
+2000_03_01	Surface		Objektfixing
+2000_03_01	Objekte		Trollpallisade, Lonehut
+
+*************************2000_02_29   WORLD.ZEN*************************
+
+2000_02_29	DemonTower	Waynetfix
+2000_02_29	Objekte		Bugfixing
+2000_02_29      OldMine 	Levelchange angepasst (Link zur World)
+2000_02_29      FreeMine 	Levelchange angepasst (Link zum World)
+2000_02_29      FreeMineCamp 	Levelchange angepasst (Link zur FreeMine)
+2000_02_29      Surface 	Waynetfix, Levelchange angepasst (Link zur OldMine)
+2000_02_29      OldCamp 	Leiterfix
+
+2000_02_28	NewCamp		NCs gelöscht
+2000_02_28	OldCamp		NCs gelöscht
+2000_02_28	Freemine	Waynetbearbeitung, Texturbugs, Soundsetzung, Anbindung Crawlerhive, Lichtsetzung
+
+2000_02_26	Objekte		Bugfixing
+2000_02_26	OldMine		Bugfixing Objektpositionierung, Lichtsetzung, Objektierung
+2000_02_26	FreeMine	Bugfixing Objektpositionierung, Objektierung
+
+2000_02_25	CrawlerHive	Texturierung
+2000_02_25	FreeMineCamp	Waypoints
+2000_02_25	FreeMine	Lichtsetzung
+2000_02_25	MagicFrontier	Polyanzahl verdoppelt (wegen too many clipped Polys)
+2000_02_25	NewCamp		Magierhütten Objektiert, Lichttuning, Sound
+2000_02_25	Surface		Bugfixing Leitern, kleinerer Fix
+2000_02_25	OldCamp		Bugfixing Leitern, Wand Erzbaronhaus eingebaut, Treppenfunktionalität, Meshbugfix
+2000_02_25	PsiCamp		Bugfixing Leitern, Umstellung oCMob -> zCVob, Stuhlumwandlung von 3ds nach asc
+
+2000_02_24	NewCamp		Innleuchter convertiert von oCMobFire -> zCVob (Texturiert)
+2000_02_24	DemonTower	Portale eingefügt
+2000_02_24	OldCamp		Meshfehler behoben, Turmportale eingefügt
+
+*************************2000_02_22   WORLD.ZEN*************************

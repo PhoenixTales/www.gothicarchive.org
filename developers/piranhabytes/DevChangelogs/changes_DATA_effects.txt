@@ -1,0 +1,19 @@
+06.12.2000		-	Magie (Erweiterung Effekte), Introvertonung, Monster-/Kampf-/Kollision-/Magiesounds
+
+22.11.2000		-	Neue Magieeffekte, halbwegs finaler Stand erreicht
+				-	Kampf-Soundeffekte, neue Monstersounds, Eventsounds [Marco]
+
+08.11.2000		-	Wieder neue Magieeffekte mit allem drum und dran
+
+26.10.2000		-	Haufenweise neue Magieeffekte, inkl. Texturen, Scripten, Meshes und einigen Sounds
+				-	Neue Kampfsounds von Marco.
+
+11.10.2000		-	Neue Menüskripte und -Texturen. Insbesondere zentrierter Text und Blende beim Ingame-Menü
+				-	Soundbalance Tuning begonnen. Insbesondere einige Ambient-Sounds in ihrer Lautstärke reduziert.
+				-	Haufenweise PFX und SFX für Cutscenes. Insbesondere Wahnsinnswelle, Fokus, Erdbeben, Orkvision für FinalPrayer.
+				-	Mit der Programmierung von FlexAllesWirdGut begonnen. Insbesondere das Modul für Kamera-, Magie- und Soundsystem :-)
+
+
+11.10.2000		Captains Log, nachdem eine an Ewigkeit grenzende Zeit vergangen ist, beginne ich eine neue Changes-Datei.
+				Die alte hat das letzte Passieren des Raumzeit-Integrators leider nicht überlebt und wurde in annähernd sechs
+				Zilliarden Bestandteile zerlegt.

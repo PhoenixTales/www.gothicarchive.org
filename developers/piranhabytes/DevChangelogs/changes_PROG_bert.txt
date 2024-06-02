@@ -1,0 +1,1600 @@
+ 
+**********************************************************************
+$Workfile:: changes_PROG_bert.tx $          $Date:: 6.12.00 12:36    $
+$Revision:: 65                   $       $Modtime:: 5.12.00 16:16    $
+$Author:: Speckels                                                   $
+**********************************************************************
+
+Source-History von Bert Speckels
+
+Projekt "Phoenix" (Gothic)
+Piranha Bytes GmbH
+Mad Scientists GbR
+
+----------------------------------
+*** Es existieren diverse Bugs ***
+----------------------------------
+
+----------------------------------------------------
+Spacer 1.28, Game 1.00
+----------------------------------------------------
+
+Änderungen/Neues:
+- Groessen von InGame-Elementen
+  - Resize bei hoeheren Aufloseungen unterbunden
+  - Elemente werden relativ zum Bildschirm kleiner, bei hoeheren Aufloseungen 
+  -> z.B. bei StatusScreen (KEY_S), Inventory (TAB), InGame-Menue (ESC), Statusanzeigen
++ Menues
+  + Rahmengroesse (frameSizeX, frameSizeY) bei MenueItems definierbar
+  + Aenderungen bzgl. Darstellung und Handhabung
+  + zwei backPics angebbar 
+	-> "outGameBack.tga|inGamePic.tga"	// verschiedene backPics
+	-> "outGameBack.tga|"				// inGame kein backPic
+	-> "outGameBack.tga"				// identisches backPic
++ Log-Screen
+  + Listbox mit scrollbaren Texteintraegen (Missionen und Log-Themen)
+  + Textfenster scrollbar (falls der Text nicht mehr ins Fenster passt)  
+
+Hinweise:
++ Erhebliche Änderungen fuer die Scripte:
+	- ATR_WILL und ATR_WILL_MAX entfernt
+	- Einige Variablen in C_NPC entfernt!
+		- talents
+		- chance_pickpocket
+		- chance_picklock
+		- etc.  	
+	- Talente:
+	  FightTalente in die allgemeinen Talente aufgenommen
+	  Konstantennamen der Talente in constants.d angepasst (NPC_TALENT_name)
+	  -> Zahlreiche Talente, speziell die verschiedenen Stufen, entfallen
+	  -> Statt TAL_1H2 heisst das Talent nun NPC_TALENT_1H (die Talentstufe wird extra angegeben, s.u.)  
+	- Scriptfunktionen
+	  SetTalentSkill(npc, talentKonstante, skillNr) (0,1,2,3 ...)
+	  SetTalentValue(npc, talentKonstante, wert)	(0-100)
+	  GetTalentSkill(npc, talentKonstante)
+	  GetTalentValue(npc, talentKonstante) 
+	  HasTalent entfällt
+
+----------------------------------------------------
+Spacer 1.27, Game 0.99
+----------------------------------------------------
+
+Bugfixes
+* Menu
+  * Darstellung und Anzeige (keine Flackern mehr)
+  * Savegame-Menu ins eigentliche Menue integriert
+    -> ESC bricht ab und kehrt ins uebergeordnete Hauptmenue zurueck
+  * Stoehrende Zwischenframes beim Wechsel zwischen Menues behoben
+
+Hinweise/Aenderungen/Neues
++ Menu
+  + Erweiterungen
+  + Sichtweite und Brightness/Gamma werden schon uebernommen
+  + Analyse und Bewertung des eigenen Rechners
+  + Globale Performance-Einstellung im Settings-Menü
+  + Default-Items fuer InGame- und OutGame-Menue auswaehlbar (NEW GAME / SAVE GAME)  
+  + Leerer Name fuer ein Savegame fuehrt zum einfuegen des Weltnamen (damit kein leerer Savegame-Eintrag vorliegt)
+* Options: ChangeHandler-Funktion wird jetzt nur noch aufgerufen, wenn sich der Wert der Einstellung auch geaendert hat
++ Error:
+  + Neue (Bounds-)Assertion und zERR_FAULT-Makros fuer einmalige Meldungen (Syntac siehe zerror.h -> "_ONCE")
++ Spacer: Analyse World wurde um zusaetzliche Checks erweitert.
+  
+----------------------------------------------------
+Spacer 1.26, Game 0.98
+----------------------------------------------------
+
+Bugfixes
+* Spacer: Speichern von Leveln durch Macros laesst keine unerwuenschten Vobs mehr zurueck
+* Spacer: Logical-Editor-Fehlermeldungen behoben
+
+Hinweise/Aenderungen/Neues
+* Spacer: Performance-Optimierungen
++ Spacer: HelperVisuals
+  - wird nun von der Engine unterstuetzt: Jeder VOB, der kein eigens Visual hat bekommt sein HelperVisual (invisible_CLASSNAME.3ds)
+  - Wird dieses nicht gefunden, benutzt die Engine das Visual "invisible_default.3ds" -> Ich empfehle ein deutlich sichtbareres Defaultvisual!
+  - Das Speichern der Welt im Spacer wird damit um ca. 2 min verkuerzt :-)
+  -> Trigger, Sounds etc. koennen damit auch spezielle Visuals bekommen und sind so sicht- und anklickbar. Die Boundingbox bleibt dabei trotzdem editierbar.
++ Logical Editor
+  - Auswahl der gewünschten Aktion über Listbox:
+    - Convert = Standard Ersetzung entsprechend den Einstellungen
+	- Collect = Einsammeln der gefundenen Vob im Vobcontainer (CTRL+V2)
+	- Correct =	Korrigieren der Vob-TRAFOS (Positions- und Dimensiondaten)
+	- Replace = Ersetzen durch das angegebene ZEN
+  - Das Löschen von Vobs kann nun ueber den VobContainer vorgenommen werden
++ VobContainer
+  - Kann beliebige Vobs aufnehmen und bearbeiten  
+  - Anwendungsgebiete:
+    - Custom-Modus: Vobs sammeln (ALT-F2) und danach z.B. aus der Welt entfernen
+	- Custom-Modus: Vobs im Container sammeln und dann durch einfachen Doppelklick zwischen deren Positionen zu wechseln
+	- Collect-Modus: Alle Vobs in der sich die Kamera befindet, werden angezeigt (Kamera ist in deren Boundingboxen, z.B. Zones)
+	- Collect10m-Modus: Alle Vobs im 10Meter-Umkreis der Kamera werden angezeigt (Schnittstellen mit deren Boundingboxen)
+
++ Spacer: Bei Vobs ohne Namen erscheint im Vobtree stattdessen der Visualname in einfachen Anführungszeichen
++ Menü
+  + Erweiterung des Settings-Menü (zu Testzwecken!!)
+  * Positionierung optimiert
+  * Faden abgeschaltet
+  * In- und Ooutgame-Menü vereinheitlicht
+  * BACK-Buttons entfernt (ESC ist offensichtlich genug)
+! Spacer/Makros: "SAVE ... BINARY" ist nun Standard. ASCII-Speichern durch "SAVE WORLD filename ASCII"
+* Beim "Save Game" wird der aktzuelle Screenshot angezeigt, nicht der des ausgewaehlten Savegames
++ Spacer: Einstellung "goldmaster" in den General-Setting eingefuehrt
+  -> Speichert Level im Verzeichnis goldmaster mit "gm_" vor dem Namen
+  -> Löscht beim Speichern alle Vobnamen aus reinen zCVob-Objekten
+  -> weitere Aktionen sinnvoll?
+* Thread-unsichere Algorithmen in der zFILE-Klasse geaendert
++ Konsolenbefehle "SET CLIPPINGFACTOR #.##" mit gueltigen Werte zwischen 0.05 und 10.0
+
+----------------------------------------------------
+Spacer 1.25, Game 0.97
+----------------------------------------------------
+
+Bugfixes
+* Spacer: CodeMaster funktioniert auch im Spacer korrekt
+* Spacer/Game: numCanBeActivated bleibt unveraendert (interner Counter) ACHTUNG: Der Wert wird bei Movern nicht beruecksichtigt! Nur bei einfachen Triggern und Triggerlisten
+* Game: Triggern einer Kamera per TriggerListe
+* Game: Diverse Probleme bei Event-Parameteruebergabe (z.B. Trigger) behoben
+* Game: Pausierung des Spiels im Load/Save-Menü
+* Game:	Nach Lightmap-Compile werden alle Vob auf LightingDirty gesetzt
+* Game: Aenderung von Licht-Eigenschaften fuehren auch zum Update betreffender Vob-Beleuchtungen
+* Game/CS: Abbruch von OutputUnits fuehrt (wohl) nicht mehr zu einem Haenger 
+
+Hinweise/Aenderungen/Neues
++ Spacer: Boundingbox-Editierung
+  Ausmasse der Boundingbox koennen per Define-Button auf der Manipulationseite eingestellt werden
+  -> Eingabe in cm als Laenge der BBox-Seiten
+
+! Neuer Eintrag in paths.d <<CONST STRING DIR_VIDEOS="$DATA$\videos\";>>
++ Videos:
+  - Es koennen Videos abgespielt werden.
+  - Format: Bink (*.BIK)
+  - Tools zum Konvertieren von AVI, MOV etc.: x:\speckels\bink_videoplay\radtools.exe
++ Videos: Anmerkungen
+  - Konsolenbefehl "play video filename"
+  - Scriptbefehl "PlayVideo(videofilename)"  
+  - Kein Resize des Videos im Windowed-Modus
+  - Wird das Video unter dem angegeben Namen "filename.BIK" nicht gefunden, so sucht der Player
+    automatisch nach einem passenden BIK-File nach dem Muster "filename###x###.BIK".
+	###x### entspricht der gewünschten Auflösung, für die das Video besonders gut geeignet ist.
+	Momentan beruecksichtigt werden 1024x768, 800x600, 640x400
+	Ein 1024x600-Video hiesse also dann z.B. "sleeper1024x768.bik", das entsprechende Video für
+	die Auflösung 640x360 hiesse "sleeper640x400.bik".
++ Tastaturbelegung fuer Videos: 
+  - ESC = Abbruch
+  - Cursor-Up/Down: Lautstärke
+  - SPACE = Pause
+  - Q = Quiet toggle (Sound AN/AUS)
+  
+----------------------------------------------------
+Spacer 1.24, Game 0.96
+----------------------------------------------------
+
+Bugfixes:
+* Spacer/CS: numLockedBlocks im Constructor initialisiert
+* Spacer/CS: BeamTo funzt
+* Spacer: Animierte Lichtranges werden korrekt gespeichert
+
+Hinweise/Aenderungen/Neues
++ Spacer/CS: Exportierte Vobliste erweitert um Koordinaten der Vobs
++ Spacer/CS: Eingabedialog fuer neue Cutscene-Rollen
+* Spacer/CS: Cutscenes koennen wieder ohne geladenem Level bearbeitet werden.
++ Spacer/CS: Positonslinie fuer Maus (klein in der Skala) und Block-Movement (ueber die gesamte Höhe)
++ Spacer: Neuer Vob-Menüpunkt: "Move here" verschiebt den ausgewählten Vob vor die aktuelle Kameraposition
++ Spacer: Remember Position: Merkt sich die aktuelle Position (bis zum naechsten "RememberPosition" oder Sprung zu einer Position)
++ Spacer: Toggle Camera-Position: Springt zwischen aktueller Camera-Position und gemerkter Position
++ Game/SG: Savegame-Manager und -Menü erstellt. Umstellung des Games auf neue Klassen und Methoden.
+
+----------------------------------------------------
+Spacer 1.23, Game 0.95
+----------------------------------------------------
+
+Bugfixes: 
+* Spacer/CS: EIngabe von Text in obere Eingabezeile funzt wieder
+* Spacer: (#2490) AI von NPCs ist nicht mehr an
+* Spacer: (#2460) Logical_Editor arbeitet wieder ohne Fehlermeldungen
+* Spacer: (#2467) Apply Physics gefixt
+* Spacer: (#2421) Fensterhandle fuer DirectX wird direkt uebergeben ("Kollision" mit anderen Anwendungen behoben)
+* Spacer: Cutscene-Sequencer kann mit F12 getoggelt werden
+* Spacer: Focuserhalt des Hauptfensters an einigen Stellen korrigiert
+* Spacer: ENTF-Taste reaktiviert
+* Game/Sound: Voice-Handle-Liste fuer NPCs: Updaten der Sounds
+* Game/Npc: Beim EV_BEAMTO verliert der NPC seinen Rucksack (und andere Slot-Vobs) nicht mehr
+* Game/CS: External-Function Hlp_CutscenePlayed verbessert (ekzeptiert jetzt auch Namen ohne ".CS" und liefert kein -1 mehr)
+
+Hinweise/Aenderungen/Neues
++ Game/CS: Abbruch von Outputunits
+  + Abbrechen der entsprechenden Cutscene von Player und/oder seinem Gesprächspartner
+  + Abbruchtaste STRG+C fuer OutputUnits und globale Cutscenes (SPACE ist schon belegt)
+  + Abbrechen des Voice-Sounds (WAV-File wird gestoppt) leider noch gelegentliche Player-Freezer (ENTF-Taste!)
++ Game/Npc: Ausrichten am Vob beim BeamTo (nicht nur bei Waypoints)
++ Game/CS: synchronized-Flag fuer AtomicBlocks: Bei FALSE wird nicht auf das Ende des Blocks gewartet (ACHTUNG, UNBEDINGT VORSICHTIG MIT UMGEHEN: MICH FRAGEN!!!)
++ Spacer/CS: Sequencer editiert im Object-Fenster (MODIFY) nicht mehr EventMessages, sondern die AtomicBlocks mit dem neuen synchronized-Flag
+* Spacer/CS: Klarere Visualisierung der Event-Blöcke
+* Spacer/CS: Toleranz beim Ziehen von Blöcken: Kleine Abweichung beim Klicken fuehrt nicht zum "Ziehen"
+* Spacer/CS: Bei der Auswahl eines Eventblocks verliert der Sequencer nicht mehr seinen Focus
+* Spacer/CS: Verschieben von Atomic-Blöcken über den Nullpunkt hinaus unterbunden.
++ Spacer/CS: Popup-Menü mit Option zum Entfernen, Bewegen und Ändern des Sychronous-Flags von AtomicBlöcken
+
+----------------------------------------------------
+Spacer 1.22c, Game 0.94c
+----------------------------------------------------
+
+Bugfixes
+* Speicherüberschreiber in zoptions.cpp gefunden (Dank an Roman!) und behoben
+* 2272: Inrtrocutscene: Einfuegen von Rollen in die Welt ausserhalb des Sim.radius'
+* 2259: Soundvobs lasen sich nun triggern
+* 2207: Der erste Buchstaben bei Textausgaben wird nicht mehr weggeclippt
+
+
+----------------------------------------------------
+Spacer 1.22, Game 0.94
+----------------------------------------------------
+
+Wichtige Hinweise / Aenderungen:
++ Game: Neuer Kommandozeilenparameter -noblend verhindert das Erzeugen einer Schwarzblende beim Laden der world.zen.
++ Game/CS: Die neue Cutscene-Eigenschaft numLockedBlock steht nun zur Verfügung (siehe online-Hilfe im Spacer)
++ Game/CS: Cutscenes mit fehlerhaften Daten (falsche Hauptrolle) verursachen einen FAULT (statt WARNING) und werden dann nicht mehr gespielt
++ Spacer/CS: Scrollbalken für den Sequencer (kein Bugreport ueber das Ziehen des Scrollbalken: keine Chance :)
++ Spacer/CS: Optimierte Skala
++ Spacer/CS: Aktualisierung der Anzeige bei Änderung des Eventtyps (neue Eigenschaften bei APPLY sofort verfuegbar)
++ Spacer/CS: EventMessage, die keine Jobs sind (sofortige Bearbeitung) werden im Sequencer gesondert gekennzeichnet
++ Spacer/CS: Ohne "Simulation" wird der Zustand (HOSTILE) bei NSCs nun ignoriert
++ Spacer: wird abgebremst wenn Framerate zu hoch (>50)
+
+Bugfixes:
+* Spacer: Das Hauptfenster behaelt jetzt wieder bei diversen Aktionen den Focus
+* Spacer: Bugfix bei De/Selektion von Polygonen
+* Spacer: Bugfix bei Aktualisierung des Property-Screens (RAW-Textfeld)
+
+Internes:
+
+----------------------------------------------------
+Spacer 1.21, Game 0.93
+----------------------------------------------------
+
+Wichtiges Hinweise / Aenderungen
++ Game/CS: DisableCutscenes betrifft keine Output-Units mehr
++ Game/CS: Cutscenes mit Toten bzw. bewusstlosen Rollen werden nicht mehr gestartet.
++ Game/CS: Cutscenes werden durch Wahrnehmung momentan nicht mehr beendet (Zuarbeit von Ulf noetig)
++ Game/CS: Cutscene-Reactions entfernt
++ Game: Nach dem Laden der world.zen (im Release-EXE) ist der Bildschirm durch einen ScreenFX-Vob (mit dem Namen NEW_GAME_SCREENFX) schwarz. Die Blende muss per Cutscene entfernt werden!
++ Game/Spacer: neuer Eintrag in paths.d: >>DIR_OUTPUTUNITS<<  !!!
++ Spacer: Crash beim Beenden des Spacers bei Freigabe von OutputUnits behoben
+
+Bugfixes:
+* Spacer: CSCamera aus Cutscene einfuegen -> Spacer beenden -> Absturz
+
+Internes:
++ Game/CS: Alle Rollen erhalten nun die Infos ueber Start oder Ende einer Cutscene
++ Game/CS: Die entsprechenden Nachrichten enthalten nun auch zusaetzliche Infos wie: Ist es eine OU? Ist die CS global? Ist die Rolle die Hauptrolle?
++ Game/CS: Vorbereitungen fuer NotAllowedAsRole-Flag fuer NSCs
++ Game: Optimierungen an Error- und String-Klasse
+
+----------------------------------------------------
+Spacer 1.20, Game 0.92
+----------------------------------------------------
+
+Wichtige Hinweise / Aenderungen:
++ Spacer: NEU: Mouselook mit F3 oder BACKSPACE bzw. SHIFT+BACKSPACE
++ Spacer: NEU: TAB toggelt nun die Toolwindows zwischen sichtbar und icon-modus
++ Spacer: Fuer diesen Modus wuerde auch der neue Menuepunkt "Windows/Align Toolwindows on Screen" eingefuehrt.
++ Spacer: Man kann nun im Objektierungsmodus mit der Taste X eine Vobselektion aufheben
++ SPacer: Lensflares und Messagefilter bekommen auch keine Standard-Meshes zugewiesen (falls doch erwuenscht: Info an mich)
+* Gothic/CS: Datenfehler "Falsche Hauptrolle" fuehrt nicht mehr zu staendigem Ladeversuch der Cutscene (diese wird danach ignoriert)
+
+Bugfixes:
+* Spacer: Absturz bei 2.Laden von Level mit NSCs (Hack von Ulf)
+* Spacer: Versionsnummern-Duplikat entfernt
+* Spacer: Compileuhrzeit hinzugefuegt
+* Spacer: CJ60-Bibliothek entfernt
+* Game/CS: Debugmeldungen runterpriorisiert
+
+----------------------------------------------------
+Spacer 1.19c, Game 0.91c
+----------------------------------------------------
+
+Wichtige Hinweise / Aenderungen
++ Vor dem Menue wird nach einer Textur "initialize.tga" gesucht und diese dann als Initialize-Screen angezeigt.
+! Spacer: Textausgabefenster nun wie im Game mit ALT-A togglebar
++ Spacer: Objektbaum (CREATE-Page) kann nun per Button ("Activate") aktiviert werden.
+* Spacer: Ohne Welt sind nun auch Cutscene-Fenster (Seq und OU) deaktiv :(
++ Spacer: 16bit-only-Aufloesungen in Settings-Dialog
++ Spacer: Kennzeichnung der aktuellen Aufloseung in Settings-Dialog
++ Game/CS: NSCs koennen nun gleichzeitig mit mehreren schlummernden Cutscene umgehen
++ Spacer: '*' toggelt die Z-Order-Einstellungen der Tool-Fenster (holt in den Vordergrund / setzt in den Hintergrund)
++ Spacer: Menupunkt WINDOW/AlignWindowsOutside ordnet die Fenster am Bildschirmrand an (schaltet auch Bind Windows ab)
+
+
+Bugfixes:
+* Spacer: Absturz beim APPLY von bereits geloeschten Objekten
+* Spacer: Textausgabefenster funzt nun (ist beim Start deaktiv)
+* Spacer: Erweiterte Properties fuer Cutscene wieder aktiviert.
+* Spacer: Cutscene koennen jetzt nur erstellt und geladen werden, wenn auch ein Level geladen wurde :(
+* Spacer: Speichern vor dem Laden oder Reset (nach Sicherheitsabfrage) funzt wieder.
+* Game/CS: Aufraeumen einer Cutscene bei Programmende (1. Fix)
+* Game/CS: onStop-Scriptfunktion wird nicht mehr aufgerufen, wenn die Cutscene nur geschlummert hat und entfernt wird.
+* Game/CS: gefixt: runBehaviour-Verhalten war fehlerhaft, wenn Cutscene nur geschlummert hat
+
+Intern:
+* Spacer: Umfangreiche Anpassungen für neuen Archiver vorgenommen
+* Game: Umfangreiche Anpassungen für neuen Archiver vorgenommen
++ Game/CS: Eventmessages bei Start, Stop, Interup und Resume an Hauptrolle
+* Game/CS: Erzeugung von CS-Properties in den Player verschoben (vorher Manager)
+* Spacer: Viele Aktionen sind nun abhaengig von einer existierenden Welt , da ansonsten ein CutscenePlayer existiert.
+
+----------------------------------------------------
+Spacer 1.18, Game 0.91
+----------------------------------------------------
+
++ Bugfixes: 1693, 1431, 1336, 1545, 1701, 1494, 1609
+
+Spacer:
++ Absturz beim Beenden behoben
++ Kamera unter Wasser funzt (Effekt wird dargestellt)
++ Ausgabe von NPC-Name bzw. Mob/Item.Schemename im Standard-Infopage
+  -> Standard-Infopage ist zu sehen, wenn kein andere Object-Page (im Object-Fenster) aktiv ist
+* Bugfix: ReparseScript funktioniert nun
+
+Game:
+* Cutscene-System: 
+	+ onStop-Scriptfunktion wird nun zu richtigem Zeitpunkt aufgerufen
+	+ onStop-Scriptfunktion setzte SELF auf die Hauptrolle
+	* Diverse Bugfixes bzgl. Cutsceneabstuerze
+
+----------------------------------------------------
+Spacer >1.16, Game >0.88
+----------------------------------------------------
+
+
++ Cutscene-System
+  + Properties: scriptFuncOnStop (mit zwei Parametern) TODO: Absturz des Parser von Ulf beheben lassen
+  + Konsolenkommando: PLAY CUTSCENE filename.cs
+    -> Hauptrolle ist dann der Focusvob, oder der Player (falls Focusvob nicht vorhanden)
+  + #1394: Zwei globale Cutscene können nicht gleichzeitig starten (zweite wartet auf das Ende der ersten)
+  + #1423: globale Cutscene ist per ESC abbrechbar.
+  * #1411
+  * #1494: Hlp_CutscenePlayed liefert die Anzahl zurueck, wie oft eine Cutscene gespielt wurde
+  
+  * Engine
+    * Architektur-Änderungen: zCCSSession eingebunden
+	* Neue Methoden fuer Änderungen an der Cutscene-Architektur
+
+  + PROG: 	
+	* Abspaltung des csPlayers in csManager (Gamesession) und csPlayer (world)
+	* Zentralisierung des Anspielens von Cutscenes    
+    * Konsistenz bei Namensgeben im Sourcecode bzgl. Play und Start hergestellt
+      - Start meint: geladen und schlummernd (StartCutscene statt PlayCutscene etc.)
+	  - Play meint: Cutscene spielt tatsaechlich (StartPlaying statt Start etc.)  
+  
+* Spacer
+  * Kann nun auch mit Unterverzeichnissen im Cutscene-Ordner umgehen
+  + PROG:
+    * Anpassungen an neues Cutscenes-System  
+  * Bugfix #1493
+  * Bugfix #1211
+
+----------------------------------------------------
+Spacer 1.16, Game 0.88
+----------------------------------------------------
+
+* Error&Spy
+  * Der Spy wird nun angefordert, wenn er nicht vorhanden ist.
+
+* Game
+  * Anzeige des Prozentbalkens an Grafik angepasst
+  * Bugfix #1211, Absturz bei Partikeleffekten
+
+* Cutscene
+  * Bugfix: Absturz bei Kampf/Cutscene/OutputUnits
+  * Alle Cutscenes werden auch beendet, wenn das Spiel heruntergefahren wird
+  * Bugfix, der (FAST) alle Probleme loest. Der rafft's total
+
+
+----------------------------------------------------
+Spacer >1.15, Game >0.87
+----------------------------------------------------
+
+! Fuer Progs: Ulf hat die Dateien otrigger.* an Bert uebergeben (von Gothic/_Ulf in Gothic/_Bert) 
+
+* Bugfixes
+  - Testtrack #1267 (alte Cutscenss wollen nicht mehr)
+  - Testtrack #1264 (Showing invisible vobs in Spacer)
+  - Testtrack #1247 (Parameter -nomenu)
+  - Testtrack #1107 (PFX-Controller veraendern ihr Mesh)
+  - Testtrack #1133 (Rüstungen fallen durch den Level)
+
++ Trigger
+  + Folgende Trigger haben nun alle die Standard-Triggereigenschaften (Filter etc.):
+    oCCSTrigger, oCTriggerScript, oCTriggerChangeLevel
+
+* Spacer
+  + Optimierung beim Laden von Leveln: Anzeige von Helper-Visuals je nach Einstellung
+  ! Beim Verstecken der Helper-Visuals bleiben Kameras sichtbar (->Carsten)
+  * Bugfix #1133 (Einige Items fallen beim Einfügen durch den Level)
+  * Der Spacer erstellt beim Scripte parsen nun wieder die OU-Infodatei, um Aenderungen am AI_Output-Befehl zu erkennen.
+  + Der Menuepunkt "Parse Script" im Spacer parsed die Scripte nun auf jeden Fall komplett neu.
+  * Menüpunkt "Load/Parse Script" heisst nun "Reparse Script" und macht eben selbiges auch wenn Parameter -reparse nicht angegeben ist.
+  * Nur mit dem Parameter "-CRASHHANDLER" wird beim Crash auch versucht, ein temp.zen gespeichert.
+  + Integration von Items in Cutscenes ist nun möglich
+
++ Neue Konsolen-Kommandos
+  + ZLIST CS -> Anzeige aller laufenden Cutscenes 
+  + ZLIST CS STATES -> Anzeige aller laufenden Cutscenes inklusive States
+  + ZLIST CS PROPS -> Anzeige aller laufenden Cutscenes inklusive States und Properties
+  + ZLIST CS HISTORY -> Anzeige der Cutscene-History (bisher gelaufene Cutscenes)
+  + ZTOGGLE CS LIST -> Anzeige laufender Cutscenes auf dem Bildschirm
+  + ZTOGGLE CUTSCENE SYSTEM -> Cutscene-System an bzw. abschalten
+  + ZERR SEARCHSPY -> Sucht den Spy, falls dieser nicht beim Spielstart vorhanden war
+
++ Sonstiges
+  + Spy wird durch MessageBox verlangt
+
++ Abschalten von Cutscenes per   
+  - INI-Eintrag "cutscenesDisabled=1" in Section GAME
+  - Konsole: "ZTOGGLE CUTSCENES ENABLED"
+
+----------------------------------------------------
+Spacer 1.14a, Game 0.86a
+----------------------------------------------------
+
++ SPC: ApplyPhysics ("Let Vobs fall down")
+  ! Taste [LEFT SHIFT] stoesst den VOB mit etwas mehr Kraft nach vorne
+  + 7 Sekunden bis timeout
+  + Nach Timeout wird gefragt, ob man fortfahren moechte (weitere 7 Sekunden)
+  + Antwortet man mit NEIN, kann man die Position des VOBs wieder zurueck auf die alte Position setzen
+
+----------------------------------------------------
+Spacer 1.14, Game 0.86
+----------------------------------------------------
+
+* Bugfix #1197 (Viewportgroesse ist resizeable und verursacht so Probleme)
+* Bugfix #1211
+* Bugfix #1200 (Absturz beim Editieren von Rollennamen)
+
++ Cutscene-System:
+  + Finden vob Rollenvobs, auch wenn diese gerade in der Welt deaktiviert sind (NSCs ausserhalb des Simulatiosradius')
+  * Testing und diverse Bugfixes bei der Behandlung von "toten Rollen"
+
+* Korrektes Aufraeumen (zRELEASE) des im zCPlayerInfo registrierten SpielerVobs
+* Nicht korrektes Ableiten von zCObject gefixt (DECLARATION- und DEFINTION-Macros fehlten)
+* Anpassungen fuer Savegames
++ Menue 
+  * Anpassungen fuer das Spielmenue
+  * Ingame-Menue ist auch bei NOMENU-Parameter aufrufbar (es wird nur das Startmenü ueberpsrungen)
+
+----------------------------------------------------
+Spacer 1.13b
+----------------------------------------------------
+
++ Kommandozeilen-Parameter: 
+  + Game und Spacer: -ini:file.ini benutzt die angebene INI-Datei anstatt der Default-Datei "gothic.ini"
+  + Spacer: -nospacercfg ignoriert die Spacer-Einstellungen inklusive der Fensterpositionen
+    + zusaetzlich wieder die AlignWindows-Funktion benutzt um die Fenster anzuordnen.
+	+ Diverse Defaulteinstellungen auf verneunftigere Werte gesetzt
+  * Fix bei Auswertung der Parameter
++ Output-Units: Fehlerhaft eingelesene Texte (behoben)
+* D3D: Toolbars 
+  * Action-Toolbar ist nun wieder vertikal
+  * Toolbars haben keine (nutzlose) Titelleiste mehr
+* Align Windows
+  - Ordnet die Fenster automatisch neu an
+    --> folgt in etwa der Bildschirmaufteilung von Sascha Henrischs :-)
+  - Breite der Object/Material-Liste und des Objekteigenschaften-Fensters werden nicht veraendert
+    --> kann man also vor dem automatischen Anordnen beliebig waehlen
+  - Toolbars werden an die gewohnte Stelle positioniert (unten und rechts)
+* kein CompileWorld-Dialog beim Benutzen von Macros
+* Speichern von Spacer-Settings beim Crash unterbunden
+
+----------------------------------------------------
+Spacer 1.11b
+----------------------------------------------------
+
+
++ D3D: Die Positionen der FloatingToolbars werden gespeichert und wiederhergestellt
+* D3D: Die Fenstergroesse beim Start (Viewport) entspricht nun der korrekten Aufloesung
+* D3D: Beim Bewegen das Hauptfenster bewegen sich auch die floating Toolbars mit (falls "Windows/Bind" angeschaltet ist)
+* D3D: Die Action-Toolbar hat nun eine korrekte (maximale) Groesse
+* Anpassungen an die neue Engine
+* Bug: Crash beim WorldCompile behoben
+* Compilieren der Welt aus dem EditorMode heraus nicht mehr moeglich
+* Speichern eines ZEN aus dem EditorMode heraus nicht mehr moeglich
+
+
+----------------------------------------------------
+Spacer 1.11a
+----------------------------------------------------
+
+! D3D: Unbedingt beachten
+  ! Wechsel der Aufloesung vermeiden, wenn ein Level geladen ist (zumindest die lightmaps gehen dabei verloren!)
+  ! Im Fullscreen-Modus wird NICHT in den Fullscreen geschaltet, sondern nur Lookaround angeschaltet.
+  ! Die D3D-Version ist nicht Glide-faehig (zrnd:glide ist nicht erlaubt)
+  ! Es laesst sich (noch) nicht vermeiden, dass die D3D-Version "floating toolbars" besitzt.
+
++ Exception-Handling  
+  + auch im Spacer aktiviert
+  + Der Spacer speichert einen geladen Level beim Absturz noch als tmp.zen bzw. tmp.3ds
+  + Der Spacer speichert seine Konfiguration noch ab (Fensterposition, Matlibs etc)
+* Fixes
+  * Veränderung der Kameralichtstaerke nun auch im EditorCOmpiled-Modus moeglich
+  * Bugfix CTRL+B: Umgelegt auf CTRL+SHIFT+B und Absturz behoben (fuer Mario!)
+  * Store/Restore: CSCameras werden ignoriert
+* Fehlerhafte Meshes/Trafos
+  * Im LogicalVobEditor gibt es nun das Flag "Correct Trafo". Damit werden Fehler in der Meshdarstellung behoben.
+
++ D3D
+  + D3D-Version kann per zrnd-Parameter auch fuer Glide genutzt werden (-zrnd:glide)
+  * Anzeige von Texturen gefixt
+  * Bugfix bzgl. der D3D-Initialisierung.
+  * Aufloesung wird aus Configuration ausgelesen (wurde vorher fest auf 640x480 gesetzt)
+  + Aendern der Aufloesung ist nun auch möglich (beachtet obige Hinweise!!!)
+  + implementiert (siehe obige Hinweise!!!)  
+
+
+----------------------------------------------------
+Spacer 1.11
+----------------------------------------------------
+
++ ConsistanceCheck von Cutscenes beim Laden selbiger (sind irgendwelche EventBlöcke auf Position > 80 Sekunden ?)
++ Wege zwischen zwei Wegpunkten koennen mit dem Shortcut CTRL+W getoggelt werden
++ Tooltips bei Buttons in Toolbars
+
++ Vorbereitungen fuer eine Direct3D-Version:
+  - InfoBars sind nun in einem Extrafenster enthalten
+  - Toolbars werden bei D3D aus dem Fenster genommen und als Floating Toolbars auf dem Desktop platziert (nicht schoen, aber funktioniert erstmal)
+  - EINSCHRÄNKUNGEN:
+    ! kein Fullscreen
+	! kein Texturieren!
+	! keine anderen Auflösungen als 640x400
+	! möglicherweise 80Pixel breiter schwarzer Balken am unteren Rand
+	! Toolbars nur floating, Position wird sich NOCH nicht gemerkt
+
+----------------------------------------------------
+Spacer 1.10a
+----------------------------------------------------
+
++ Compile Light
+  + kann auf Region (in Metern) um die Camera eingeschraenkt werden
+  + Button fuer LightCompile hinzugefügt (rechte Toolbar)
++ Ausgabe der verändertten Lichter beim Preset-REAPPLY
++ Button "View Vob", zeigt an, ob ein Vob angezeigt wird. Invisible Vobs lassen sich so einzeln anzeigen bzw. unsichtbar machen (bei anderen Vobs ist dies nicht moeglich)
+* Fix: Einfügen von Vobs (z.B. NPCs)
+* Fix: Store/Restore stellte keine geloeschten Vob wieder her
+* Fix: Wiedereinfügen von integrierten Vobs aus einer Cutscene in die Welt (z.B. Kamerafahrt)
+
+----------------------------------------------------
+Spacer 1.10
+----------------------------------------------------
+
+Infos for Developers:
++ Neue Files: spcCViewProgressDlg.h/cpp
++ die zoptions.h und .cpp gehoeren jetzt mir, nicht Carsten
++ die zoption_const.h gehoert weiterhin Carsten
+
++ INI-Dateihandling implementiert
+  ! Datei gothic.ini wird automatisch erstellt (falls nicht vorhanden
+    ! Sektionen in [ ]
+	! Eintraege in Form von Name=Value
+	! Kommentare beginnen mit einem ";" in der ersten Zeile
+  ! Die Datei kann nachtraeglich bearbeitet werden:
+    ! Kommentare
+	! Reihenfolge
+	! Werte verändern
+	! Programmparameter ueberschreiben (normalerweise) die Einstellungen in der ini-Datei	
+
++ Cutscene-System
+  * Zeitverhalten von Blöcken  
+  + reactions on SC-actions (NOTHING, END und INTERRUPT)
+    + auf Cutscene-Seite implementiert (AIM, THREATEN, ATTACK, STEAL, SIGHT, HEAR, ...)  
+    + In einer Gruppe zusammengefasst	
+  + range=-1 wird beruecksichtigt (unendliche Range)
+  + globale Cutscene beendet Ambient CS, falls von diesem eine Rolle benoetigt wird
+  + Tote Vobs 
+	+ neu: mustBeAlive-Flag (TRUE/FALSE) fuer Rollen, Standard ist FALSE!!!!
+	+ tote Rolle wird im Fall von mustBeAlive=TRUE nicht akzeptiert	
+  + Beim Abspielen von Cutscenes verschwindet die Boundingsbox um den ausgewaehlten NPC
+
+* SPC: Outputunits (SVMs)
+  ! WICHTIG: csl- und bin-Datei kompklett loeschen und neu erstellen lassen (Update-Button)
+  * SVMs werden wieder korrekt gelesen bzw. geschrieben
+  * Speicherung in ou.csl und ou.bin
+  * Neue Buttons: Load und Save (statt Filter- und Language-Listbox
+  * Langwieriges automatisches Speichern der CSL/BIN-Datei weitestgehend entfernt. Muss selber per SAVE-Button erledigt werden
+  * Sprachenspezifische Elemente entfernt
+  + Beim Abspielen einer OutputUnit verschwindet die Boundingsbox um den ausgewaehlten NPC
+
++ SPC: Cutscene-Sequencer 
+  + Standard-Trackmenue
+    + SEPARATORs eingefuehrt
+    + Maximale Anzahl an Eintraegen auf 23 erhoeht (incl. SEPARATORs)
+    + Hinzugefügt: GOTOFP, TRIGGER, USEMOB, USEITEM, FADEIN, FADEOUT
+    - Entfert: TURNAWAY
+  + SPC: Menuepunkt "Save" funktioniert wieder
+  * Cutscene-Sequencer mit neuen Buttons und neuer Aufteilung und breiterem TrackTree
+  * MouseWheel-Aktionen wird beruecksichtigt
+  * Anzeige von Events mit Sequencer entsprechend dem Zeitverhalten des Events:
+    * Null: "abgerundete" Ecken (satt doppelte Umrandung)		
+    * bekannter: Doppelt-Rand links und rechts
+	* unbekannt: gepunktet (kleinere Strichlinie)
+	* zusammengesetzt (Start- und Stop-Befehle): ohne Doppel-Rand links und rechts	
+	* Texte werden nicht mehr geclippt (abgeschnitten)	  
+
++ SPC: Sonstiges
+  + 4 Buttons mit lustigen kleinen Äuglein erlauben das Einstellen von wichtigen Ansichts-Optionen:
+    ! Textausgaben von NCSs (Gedankenblase)
+	! Informationen wie z.B. die Framrate ('i')
+	! Wegnetz-Anzeige (Wegweiser)
+    ! invisible Vobs (gepunkteter Kasten)	
+  + Ausgabefenster fuer Kommunikations aktiviert (abschaltbar: ALT+O)
+  + Informationen (Vobname, Position etc.) abschaltbar (ALT+I)
+  + Fullscreen alternativ auch ueber TAB aktivierbar
+  + ProgressBar beim Laden als "Abfallprodukt" der Game-Progressbar (fuers Speichern, Compilieren etc. nicht implementierbar)
+
+* SPC: Store/Restore sollte nun nach einem Bugfix von Dieter korrekt funktionieren (Ehemals reproduzierbare Abstürze  wurden nicht mehr beobachtet)
+
+----------------------------------------------------
+Spacer 1.09 - Game 0.90??
+----------------------------------------------------
+
+! Cutscenes
+  * Debugging des Cutscene-Systems
+  + Geringere Empfindlichkeit gegen nicht vorhandenen Cutscenes
+* Absturz des Inventories beim Stehlen
++ Kategorien beim Inventory
++ Netzwerk-Thread deaktiviert
++ Output-Lib wird BEIM START des Games geladen
+
+----------------------------------------------------
+Spacer 1.09 - Game 0.81
+----------------------------------------------------
+
+! SVM-Parsing geaendert ("#-Bug") ohne genaue Kennntnisse von den Vorgaengen dort. 
+  Habe nach bestem Gewissen getestet und keine Folgefehler entdecken koennen. Bitte nochmal genau abchecken!!!
++ Beim Aendern von SVMs im Sequencer wird beim Verlassen des selbigen nicht immer gespeichert. Das dauert ja sonst Ewigkeiten.
++ Beim Einfuegen von Wegpunkten per Taste (CTRL+I) wird der Weg zum zuletzt angeklickten/eiongefuegten Wegpunkt gesetzt
+* Fixes am Cutscene-System
+  * SPC: Abspielen mit und ohne Simulation der Bedingungen
+  * SPC: Unterbrechen und fortführen
+  * Nicht gefundene Cutscenes geben keine staendigen Warnings mehr aus, 
+    dafuer aber einmalig einen FAULT
+  * Beim Laden einer Cutscene wird ihr Name UND die Hauptrolle ausgegeben
+  * Nicht gefundene Rollen werden mit Errorlevel 9 ausgegeben
+  * Looping
+  * Globalcutscene mit Kamerafahrt  
++ SPC: Im Spacer kann per Console (CTRL+F1) nun in den Flat-Modus u.a. geschaltet werden (zrmode flat)
+* Anzeige von Linien (Fadenkreuz etc.)
++ Der Spacer hat nun kein Systemmenue und -Icon mehr. 
+  Er kann auch nicht mehr resized werden!!!
++ Error-Ausgaben: 
+  keine Angabe des zlog-Parameters setzt den Errorlevel auf -1, 
+  so dass nicht mal Fatal-DIaloge aufpoppen 
+  (das Game wird sofort beendet)  
+
+----------------------------------------------------
+Spacer 1.08 - Game 0.80
+----------------------------------------------------
+
++ Neue Files:
+  zviewstatusbar.h/cpp
+  oviewstatusbar.h/cpp
+  zviewprogressbar.h/cpp
+
++ GUI
+  + Komplette Änderung des Inventories (NEUE TGAs noetig!!!)
+  + Neue StatusBars (NEUE TGAs noetig!!!)
+  + Progressbar mit World-Progress (-> Dieter)
+
++ SPC: Export-Funktion fuer Presets (exportiert alle markierten Presets in ein ZEN-File)
++ SPC: Del-Button fuer Presets
+* SPC: Darstellung von Store-Progressbar gefixt
+
+----------------------------------------------------
+Spacer 1.07c - Game 0.79c
+----------------------------------------------------
+
+* Testtrack #901
+* Testtrack #914
+
+----------------------------------------------------
+Spacer 1.07b - Game 0.79b
+----------------------------------------------------
+
+* Critical Sections fuer Directory Scans
++ ScanDir-Tools
+
+----------------------------------------------------
+Spacer 1.07a - Game 0.79a
+----------------------------------------------------
+
+OUs/SVMs
+* SPC: Testtrack #835: "Absturz beim Parsen von SVMs"
+* SPC: Wenn kein SVM beim Update gefunden wird, passiert auch nichts (vorher wurden evtl. veraltete Daten untersucht)
+
+Cutscenes
+* distance==-1 bei Cutscenes wird nun korrekt beruecksichtigt
+* Testtrack #839: "Freepoints als Mesh bei CS sichtbar"
+* Testtrack #844, #836: "Cutscene nicht gefunden"
+* SPC: Testtrack #843: "AI im Spacer eingeschaltet"
++ Jeder Rolle werden nun EventMessages der Klasse zCEvMsgCutscene geschickt.
+  EV_CS_START, EV_CS_RESUME, EV_CS_STOP, EV_CS_INTERRUPT
+  Jeder Vob sollte eventuell seinen Zustand zuruecksetzen, falls z.B. ein EV_CSSTOP/EV_CS_INTERRUPT kommt
+  Beispiel: EffektVob (Cinemabalken weg), CSCamera (stoppen)
+
+Boundingboxes
+* SPC: Zones (incl.Sounds) und Trigger-Objekte werden mit ihrer Standardausrichtung in die Welt eingefügt. Dadurch wird das Problem mit den BBoxes 
+
+Store/Restore 
++ SPC: Progressbar beim Store/Restore informiert ueber den Fortschritt
+* SPC: Beschleunigung von Restore
+
+Sonstiges:
++ SPC: Taste '0' (Null) schaltet in den PickMaterial-Modus (rotes Kreuz im Fullscreen-Mode)
++ Reload der ParticleFX-Datei möglich (World-Menü)
+
+----------------------------------------------------
+Spacer 1.07 - 24.April 2000
+----------------------------------------------------
+
+Cutscenes:
+* Testtrack #782
+* GlobalCutscenes beachten ebenfalls den Distance-Wert
+* Testtrack #780 (TA-AI beim Abspielen von Cutscenes bleibt abgeschaltet)
+
+Cutscene-Sequencer
+
++ Rolle kann auch per Tastatur mit der ENTF-Taste geloescht werden
++ Aktualisierung der Anzeige
+  + Beim Einfügen und Löschen von Sync-Blöcken wird die Syncblock-Nummer aktualisiert und der Viewport neu gezeichnet
+  + Beim Löschen einer Rolle wird der Viewport neu gezeichnet
++ Properties
+  + Beim Neuerstellen oder Laden eines Cutscene werden deren Properties automatisch angezeigt
+  + Beim Auswaehlen einer Rolle werden deren Properties automatisch angezeigt
++ integrated Vobs
+  * invisible Meshes von Integrated Vobs werden entfernt
+    + Vob wird nun auf Anfrage (!) aus der Welt entfernt (MoveToCutscene)  
+  + integrierte Vobs können wieder in die Welt eingefügt werden (an alter Position!!!)
+  + scripted objects koennen keine IntegrierteVobs werden (wir abgefangen)
+* SVM
+  * Kommentare hinter SVM-Eintraegen werden als Text übernommen
+  * SVM.D wird selbstständig im Scripts-Ordner gesucht
+  + Sucheingabe hinzugefügt um schnell zu einem gesuchten Eintrag zu springen (Eingabe der ersten Buchstaben)
+
+
+Sonstiges:
+
+! Das Visual fuer Camera-Keyfgrames heisst jetzt nicht mehr "invisible_keyframe.3ds" sondern "invisible_zCCamTrj_keyframe.3ds"
+* Rotation von Texturen
+  * Eingestellter Wert wird korrekt übernommen 
+  + Auch Floatingpoint-Werte (z.B. 0.5) möglich
++ Testtrack #770: Reapply-Funktion für Lightpresets 
+* TestTrack #772
+* Testtrack #743
+* Testtrack #734
+* Presets
+  * Nach den Löschen eines Vob-Presets wird die Presetliste korrekt aktualisiert
+  + Das Erzeugen von Presets fuer scripted-classes wird abgewiesen
++ Testtrack #798: 
+  ! Vobs koennen per Logical-Vobeditor durch ZENs ersetzt werden
+  ! ACHTUNG: Childs im ZENs duerfen keine statische und dynamische 
+  ! Collision angeschaltet haben (sonst funktioniert die Positionierung nicht)
+* Umschalten nach dem Laden und Compilieren eines Levels auf die entsprechenden Tool-Fenster verbessert
+
+----------------------------------------------------
+Spacer 1.06a - 16.April 2000
+----------------------------------------------------
+
+* reference-counting-bug bei Cutscenes gefixt
+* Umbenennung der Spytitelzeile von "zSpy" in "[zSpy]". Neuer Spy noetig (Version 2.03)
+* UpdateTexture fixed
+! Material-Filter:
+  * MatLib.ini wird auch beim Speichern der Materialfilter mitgespeichert
+  ! Neues Format: Wird automatisch geschrieben, altes wird weiterhin erkannt
+  * Probleme bei der Vergabe von Filter-IDs behoben  
+
+Spacer 1.06 - 16.April 2000
+
+* TestTrack #749
+- Cutscene-Sequencer: sinnlose Nachfrage beim Speichern einer Cutscene entfernt
++ iteratives Speichern in den "General Settings" einstellbar
+  ! Beginnend bei "01" wird dann fortlaufend durchnummeriert (entsprechend des geladenen Files)
+  ! Auf der Festplatte bereits vorhandene Iterationen werden nicht erkannt. 
++ Compiledialog erscheint direkt nach dem Laden von ZENs, falls dies notwendig ist
+  ! Zwang zum Compilieren
+  ! Behebt hoffentlich das Problem von durch den Level fallende Items  
++ Anzeige von Sichtweite (FarClipping) und Lichstaerke (PlayerLight/CamLight)
++ Verdoppelt/Halbieren des FarClipping-Wertes 
+  ! Tastaturbelegung: DIV und MULT auf dem PAD
+  ! Wert wird auf Zweierpotenz "gerundet")
+* Beim Hinzufügen von Materialien zu einem (neuen) Filter werden eventuell vorhandene Materialien erkannt
+  ! Materialien, die schon existieren werden in den angegebenen Filter verschoben
+
+
+* zuletzter geöffneter Mesh- und ZEN-Path wird nun wieder korrekt gemerkt (Open/Save/Merge)
+
+Engine 16.April 2000
+-------------------
+
+* Error: Neue Technik beim übermitteln von Spy-Ausgaben
+  ! neuer Spy (>2.0) notwendig: liegt bei (Bert) mir im Exchange
+  ! Spy wird nur beim Start gesucht. Er muss also beim dann laufen ...
+
+* Pfad DIR_TEX_MATLIBS umbenannt in DIR_TOOLS_DATA  
+  ! paths.d anpassen:
+  ! DIR_TOOLS_DATA = "_work/tools/data/"
+  ! Objekt-Presets landen in DIR_TOOLS_DATA/objpresets/
+
+Cutscene:
++ "_MAINROLE" steht nur fuer eine variable Hauptrolle
++ integrierte Vobs werden an ihrer ursprünglichen Position eingefügt
++ zCCSCutsceneContext: Play-Methode liefern nun einen booleschen Wert zurueck (TRUE = Play wurde ausgefuehrt, FALSE = wurde abgebrochen)
++ zCCSCutsceneContext: public-Variable lastPlayResult eingefuehrt  
+* zCCutscene: Methode SCReaction in CSCheck umbenannt
++ zCCutscene: public-Variable lastCheckResult eingefuehrt
+* zCCSProps: Methoden SCReaction und SCReactionResult in CheckRole und CheckRoleResult umbenannt  
+
+
+Spacer Core 0.57h - 12.April 2000
+---------------------
+
+- Light
+  - Rangewerte werden korrekt uebernommen
+  - Fehler bei Range- und Colorliste behoben
+- Materialien
+  - Auswahl in Materialliste schaltet den Focus wieder auf den Viewport
+  - Aenderung von Alphawerten werden direkt angezeigt
+  - Aenderung des TexMovementWertes per Buttons gefixt
+
+- #682 Ulf-Hack: 
+  - automatisches Abspielen von TA-Cutscenes im Spacer
+  - weitere AI-Funktionen im Spacer deaktiviert
+- #707 Open/Save-Mesh: startet nun im Smesh-Verzeichnis
+- Absturz und Fehler bei Darstellung von Texturen in der Materialliste gefixt
+- #704 Focus des Viewports bei Auswahl eines Materials bleibt erhalten
+- #694 Auswahl einer Materialfarbe ueber den Farbdialog möglich
+- #706 Sicht-Entfernungsanzeige nun korrekt
+
+- Cutscenes:
+  - Menuepunkt im Sequencer: Add Special Role fuer "_PLAYER" und "_MAINROLE"
+  - _MAINROLE fuer CS-Test im Spacer berücksichtigt
+
+
+Spacer Core 0.57f - 6.April 2000
+---------------------
+
+- Waypoints
+  - Zweiter Wegpunkt wird nun mit SHIFT+Mauseklick angewaehlt
+  - Zweiter Wegpunkt blinkt (seine Boundingbox)
+  - Weg zum zuletzt eingefuegten/markierten Waypoint wird korrekt erstellt
+
+- AI von neu eingefuegten NPCs ist ausgeschaltet (StandAI)
+
+- Filter des LogicalVob-Editors funktioniert wirder
+  - Suchenkriterien
+  - Ersetzen/Löschen von Eigenschaften der Vobs
+  - Man beachte:
+    - Eigenschaften von "scipted opbjects" (NSCs und Items) können nicht manipuliert werden.
+	  Der vobName setzt sich z.B. spaetestens beim naechsten Laden wieder zurueck (er liesst sich aus dem Script aus)
+	  Aenderungen an den Werten von "scripted objects" sind nicht zu empfehlen!!!
+
+Spacer Core 0.57e - 5.April 2000
+---------------------
+
+- Löschen von Vobs
+  Bug, der zum Absturz des Spacers fuehrt (CameraVobs und andere) gefixt
+- Erstellen von Presets kann nun wieder abgebrochen (Abbrechen-Button)
+werden.
+- Copy'n'Paste
+  - kein doppeltes Einfuegen des Vobs im Vobtree-Fenster mehr
+  - Vobname wird beibehalten
+- Bei Einfuegen einiger Vobs wurden diese im Vobtree-Fenster falsch einsortiert. Dies ist nun behoben
+- Material-Lib:
+  - matlib.ini im matlib-Verzeichnis hat fuer jeden Filter folgenden Eitrag.
+    > MaterialFilter:"name" #nr
+    Die nr findet ihr im jeweiligen MatLib-File (*.pml) hinter dem Eintrag "LibFlag".
+    Diese Nummer entscheided ueber die Zuteilung der Materialien zu den Filtern.
+  - Beispiel fuer ow.pml (LibFlag ist 8)
+    > MaterialFilter:"ow" #8
+
+
+
+
+Engine - 26. März 2000
+---------------------------------------------------------------------------------
+
+- Cutscenes
+  - Properties um folgende Werte und entsprechende Methoden ergänzt:
+    - globalCutscene (true/false)
+	- runBehaviour (enum)
+	- runBehaviourValue (int)
+  - Die runBehaviourDaten können vom Cutscene ausführenden Spiel ausgewertet werden.
+    Die Cutscene selber stellt sie nur zur Verfügung.
+  - Distanzwert wird bei globalCutscene=TRUE ignoriert.
+
+Spacer - 26. März 2000
+---------------------------------------------------------------------------------
+
+- For Programmers:
+  - Neue Dateien: spcCWorldAnalyseDlg.h/cpp
+
+- Wichtig:
+  - MatLib !!!!
+    - Datei matlib.ini in DIR_TEX_MATLIBS
+    - Ich (Bert) kann die mal fuer alle Matlibs einrichten. Sagt Bescheid!
+  - sph-Files für die Onlinehilfe
+    -> Ab ins Verzeichnis "help" unterhalb des Spacer-EXE-Ordners
+- FarClipping
+  - Maximalwert hochgesetzt (1km) und im Dialog entsprechend beschriftet
+  - Standardwert hochgesetzt auf 500m
+- Fullscreenmodus
+  - reported Problems fixed
+- Analyse World
+  - Menüpunkt WORLD/ANALYSE
+    - Falsche oder fehlende Visuals werden erkannt (BAD_VISUAL, NO_VISUAL)
+    - Später werden weitere Dinge getestet (Wünsche an mich!)
+- Cutscenes
+  - zwei sph-Files fuer Cutsceneeinstellungen erhaeltlich :)
+  - Cutscene-Properties sind gewandert: Vom Edit- ins Cutscene-Menue
+
+Engine - 23. März 2000
+---------------------------------------------------------------------------------
+
+- Programmer:
+  - DIR_CONFIG und DIR_SHARED müssen durch DIR_SYSTEM ersetzt werden.
+  - DIR_SOUND_FX und DIR_SOUND_SPEECH fliegen raus
+  - DIR_SOUND_MUSIC heisst nun DIR_MUSIC
+
+- Cutscene
+  - Neue Dateien:
+    - zccscontext.h und zccscontext.cpp (Teile aus zccsplayer liegen nun in diesen Files)
+	-> Ulf: Bei Compilierprops einfach zcscontext.h includen
+  - Umbenennung von Klassen    
+	- zCCSPlayerContext heisst nun zCCSCutsceneContext	  
+	 
+- zConfig:
+  - Pfad-Parameter DIR_EXECUTABLE wird korrekt gesetzt
+- zSTRING:
+  - String-Constructor: zSTRING-Nullpointer nun moeglich
+  - Neue Funktionen der String-Klasse
+    - TrimRight(char) und TrimLeft(char)
+    - Search(int startIndex, char*, int)
+  - Stark optimierte Such-Operationen in der String-Klasse
+  - Floatingpoint-Werte werden nun nicht mehr in Exponentendarstellung in einen String konvertiert
+- Fehler unter NT behoben
+  
+Spacer Core-Versiom 0.57, 23.März 2000
+---------------------------------------------------------------------------------
+
+- WICHTIG:
+  - Das Format von spcConfiguration.dat hat sich grundlegend geaendert.
+    Ich muesste es manuell anpassen, damit keine MatLibs verloren gehen.
+
+- Programmer:
+  - Neues Präprozessor-Symbol: "GOTHIC_SPACER"  
+  - zObjPreset.h/cpp heisst nun spcCObjPreset.h/cpp (entsprechend die Klasse)
+
+- Cutscenes
+  - Timingproblem im Fullscreenmodus behoben
+  - AI-Funktionalität über entsprechende START-Buttons (inkl. STOP, PAUSE etc)
+
+- Fenster:
+  - Rechter Teil des Spacers komplett als Floating Windows implementiert    
+    - resizable (!)	  
+	- boundable (Menue "Windows/Bind Windows") -> Machen Bewegungen der rechten oberen Ecke des Hauptfensters mit
+	- alignment (Menue "Windows/Align Windows") -> Legen sich rechts an das Hauptfenster an	
+  - Auch der Cutscene-Sequencer ist nun Resizable
+  - Positionen von MainFenster und allen anderen Fenster werden gespeichert (in der Registry)
+  - Informationsfenster mit Uhrzeit und Hilfe
+    - Dateien mit der Endung *.sph (Spacer-Help) muessen sich im Ordner DIR_TOOLS_CONFIG (siehe paths.d) befinden
+	- Diese Dateien werden beim Start eingesammelt.	
+
+- Output-Units
+  - Markieren und Löschen mehrerer OUs nun möglich
+  - SAVE-Button, um die aktuelle OU-Lib zwischenzuspeichern
+  - Update:
+    - Erhebliche (!) Beschleunigung des Update-Vorgangs
+	- Kommentare (also, die Haupttexte) werden auch auf Aktualisität überprüft und ggf. aktualisiert
+    - Kommentare bei SVMs werden auch als Text uebernommen (fake nciht mehr noetig)	
+
+- Presets
+  - Alle Presets werden nun im Object-Dialog auf der CREATE-Seite angezeigt (siehe "Neuer Objekt-Dialog")
+
+- Neuer Objekt-Dialog:
+  - Dialogseite "CREATE"
+    - Klassenbaum
+    - Presetliste: Je nach selektierter Klassen werden hier die zur
+      Verfuegung stehenden Presets angezeigt. 
+	-> Auswaehlen und im Viewport ueber das Popupmenue ein Vob der Klassen/des Presets erzeugen.
+  - Dialogseite "MODIFY"
+    - Eigenschaften(Propteries) des ausgewaehlten Objektes
+    - Eigenschaft einmal anklicken -> Unten erscheinen passende Eingabefelder
+    - Eigenschaft doppelt anklicken -> je nach Eigenschaft gibt es zusaetzliche Hilfen
+      - Farbauswahl (siehe auch Button unten rechts)
+      - Boundingbox bearbeiten
+      - Ja/Nein- und Aufzaehlungswerte wechseln
+	  - Dateiauswahl-Dialog
+	- Der Ordner "Internals" wird nicht mehr standardmaessig ausgeklappt
+	- Beim Einfuegen eines Objectes von "scripted classes" wird eine Auswahl der zur Verfuegung stehenden Instanzen angezeigt.
+  - Dialogseite "..."
+    - Wenn man sich in einem speziellen Bearbeitungsmodus befindet
+      erscheint diese Seite automatisch und bietet einem diverse Funktionen an
+      Beispiel: Boundingbox bearbeiten. Button: "STOP"
+
+- Materialien
+  - Komplett neu geschriebene Verarbeitung von Materialfiltern
+    - korrekte ID-Vergabe
+	- Zuweisung bei neuen Materialien gefixt
+	- Dirty-Flag wird nun korrekt gesetzt
+  - Hinzufuegen mehrerer Materialien funktioniert nun (auch mehr als z.B. 13)
+  - Mat-Filterliste in spcCOpnfiguration.dat lesebar gespeichert (ASCII)
+    - Wichtig sind vor allem die ids nach dem '#'
+	- Materielien werden anhand dieser ID einem Filter zugeordnet
+  - Materialiste
+	- Buttons New und Del(elete) anstelle der Filterdialogbox 
+	  - New und Delete von Filtern funktioniert nun einwandfrei
+	  - Texturliste wird korrekt angezeigt
+	  - Besseres Update der Anzeige	
+
+- Event-Page:
+  - Presetliste entfernt: Presets laufen jetzt in der Regel alle ueber den Objekt-Dialog
+      - Eventtest mit allen zur Verfuegung stehenden Core-Events (Trigger, UnTrigger, Touch, UnTouch, Damage)
+      - Events werden in einer Liste praesentiert: Auswahl und Button SEND druecken
+      - Noch nicht drin: Testvob mit entsprechenden Eigenschafte fuer den Damage-Event (HITPOINT)
+   - Collect-Button:
+      - Sammelt Source- und Target-Vobs
+	    - Source-Vobs sind Vobs, die den ausgewaehlten Vob als Triggertarget haben
+	    - Target-Vobs sind Vobs, die dem Triggertarget des ausgewaehlten Vobs entsprechen
+	    - Vobs werden in der Form "Klassenname:VobName" in den Source- bzw. Targetlisten angezeigt
+	    - Doppelklick auf einen Eintrag springt zu dem Vob und selektiert ihn
+	  - Einzeige der Beziehungen:
+	    - Blaue Linien zu TriggerTargets
+		- Rote Linien von TriggerSources
+		- Anzeige aus nach einem COLLECT
+   - Ein Vob kann im Popup-Menue als Event-Auslöser definiert werden
+     Dieser ist dann derjenige, der beim Druck auf SEND 
+	 die ausgewaehlte Nachricht versendet.
+
+- Einstellungen
+  - Video: 
+    - Anzeige vopn Device und Resolution
+    - Auswahl der Resolution aus einer Auswahlbox
+	- Die Groesse des Spacer-Fensters wird der Resolution angepasst
+  - Speicherung: 
+    - komplett ueber den Menüpunkt "Settings/Save Settings"
+    - inklusive Materiallibs, Presets, Fensterpositionen etc.  
+  - FarClip-Einstellung werden nun korrekt bearbeitet (Optimierung!)
+  - Parsefile: Nur noch ueber Kommandozeile -parse (Standard ist spacer.dat) einstellbar
+
+- Vobliste
+  - Ausgabe der Vobliste als csv-Datei (leicht in Excel einlesbar)
+	- zahlreiche weitere interessante Informationen
+      - Presetname
+      - Collision-Einstellungen
+      - Visualname
+      - Klassenname
+      - Trigger-Targets
+    Vorgehensweise für Excel 2000:
+    1. in Excel einladen
+	2. Komplette erste Spalte markieren
+	3. Menüpunkt DATAN/TEXT_IN_SPALTEN auswählen
+	4. Sofort den Button FERTIGSTELLEN druecken	
+
+
+Bugs  
+  - Korrektes Verhalten bei Light-Presets
+  - Material-Libs werden nun beim Beenden gespeichert
+  - Die Kamera kann nun nicht mehr gelöscht werden
+  - Speichern von Presets in scripts\_interne\presets gefixt
+  - Absturz beim Beenden des Spacers behoben???
+  - Absturz auf Camera-Page (Klick auf Key-Pfeiltaste) behoben (->Carsten)
+  - Timingproblem im Fullscreenmodus behoben (Kamerafahrten und Cutscenes)
+
+Sonstiges
+  - Fault-Dialoge an unsinnigen Stellen abgeschaltet
+  - Preset-Duplikate werden erkannt und nicht mehr der PresetLib hinzugefügt
+  - Workingfenster nach unten links verlegt, damit ich nicht mehr so stoert.
+  - einen Screenreset beim Hochfahren des Spacers entfernt
+  - Anzeige bei nicht geladenem Level
+    - andere Farben (toll, nicht? :-)
+	- Text (Programmename, Copyright, Autoren, etc. :-)
+	- Staendige Anzeige (fuktionierte vorher nicht sonderlich gut)
+  -  Überprüfung von fehlerhaften Eingaben (nicht erlaubte Zeichen in Vob-Eigenschaften)
+
+Weitere Features:  
+  - Modi (Auswahl einer ObjectPage im unteren Fensterbereich) koennen wieder deaktiviert werden
+    -> Leere Seite
+	-> Beliebige Objekte koennen dann ueber das Object-Create&Modify-Fenster erstellt werden
+  - Menüpunkt "Toggle Vobboxes" (Taste <B>) zeigt alle Boundingboxes der Vobs an
+  - Wegenetz aus- und einblenden (Standard ist nun AUS)
+    -> Das Ausschalten der InvisibleVobs führt nicht mehr zu Ausschalten des Wegenetzes
+  - Light-Vobs behalten nun eine Verknüpfung zu seinem Preset (für späteres Feature UpdateAll)
+  - CARSTEN: Zwei Buttons im About-Dialog:
+    - "Read Changes" -> Zeigt im Notepad die Datei DIR_EXECUTABLE\changes_spacer.txt an
+	- "Core Changes" -> Zeigt im Notepad die Datei DIR_EXECUTABLE\changes_spacer_core.txt an  
+  - Bileares Filtering toggle-bar (Menü View/Edit)
+
+Spacer Core-Version 0.56, 18.Februar 2000
+---------------------------------------------------------------------------------
+
+- Macros:
+  - Parameter "/P" fuer alle Marcrobefehle pausiert vor dem Ausführen des Befehls und zeigt eine Dialogbox an
+  - Befehl "> " gibt Text im Spy aus (mit umschliessenden Separatoren). Leerzeichen nach dem ">" nicht vergessen!
+  - Kleiner Fix bei der Ausgabe im Spy/WorkingDialog
+
+Spacer Core-Version 0.55, 16.Februar 2000
+---------------------------------------------------------------------------------
+
+- Neues Recource-File! toolbar1.bmp
+
+- Vob-Tree
+  - Symbole kennzeichnen verschiedene Elemente 
+    - Karteikarte = Ordner (kein Vob)
+	- roter Punkt = ein Vob
+	- grüner Punkt = ein neuer Vob (neu sind alle nach dem Laden oder einem Refresh eingefuegten Vobs)
+	- rotes Rechteck, blau umrandet = Levelvob
+	- roter Punkt, blau umrandet = Vob im Root (nicht als Child eines Levelvobs)
+  - Neue Ordner: Paar aus Klassenname und Visual-Klassenname (in Klammern)
+  - Sortierung ist abgeschaltet. Kann ueber Checkbox aktiviert werden (Aufbau des Vobbaum dauert laenger)  
+  - Anzeige des Vobs ueber seinen Namen (falls vorhanden) in Anfuehrungszeichen
+    -> Man sollte sich gut ueberlegen, welche Vobs wirklich einen Namen brauchen.
+  - Vobs ohne Namen werden mit ihrer ID angezeigt (vob id###)
+
+- Bug beim entfernen einer Kamera entfernt
+
+Spacer Core-Version 0.54, 15.Februar 2000
+---------------------------------------------------------------------------------
+
+- Wichtig:
+  - Die Presets (OPF-Dateien) werden nun im Verzeichnis [DIR_SCRIPTS]/_intern/presets/ erwartet
+  - Auch der Spacer benoetigt eine Datei paths.d. Liegt das Spacer.EXE nicht im gleichen
+    Verzeichnis, wie das Game.EXE, so muss eine paths.d mit angepasstem EIntrag DIR_ROOT iun das Spacer-Verzeichnis
+	gelegt werden!
+  - VobNamen nehmen nicht unerheblichen Speicherplatz weg
+    Deshalb:
+	- Entfernt alle Vobnamen, die eh nicht gebraucht werden (Steine, Buesche etc,. brauchen keinen)
+	- Sollte der Spacer noch unsinnigerweise Vobnamen vergeben, wo keine benoetigt werden, so gebt mir Bescheid!
+
+- Files
+  - neu: spcCVobPresetDlg.h/cpp
+  - neu: spcCNewMaterialDlg.h/cpp
+  - neu: spcCDaytimeDlg.h/cpp
+
+- Bugs
+  - 469 (Logical VobEdit "Bush") behoben
+    - ausserdem: Zaehler auf der Seite eingefuegt: Anzahl der bisher bearbeiteten Objekte
+	- ausserdem: Aufgrund des Zaehlers wurde die Abschliessende Dialogbox ("Anzahl der Ersetzungen") entfernt
+  - Tastenbelegung für Copy&Paste funktioniert nun auch (^C, ^V)
+
+- Light-Presets
+  - wieder aktiviert
+  - Kleinen Fehler beim Hinzufuegen von Ranges behoben
+  - Der Name des Light-Presets wird dem Lichtvob nicht mehr mit uebergeben.
+
+- Preset-Library
+  - ACHTUNG: Die Presets (OPF-Dateien) werden nun im Verzeichnis [DIR_SCRIPTS]/_intern/presets/ erwartet
+  - Presets für alle Klassen erlaubt
+  - Allgemeiner Dialog für die Preset-Library
+  - Bei Presets und Copy&Paste geht der VobName verloren (er ist bei aus Presets eingefügten Vobs leer)  
+  - HINWEIS: 
+    - Copy&Paste:	kurzfristige Vob-Reproduktionen (mehrfaches Paste hintereinander möglich)
+    - Presets:		lämngerfristiges Speichern spezieller Vobs und ihrer Properties  
+
+- Daytime-Menuepunkt (im View-Menü)
+  - Damit laesst sich die aktuelle Uhrzeit festlegen ...
+  - und -halten (hold)  
+  - Bei nicht eingeblendetem Zeit-Dialog wird die Uhrzeit gehalten (sie schreitet nicht mehr fort)
+
+- Kamera 
+  - schwingt nicht mehr so deutlich nach
+  - wird nicht mehr mit abgespeichert
+
+- Vob-Baum
+  - Neues Mausclick-Verhalten:
+    - einfacher Linksklick in der Vobliste waehlt das Vob aus, springt aber nicht hin
+    - Doppelklick in der Vobliste waehlt das Vob aus und springt hin  
+  - Fehler im Aktualisieren des Vob-Baumes behoben
+  - Selektierter Vob im Vobbaum wird korrekt deselektiert
+  - Gelegentlich liess sich ein Vob im Baum nicht selektierten. Erst ein vorruebergehendes Selektieren eines anderen Vobs brachte Abhilfe. Das ist nun behoben.
+  - gelegentlichen Absturz behoben  
+
+- Bearbeiten von Boundingboxes
+  - Bei Vobs, die KEIN Visual besitzen (Zones, Sounds, Trigger), kann man nun die Boundingbox ueber die dyn.Property-Page (grosser Button) manipulieren
+  - DragVobs werden nicht mit abgespeichert
+  - Andere BBox-Buttons sind entfernt worden, da der dort verwendete Mechanismus fehlerhaft war.
+
+- Objekt-Toolbar
+  - Objekt-Seiten sind nur noch im compiierten (nicht Edit-Mode) verfuegbar
+  - Material- und Vertex-Seite sind nur im Edit-Compiled-Mode verfuegbar
+  - Die Materialseite allerdings auch, wenn keine Welt geladen ist.
+
+- Materialien und Matlibs/Filter
+  - Dirtyflag fuer jeden Filter 
+  - Frage, ob ein "dirty" Filter gespeichert werden soll beim Beenden des Spacers
+  - Speichern von Matlibs: Entweder ALLE oder Frage nach jeder einzelnen, die geaendert wurde
+  - Hinzufügen von Materialien
+    - "Add single material" faellt weg	
+	- "Add Multi" wird ersetzt durch ein einfaches "Add Materials"
+	  -> Materialien aus einer Liste von Texturen (Multi-Selection) erzeugen
+	  -> Zuweisung zu einem beliebigen Mat-Filter oder
+	     Erzeugung eines neuen Filters fuer die neuen Materialien möglich
+	- Button "New Material" -> Neues Material ohne zugewiesene Textur
+	
+- Nochmal Anpassung an Engine 0.87
+
+
+Spacer Core-Version 0.53, 3.Februar 2000
+---------------------------------------------------------------------------------
+
+- Update-Button auf der Material-Page implementiert
+- Angepasst an neue Sourcen basierend auf Engine 0.86
+- Der Spacer braucht eine paths.d in dem Verzeichnis, in dem das exe auch liegt.
+- die Spacer-Konfiguration spcConfiguration.dat muss im Verzeichnis DIR_TOOLS_CONFIG zu finden sein (siehe paths.d)
+
+
+
+Version 0.96, 8.Februar 2000
+---------------------------------------------------------------------------------
+
+- Anpassung an Sourcen basieren auf Engine 0.87
+
+- zdisk (incl. zdisk_vdfs)
+  - Methoden DirectFileAcccess und DirectFileConvert sind nun static-Methoden von zFILE
+  - Neue zFILE-Static-Methode SetRootDirectory()
+  - Unsinnige externals entfernt
+
+- Wichtig für Programmierer
+  - Die Dateien nvobcontrol.h/cpp fliegen raus!
+  - Die Dateien nitem.h/cpp fliegen raus!  
+  - Neu: zworldinfo.h und zworldinfo.cpp
+  - "zerr.Init(szCmdLine)" muss in zwin32.cpp aufgerufen werden: direkt am Anfang von WinMain()
+
+- Erhebliche Änderungen für das Release
+  - config.d ... heisst ab sofort "paths.d" (Datei wird mitgeliefert)
+  - paths.d ist umfangreich kommentiert
+  - Die Datei gehoert nun in das Verzeichnis (DIR_SYSTEM), wo auch das EXE liegt!!!  
+    -> Für den Spacer ist dann eine gesonderte Datei paths.d notwendig, in der DIR_ROOT angepasst wurde (oder Spacer ins gleich Verzeichnis wie das Game-EXE packen!)
+  - Einträge
+    - raus: DIR_TOOLS, SUBDIR_BACKUP, NUM_BACKUPS	 
+    - rein: DIR_ROOT (frueher DIR_PROJECT) , DIR_WEB und DIR_SYSTEM	    	    
+  - Platzhalter $DATA$ steht fuer das in DIR_DATA angegebene Verzeichnis
+  - Kommandozeilenparameter -3d -parse und -player bekommen nun einen Defaultwert (world.zen, chapter1.dat, PC_PLAYER)
+    - Wichtig fuer die Programmierer: Die Werte sollten nur noch ueber zoptions abgefragt werden: Schaut Euch einfach mal die Funktion "InitOptions()" in zzbert.cpp und oobert.cpp
+
+  - zERROR
+    - Verlegung von der Initialisierung der Error-Klasse an den Anfang des Programm (zwin32.cpp, s.o.)
+    - Keine Ausgaben mehr, wenn zlog-Parameter nicht angegeben (auch nicht ganz am Anfang)
+	- Ohne Parameter "-zlog" -> Standard "zlog:0,S,A-Z" (ErrLevel=1, Target=Spy, alle Autoren)
+	  Spaeter wird vermutlich folgendes Standard: "zlog:0,S" (ErrLevel=0, Target=Spy, keine Autoren)
+	- zERR_BEGIN und zERR_END funktionieren nicht bei ErrLevel==0
+    - Separatoren werden nicht ausgegeben bei ErrLevel==0
+    - Der Spy kommt nicht automatisch in den Vordergrund bei ErrLevel==0
+
+- Wichtig für Datenerstellung:
+  - Die Namen der Startvobs für jede Spielerinstanz müssen folgendermassen lauten:
+    "START_<instancename>". Also z.B. "START_PC_HERO", START_PC_THIEF" etc.
+    Ich bitte darum, dies bei allen Leveln einzubauen, die am Anfang gestartet werden sollen (Testlevel, Startlevel ...)
+
+- Netzwerk-Menue
+  - Ping-Werte werden ermittelt und angezeigt
+  - Achtung: Die Pingwerte sind NICHT mit anderen Spielen oder einem anderen PING-Programm vergleichbar!
+  - Ausrufezeichen hinter dem Spieler deuten auf verlorene Pings hin (bei 3 wird der Spieler aus dem Chatraum geschmissen)
+
+- Netzwerk (noch nicht freigegeben)
+  - u.a. Neues Eventmessage-Protokoll zur Absicherung von Inkonsistenzen bei "übergreuzenden EvMsg".
+
+- zSTRING: 
+  - Search-Variante mit char*-Parameter (für Literale). Bei PickWord leider nicht moeglich
+  - Oft verwendete Operatoren == und != optimiert für Literrale
+    - Ulf: Ich habe da in oItem.cpp ein "visualChange == NULL" gefunden. Raus damit sonst Absturz!
+  - neue Funktionen UpperChar und LowerChar    
+  - Methoden Upper und Lower durch kompletten Tabellenzugriff optimiert (Beschleunigung)
+
+- zERROR:  
+  - Filedaten (Name und Zeile) am Ende der Info-Ausgaben wieder ausgerichtet
+  - Stellt bitte alles auf die Makros und. Irgendwann fliegen naemlich die zERROR-Methoden raus (jaha)
+  - Ulf: Bitte passe Deine Ausgaben an unser Format an (U: GAME: Blah) Leerzeichen! Sonst zerreisst uns das das schoene Indent-Bild :-)  
+  - Carsten: Du hast zuviele und unwichtige Level1-Meldungen drin! Runterstufen!
+  - Ausgabe des reinen Textes bei einer MessageBox (ohne Zeit, Autor und Priorität)
+  
+  - Flags (2. Makros-Parameter) zERR_BEGIN und zERR_END  
+    - zERR_BEGIN rückt die nachfolgenden Ausgaben ein (indent)
+    - zERR_END muss IMMER (!!!) nach einem zERR_BEGIN aufgerufen werden,um die Einrueckung wieder rueckgaengig zu machen
+    - Korrespondierendes BEGIN und END muessen sich im selben File befinden -> Sonst Fehler (BLOCK-Stack-Check)
+    - BEGIN und END duerfen verschachtelt werden, aber bitte nicht uebertreiben
+    - WICHTIG: Der 2. MESSAGE-Parameter muss ansonsten 0 (NULL!) sein. 
+    - Carsten: Du verwendest teilwesie den Parameter 5!	    
+  
+- zCBuffer
+  - um Standard- und Copy-Constructor sowie den Zuweisungs-Operator erweitert
+  - besitzt nun ByteFrequency-Statistiken: statistische Daten für Komprimierungsalgorithmen (Huffman, Shannon_Fano etc.)
+
+
+Spacer Core-Version 0.52, 23.Januar 2000
+---------------------------------------------------------------------------------
+
+- Carsten: Die Datei Spacer.Doc ist in Sourcesafe eingecheckt!
+- Physik wird nicht mehr mit CTRL-RCLICK auf ein Objekt angewendet. Stattdessen gibt es 
+  jetzt einen Menüpunkt im Vob-Menü: "VOB/LET FALL DOWN"
+  Dies behebt Probleme mit dem Tastaturpuffer (Release der CTRL-Taste)
+- Neue Menüpunkte File/QuickSave und File/QuickOpen (ALT+S und ALT+O) entsprechen
+  den bisherigen Specials "SaveTmpDoc" und "LoadTmpDoc"
+
+- Dynamische Vob-Page
+  - Sound eines zCVobSound-Objektes wird nun bei einem Apply korrekt gestoppt, bevor die neuen Einstellungen aktiviert werden
+    -> z.B: wird ein LOOPING-Vob wird beendet
+  - FILE-Button zur Auswahl einer Datei hinzugefügt
+
+- Logical Vob-Editor  
+  - Class-Popupliste:
+    - Anzeige der up-Klassen (Basisklassen) in Popup-Liste
+	- Strukturierung der Anzeige (hierarchische Darstellung)
+  - Umgestaltung  
+  - up-Klassen-Konvertierung von Objekten
+  - neue Checkbox "effect derived classes" (Aktion bkann auch Objekten von abgeleiteten Klassen beeinflussen: z.B. zusaetzlich oCMobInter_Bed etc. anstatt nur oCMobInter)
+
+- Diverses
+  - Bug in der Materialliste behoben
+
+
+Spacer Core-Version 0.51, 19.Januar 2000
+---------------------------------------------------------------------------------
+
+- Laden von Meshes und ZEN-Files
+  - Welt wird nun korrekt aufgeraeumt (keine alten Level bleiben mehr zurueck)
+  - Absturzfreudigkeit beim 2. und 3. Laden von Leveln minimiert
+  - Behoben: Absturz beim anklicken von Polys
+
+- Vob-Popup-Menü
+  - Zur Erinnerung: Man erreicht das Menü auch über die Tastenkombination SHIFT+[^]
+  - Umbelegung einiger Menüpunkte in Untermenüs
+  - Neues Goto-Submenü 
+
+- Vob-Property-Page
+  - Eingabe von Doppelpunkten in Vob-Properties sind nun möglich (z.B. fuer Container)
+  - Farbauswahl funktioniert nun
+  - Anzeige der Farbe nun auch an der richtigen Stelle  
+
+- Fullscreen-Modus
+  - Die Maus wird im Viewport "GEFANGEN": Mausklicks bewirken keine Aktionen mehr auf dem Windows-Desktop	
+  - Material-Edit-Modus im Fullscreen-Modus:    
+	- Im Material-Edit-Modus bewirkt ein Mausklick die Markierung des Polygons im Mittelpunkt
+	- Ziehen der Maus bei gedrückter Maustaste funktioniert auch
+    - Weiterhin koennen alle Polygonmanipulationen vorgenommen werden (SPACE-Taste und los)
+  - VOB-Manipulationen im Fullscreen-Modus:   
+    - VOBs koennen markiert werden
+	- VOBs können bewegt werden (Mit Taste M in den Move-Modus schalten. Mit ESC zurueck)
+
+- Collision-Detection beim Bewegen von VOBs
+  - In den drei VobMove-Modui (<M>OVE, <C>ONTROL, <T>AKEOVER) kann die Collision-Detection ausgeschaltet werden:
+    - Taste <Q> zum toggeln zwischen "Collision-Detection aus" und "Alter Zustand restauriert"
+    - Beim Verlassen des Modus' wird die vorherige CollisionDetection auf jeden Fall restauriert
+  - Normalerweise sollte Collision an sein, nur in Faellen, wo sich das Vob aufgrund einer Kollision nicht bewegen laesst ist diese Funktion sinnvoll
+  
+- Kleinkrams:
+  - Das Mesh der Bewegungs-Kamera im Spacer ist invisible_camera.3ds (die anderen Camera-Meshes im Intern-Verzeichnis sind für andere Zwecke gedacht)
+    Nach dem naechsten Speichern des Levels ist dann auch die Kamera nicht mehr im Game zu sehen.
+  - Makrobefehl LOAD WORLD/MESH funktioniert wieder
+  - Tabelle mit möglichen Tastenkuerzeln folgt in Kuerze
+  - Verhalten der Drag-Vobs zur Manipulation der Boundingsbox gefixt.
+    Allerdings wird die Boundingbox noch nicht verändert (-> Dieter)
+  - In der Spacer-Console wird die Befehlszeile nach dem Bestätigen (RETURN) gelöscht
+  - Die Anzeige der Vertices und Polyhone im Information-Dialog korrigiert
+  - Vobs löschen per Shortcut wieder möglich: ENTF-Taste
+
+- Positions-Funktionen
+  - Positionsshortcuts CTRL bzw. ALT 1-4 (siehe Spacer.doc) funktionieren nun. 5-9 leider nicht möglich :-(
+  - Goto Origin (CTRL-ALT-O) funktioniert nun
+
+- Dokumentation
+  - Spacer.Doc
+  - Noch lange nicht vollständig
+  - Wer dem Dokument ein Kapitel hinzufügen (oder eines ausfüllen) möchte, soll sich bei mir melden. Ich kann das nicht alles selber machen, vor allem weil ich nicht Autor diverser "Submodule" bin
+  - Tasten-Shortcuts sind ebenfalls dokumentiert.
+
+Spacer Core-Version 0.50, 17.Januar 2000
+---------------------------------------------------------------------------------
+
+- Rotation von Texturen und Objekten nun wieder in beide Richtungen möglich
+- GDIB: Vor der Texturdarstellung wird der Speicher mit Nullen gesetzt
+
+
+Version 0.94, 8. Januar 2000
+---------------------------------------------------------------------------------
+
+- Aktuelle Sourcen
+  - Engine 0.85 integriert
+  - Gameversion vom 9.1.2000
+  
+- Filtering von Spy-Nachrichten
+  - Messages, die keinem User ('A'-'Z') zugeordnet werden koennen, werden angezeigt
+
+- Alle meine Klassen durchgesehen: ctor/dtor, archive/unarchive
+
+Version 0.93, 25. November 1999
+---------------------------------------------------------------------------------
+
+- Neue Files:
+  - Neue Files: znetversion.cpp/h, nversion.cpp/h, zspytypes.h
+    Klassen zum Check von Protokollversion und Checksummen (Level und Skripte)
+
+- Netzwerk-Menue/Login
+  ! Die Spieler muessen nicht mehr unbedingt im Level vorhanden sein und werden (falls noetig) erzeugt
+  ! Neue Startpunkt-Routine: Startpunkt muss Instanznamen des jeweiligen Spieler-SCs tragen
+  - Nicht kompatible Games im Netz werden in der "Listbox" entsprechend dargestellt (Versionsnummer mit Ausrufezeichen)  
+    Momentan werden Scriptfile und Level nicht untersucht!
+  - Die Netzwerk-Versionsnummer scheint in beiden Netzwerkmenues (unten links)
+  - Eigene IP-Adresse erscheint in beiden Netzwerkmenues (unten in der Mitte)
+  - Ein Connect-Versuch (mit einem Chatroom) kann mit ESC wieder abgebrochen werden (falls dieser zu lange dauert), bevor ein Timeout eintritt  
+  - Stream-Connect findet bereits beim Einloggen in den Chattraum statt
+  
+- VDFS
+  - Probleme mit FPU-Settings behoben: Benutzung von VDFS wieder möglich  
+  - Gothic auf CD-ROM getestet. Daten fast komplett von CDROM geladen (funktioniert bei Testleveln)
+  - Bug(s) in VDFS zusammen mit Peter Sabbath gefunden und behoben
+
+- Logging
+  - Das Verwenden einer geringeren SpyMessage-Prioritaet (1-6) erhoeht die Geschwindigkeit beim Laden
+  - zlog-Einstellungen koennen noch ueber die Konsole geaendert werden:
+    - ZERR LEVEL # -> setzt die Prioritaet neu (1. zlog-Parameter)
+	- ZERR AUTHORS ABC... -> setzt die Autorenfilter neu (2. zlog-Parameter)
+	- ZERR TARGET SF -> Setzt die Ausgabeziele neu (3. zlog-Parameter)
+
+- Spy-Meldungen
+  - Datei und Zeilennummer werden nur noch bei Warning, Fault und Fatals angezeigt  
+  - Die abgelaufene Zeit wird jetzt vom Spy berechnet: Optimierung
+  - Zeitangabe beim Laden zusammen mit Prozentangabe als Message (gemessen vom Start des Ladens bei 0%)
+  - Umstellung auf UDP-Communication mit dem Spy (siehe zSpy 1.70)
+
+
+Version 0.92, 24. November 1999
+---------------------------------------------------------------------------------
+
+- Error-Handling
+  - Sorry, der log-Parameter hat sich aufgrund von Namenskonventionen nochmal geringfügig geändert:
+    statt "-log:..." nun "-zlog:..."
+  - In das File "c:\errorlog_by_COMPUTERNAME.txt" werden nun keine Zeitangaben mehr geloggt, damit die Dateien besser vergleichbar sind: WinDiff etc.)
+
+- oCWorld
+  - logisches Einfügen in die Welt auch von Inventory-Items
+  - VobID-Vergabe in InsertVobInWorld
+
+- EventManager
+  - Erzeugung des VobControl-Objektes nur bei Bedarf
+  - GetVobControl auch in zCEventManager implementiert (virtual)
+    Andre: Benutze dies, um den kontrollierenden Player-Vob zu ermitteln:
+	       1. Ermittle, ob ein EventManager existiert: vob->GetEventManager(TRUE)
+		      Falls nein, weiter bei X.
+		   2. Ermittle, ob ein VobControl existiert: vob->getEventManager(TRUE)->GetNetVobControl(TRUE)
+		      Falls nein, weiter bei X.
+		   3. Ermittle den kontrollierenden SpielerVob mit Hilfe von
+			  vob->GetEventManager(TRUE)->GetNetVobControl(TRUE)->GetCtrlPlayer()->GetPlayerVob()
+		   X. Nimm den normalen SelfPlayer wie bisher auch
+	Dies ist noetig, da sowohl EventManager als auch VobControl nur existieren, falls sie gebraucht werden. So gibt es beispielsweise kein VobControl-Objekt, 
+	wenn ein Solospiel laeuft.
+  - Interaktion mit MOBs und Items implementiert
+    getestet sind ... (abschaeuliche Bennenung der Objekte :-)
+	- einfache Saerge: ok
+	- Ranke/Leiter hochklettern: ok
+	- Blasebalg fuer zwei NSCs: ok
+	- Saeule: ok
+	- Wasserpfeife: ok
+	- Quader: ok
+	- Grosser Stampfer: ok
+	- Trank trinken: ok
+	- Buch lesen: ok
+	- Schalter betaetigen: ok
+	- Hinlegen, Hinsetzen, Beten: ok
+	- Mahlsteine: funktionieren auch im Sologame momentan nicht
+	- Herz-Schwert-Saeule: noch nicht
+	- Bett: ok
+	- Chemielabor: not testet
+	- Ork-Sarg mit Item-Benutzung: ok
+	- Bratpfanne: ok
+	- Truhe: not testet
+	- Schmiede: ok (Partikeleffekte werden teilweise nicht abgeschaltet)
+	- Drehrad: ok
+	- Feuer anzuenden: teilweise funktionierend
+	- Tür öffnen: ok
+	- Ore: not testet
+	- Moerser: not testet
+	Probleme:
+	- Partikeleffekte
+
+- VobControl  
+  - (lacy) Erzeugung des VobControl-Objekten ueber die ObjectFactory
+
+- Sonstiges:
+  - Namensgebung: HandleNetMessage, CreateNetMessage, GetNetVobControl
+
+
+Version 0.90, 4. Oktober 1999
+---------------------------------------------------------------------------------
+
+- Levelwechsel
+  	- Veränderungen am Spieler werden nun auch übertragen
+    		- Waffen/Kleidung anlegen/anziehen
+			- Gegenstände in die Hand nehmen
+			- Verwundung, Attribute etc.
+			- Inventory verändern
+  
+- Weiteres im Netzwerk
+	- Spieler-Name wird jetzt aus den Windows-Einstellungen ausgelesen (z.B. "Edenfeld")
+	- Auch fuer den Spielnamen wird der Spielername verwendet ("Adventures of EDENFELD" :-)
+   
+- Win32-Netzwerk
+	- erhebliche Anpassungen und Umstellungen
+
+- Sonstiges
+	- int64-Bug entdeckt und behoben (Bitte keine Variablen des Typs __int64 deklarieren!!!!)
+  	- Lade-Bildschirm
+    		- Anderer Ladescreen fuer Levelwechsel möglich und testweise eingebaut
+    		- Ladescreeen beim Startup erscheint nun direkt und sofort
+		- Verschiedene ProgressBars ermöglicht
+	  	- Floating-Bar, Symbols, colored
+	  	- Texteinblendungen (Prozentangabe, Load-Stages)
+	- Buffering: Bit-Packing implemetiert
+
+
+- Error
+  - Neue Fehlerkonstanten mit Callstack-Unterstuetzung
+
+  - Parameter:
+  
+    log:nr,SFG,A-Z
+	nr =	Prioritätennummer der Log-Messages
+			- 0 = nue Warnings, Faults und Fatals
+			- 1 = nur sehr wichtige Meldungen
+			- 10 = alle Meldungen (auch extrem unwichtige)
+			ohne Angabe auch keine Ausgabe von irgendwelchen Meldungen
+	SFG	=	Kombination dieser drei Buchstaben
+			- S = Ausgabe im Spy
+			- F = Ausgabe im File (errorlog_by_USERNAME.txt)
+			- G = Ausgabe im Gamefenster (noch nichtunterstuetzt)
+			ohne Angabe gibt es auch keine Ausgabe
+	A-Z	=	Kombination aus den Grossbuchstaben A-Z
+			-> Autorenkuerzel: (B)ert, (U)lf, (D)ieter, (C)arsten. (A)ndre, (X)=Adrian
+			ohne Angabe werdem alle Autoren-Meldungen angezeigt
+
+  - In der Konsole:  
+	- ERR STATUS		(Anzeige des Error-Status)    
+	- ERR LEVEL nr		(Einstellen des Message-Levels)
+	- ERR TARGET SFG		(Einstellen des Targets)
+	- ERR AUTHOR A-Z		(Einstellen der Autoren)
+	- ERR FLAGS ???		(Einstellen der Flags, spaetere Unterstuetzung)
+	- ERR REM			(Einfuegen eines Kommentars ins Log)
+
+  - Anpassungen notwendig:
+
+	- zERR-Konstanten heissen nun anders
+	  zERR_FAULT -> zERR_TYPE_FAULT
+	  zERR_FATAL -> zERR_TYPE_FATAL
+	  u.s.w.
+	 
+	Aber besser: komplett raus mit den Konstanten, denn:
+	- zerr.Report, zerr.Message, zerr.Warning etc. sollten in die entsprechenden Makros
+	  zERR_MESSAGE(), zERR_WARNING(), zERR_FAULT() und zERR_FATAL() umgewandelt werden
+	  - Im Fall von zERR_MESSAGE muessen dabei Priorität und Flags (?kommt wieder raus?) gesetzt werden (siehe zerror.h)
+	  - Bei den anderen reicht eine reine Ersetzung: Einziger Parameter ist der Nachrichtenstring
+	  - Vermutlich wird die Report-Methode dann bald protected !!!!!!!!	  
+
+	- Wichtig bei Makros: 
+	  Es findet eine reine Textersetzung statt. 
+	  Also immer darauf achten, das die Makros bei entsprechenden IFs, WHILEs oder FORs { eingeklammert } sind:
+	  if (false) { MEIN_MAKRO(); }
+	  !! Gaaaanz wichtig !!
+
+	- Moeglichst auch die zERR_ASSERTS und zERR_BOUNDS-Makros verwenden (siehe zerror.h)
+
+  - Neuer zSpy notwendig (DAT-File loeschen!)
+   	- Autoren-spezifsche Funktionen beim Spy sind rausgeflogen
+	- weitere Featurs (Suchen von Text, Autoscroll) siehe spychanges.txt oder ´zSpy-Aboutdialog
+
+- zSTRING: Neue Methode "UpperFirstLowerRest"
+
+
+Parameter
+*********
+
+Game:
+-parse:content/gothic.src -zreparse -3d:xxl.3ds -outdoor -time:12 -znomusic -zwindow -nomenu -testmode -ztexmaxsize:64 -zlog:8,s
+
+Spacer:
+-parse:content/gothicspc.src -!zreparse -znomusic -ztexmaxsize:64 -zlog:8,s -znoexhnd

@@ -1,0 +1,139 @@
+v1.00 - 06.12.00
+================
+- General-Straffung der Human-AI (Teil II)
+	- Plünderung: nur die Sieger plündern und zwar die fallengelassene Waffe (immer) und die Hälfte des Erzes
+- NSCs zaubern jetzt folgende Zauber (relativ) problemlos:
+	- Firebolt/Thunderbolt/BreathofDeath	(schnelles Geschoß)			
+	- Fireball/Thunderball					(Aufblas-Geschoß)
+	- Windfist								(Abstand schaffen)
+	- ChainLightning/Pyrokinesis/IceCube	(Festhalten mit Schaden)
+	- Healing
+- NSCs heilen sich nach dem Kampf mit Tränken und Nahrung
+- NSCs regenerieren nach dem Kampf Mana mit Tränken
+- Zahlreiche AI-Bugs behoben (Testtrack)
+
+
+
+v0.99 - 23.11.00
+================
+- General-Straffung der Human-AI (Teil I). Neben der Entfernung von doppelten bzw. unnötigen Abfragen und dem Zusammenfassen "ähnlicher" Skriptteile flogen folgende Features endgültig raus (verschiedene Gründe: problematische und immer noch nicht fehlerfreie Systeme, schlechte Präsentationsmöglichkeit/Transparenz für den Spieler, mangelnden Nutzung im Gameplay/Missionen:
+	- Verkleidung/Tarnung als Angehöriger einer anderen Gilde
+	- Straffung auf drei grundsätzlichen Reaktions-Typen (bessere Transparenz für den Spieler):
+		- Arbeiter	(VLK/BAU/SFB/STT/ORG/NOV)
+		- Wache		(GRD/SLD/TPL)
+		- Boss 		(EBR/KDF/KDW/GUR)
+	- damit keine besondere Berücksichtigung von Magiern mehr (Grenzen sind ohnehin fließend)
+	- Attack-News (da eine solche Situation fast immer zu der wichtigeren Defeat-News führt)
+	- B_RefreshArmor (Rüstungen können nicht mehr von NSCs geklaut werden!)
+- General-Überarbeitung der Monster-AI
+- Probeweise Aktivierung der aktiven Wahrnehmungen bei ALLEN Human-NSCs (Vermutung: Kostet vernachlässigbar Performance hilft aber dem Erscheinungsbild von schnell und direkt reagierenden Menschen erheblich! -> sollten doch wieder erwarten Performance-Probelme auftreten, bitte mit Stefan Nyul in Verbindung setzen) 
+- NEU: ZS_WarnAndPunish sorgt dafür, daß Wachen erst zum "bösen" Spieler laufen, dann sagen warum sie ihn gleich hauen werden, und ihn dann hauen! (bisher sorgten Wachen, die plötzlich auftauchten und ohne Kommentar angriffen für schlechte Nachvollziehbarkeit)
+- Set/GetTarget in ZS_Attack() bereinigt
+- Setzen aller Wachen auf erhöhten Positionen auf TA_GuardPalisade/FAI_HUMAN_RANGED -> stürzen sich beim Kampf nicht zu Tode, sondern kämpfen IMMER mit Fernkampfwaffen!
+- Einrichten der Tor-Szenen (Drehkreuzwachen/Tor-TAs/AI)
+- Durchgangswachen an allen zu bewachenden Durchgängen inkl. AI
+
+
+
+v0.98 - 08.11.00
+================
+- weitere Bugs in Fernkampf-(F)AI entfernt: sollte nun einen Stand haben, der sehr gut benutzbar ist!
+- Reaktion Menschen auf Monster erheblich verbessert -> Menschen greifen jetzt relativ zügig Monster an (und nicht mehr den SC :-)
+- Betreten von unerlaubten Hütten wird jetzt angemahnt/bestraft
+- Palisadenwachen beharken den SC mit Schußwaffen (also aufpassen,daß Euch beim Hütteplündern niemand erwischt, sonst erwischt Euch ein Pfeil)
+- Drehkreuzwachen passen auf, daß das dazugehörige Tor tagüber auf und nachts zu ist -> herumfummelnder SC wird bestraft!
+- Verbesserung des Animationsflusses bei Übergängen zwischen Tagesabläufe & AI-Reaktionen
+- Durchgangswachen zum Innenhof des Oldcamps warnen/töten Eindringlinge -> Reaktion ist aber noch zu langsam -> wahrscheinlich muß an solchen Stellen zusätzlich mit Türen/Gattern gearbeitet werden
+- News-System gestrafft (NEWS_ATTACK raus!) und auf Skriptseite debugged (doppelte Einträge entfernt)
+- Plündern von Bewußtlosen/Toten gestrafft -> nur noch die Sieger eines Kampfes plündern ihr Opfer, keine wirren Streits mehr um die Beute
+- Neue Skript-Funktionen für formatierte Ausgabe von Variableninhalten im zSpy:
+	- PrintDebugInt		(channel,text,value)	z.B. PrintDebugInt	 (PD_ZS_CHECK, "Schadenshöhe: ", damage);
+	- PrintDebugString	(channel,text,string)	z.B. PrintDebugString(PD_ZS_CHECK, "item: ", item.name);
+	- PrintGlobals		(channel)				-> gibt alle gültigen globalen Variablen (self, other, victim, hero, item) mit Inhalt aus
+
+
+
+v0.97 - XX.10.00
+================
+- weitere Bugs in Fernkampf-(F)AI entfernt
+- weitere Bugs im Magie-(F)AI entfernt
+
+
+
+v0.96 - 11.10.00
+================
+- Fernkampf-(F)AI in Betrieb genommen
+- Magie-(F)AI in Betrieb genommen
+- Automatische Waffenauswahl je nach Situation auch im Kampf
+- Reaktion der NSCs auf Bedrohung/Angriff durch SC-Magie überarbeitet
+- Reaktion auf Verkleidung auf Wachen reduziert worden
+- WORDFILE.TXT überarbeitet und in \SCRIPTS\CONTENT\AI\AI_INTERN\ eingechecked -> dort liegt jetzt immer die aktuellste Version
+
+
+
+v0.95 - 04.10.00
+================
+- Erste Ansätze Orc-AI
+- AI_Flee() eingebaut
+- Bugfixes
+
+
+
+v0.94 - Publisher-Demo
+======================
+- Bugfixes vor allem im Walktrough- und Watchfightbereich
+
+
+
+v0.93 - 12.09.00
+=================
+- MoveNpc-Bug, der NSCs "paralysierte" beseitigt
+- Bug, der NSCs in ZS_AssessFighter festhängen ließ, beseitigt
+- alle SVMs (außer News-bezogene) auf Verwendung in den Skripte überprüft und mit neuen "Regieanweisungen" versehen 
+- Magieskripte an Überarbeitung des Magiesystems angepasst
+- Zaubersprüche: Fireball und Lightning in Betrieb genommen, aber noch (eingetragene Prog-Bugs)
+- Zaubersprüche: Summon Skeleton und Summon Demon in Betrieb genommen, aber noch Probleme
+- Zaubersprüche: Light in Betrieb genommen, aber noch kosmetische Änderungen fällig
+- Bugfixes vor allem in Demo-Walktrough (siehe Testtrack)
+
+
+
+v0.92 - 29.08.00
+================
+- ZS_WatchFight verbessert (damit Neu: ZS_GotoFight)
+- ZS_MoveNpc verbessert (NSCs kollidieren jetzt nicht mehr so extrem und lassen das die Engine lösen, sondern Besitzen jetzt eine Art "Vorfahrts-Regelung")
+- Plündern richtig implementiert (aber noch nicht getuned)
+- Babe-AI integriert
+- Kleinere Änderungen ZS_AssessFighter
+
+
+
+v0.91 - 23.08.00
+================
+- FunQA der Human AI (machen die AI-Features auch Spaß bzw. sind sie transparent für den Spieler) 
+	- Stealth/Bewegung/Finden (angefangen)
+- Neu: "C_ZSInit()" am Anfang eines jeden AI-Zustandes erlaubt nun, initialisierende Aktionen vorzunehmen, die für alle Zustände gelten
+- Verbesserte Reaktion von Menschen auf Monster
+- Taschendiebstahl wird nun bemerkt
+
+
+
+v0.90 - 15.08.00
+================
+- SourceSafe für Content-Skripte nun auch für den Bereich STORY eingeführt 
+  -> alle Content-Skripte liegen nun in einer SourceSafe-Datenbank mit dem Namen "PhoenixScripts"
+- FunQA der Human AI (machen die AI-Features auch Spaß bzw. sind sie transparent für den Spieler) 
+	- Bedrohen/Warnen/Eindringen	
+	- Kampf							
+
+
+
+v0.89 - 07.08.2000
+==================
+- alle Human-AI-Skripte (außer Magie) sind jetzt einmal durchgecheckt
+- SourceSafe für Content-Skripte der Bereiche AI, FIGUREN und WELT eingeführt (STORY fehlt noch)
+- Neue PrintDebug-Struktur eingeführt (kanalisiert & instanziert)
+- Wahrnehmungs-Sets für Bereich WELT wie besprochen angepaßt
+- Dokumentation ist jetzt aktuell: Nur noch zwei Dokumente AI-SYSTEM und AI-MONSTER
+- neue ai_var[AIV_WASDEFEATEDBYSC] -> wird von 0 auf 1 gesetzt, wenn der NSC einmal durch den Spieler besiegt wurde
+
