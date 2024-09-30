@@ -2,3 +2,7 @@
 /_site
 /Gemfile.lock
 /.bundle
+/audio
+/bin
+/images
+/videos

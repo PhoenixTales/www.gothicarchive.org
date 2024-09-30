@@ -1,4 +1,16 @@
-[submodule "media"]
-	path = media
-	url = https://github.com/PhoenixTales/gothicarchive.org
+[submodule "audio"]
+	path = audio
+	url = https://github.com/PhoenixTales/audio.gothicarchive.org
+	branch = main
+[submodule "bin"]
+	path = bin
+	url = https://github.com/PhoenixTales/bin.gothicarchive.org
+	branch = main
+[submodule "images"]
+	path = images
+	url = https://github.com/PhoenixTales/images.gothicarchive.org
+	branch = main
+[submodule "videos"]
+	path = videos
+	url = https://github.com/PhoenixTales/videos.gothicarchive.org
 	branch = main
