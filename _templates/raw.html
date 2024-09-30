@@ -1,13 +1,29 @@
-{% 
-    include abs-link-base.html %}{% 
-    include link-base.html %}{% 
-    include abs-media-link-base.html %}{% 
-    include media-link-base.html
-%}{%
-    assign mediaLinkBasePlaceholder = '{{ mediaLinkBase }}' %}{% 
-    assign absMediaLinkBasePlaceholder = '{{ absMediaLinkBase }}' %}{% 
-    assign linkBasePlaceholder = '{{ linkBase }}' %}{% 
-    assign absLinkBasePlaceholder = '{{ absLinkBase }}' 
-%}{{
-    page.content | replace: mediaLinkBasePlaceholder, mediaLinkBase | replace: absMediaLinkBasePlaceholder, absMediaLinkBase | replace: linkBasePlaceholder, linkBase | replace: absLinkBasePlaceholder, absLinkBase 
-}}
+{%- liquid 
+
+include path-variables.html 
+
+assign pageContent = page.content
+assign pageContent = pageContent | replace: "{{ wwwRoot }}", wwwRoot
+assign pageContent = pageContent | replace: "{{ audioRoot }}", audioRoot
+assign pageContent = pageContent | replace: "{{ binRoot }}", binRoot
+assign pageContent = pageContent | replace: "{{ imagesRoot }}", imagesRoot
+assign pageContent = pageContent | replace: "{{ videosRoot }}", videosRoot
+assign pageContent = pageContent | replace: "{{ wikiRoot }}", wikiRoot
+assign pageContent = pageContent | replace: "{{ wwwDir }}", wwwDir |
+assign pageContent = pageContent | replace: "{{ audioDir }}", audioDir
+assign pageContent = pageContent | replace: "{{ binDir }}", binDir |
+assign pageContent = pageContent | replace: "{{ imagesDir }}", imagesDir
+assign pageContent = pageContent | replace: "{{ videosDir }}", videosDir
+assign pageContent = pageContent | replace: "{{ wikiDir }}", wikiDir
+
+# obsolete old domains (TODO remove)
+assign pageContent = pageContent | replace: "{{ mediaRoot }}", mediaRoot
+assign pageContent = pageContent | replace: "{{ mediaDir }}", mediaDir
+assign pageContent = pageContent | replace: "{{ absLinkBase }}", absLinkBase
+assign pageContent = pageContent | replace: "{{ linkBase }}", linkBase
+assign pageContent = pageContent | replace: "{{ absMediaLinkBase }}", absMediaLinkBase
+assign pageContent = pageContent | replace: "{{ mediaLinkBase }}", mediaLinkBase
+
+echo pageContent
+
+-%}
