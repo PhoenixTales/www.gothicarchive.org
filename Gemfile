@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 3.10.0"
-gem "github-pages", "~> 232"
+gem "jekyll", "~> 4.3.4"
 gem "jekyll-feed", "~> 0.17.0"
 gem "jekyll-paginate", "~> 1.1.0"
