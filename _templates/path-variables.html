@@ -1,4 +1,4 @@
-{%- comment -%}
+{% comment %}
 
 This script defines variables that need to be used when writing URLs:
 - wwwRoot    / wwwDir    (for page and text file URLs)
@@ -32,80 +32,80 @@ EXAMPLES OF GOOD URL USE:
 <a href="{{ wwwRoot }}/page.html">Link</a>
 <img src="{{ imagesDir }}/picture.jpg">
 
-{%- endcomment -%}{%-
+{% endcomment %}{%
 
 
 
-# first compute the path of the current directory, relative from the root -%}{%-
+# first compute the path of the current directory, relative from the root %}{%
 
-assign dirPath = "" -%}{%-
-assign urlParts = page.url | split: '/' -%}{%-
-assign dirDepth = urlParts | size | minus: 2 -%}{%-
-for i in (1..dirDepth) -%}{%-
-    assign dirPath = dirPath | append: '/' | append: urlParts[i] -%}{%-
-endfor -%}{%-
-
-
-# then compute different root URLs for online web mode and offline zip mode -%}{%-
-
-if jekyll.environment == "production" -%}{%-
-
-  # this means that archive is running in the online web mode -%}{%-
-
-  assign rootDomain = "gothicarchive.org" -%}{%-
-
-  assign wwwRoot    = "https://"        | append: rootDomain -%}{%-
-  assign audioRoot  = "https://audio."  | append: rootDomain -%}{%-
-  assign binRoot    = "https://bin."    | append: rootDomain -%}{%-
-  assign imagesRoot = "https://images." | append: rootDomain -%}{%-
-  assign videosRoot = "https://videos." | append: rootDomain -%}{%-
-  assign wikiRoot   = "https://wiki."   | append: rootDomain -%}{%-
-
-  # obsolete old domains (TODO remove) -%}{%-
-  assign mediaRoot  = "https://media."  | append: rootDomain -%}{%-
-
-else -%}{%-
-
-  # this means that archive is running in the offline zip mode -%}{%-
-
-  # first compute path of the zip root -%}{%-
-  assign zipRoot = ".." -%}{%-
-  assign zipRootSeparator = "/" -%}{%-
-  for i in (2..dirDepth) -%}{%-
-    assign zipRoot = zipRoot | append: "/.." -%}{%-
-  endfor -%}{%-
-  if dirDepth == 0 -%}{%-
-    assign zipRoot = "" -%}{%-
-    assign zipRootSeparator = "" -%}{%-
-  endif -%}{%-
-
-  assign wwwRoot    = zipRoot -%}{%-
-  assign audioRoot  = zipRoot | append: zipRootSeparator | append: "audio" -%}{%-
-  assign binRoot    = zipRoot | append: zipRootSeparator | append: "bin" -%}{%-
-  assign imagesRoot = zipRoot | append: zipRootSeparator | append: "images" -%}{%-
-  assign videosRoot = zipRoot | append: zipRootSeparator | append: "videos" -%}{%-
-  assign wikiRoot   = zipRoot | append: zipRootSeparator | append: "wiki" -%}{%-
-
-  # obsolete old domains (TODO remove) -%}{%-
-  assign mediaRoot  = zipRoot | append: zipRootSeparator | append: "media" -%}{%-
-
-endif -%}{%-
+assign dirPath = "" %}{%
+assign urlParts = page.url | split: '/' %}{%
+assign dirDepth = urlParts | size | minus: 2 %}{%
+for i in (1..dirDepth) %}{%
+    assign dirPath = dirPath | append: '/' | append: urlParts[i] %}{%
+endfor %}{%
 
 
-# directory URLs for both modes are based on their root URLs -%}{%-
-assign wwwDir     = "." -%}{%-
-assign audioDir   = audioRoot  | append: dirPath -%}{%-
-assign binDir     = binRoot    | append: dirPath -%}{%-
-assign imagesDir  = imagesRoot | append: dirPath -%}{%-
-assign videosDir  = videosRoot | append: dirPath -%}{%-
-assign wikiDir    = wikiRoot   | append: dirPath -%}{%-
+# then compute different root URLs for online web mode and offline zip mode %}{%
+
+if jekyll.environment == "production" %}{%
+
+  # this means that archive is running in the online web mode %}{%
+
+  assign rootDomain = "gothicarchive.org" %}{%
+
+  assign wwwRoot    = "https://"        | append: rootDomain %}{%
+  assign audioRoot  = "https://audio."  | append: rootDomain %}{%
+  assign binRoot    = "https://bin."    | append: rootDomain %}{%
+  assign imagesRoot = "https://images." | append: rootDomain %}{%
+  assign videosRoot = "https://videos." | append: rootDomain %}{%
+  assign wikiRoot   = "https://wiki."   | append: rootDomain %}{%
+
+  # obsolete old domains (TODO remove) %}{%
+  assign mediaRoot  = "https://media."  | append: rootDomain %}{%
+
+else %}{%
+
+  # this means that archive is running in the offline zip mode %}{%
+
+  # first compute path of the zip root %}{%
+  assign zipRoot = ".." %}{%
+  assign zipRootSeparator = "/" %}{%
+  for i in (2..dirDepth) %}{%
+    assign zipRoot = zipRoot | append: "/.." %}{%
+  endfor %}{%
+  if dirDepth == 0 %}{%
+    assign zipRoot = "" %}{%
+    assign zipRootSeparator = "" %}{%
+  endif %}{%
+
+  assign wwwRoot    = zipRoot %}{%
+  assign audioRoot  = zipRoot | append: zipRootSeparator | append: "audio" %}{%
+  assign binRoot    = zipRoot | append: zipRootSeparator | append: "bin" %}{%
+  assign imagesRoot = zipRoot | append: zipRootSeparator | append: "images" %}{%
+  assign videosRoot = zipRoot | append: zipRootSeparator | append: "videos" %}{%
+  assign wikiRoot   = zipRoot | append: zipRootSeparator | append: "wiki" %}{%
+
+  # obsolete old domains (TODO remove) %}{%
+  assign mediaRoot  = zipRoot | append: zipRootSeparator | append: "media" %}{%
+
+endif %}{%
 
 
-# obsolete old domains (TODO remove) -%}{%-
-assign mediaDir         = mediaRoot  | append: dirPath -%}{%-
-assign absLinkBase      = wwwRoot -%}{%-
-assign linkBase         = wwwDir -%}{%-
-assign absMediaLinkBase = mediaRoot -%}{%-
+# directory URLs for both modes are based on their root URLs %}{%
+assign wwwDir     = "." %}{%
+assign audioDir   = audioRoot  | append: dirPath %}{%
+assign binDir     = binRoot    | append: dirPath %}{%
+assign imagesDir  = imagesRoot | append: dirPath %}{%
+assign videosDir  = videosRoot | append: dirPath %}{%
+assign wikiDir    = wikiRoot   | append: dirPath %}{%
+
+
+# obsolete old domains (TODO remove) %}{%
+assign mediaDir         = mediaRoot  | append: dirPath %}{%
+assign absLinkBase      = wwwRoot %}{%
+assign linkBase         = wwwDir %}{%
+assign absMediaLinkBase = mediaRoot %}{%
 assign mediaLinkBase    = mediaDir
 
--%}
+%}
