@@ -19,6 +19,5 @@ collections:
   category:
     output: true
 plugins:
-  - github-pages
   - jekyll-sitemap
   - jekyll-feed
