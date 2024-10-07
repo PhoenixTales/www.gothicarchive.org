@@ -4,11 +4,11 @@
 Gothic Archive uses HTML interface for both online web version, and local offline access from extracted zip archive.
 In offline archive, text and media files are together in single directory structure.
 Online web version for performance reasons uses separate servers for each type of assets:
-- `www` (text, markdown and html)
-- `audio`
-- `images`
-- `videos`
-- `bin` (other non-textual file types)
+- [`www`](https://github.com/PhoenixTales/www.gothicarchive.org) (text, markdown and html)
+- [`audio`](https://github.com/PhoenixTales/audio.gothicarchive.org)
+- [`images`](https://github.com/PhoenixTales/images.gothicarchive.org)
+- [`videos`](https://github.com/PhoenixTales/videos.gothicarchive.org)
+- [`bin`](https://github.com/PhoenixTales/bin.gothicarchive.org) (other non-textual file types)
 
 This way most changes are reflected online very quickly, in less than one minute after commit is merged to `main` branch. 
 On the other hand, changes to heaviest repositories (e.g. images) take significant time to deploy and invalidate CDN caches, so you may have to wait many minutes before changes are visible online.
