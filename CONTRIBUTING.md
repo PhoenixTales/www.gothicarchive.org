@@ -45,13 +45,13 @@ Template `path-variables.liquid` defines variables that need to be used when wri
 `{{...Root}}` variable creates absolute URLs, while `{{...Dir}}` variable creates URLs relative to the current page.
 
 As a rule of thumb, always prefer using `{{...Dir}}` variable (page-relative URL) over `{{...Root}}` variable (absolute URL), if path of the assets corresponds to the path of the page. 
-For example, if page is under `/gothic/comic/index.html` and assets are under `/gothic/comic/*.jpg`. 
+For example, if page is under `www.gothicarchive.org/gothic/comic/index.html` and assets are under `images.gothicarchive.org/gothic/comic/*.jpg`. 
 In this situation, use `{{ imagesDir }}/*.jpg`.
 
 This way, when page is moved together with assets to a new path, URLs will keep working. If you have used Root varuable instead, all the URLs would have to be updated one-by-one.
 
 Only use `{{...Root}}` variable if the asset path does not correspond to the page path.
-For example, if page is under `/gothic/articles/first-draft.md` and asset is under `/artworks/masks/03.jpg`. 
+For example, if page is under `www.gothicarchive.org/gothic/articles/first-draft.md` and asset is under `images.gothicarchive.org/artworks/masks/03.jpg`. 
 In this situation, use `{{ imagesRoot }}/artworks/masks/03.jpg`.
 
 
