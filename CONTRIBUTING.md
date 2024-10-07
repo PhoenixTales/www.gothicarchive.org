@@ -27,18 +27,18 @@ All internal URLs that appear in archive content (in particular, `<img src="`>) 
 - hardcode domain name, like `https://images.gothicarchive.org/img/foo.jpg` (because that won't work in offline archive)
 - use relative path, like `../img/foo.jpg` (because that won't work in online web version, where pages and media assets are on different servers)
 
-Instead of that, special URL macros have to be used.
+Instead of that, special URL variables have to be used. Replace with them the first part of URL with something `{{ likeThis }}`, so that it will turn into the right form both in online and offline version.
 
 
 ### Variables constructing URLs
 
 Template `path-variables.liquid` defines variables that need to be used when writing URLs:
-- `wwwRoot`    / `wwwDir`    (for page and text file URLs)
-- `audioRoot`  / `audioDir`  (for audio URLs)
-- `binRoot`    / `binDir`    (for URLs of files you can't open in the browser)
-- `imagesRoot` / `imagesDir` (for image URLs)
-- `videosRoot` / `videosDir` (for video URLs)
-- `wikiRoot`   / `wikiDir`   (for wiki URLs)
+- `{{ wwwRoot }}`    / `{{ wwwDir }}`    (for page and text file URLs)
+- `{{ audioRoot }}`  / `{{ audioDir }}`  (for audio URLs)
+- `{{ binRoot }}`    / `{{ binDir }}`    (for URLs of files you can't open in the browser)
+- `{{ imagesRoot }}` / `{{ imagesDir }}` (for image URLs)
+- `{{ videosRoot }}` / `{{ videosDir }}` (for video URLs)
+- `{{ wikiRoot }}`   / `{{ wikiDir }}`   (for wiki URLs)
 
 Use Root variable for absolute URLs and Dir variable for URLs relative to current page.
 
