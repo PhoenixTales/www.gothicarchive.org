@@ -27,10 +27,9 @@ include path-variables.liquid
 		
 	</div>
 
-  {%
-    include processed-content.liquid %}{%
-    echo processedContent
-  %}
+  {% include processed-content.liquid %}
+  {{ processedContent }}
+      
     
 
 </main>
