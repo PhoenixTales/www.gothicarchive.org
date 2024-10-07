@@ -51,7 +51,7 @@ Use Root variable for absolute URLs and Dir variable for URLs relative to curren
 - `{{ imagesRoot }}` - expands to images root of archive, for example `https://images.gothicarchive.org` or `C:\marvin\gothicarchive\images`
 - `{{ wwwRoot }}/page.html` expands to `https://gothicarchive.org/page.html` or `C:\marvin\gothicarchive\page.html`
 - `{{ wwwDir }}/page.html` when inside page `/articles/news` expands to `https://gothicarchive.org/articles/news/page.html` or `C:\marvin\gothicarchive\articles\news\page.html`
-- `{{ imagesDir }}/cover.jpg` when inside page `/articles/news` expands to `https://images.gothicarchive.org/images/articles/news/cover.jpg` or `C:\marvin\gothicarchive\images\articles\news\cover.jpg`
+- `{{ imagesDir }}/cover.jpg` when inside page `/articles/news` expands to `https://images.gothicarchive.org/articles/news/cover.jpg` or `C:\marvin\gothicarchive\images\articles\news\cover.jpg`
 - `{{ imagesRoot }}/cover.jpg` expands to `https://images.gothicarchive.org/cover.jpg` or `C:\marvin\gothicarchive\images\cover.jpg`
 
 These URLs cannot be written directly in absolute form ("whole") by hand, because we need the first part to be different when page is loaded from our web domain (gothicarchive.org) and different when loaded from local copy of archive (gothicarchive.zip).
