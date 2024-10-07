@@ -40,7 +40,17 @@ Template `path-variables.liquid` defines variables that need to be used when wri
 - `{{ videosRoot }}` / `{{ videosDir }}` (for video URLs)
 - `{{ wikiRoot }}`   / `{{ wikiDir }}`   (for wiki URLs)
 
-Use Root variable for absolute URLs and Dir variable for URLs relative to current page.
+### Absolute vs page-relative URLs (Root vs Dir)
+
+`{{...Root}}` variable creates absolute URLs, while `{{...Dir}}` variable creates URLs relative to the current page.
+
+As a rule of thumb, always prefer using `{{...Dir}}` variable (page-relative URL) over `{{...Root}}` variable (absolute URL), if path of the assets corresponds to the path of the page. 
+For example, if page is under `/gothic/comic/index.html` and assets are under `/gothic/comic/*.jpg`. 
+
+This way, when page is moved together with assets to a new path, URLs will keep working. If you have used Root varuable instead, all the URLs would have to be updated one-by-one.
+
+Only use `{{...Root}}` variable if the asset path does not correspond to the page path.
+For example, if page is under `/gothic/articles/first-draft.md` and asset is under `/artworks/masks/03.jpg`. 
 
 
 ### Examples #1
