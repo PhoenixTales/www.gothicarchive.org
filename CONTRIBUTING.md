@@ -28,15 +28,46 @@ All internal URLs that appear in archive content (in particular, `<img src="`>) 
 
 Instead of that, special URL macros have to be used.
 
-### Variables constructing URLs
-- `wwwDir` - will expand to directory with current page, for example `https://gothicarchive.org/comix` or `C:\marvin\gothicarchive\comix`
-- `wwwRoot` - will expand to root of archive, for example `https://gothicarchive.org` or `C:\marvin\gothicarchive`
-- `imagesDir` - will expand to images directory corresponding to directory with current page, for example `https://images.gothicarchive.org/comix` or `C:\marvin\gothicarchive\comix`
-- `imagesRoot` - will expand to images root of archive, for example `https://images.gothicarchive.org` or `C:\marvin\gothicarchive\images`
-- for audio, videos and bin, it works similarly as for images in examples below
-- see [path-variables.html](_templates\path-variables.html) for more information
 
-### Examples
+### Variables constructing URLs
+
+Template `path-variables.liquid` defines variables that need to be used when writing URLs:
+- wwwRoot    / wwwDir    (for page and text file URLs)
+- audioRoot  / audioDir  (for audio URLs)
+- binRoot    / binDir    (for URLs of files you can't open in the browser)
+- imagesRoot / imagesDir (for image URLs)
+- videosRoot / videosDir (for video URLs)
+- wikiRoot   / wikiDir   (for wiki URLs)
+
+Use Root variable for absolute URLs and Dir variable for URLs relative to current page.
+
+
+### Examples #1
+
+- `{{ wwwDir }}` - expands to directory with current page, for example `https://gothicarchive.org/comix` or `C:\marvin\gothicarchive\comix`
+- `{{ wwwRoot }}` - expands to root of archive, for example `https://gothicarchive.org` or `C:\marvin\gothicarchive`
+- `{{ imagesDir }}` - expands to images directory corresponding to directory with current page, for example `https://images.gothicarchive.org/comix` or `C:\marvin\gothicarchive\comix`
+- `{{ imagesRoot }}` - expands to images root of archive, for example `https://images.gothicarchive.org` or `C:\marvin\gothicarchive\images`
+- "{{ wwwRoot }}/page.html" expands to "https://gothicarchive.org/page.html"
+- "{{ wwwDir }}/page.html" when inside page "/articles/news" expands to "https://gothicarchive.org/articles/news/page.html"
+- "{{ imagesDir }}/cover.jpg" when inside page "/articles/news" expands to "https://images/gothicarchive.org/articles/news/cover.jpg"
+
+These URLs cannot be written directly in absolute form ("whole") by hand, because we need the first part to be different when page is loaded from our web domain (gothicarchive.org) and different when loaded from local copy of archive (gothicarchive.zip).
+
+
+### Examples #2
+
+Bad urls:
+- <a href="https://gothicarchive.org/page.html">Link</a> (will not work from offline .zip)
+- <img src="../images/picture.jpg"> (will not work from http .org)
+- <img src="{{ wwwDir }}/picture.jpg"> (image url but uses www variable)
+
+Good urls:
+- <a href="{{ wwwRoot }}/page.html">Link</a>
+- <img src="{{ imagesDir }}/picture.jpg">
+
+
+### Examples #3
 We are editing file:
 ```
 web.gothicarchive.org/comix/gothic/content_gothic.html
@@ -65,3 +96,11 @@ Incorrect (will always give broken `/comix/gothic/comix/img/gothic`):
 ```
 <img src="{{ imagesDir }}/comix/img/gothic/gothic_logo.gif">
 ```
+
+
+### More about path-variables
+
+`path-variables.liquid` is written in Liquid Template Language, documented at shopify.dev/docs/api/liquid .
+We use it, because it is supported out-of-the-box by Jekyll, which is supported out-of-the-box by GitHub Pages.
+In this language, every line of code has to be surrounded with "{ % -" and "- % }".
+To make reading easier, we put both start and end at the end of the lines.

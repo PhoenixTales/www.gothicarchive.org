@@ -1,5 +1,5 @@
 {% 
-include path-variables.html 
+include path-variables.liquid 
 %}
 <!doctype html>
 <meta charset="utf-8" />
@@ -22,13 +22,15 @@ include path-variables.html
 		</label>
   
     {% 
-    include menu.html 
+      include menu.html 
     %}
 		
 	</div>
 
-  {% 
-  include raw.html 
+  {%
+    include processed-content.liquid %}{%
+    echo processedContent
   %}
+    
 
 </main>
