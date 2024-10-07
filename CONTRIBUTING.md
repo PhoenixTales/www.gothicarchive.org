@@ -82,7 +82,7 @@ Correct:
 ```
 <img src="{{ imagesDir }}/../img/gothic/gothic_logo.gif">
 ```
-Acceptable (has to be updated every time `/comic/` is moved or renamed):
+Discouraged (works, but has to be updated every time `/comic/` is moved or renamed):
 ```
 <img src="{{ imagesRoot }}/comic/img/gothic/gothic_logo.gif">
 ```
