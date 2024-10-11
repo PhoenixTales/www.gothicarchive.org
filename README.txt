@@ -186,9 +186,8 @@
 
 
               [ Contact ]
-
-   +-------------------------------+
-   | Web:  https://phoenixtales.de |
-   | Mail: mail(at)phoenixtales.de |
-   +-------------------------------+
++----------------------------------------+
+| Via Signal here: phoenixtales.de or on |
+| Discord: discord.com/invite/5uHcsEJ44h |
++----------------------------------------+
 
