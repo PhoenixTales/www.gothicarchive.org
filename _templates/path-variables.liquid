@@ -15,6 +15,7 @@ if jekyll.environment == "production" %}{%
   assign audioRoot  = "https://audio."  | append: rootDomain %}{%
   assign binRoot    = "https://bin."    | append: rootDomain %}{%
   assign imagesRoot = "https://images." | append: rootDomain %}{%
+  assign sitesRoot  = "https://sites."  | append: rootDomain %}{%
   assign videosRoot = "https://videos." | append: rootDomain %}{%
   assign wikiRoot   = "https://wiki."   | append: rootDomain %}{%
 
@@ -36,6 +37,7 @@ else %}{%
   assign audioRoot  = zipRoot | append: zipRootSeparator | append: "audio" %}{%
   assign binRoot    = zipRoot | append: zipRootSeparator | append: "bin" %}{%
   assign imagesRoot = zipRoot | append: zipRootSeparator | append: "images" %}{%
+  assign sitesRoot  = zipRoot | append: zipRootSeparator | append: "sites" %}{%
   assign videosRoot = zipRoot | append: zipRootSeparator | append: "videos" %}{%
   assign wikiRoot   = zipRoot | append: zipRootSeparator | append: "wiki" %}{%
 
@@ -48,6 +50,7 @@ assign wwwDir     = "." %}{%
 assign audioDir   = audioRoot  | append: dirPath %}{%
 assign binDir     = binRoot    | append: dirPath %}{%
 assign imagesDir  = imagesRoot | append: dirPath %}{%
+assign sitesDir   = sitesRoot  | append: dirPath %}{%
 assign videosDir  = videosRoot | append: dirPath %}{%
 assign wikiDir    = wikiRoot   | append: dirPath %}{%
 

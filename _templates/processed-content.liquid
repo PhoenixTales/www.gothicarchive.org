@@ -7,12 +7,14 @@ assign processedContent = processedContent | replace: "{{ wwwRoot }}", wwwRoot %
 assign processedContent = processedContent | replace: "{{ audioRoot }}", audioRoot %}{%
 assign processedContent = processedContent | replace: "{{ binRoot }}", binRoot %}{%
 assign processedContent = processedContent | replace: "{{ imagesRoot }}", imagesRoot %}{%
+assign processedContent = processedContent | replace: "{{ sitesRoot }}", sitesRoot %}{%
 assign processedContent = processedContent | replace: "{{ videosRoot }}", videosRoot %}{%
 assign processedContent = processedContent | replace: "{{ wikiRoot }}", wikiRoot %}{%
 assign processedContent = processedContent | replace: "{{ wwwDir }}", wwwDir | %}{%
 assign processedContent = processedContent | replace: "{{ audioDir }}", audioDir %}{%
 assign processedContent = processedContent | replace: "{{ binDir }}", binDir | %}{%
 assign processedContent = processedContent | replace: "{{ imagesDir }}", imagesDir %}{%
+assign processedContent = processedContent | replace: "{{ sitesDir }}", sitesDir %}{%
 assign processedContent = processedContent | replace: "{{ videosDir }}", videosDir %}{%
 assign processedContent = processedContent | replace: "{{ wikiDir }}", wikiDir %}{%
 
