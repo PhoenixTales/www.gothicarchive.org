@@ -1,5 +1,6 @@
 {%
 
+assign rootDomain = "gothicarchive.org" %}{%
 assign dirPath = "" %}{%
 assign urlParts = page.url | split: '/' %}{%
 assign dirDepth = urlParts | size | minus: 2 %}{%
@@ -8,8 +9,6 @@ for i in (1..dirDepth) %}{%
 endfor %}{%
 
 if jekyll.environment == "production" %}{%
-
-  assign rootDomain = "gothicarchive.org" %}{%
 
   assign wwwRoot    = "https://"        | append: rootDomain %}{%
   assign audioRoot  = "https://audio."  | append: rootDomain %}{%
@@ -37,7 +36,7 @@ else %}{%
   assign audioRoot  = zipRoot | append: zipRootSeparator | append: "audio" %}{%
   assign binRoot    = zipRoot | append: zipRootSeparator | append: "bin" %}{%
   assign imagesRoot = zipRoot | append: zipRootSeparator | append: "images" %}{%
-  assign sitesRoot  = zipRoot | append: zipRootSeparator | append: "sites" %}{%
+  assign sitesRoot  = https://sites." | append: rootDomain %}{%
   assign videosRoot = zipRoot | append: zipRootSeparator | append: "videos" %}{%
   assign wikiRoot   = zipRoot | append: zipRootSeparator | append: "wiki" %}{%
 
