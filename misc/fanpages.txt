@@ -16,10 +16,10 @@ Please help to improve it.
 created     URL
 
 GERMANY:
-~29.06.98   http://www.muenster.de/~dhosch/piranha.htm (by Dietmar)
-~31.08.98   GOTHIC Realms (by Ilion Sturmlied)
-~28.09.98   GOTHIC Express (by THCopp alias Marco Tesla)
-~22.10.98   GOTHIC.gOmp (by Orle (aka Darksky?) + Simon Moon)
+~29.06.98   #1 http://www.muenster.de/~dhosch/piranha.htm (by Dietmar)
+~31.08.98   #2 GOTHIC Realms (by Ilion Sturmlied)
+~28.09.98   #3 GOTHIC Express (by THCopp alias Marco Tesla)
+~22.10.98   #4 GOTHIC.gOmp (by Orle (aka Darksky?) + Simon Moon)
 ~--.--.99   homepage.ruhr-uni-bochum.de
 ~--.--.--   soulofgothic.de
 
