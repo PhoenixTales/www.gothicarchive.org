@@ -203,12 +203,14 @@ and (max-width : 820px) {
   margin: 30px 3px 0;
 }
 
-  #GraphicalRow img, #GraphicalRow2 img {
+  #GraphicalRow img, 
+  #GraphicalRow2 img {
     height: auto;
     max-width: 100%;
     border: 1px solid #222222;
   }
-	#GraphicalRow img:hover, #GraphicalRow2 img:hover {
+	#GraphicalRow img:hover, 
+        #GraphicalRow2 img:hover {
 	  border: 1px solid #554b43;
 	}
 
@@ -228,20 +230,12 @@ and (min-width : 820px) {
     max-width: 413px;
     height: auto;
   }
-    #GraphicalRow img {
-      width: 100%;
-      height: auto;
-    }
 
   #GraphicalRow2 {
     min-width: 200px;
     max-width: 500px;
     height: auto;
   }
-    #GraphicalRow2 img {
-      width: 100%;
-      height: auto;
-    }
 }
 
 
@@ -373,7 +367,7 @@ a img {
 	-webkit-transition: .4s ease-in-out;
 	transition: .4s ease-in-out;
 }
-  a:hover img { opacity: 0.6; }
+  article a:hover img { opacity: 0.6; }
 
 
 /* Page content */
