@@ -1,5 +1,6 @@
 ---
 title: Phoenix Docs
+markdown: true
 ---
 
 ![Phoenix Pitch Logo]({{ imagesRoot }}/documents/phoenix/phoenix-dark.jpg)
