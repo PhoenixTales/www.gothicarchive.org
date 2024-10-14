@@ -1,7 +1,7 @@
 ---
 title: PhoenixTales
 ---
-<article>
+<article class="index">
 <div id="GraphicalRow">
 	<a href="screenshots/orderedbytime/1998.html"><img src="{{ mediaLinkBase }}/img/1998.png" alt="Screenshots from 1998"></a>
 	<a href="screenshots/orderedbytime/1999-01-1999-06.html"><img src="{{ mediaLinkBase }}/img/early1999.png" alt="Screenshots from early 1999"></a>
@@ -56,6 +56,15 @@ title: PhoenixTales
 </article>
 
 <style>
+
+	.index img {
+	    border: 1px solid #222222;
+  	}
+		.index img:hover {
+		  border: 1px solid #706961;
+		}
+			.index a:hover img { opacity: initial; }
+	
 	#LeftRow {
 		min-width: 380px;
 	}
