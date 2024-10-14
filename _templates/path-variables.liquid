@@ -8,6 +8,16 @@ for i in (1..dirDepth) %}{%
     assign dirPath = dirPath | append: '/' | append: urlParts[i] %}{%
 endfor %}{%
 
+assign rootPath = ".." %}{%
+assign rootPathSeparator = "/" %}{%
+for i in (2..dirDepth) %}{%
+  assign rootPath = rootPath | append: "/.." %}{%
+endfor %}{%
+if dirDepth == 0 %}{%
+  assign rootPath = "" %}{%
+  assign rootPathSeparator = "" %}{%
+endif %}{%
+
 if jekyll.environment == "production" %}{%
 
   assign wwwRoot    = "https://"        | append: rootDomain %}{%
@@ -20,27 +30,29 @@ if jekyll.environment == "production" %}{%
 
   assign mediaRoot  = "https://media."  | append: rootDomain %}{%
 
+elsif jekyll.environment == "development" %}{%
+
+  assign wwwRoot    = rootPath %}{%
+  assign audioRoot  = "https://audio."  | append: rootDomain %}{%
+  assign binRoot    = "https://bin."    | append: rootDomain %}{%
+  assign imagesRoot = "https://images." | append: rootDomain %}{%
+  assign sitesRoot  = "https://sites."  | append: rootDomain %}{%
+  assign videosRoot = "https://videos." | append: rootDomain %}{%
+  assign wikiRoot   = "https://wiki."   | append: rootDomain %}{%
+
+  assign mediaRoot  = "https://media."  | append: rootDomain %}{%
+
 else %}{%
 
-  assign zipRoot = ".." %}{%
-  assign zipRootSeparator = "/" %}{%
-  for i in (2..dirDepth) %}{%
-    assign zipRoot = zipRoot | append: "/.." %}{%
-  endfor %}{%
-  if dirDepth == 0 %}{%
-    assign zipRoot = "" %}{%
-    assign zipRootSeparator = "" %}{%
-  endif %}{%
-
-  assign wwwRoot    = zipRoot %}{%
-  assign audioRoot  = zipRoot | append: zipRootSeparator | append: "audio" %}{%
-  assign binRoot    = zipRoot | append: zipRootSeparator | append: "bin" %}{%
-  assign imagesRoot = zipRoot | append: zipRootSeparator | append: "images" %}{%
+  assign wwwRoot    = rootPath %}{%
+  assign audioRoot  = rootPath | append: rootPathSeparator | append: "audio" %}{%
+  assign binRoot    = rootPath | append: rootPathSeparator | append: "bin" %}{%
+  assign imagesRoot = rootPath | append: rootPathSeparator | append: "images" %}{%
   assign sitesRoot  = https://sites." | append: rootDomain %}{%
-  assign videosRoot = zipRoot | append: zipRootSeparator | append: "videos" %}{%
-  assign wikiRoot   = zipRoot | append: zipRootSeparator | append: "wiki" %}{%
+  assign videosRoot = rootPath | append: rootPathSeparator | append: "videos" %}{%
+  assign wikiRoot   = rootPath | append: rootPathSeparator | append: "wiki" %}{%
 
-  assign mediaRoot  = zipRoot | append: zipRootSeparator | append: "media" %}{%
+  assign mediaRoot  = rootPath | append: rootPathSeparator | append: "media" %}{%
 
 endif %}{%
 
