@@ -61,7 +61,8 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
     padding-bottom: 50px;
   }
 
-  @media (max-width : 750px) {
+  /* @flosha indicated he prefers horizontal scrolling here than dropping columns */
+  /* @media (max-width : 750px) {
     article td:nth-child(3),
     article th:nth-child(3) {
       display: none;
@@ -75,7 +76,7 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
     article th:nth-child(5) {
       display: none;
     }
-  }
+  } */
 </style>
 
 <script>
