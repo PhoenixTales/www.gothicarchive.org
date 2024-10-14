@@ -7,7 +7,7 @@ markdown: true
 
 Incomplete collection of Phoenix documents written from 1997-07.1999.
 
-* [Phoenix_Main.doc]({{ binRoot }}/documents/phoenix/PhoenixDokumentationen/Phoenix Main.doc) [18.07.1999]
+* [Phoenix_Main.doc]({{ binRoot }}/documents/phoenix/PhoenixDokumentationen/Phoenix Main.doc) [18.07.1999] (only table of contents)
 * [Phoenix_A1_Leveldesign.doc]({{ binRoot }}/documents/phoenix/PhoenixDokumentationen/Phoenix_A1_Leveldesign.doc) [20.07.1999]
 * [Phoenix_A2_ItemsObjectsEvents.doc]({{ binRoot }}/documents/phoenix/PhoenixDokumentationen/Phoenix_A2_ItemsObjectsEvents.doc) [12.07.1999]
 <!-- * Phoenix_A3_ItemsObjectsEvents.doc [10.07.1999] [Duplicate] -->
@@ -28,3 +28,16 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
 * [Phoenix_E3_Technical.doc]({{ binRoot }}/documents/phoenix/PhoenixDokumentationen/Phoenix_E3_Technical.doc) [06.07.1999]
 
 * [Referenz_Items.doc]({{ binRoot }}/documents/phoenix/PhoenixDokumentationen/Referenz_Items.doc) [07.07.1999]
+
+<script>
+  // in online mode, add preview links using the anonymous google drive preview functionality
+  if (window.location.hostname == "gothicarchive.org") {
+    const docLinks = Array.from(document.querySelectorAll("a[href$='.doc']"));
+    for(var docLink of docLinks) {
+      const previewLink = document.createElement("a");
+      previewLink.innerText = " (preview)";
+      previewLink.href = "https://docs.google.com/gview?embedded=true&url=" + docLink.href;
+      docLink.after(previewLink);
+    }
+  }
+</script>
