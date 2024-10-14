@@ -35,7 +35,7 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
     margin: 0 auto;
     max-width: 90vw;
     display: block;
-    overflow-x: scroll;
+    overflow-x: auto;
   }
 
   article td, 
