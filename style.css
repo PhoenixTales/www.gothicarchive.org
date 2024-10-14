@@ -207,12 +207,7 @@ and (max-width : 820px) {
   #GraphicalRow2 img {
     height: auto;
     max-width: 100%;
-    border: 1px solid #222222;
   }
-	#GraphicalRow img:hover, 
-        #GraphicalRow2 img:hover {
-	  border: 1px solid #554b43;
-	}
 
 
 /**********************/
