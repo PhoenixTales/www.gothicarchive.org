@@ -2,7 +2,7 @@
 
 assign rootDomain = "gothicarchive.org" %}{%
 assign dirPath = "" %}{%
-assign urlParts = page.url | split: '/' %}{%
+assign urlParts = page.url | append: '.' | split: '/' %}{%
 assign dirDepth = urlParts | size | minus: 2 %}{%
 for i in (1..dirDepth) %}{%
     assign dirPath = dirPath | append: '/' | append: urlParts[i] %}{%
