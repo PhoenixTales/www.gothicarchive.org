@@ -357,12 +357,12 @@ a, a:link, a:active, a:visited {
 
 /* Image Hover */
 
-article a img {
+a img {
   opacity: 1;
 	-webkit-transition: .4s ease-in-out;
 	transition: .4s ease-in-out;
 }
-  article a:hover img { opacity: 0.6; }
+  a:hover img { opacity: 0.6; }
 
 
 /* Page content */
