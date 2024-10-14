@@ -362,7 +362,7 @@ a, a:link, a:active, a:visited {
 
 /* Image Hover */
 
-a img {
+article a img {
   opacity: 1;
 	-webkit-transition: .4s ease-in-out;
 	transition: .4s ease-in-out;
