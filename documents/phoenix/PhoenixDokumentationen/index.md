@@ -80,6 +80,18 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
       display: none;
     }
   } */
+
+  @media (max-width : 820px) {
+    article {
+      max-width: 100%;
+    }
+  }
+
+  @media (min-width : 820px) {
+    article {
+      max-width: calc(100% - 400px);
+    }
+  }
 </style>
 
 <script>
