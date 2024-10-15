@@ -1,39 +1,30 @@
-{% 
-include path-variables.liquid 
-%}
-<!doctype html>
+{% include path-variables.liquid %}
+<!DOCTYPE html>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
 <link href="{{ wwwRoot }}/style.css" rel="stylesheet" />
 <link href="{{ binRoot }}/fonts/fonts.css" rel="stylesheet" />
 <title>{{page.title}} | {{site.title}}</title>
 <link rel="icon" type="image/x-icon" href="{{ wwwRoot }}/favicon.ico" />
 <style>
-  .logo { background-image: url('{{ imagesRoot }}/img/header.png'); }
+  .logo {
+    background-image: url('{{ imagesRoot }}/img/header.png');
+  }
 </style>
 
-<main>
-	<div id="LeftRow">
-		<header>
-			<a href="{{ wwwRoot }}/">
-				<h1 class="logo hide-text">Gothic Archive</h1>
-			</a>
-		</header>
-		<input type="checkbox" id="menu-toggle">
-		<label for="menu-toggle">
-			<span class="menu-icon">&#8801;</span>
-			Menu
-		</label>
-  
-    {% 
-      include menu.html 
-    %}
-		
-	</div>
+<nav id="nav">
+  <header>
+    <a href="{{ wwwRoot }}/">
+      <h1 class="logo hide-text">Gothic Archive</h1>
+    </a>
+  </header>
+  <input type="checkbox" id="menu-toggle" />
+  <label for="menu-toggle">
+    <span class="menu-icon">&#8801;</span>
+    Menu
+  </label>
 
-  {% include processed-content.liquid %}
-  {{ processedContent }}
-      
-    
+  {% include menu.html %}
+</nav>
 
-</main>
+<main>{% include processed-content.liquid %} {{ processedContent }}</main>
