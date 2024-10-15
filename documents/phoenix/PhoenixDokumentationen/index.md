@@ -30,22 +30,31 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
  ???     | [Items reference]({{ binDir }}/Referenz_Items.pdf)                                   | `Referenz_Items.doc`                      | Mario  | 07.07.1999 
 
 <style>
+  article {
+   padding-bottom: 50px;
+   display: grid;
+    max-width: 100%;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
   article table {
     border-collapse: collapse;
     margin: 0 auto;
     max-width: 90vw;
     display: block;
     overflow-x: auto;
+    width: 100%;
   }
 
   article td, 
   article th {
-      border: 1px solid currentColor;
-      padding: 2px 10px;
+    border: 1px solid currentColor;
+    padding: 2px 10px;
   }
 
   article th {
-      background: #ac876d47;
+    background: #ac876d47;
   }
 
   article tr.link td {
@@ -58,10 +67,6 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
 
   article tr.missing td {
     opacity: 0.5;
-  }
-
-  article {
-    padding-bottom: 50px;
   }
 
   /* @flosha indicated he prefers horizontal scrolling here than dropping columns */
@@ -80,18 +85,6 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
       display: none;
     }
   } */
-
-  @media (max-width : 820px) {
-    article {
-      max-width: 100%;
-    }
-  }
-
-  @media (min-width : 820px) {
-    article {
-      max-width: calc(100% - 400px);
-    }
-  }
 </style>
 
 <script>

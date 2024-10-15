@@ -194,53 +194,88 @@ title: PhoenixTales
 </article>
 
 <style>
+  #nav {
+    min-width: 380px;
+  }
 
-	.index img {
-	    border: 1px solid #222222;
+  .index {
+    display: flex;
+    max-width: none;
+    margin: 0;
+    gap: 6px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+  }
+  .index img {
+  	padding-top: 0;
+  }
+  .index a:hover img {
+    opacity: initial;
+  }
+
+  #GraphicalRow, #GraphicalRow2 {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-width: 200px;
+  }
+  #GraphicalRow {
+    max-width: 413px;
+  }
+  #GraphicalRow2 {
+    max-width: 500px;
+  }
+
+  figure {
+    overflow: clip; /* clip the element in case a browser not precisely renders a border of figcaption. This can occur when zooming, and a border can overflow very subtly, which is relatively noticeable. */
+  	margin: 0;
+  	padding: 0;
+    position: relative;
+  }
+  figure a {
+    height: 100%;
+    display: block;
+  }
+  figure img { width: 100%; }
+
+  figure, figcaption {
+    border: 1px solid #222222;
+    transition: border-color .4s ease-in-out;
+  }
+  figure:hover, figure:hover figcaption {
+    border: 1px solid #706961;
+  }
+
+  figcaption {
+    position: absolute;
+
+    /*-1px to compensate the border */
+    bottom: -1px;
+    left: -1px;
+
+    padding: 0.5em;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    font-family: monospace;
+    background: hsla(0, 0%, 0%, 0.9);
+  }
+  figcaption:empty {
+    display: none;
+  }
+
+  @media only screen and (max-width: 550px) {
+    #nav {
+      min-width: initial;
+    }
+    
+  	.index {
+      height: auto;
+  	  flex-wrap: wrap;
   	}
-		.index img:hover {
-		  border: 1px solid #706961;
-		}
-			.index a:hover img { opacity: initial; }
 
-	figcaption {
-	  height: 15px;
-	  /*background: #3c1e26;*/
-	  margin: -30px 0 0;
-	  padding: 0.5em;
-    	  text-transform: uppercase;
-    	  font-size: 10px;
-    	  letter-spacing: 0.1em;
-	  font-family: monospace;
-	}
-
-	figure { 
-	  margin-top: 0;
-	  margin-bottom: 2px;
-	  margin-left: 0; 
-	  margin-right: 0;
-	  padding: 0;
-	}
-	  figure img { width: 100%; }
-	
-	#LeftRow {
-		min-width: 380px;
-	}
-
-	main > article {
-		flex-flow: row nowrap;
-		display: flex;
-		max-width: none;
-		margin: 0;
-	}
-
-	main > article img {
-		padding-top: 0;
-	}
-
-	@media only screen and (max-width : 550px) {
-		main > article {
-		flex-flow: row wrap;
-		}
-	}
+    #GraphicalRow, #GraphicalRow2 {
+      max-width: initial;
+    }
+  }
 </style>
