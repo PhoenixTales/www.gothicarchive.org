@@ -21,3 +21,4 @@ collections:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+livereload: true
