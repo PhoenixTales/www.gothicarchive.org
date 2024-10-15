@@ -300,10 +300,9 @@ and (max-width : 820px) {
     overflow: auto;
     position: fixed;
 
-    /* backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    background: rgba(0, 0, 0, 0.8); */
-    background: black;
+    background: rgba(0, 0, 0, 0.9);
   }
 
   body:has(#menu-toggle:checked) .menu-toggle-btn {
