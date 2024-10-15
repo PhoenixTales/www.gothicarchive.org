@@ -13,18 +13,21 @@
 </style>
 
 <nav id="nav">
+  <div class="menu-toggle-btn">
+    <input type="checkbox" id="menu-toggle" />
+    <label for="menu-toggle">
+      <span class="menu-icon">&#8801;</span>
+      Menu
+    </label>
+  </div>
+
   <header>
     <a href="{{ wwwRoot }}/">
       <h1 class="logo hide-text">Gothic Archive</h1>
     </a>
   </header>
-  <input type="checkbox" id="menu-toggle" />
-  <label for="menu-toggle">
-    <span class="menu-icon">&#8801;</span>
-    Menu
-  </label>
 
-  {% include menu.html %}
+  <div class="menu-index">{% include menu.html %}</div>
 </nav>
 
 <main>{% include processed-content.liquid %} {{ processedContent }}</main>
