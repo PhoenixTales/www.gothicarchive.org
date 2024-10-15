@@ -75,6 +75,10 @@ a img {
 /* Nav */
 
 #nav {
+  position: sticky;
+  top: 0;
+  overflow: auto;
+  height: 100dvh;
   min-width: 400px;
   padding-bottom: var(--nav-padding-bottom);
 }
@@ -302,6 +306,7 @@ and (max-width : 820px) {
   }
 
   #nav {
+    position: initial;
     min-width: initial;
     height: initial;
     overflow: initial; /* Having this set to "initial", makes it so the scroll position will be restored when the mobile navigation is opened again, otherwise it is reset each time the .main-nav is closed. (For some reason) */
