@@ -218,17 +218,17 @@ article h1 {
   padding-top: 26px;
 }
 
-article h2 {
-  background: #3c1e26;
+article h2, article h3 {
   color: rgb(186, 168, 152);
-  font-size: 18px;
-  padding: 5px 10px;
+  font-size: 16px;
 }
 
-article h3 {
-  color: #b8894c;
-  padding: 1em 1.5em;
-  font-size: 16px;
+article h2::before {
+  content: "## ";
+}
+
+article h3::before {
+  content: "### ";
 }
 
 article img {
