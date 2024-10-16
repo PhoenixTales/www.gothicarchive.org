@@ -1,0 +1,11 @@
+{% comment %} Get the content without the style tag, for explenation see - page-style-tag.liquid {% endcomment %}
+
+{% if include.pageContent contains '<style>' and include.pageContent contains '</style>' %}
+  {% assign content_parts = include.pageContent | split: '<style>' %}
+  {% assign content_before_style = content_parts[0] %}
+  {% assign content_after_style_tag = content_parts[1] | split: '</style>' %}
+  {% assign content_after_style = content_after_style_tag[1] %}
+  {% assign contentWithoutStyleTag = content_before_style | append: content_after_style %}
+{% else %}
+  {% assign contentWithoutStyleTag = include.pageContent %}
+{% endif %}
