@@ -222,7 +222,7 @@ article h2 {
   background: #3c1e26;
   color: rgb(186, 168, 152);
   font-size: 18px;
-  padding: 1em 1.5em;
+  padding: 5px 10px;
 }
 
 article h3 {
@@ -365,7 +365,7 @@ and (max-width : 820px) {
     width: fit-content;
     user-select: none;
     cursor: pointer;  
-    color: #ccb9a5; /* #c1784a; // old orange */
+    color: #b8894c; /* #ccb9a5; /* #c1784a; // old orange */
     background: #000000e0;
     font-family: "Gothic_alpha_font";  
     font-size: 18px;
