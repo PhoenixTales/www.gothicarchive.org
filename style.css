@@ -352,11 +352,11 @@ and (max-width : 820px) {
     /*text-transform: uppercase;*/
     padding: 0.3em 1.5em 0.5em 1.2em;
     line-height: 1;
-    border: 1px solid; /* !!!!!!!!!!!!!!! */
+    border: 1px solid #706961; /* !!!!!!!!!!!!!!! */
     width: fit-content;
     user-select: none;
     cursor: pointer;  
-    color: #706961; /* #c1784a; // old orange */
+    color: #ccb9a5; /* #c1784a; // old orange */
     background: #000000e0;
     font-family: "Gothic_alpha_font";  
     font-size: 18px;
