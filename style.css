@@ -207,20 +207,23 @@ article {
   color: #ccb9a5;
 }    
 
-article h1, article h2, article h3 {
+article h1, article h2, article h3, article h4 {
   font-family: "Gothic_alpha_font"; 
   font-weight: normal;
+  letter-spacing: normal;
+  color: rgb(186, 168, 152);	
 }
 
 article h1 {
-  /* color: rgb(186, 168, 152); */
-  color: #b8894c;
   padding-top: 26px;
 }
 
 article h2, article h3 {
-  color: rgb(186, 168, 152);
   font-size: 16px;
+}
+
+article h1::before {
+  content: "# ";
 }
 
 article h2::before {
@@ -365,7 +368,7 @@ and (max-width : 820px) {
     width: fit-content;
     user-select: none;
     cursor: pointer;  
-    color: #b8894c; /* #ccb9a5; /* #c1784a; // old orange */
+    color: #ccb9a5; /* #c1784a; // old orange */
     background: #000000e0;
     font-family: "Gothic_alpha_font";  
     font-size: 18px;
