@@ -74,7 +74,7 @@ a img {
 
 /* Nav */
 
-#nav {
+nav {
   position: sticky;
   top: 0;
   overflow: auto;
@@ -82,7 +82,7 @@ a img {
   min-width: 400px;
   padding-bottom: var(--nav-padding-bottom);
 }
-  #nav img {
+  nav img {
     max-width: 200px;
     height: auto;
     margin-left: -10px;
@@ -249,7 +249,7 @@ audio {
     scrollbar-color: #424242 rgba(0 0 0 / 70%);
   }
 
-  #nav {
+  nav {
     scrollbar-width: thin;
   }
 }
@@ -273,7 +273,7 @@ audio {
   border: 2px solid black;
 }
 
-#nav::-webkit-scrollbar {
+nav::-webkit-scrollbar {
   width: 10px;
 }
 
@@ -293,7 +293,7 @@ and (max-width : 820px) {
     padding-top: calc(var(--header-height) + var(--header-margin-top) + var(--nav-padding-bottom));
   }
 
-  body:has(#menu-toggle:checked) #nav {
+  body:has(#menu-toggle:checked) nav {
     top: 0;
     left: 0;
     height: 100dvh;
@@ -317,7 +317,7 @@ and (max-width : 820px) {
     display: block;
   }
 
-  #nav {
+  nav {
     position: initial;
     min-width: initial;
     height: initial;
