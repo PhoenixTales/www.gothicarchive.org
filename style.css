@@ -306,6 +306,7 @@ and (max-width : 820px) {
 
   body:has(#menu-toggle:checked) .menu-toggle-btn {
     position: sticky;
+    background: #233246; /* blue as in logo hover */
   }
 
   body:has(#menu-toggle:checked) header {
