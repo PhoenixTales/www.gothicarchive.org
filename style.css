@@ -1,7 +1,6 @@
 /*
-  GOTHIC ARCHIVE
-  design by flosha 
-  css by flosha & Avallach
+  GOTHIC ARCHIVE design by flosha 
+  css by flosha, avallach & delvin
 */
 
 /* Base */
@@ -354,7 +353,7 @@ and (max-width : 820px) {
     width: fit-content;
     user-select: none;
     cursor: pointer;
-    color: #c1784a;
+    color: #554b43; /* #c1784a; // old orange */
     background: #000000e0;
     font-size: 18px;
   }
