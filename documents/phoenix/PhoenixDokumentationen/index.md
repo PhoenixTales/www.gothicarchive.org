@@ -5,7 +5,7 @@ markdown: true
 
 ![Phoenix Pitch Logo]({{ imagesRoot }}/documents/phoenix/phoenix-dark.jpg)
 
-Incomplete collection of Phoenix documents written from 1997-07.1999.
+Incomplete collection of Phoenix documents written from 1997 to 07.1999.
 
  Chapter | Topic                                                                                | File name                                 | Author | Date 
 ---------|--------------------------------------------------------------------------------------|-------------------------------------------|--------|------------
@@ -27,7 +27,7 @@ Incomplete collection of Phoenix documents written from 1997-07.1999.
  E-2     | [Effects]({{ binDir }}/Phoenix_E2_Effects.pdf)                                       | `Phoenix_E2_Effects.doc`                  | Kai    | 13.07.1999 
  E-3     | [Technical]({{ binDir }}/Phoenix_E3_Technical.pdf)                                   | `Phoenix_E3_Technical.doc`                | Stefan | 06.07.1999 
          |                                                                                      |                                           |        |            
- ???     | [Items reference]({{ binDir }}/Referenz_Items.pdf)                                   | `Referenz_Items.doc`                      | Mario  | 07.07.1999 
+ ???     | [Reference Items]({{ binDir }}/Referenz_Items.pdf)                                   | `Referenz_Items.doc`                      | Mario  | 07.07.1999 
 
 <style>
   article {

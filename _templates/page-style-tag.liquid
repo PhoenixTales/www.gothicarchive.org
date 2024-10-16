@@ -1,0 +1,30 @@
+{% comment %} 
+This code will retrieve a style tag within the page, which then can be included in the head.
+
+Rules:
+
+1. This will only work for pages that have exactly one <style> tag inside.
+
+2. If you need to comment the entire style tag inside a page, DO comment what is between the tags, but not the tags themselves, otherwise that style tag will end up uncommented in the output. But if commenting all the styles inside the tags, the output will be the same commented code, so no issue here. So if put simply, the rule is - just do not comment the tags, but whatever is inside.
+
+Example:
+
+Correct
+
+<style>
+   /* .a: {} */
+</style>
+
+Incorrect
+
+<!-- <style>
+   .a: {}
+</style> -->
+{% endcomment %}
+
+{% if include.pageContent contains '<style>' and include.pageContent contains '</style>' %}
+    {% assign page_style = include.pageContent | split: '<style>' | last | split: '</style>' | first %}
+    <style>
+        {{ page_style }}
+    </style>
+{% endif %}

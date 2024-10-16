@@ -1,33 +1,43 @@
 {% include path-variables.liquid %}
+{% include processed-content.liquid %}
+{% include content-without-style-tag.liquid pageContent=processedContent %}
 <!DOCTYPE html>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link href="{{ wwwRoot }}/style.css" rel="stylesheet" />
-<link href="{{ binRoot }}/fonts/fonts.css" rel="stylesheet" />
-<title>{{page.title}} | {{site.title}}</title>
-<link rel="icon" type="image/x-icon" href="{{ wwwRoot }}/favicon.ico" />
-<style>
-  .logo {
-    background-image: url('{{ imagesRoot }}/img/header.png');
-  }
-</style>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="{{ wwwRoot }}/style.css" rel="stylesheet" />
+    <link href="{{ binRoot }}/fonts/fonts.css" rel="stylesheet" />
+    <title>{{page.title}} | {{site.title}}</title>
+    <link rel="icon" type="image/x-icon" href="{{ wwwRoot }}/favicon.ico" />
+    <style>
+      .logo {
+        background-image: url('{{ imagesRoot }}/img/header.png');
+      }
+    </style>
 
+    {% include page-style-tag.liquid pageContent=processedContent %}
+  </head>
+
+  <body>
     <nav>
-  <div class="menu-toggle-btn">
-    <input type="checkbox" id="menu-toggle" />
-    <label for="menu-toggle">
-      <span class="menu-icon">&#8801;</span>
-      Menu
-    </label>
-  </div>
+      <div class="menu-toggle-btn">
+        <input type="checkbox" id="menu-toggle" />
+        <label for="menu-toggle">
+          <span class="menu-icon">&#8801;</span>
+          Index
+        </label>
+      </div>
+      
+      <header>
+        <a href="{{ wwwRoot }}/">
+          <h1 class="logo hide-text">Gothic Archive</h1>
+        </a>
+      </header>
 
-  <header>
-    <a href="{{ wwwRoot }}/">
-      <h1 class="logo hide-text">Gothic Archive</h1>
-    </a>
-  </header>
+      <div class="menu-index">{% include menu.html %}</div>
+    </nav>
 
-  <div class="menu-index">{% include menu.html %}</div>
-</nav>
-
-<main>{% include processed-content.liquid %} {{ processedContent }}</main>
+    <main>{{ contentWithoutStyleTag }}</main>
+  </body>
+</html>
