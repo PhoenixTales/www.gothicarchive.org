@@ -222,6 +222,7 @@ article h2, article h3 {
   font-size: 16px;
 }
 
+/*
 article h1::before {
   content: "# ";
 }
@@ -233,6 +234,7 @@ article h2::before {
 article h3::before {
   content: "### ";
 }
+*/
 
 article img {
   max-width: 100%;
