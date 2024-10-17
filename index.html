@@ -252,6 +252,10 @@ title: PhoenixTales
     bottom: -1px;
     left: -1px;
 
+    /* Makes it so the element expands as much as it needs, and if overflows the parent container it can only have a width of a parent container's width + the left and right borders, for it to perfectly overlay the parent container. */
+    width: max-content;
+    max-width: calc(100% + 2px);
+
     padding: 0.2em 0.6em;
     text-transform: uppercase;
     font-size: 10px;
