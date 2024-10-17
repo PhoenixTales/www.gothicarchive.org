@@ -326,6 +326,14 @@ and (max-width : 820px) {
     position: sticky;
   }
 
+  body:has(#menu-toggle:checked) label[for="menu-toggle"], label[for="menu-toggle"]:hover {
+    background-color: #14263e;
+  }
+
+  body:has(#menu-toggle:checked) label[for="menu-toggle"]:hover {
+    background-color: #14263ee1;
+  }
+
   body:has(#menu-toggle:checked) header {
     display: none;
   }
@@ -372,8 +380,9 @@ and (max-width : 820px) {
     cursor: pointer;  
     color: #ccb9a5; /* #c1784a; // old orange */
     background: #000000e0;
-    font-family: "Gothic_alpha_font";  
+    font-family: "Gothic_alpha_font";
     font-size: 18px;
+    transition: background-color 0.3ms ease-out;
   }
 
   label[for="menu-toggle"]::selection {
