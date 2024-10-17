@@ -388,7 +388,7 @@ and (max-width : 820px) {
     background: #000000e0;
     font-family: "Gothic_alpha_font";
     font-size: 18px;
-    transition: background-color 0.3ms ease-out;
+    transition: background-color 0.3s ease-out;
   }
 
   label[for="menu-toggle"]::selection {
