@@ -324,6 +324,7 @@ and (max-width : 820px) {
 
   body:has(#menu-toggle:checked) .menu-toggle-btn {
     position: sticky;
+    background: rgba(0, 0, 0, 0.4);
   }
 
   body:has(#menu-toggle:checked) label[for="menu-toggle"] {
