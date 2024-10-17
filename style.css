@@ -91,9 +91,6 @@ nav {
 
 header {
   padding: var(--header-padding-top) 0 var(--header-padding-bottom);
-}
-
-header a {
   display: flex;
   justify-content: center;
 }
