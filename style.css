@@ -185,8 +185,8 @@ footer {
     border: 1px solid #554b43;
   }
     .zip:hover {
-      border: 1px solid #9d5d47;
-      background-color: #9d5d47;
+      border: 1px solid #14263e; /* old orange #9d5d47; */
+      background-color: #14263e; /* old orange #9d5d47; */
       transition: all 0.3s ease-out;
     }
 
