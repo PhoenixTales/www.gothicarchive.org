@@ -1,7 +1,7 @@
 ---
 title: PhoenixTales
 ---
-<article class="index">
+<article>
 <div id="GraphicalRow">
   <figure>
     <a href="screenshots/orderedbytime/1998.html"><img src="{{ imagesRoot }}/img/1998.png" alt="Screenshots from 1998"></a>
@@ -198,7 +198,7 @@ title: PhoenixTales
     min-width: 380px;
   }
 
-  .index {
+  article {
     display: flex;
     max-width: none;
     margin: 0;
@@ -206,10 +206,10 @@ title: PhoenixTales
     padding-top: 36px;
     padding-bottom: 36px;
   }
-  .index img {
+  article img {
   	padding-top: 0;
   }
-  .index a:hover img {
+  article a:hover img {
     opacity: initial;
   }
 
@@ -249,7 +249,7 @@ title: PhoenixTales
   figcaption {
     position: absolute;
 
-    /*-1px to compensate the border */
+    /*-1px to offset the border */
     bottom: -1px;
     left: -1px;
 
@@ -264,12 +264,18 @@ title: PhoenixTales
     display: none;
   }
 
+  @media only screen and (max-width: 820px) {
+    article {
+      padding-bottom: 8px;
+  	}
+  }
+
   @media only screen and (max-width: 550px) {
     nav {
       min-width: initial;
     }
     
-  	.index {
+  	article {
       height: auto;
   	  flex-wrap: wrap;
   	}
