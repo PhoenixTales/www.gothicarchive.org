@@ -225,8 +225,8 @@ footer {
 /* Page content */
 
 article {
-  max-width: 600px;
-  padding: 5em 20px;
+  max-width: 650px;
+  padding: 30px;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6; 
@@ -240,14 +240,14 @@ article h1, article h2, article h3, article h4 {
   color: rgb(186, 168, 152);	
 }
 
-article h1 {
-  padding-top: 26px;
-}
-
-article h2, article h3 {
+article h2, article h3, article h4 {
   font-size: 16px;
 }
 
+article h3, article h4 {
+  padding-top: 1.5em;
+}
+	
 /*
 article h1::before {
   content: "# ";
