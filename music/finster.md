@@ -7,7 +7,7 @@ markdown: true
 
 ## by the Mad Scientists
 
-Extracted from the [Demo](/demos/finster/) by Bloody.  
+Extracted from the [Demo](/demos/finster/) by Bloody (17.09.2022).  
 Two files are missing(!):  
 * RELAX.CMF
 * ATMOS.CMF
