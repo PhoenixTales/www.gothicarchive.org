@@ -209,7 +209,8 @@ footer {
   }
     .zip:hover {
       /* border: 1px solid #9d5d47; */
-      background-color: #3c1e26; /* old orange #9d5d47; */
+      /* background-color: #9d5d47; */
+      color: #3c1e26;
       transition: all 0.3s ease-out;
     }
 
@@ -360,7 +361,8 @@ and (max-width : 820px) {
     }
     
     body:has(#menu-toggle:checked) label[for="menu-toggle"]:hover {
-      background-color: #14263ee1;
+      /* background-color: #14263ee1; */
+      color: #3c1e26;
     }
   }
 
