@@ -80,7 +80,7 @@ nav {
   overflow: auto;
   height: 100dvh;
   min-width: 400px;
-  padding-bottom: 70px;
+  padding-bottom: 25px;
 }
   nav img {
     max-width: 200px;
@@ -187,15 +187,14 @@ header a:hover .logo {
 /* Footer */
 
 footer {
-  margin: 3em 0em;
+  margin-top: 4em;
   text-align: center;
 }
 
   /* Download Archive */
 
   .download {
-    margin: 2em 4em 3em;
-    padding: 1em 0em 2em;
+    margin: 4em 3em;
   }
     .download h3 {
       letter-spacing: 0.2em;
@@ -219,7 +218,7 @@ footer {
     }
 
   .cr { font-size: 10px; }
-  .donate { margin: 3em 0 0em; }
+  .donate { margin-bottom: 3em; }
 
 
 /* Page content */
