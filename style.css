@@ -120,43 +120,66 @@ header a:hover .logo {
 
 /* Nav Tree View */
 
+.tree {
+  margin-left: 1em;
+}
+
 .tree,
 .tree ul {
-  margin: 0 0 0 1em;
   padding: 0;
-  list-style: none;
+}
+
+.tree ul {
+  margin-left: 0.1em
+}
+
+.tree li:before {
+  content: "";
+  width: 0;
+  position: absolute;
+  top: 0px;
+  height: 100%;
+  left: 0;
+  border-left: 1px solid;
+}
+
+.tree li:first-child:before {
+  top: 8px;
+  height: calc(100% - 8px);
+}
+
+.tree li:last-child:before {
+  height: 8px
+}
+
+.tree li:only-child:before {
+  display: none;
+}
+
+.tree li {
+  margin: 0;
+  padding: 0 1.5em;
   position: relative;
 }
-  .tree ul { margin-left: 0.1em }
-  .tree:before,
-  .tree ul:before {
-    content: "";
-    display: block;
-    width: 0;
-    position: absolute;
-    top: 8px;
-    bottom: 8px;
-    left: 0;
-    border-left: 1px solid;
-  }
-    .tree li {
-      margin: 0;
-      padding: 0 1.5em;
-      position: relative;
-    }
-      .tree li:before {
-        content: "";
-        display: block;
-        width: 7px;
-        height: 0;
-        border-top: 1px solid;
-        margin-top: -4px;
-        position: absolute;
-        top: 1em;
-        left: 0;
-      }
 
-  .notree { margin: 1.5em 0em 0em; }
+.tree li::after {
+  content: "";
+  width: 7px;
+  height: 0;
+  border-top: 1px solid;
+  margin-top: -4px;
+  position: absolute;
+  top: 1em;
+  left: 0;
+}
+
+.tree li:only-child::after {
+  display: none;
+}
+
+.notree {
+  margin-top: 1.5em;
+}
 
 
 /* Footer */
