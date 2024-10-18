@@ -79,7 +79,7 @@ nav {
   top: 0;
   overflow: auto;
   height: 100dvh;
-  min-width: 400px;
+  min-width: 360px;
   padding-bottom: 25px;
 }
   nav img {
