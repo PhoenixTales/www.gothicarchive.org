@@ -315,10 +315,6 @@ audio {
   border: 2px solid black;
 }
 
-nav::-webkit-scrollbar {
-  width: 10px;
-}
-
 /*****************/
 /* Mobile Layout */
 /*****************/
