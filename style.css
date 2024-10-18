@@ -40,6 +40,7 @@ ul {
 
 img {
   max-width: 100%;
+  display: block;
 }
 
 /* Base Links */
@@ -190,6 +191,11 @@ footer {
   margin-top: 5em;
   margin-bottom: 2.5em;
   text-align: center;
+  
+  /* Centers such elements as images */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
   /* Download Archive */
@@ -208,7 +214,7 @@ footer {
 
   .zip {
     margin: 1em;
-    padding: 1em 0em;
+    padding: 1em 1.5em;
     border: 1px solid #554b43;
   }
     .zip:hover {
@@ -226,7 +232,7 @@ footer {
 
 article {
   max-width: 650px;
-  padding: 30px;
+  padding: clamp(10px, -20.3704px + 3.7037vw, 30px);  /* Calculated by utopia - https://utopia.fyi/clamp/calculator?a=820,1360,10—30 */
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6; 
@@ -264,6 +270,10 @@ article h3::before {
 
 article img {
   height: 100%;
+}
+
+article img:not(:last-child) {
+  margin-bottom: 10px;;
 }
 
 article ul {
@@ -393,7 +403,7 @@ and (max-width : 820px) {
     top: 0;
     width: 100%;
     z-index: 10;
-    padding: 0.8em;
+    padding: 10px;
 
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
@@ -436,7 +446,7 @@ and (max-width : 820px) {
   }
 
   article {
-    padding: 0 8px 8px;
+    padding: 0 10px 10px;
     /* Center content, otherwise it will be aligned to left. */
     margin-right: auto;
     margin-left: auto;
