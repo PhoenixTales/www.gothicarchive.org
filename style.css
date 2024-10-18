@@ -22,6 +22,8 @@ body {
   --header-padding-top: 28px;
   --header-padding-bottom: 16px;
 
+  -webkit-tap-highlight-color: transparent; /* Disable blue highlight on chrome (mobile) */
+	
   margin: 0;
   min-height: 100dvh;
   display: flex;
