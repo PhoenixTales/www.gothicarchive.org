@@ -15,27 +15,27 @@ Two files are missing(!):
 
 ### .CMF                                         
 
-* [DEEP.mp3]({{ audioDir }}/CMF/DEEP.mp3)
-* [DEEPER.mp3]({{ audioDir }}/CMF/DEEPER.mp3)
-* [EVIL.mp3]({{ audioDir }}/CMF/EVIL.mp3)
-* [GHOSTS.mp3]({{ audioDir }}/CMF/GHOSTS.mp3)
-* [HISCORE.mp3]({{ audioDir }}/CMF/HISCORE.mp3)
-* [MYSTICA.mp3]({{ audioDir }}/CMF/MYSTICA.mp3)
-* [SNOW.mp3]({{ audioDir }}/CMF/SNOW.mp3)
-* [SPACE01.mp3]({{ audioDir }}/CMF/SPACE01.mp3)
-* [TRIUMPH.mp3]({{ audioDir }}/CMF/TRIUMPH.mp3)
-* [TWELVE.mp3]({{ audioDir }}/CMF/TWELVE.mp3)
-* [WALK.mp3]({{ audioDir }}/CMF/WALK.mp3)
-* [WALKING.mp3]({{ audioDir }}/CMF/WALKING.mp3)
+* [DEEP.mp3]({{ audioDir }}/finster/CMF/DEEP.mp3)
+* [DEEPER.mp3]({{ audioDir }}/finster/CMF/DEEPER.mp3)
+* [EVIL.mp3]({{ audioDir }}/finster/CMF/EVIL.mp3)
+* [GHOSTS.mp3]({{ audioDir }}/finster/CMF/GHOSTS.mp3)
+* [HISCORE.mp3]({{ audioDir }}/finster/CMF/HISCORE.mp3)
+* [MYSTICA.mp3]({{ audioDir }}/finster/CMF/MYSTICA.mp3)
+* [SNOW.mp3]({{ audioDir }}/finster/CMF/SNOW.mp3)
+* [SPACE01.mp3]({{ audioDir }}/finster/CMF/SPACE01.mp3)
+* [TRIUMPH.mp3]({{ audioDir }}/finster/CMF/TRIUMPH.mp3)
+* [TWELVE.mp3]({{ audioDir }}/finster/CMF/TWELVE.mp3)
+* [WALK.mp3]({{ audioDir }}/finster/CMF/WALK.mp3)
+* [WALKING.mp3]({{ audioDir }}/finster/CMF/WALKING.mp3)
 
 
 ### .MOD 
 
-* [BASEKICK.mp3]({{ audioDir }}/MOD/BASEKICK.mp3)
-* [INTRO01.mp3]({{ audioDir }}/MOD/INTRO01.mp3)
-* [LIV1ED2.mp3]({{ audioDir }}/MOD/LIV1ED2.mp3)
-* [LIVTIME3.mp3]({{ audioDir }}/MOD/LIVTIME3.mp3)
-* [SPACE01.mp3]({{ audioDir }}/MOD/SPACE01.mp3)
+* [BASEKICK.mp3]({{ audioDir }}/finster/MOD/BASEKICK.mp3)
+* [INTRO01.mp3]({{ audioDir }}/finster/MOD/INTRO01.mp3)
+* [LIV1ED2.mp3]({{ audioDir }}/finster/MOD/LIV1ED2.mp3)
+* [LIVTIME3.mp3]({{ audioDir }}/finster/MOD/LIVTIME3.mp3)
+* [SPACE01.mp3]({{ audioDir }}/finster/MOD/SPACE01.mp3)
 
 
 
