@@ -199,6 +199,8 @@ footer {
       letter-spacing: 0.2em;
       font-size: 11px;
       color: #baa898;
+      /* ToDo: Give it a background like the menu, set it over the upper border */
+      /* margin-bottom: -20px; -> this will set it directly in the middle of the border */
     }
       .bang { color: #a9655c; }
 
