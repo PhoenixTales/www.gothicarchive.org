@@ -187,7 +187,8 @@ header a:hover .logo {
 /* Footer */
 
 footer {
-  margin-top: 4em;
+  margin-top: 5em;
+  margin-bottom: 2.5em;
   text-align: center;
 }
 
