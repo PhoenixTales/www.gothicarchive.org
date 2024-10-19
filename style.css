@@ -202,25 +202,50 @@ footer {
   .download {
     margin: 4em 3em;
   }
-    .download h3 {
-      letter-spacing: 0.2em;
-      font-size: 11px;
-      color: #baa898;
-      /* ToDo: Give it a background like the menu, set it over the upper border */
-      /* margin-bottom: -20px; -> this will set it directly in the middle of the border */
-    }
-      .bang { color: #a9655c; }
+
+  .download-fieldset {
+    position: relative;
+    margin: 1em;
+    border: 1px solid #554b43;
+    border-top: none;
+    font-size: 11px;
+  }
+
+  .download-fieldset::before,
+  .download-fieldset::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    border-top: 1px solid #554b43;
+    width: calc(50% - 8ch); /* "- 8ch", because the half size of the [download] is 5 letters, so I added 3 more just to offset it a bit more.  */
+    background-color: #554b43;
+  }
+  .download-fieldset::before {
+    left: 0;
+  }
+  .download-fieldset::after {
+    right: 0;
+  }
+  
+  .download h3 {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translate(calc(-50% + 0.1em), -125%); /* "+ 0.1em" to compensate the increased letter spacing. */
+    letter-spacing: 0.2em;
+    color: #baa898;
+    font-size: inherit; /* If font size needs to be changed, set it rather for .download-fieldset, this way the offset for the pseudo elements will adjusted to it, and will look harmonic. */
+  }
+  .bang { color: #a9655c; }
 
   .zip {
-    margin: 1em;
-    padding: 1em 1.5em;
-    border: 1px solid #554b43;
+    padding: 1.5em 2em;
+    margin: 0;
+    transition: all 0.3s ease-out;
+    font-size: 12px;
   }
     .zip:hover {
-      /* border: 1px solid #9d5d47; */
-      /* background-color: #9d5d47; */
       color: #9c5a4b;
-      transition: all 0.3s ease-out;
     }
 
   .cr { font-size: 10px; }
