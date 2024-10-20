@@ -10,11 +10,11 @@ markdown: true
 Document                                                                | Filename                | Date
 ------------------------------------------------------------------------|-------------------------|-------------------------
 [Story v3.3]({{ binDir }}/phoenix/Story3.3ckjb_draft.pdf)               | Story3.3ckjb_draft.doc  | 21.11.1995 - 24.05.1999
-[Phoenix Pitch]({{ binDir }}/phoenix/PhoenixPitch.pdf)                  | PhoenixPitch.pdf        | unknown, scanned
-[Phoenix Concept Fragments]({{ binDir }}/phoenix/PhoenixConcept.pdf)    | PhoenixConcept.pdf      | unknown, scanned
-[Phoenix Animations]({{ binDir }}/phoenix/PhoenixAnimations.pdf)        | PhoenixAnimations.pdf   | unknown, scanned
-[Phoenix Interface]({{ binDir }}/phoenix/PhoenixInterface.pdf)          | PhoenixInterface.pdf    | unknown, scanned
-[Phoenix Main Missions]({{ binDir }}/phoenix/PhoenixHauptmissionen.pdf) | Hauptmissionen_alle.doc | unknown, scanned
+[Phoenix Pitch]({{ binDir }}/phoenix/PhoenixPitch.pdf)                  | PhoenixPitch.pdf        | unknown, scanned by GameStar
+[Phoenix Concept Fragments]({{ binDir }}/phoenix/PhoenixConcept.pdf)    | PhoenixConcept.pdf      | unknown, scanned by us
+[Phoenix Animations]({{ binDir }}/phoenix/PhoenixAnimations.pdf)        | PhoenixAnimations.pdf   | unknown, scanned by us
+[Phoenix Interface]({{ binDir }}/phoenix/PhoenixInterface.pdf)          | PhoenixInterface.pdf    | unknown, scanned by us
+[Phoenix Main Missions]({{ binDir }}/phoenix/PhoenixHauptmissionen.pdf) | Hauptmissionen_alle.doc | 17.07.2000 - 17.09.2000
 
 
 Incomplete collection of Phoenix documents written from 1997 to 07.1999.
@@ -48,6 +48,14 @@ Incomplete collection of Phoenix documents written from 1997 to 07.1999.
     max-width: 100%;
     padding-right: 20px;
     padding-left: 20px;
+  }
+
+  article p {
+    max-width: 700px;
+  }
+
+  article img {
+    max-width: 700px;
   }
 
   article table {

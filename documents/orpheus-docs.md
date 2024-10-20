@@ -43,6 +43,14 @@ Document                                                            | Filename  
     padding-left: 20px;
   }
 
+  article p {
+    max-width: 700px;
+  }
+
+  article img {
+    max-width: 700px;
+  }
+
   article table {
     border-collapse: collapse;
     margin: 0 auto;
