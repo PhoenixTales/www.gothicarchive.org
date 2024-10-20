@@ -106,20 +106,22 @@ E-3     | [Technical]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E3_Tec
 </style>
 
 <script>
-  const table = document.querySelector("article table");
-  table.classList.add("js");
-  const rows = Array.from(table.querySelectorAll("tr"));
-  for(let row of rows) {
-    const isMissing = row.querySelector("del") != null;
-    if (isMissing) {
-      row.classList.add("missing");
-      continue;
+  const tables = document.querySelector("article table");
+    for(let table of tables) {
+    table.classList.add("js");
+    const rows = Array.from(table.querySelectorAll("tr"));
+    for(let row of rows) {
+      const isMissing = row.querySelector("del") != null;
+      if (isMissing) {
+        row.classList.add("missing");
+        continue;
+      }
+      const link = row.querySelector("a[href]");
+      if (link == null) {
+        continue;
+      }
+      row.classList.add("link");
+      row.addEventListener("click", () => link.click());
     }
-    const link = row.querySelector("a[href]");
-    if (link == null) {
-      continue;
-    }
-    row.classList.add("link");
-    row.addEventListener("click", () => link.click());
   }
 </script>
