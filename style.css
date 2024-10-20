@@ -336,6 +336,11 @@ article video {
   height: auto;
 }
 
+article figure {
+  margin: 0;
+  padding: 0;
+}
+
 article figcaption {
   font-size: 14px;
   border: 1px solid #706961; 
