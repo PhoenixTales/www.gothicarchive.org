@@ -208,7 +208,7 @@ footer {
     margin: 1em;
     border: 1px solid #554b43;
     border-top: none;
-    font-size: 11px;
+    font-size: 16px;
   }
 
   .download-fieldset::before,
@@ -217,7 +217,7 @@ footer {
     position: absolute;
     top: 0;
     border-top: 1px solid #554b43;
-    width: calc(50% - 8ch); /* "- 8ch", because the half size of the [download] is 5 letters, so I added 3 more just to offset it a bit more.  */
+    width: calc(50% - 6ch - 0.1em); /* "- 6ch - 0.1em" is to offset them from the text and also compensate the letter spacing set for h3.  */
     background-color: #554b43;
   }
   .download-fieldset::before {
@@ -231,15 +231,34 @@ footer {
     position: absolute;
     left: 50%;
     top: 0;
-    transform: translate(calc(-50% + 0.1em), -125%); /* "+ 0.1em" to compensate the increased letter spacing. */
+    transform: translate(calc(-50% + 0.1em), -50%); /* "+ 0.1em" to compensate the increased letter spacing. */
+    margin: 0;
     letter-spacing: 0.2em;
+    line-height: 1;
     color: #baa898;
     font-size: inherit; /* If font size needs to be changed, set it rather for .download-fieldset, this way the offset for the pseudo elements will adjusted to it, and will look harmonic. */
   }
+  .download h3::before,
+  .download h3::after {
+    line-height: 1;
+    position: absolute;
+    color: #554b43;
+  }
+  .download h3::before {
+    content: '[';
+    left: 0.05em; /* Small adjustments, due to browsers inconsistent rendering of fractional lengths. */
+    transform: translateX(-100%);
+  }
+  .download h3::after {
+    content: ']';
+    right: 0.05em; /* Small adjustments, due to browsers inconsistent rendering of fractional lengths. */
+    transform: translateX(100%);
+  }
+
   .bang { color: #a9655c; }
 
   .zip {
-    padding: 1.5em 2em;
+    padding: 1.8em 2.3em;
     margin: 0;
     transition: all 0.3s ease-out;
     font-size: 12px;
