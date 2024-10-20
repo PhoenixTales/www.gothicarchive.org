@@ -79,6 +79,7 @@ nav {
   position: sticky;
   top: 0;
   overflow: auto;
+  flex-shrink: 0;
   height: 100dvh;
   min-width: 360px;
   padding-bottom: 25px;
