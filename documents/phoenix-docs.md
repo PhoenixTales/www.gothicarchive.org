@@ -106,7 +106,7 @@ E-3     | [Technical]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E3_Tec
 </style>
 
 <script>
-  const tables = document.querySelector("article table");
+  const tables = Array.from(document.querySelector("article table"));
     for(let table of tables) {
     table.classList.add("js");
     const rows = Array.from(table.querySelectorAll("tr"));
