@@ -39,6 +39,7 @@ E-3     | [Technical]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E3_Tec
 
 <style>
   article {
+    display: grid;
     padding-bottom: 50px;
     max-width: 100%;
     padding-right: 20px;
@@ -46,14 +47,7 @@ E-3     | [Technical]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E3_Tec
   }
 
   article p, article img {
-    max-width: 650px;
-  }
-
-  @media only screen
-  and (max-width : 820px) {
-      article p, article img {
-        max-width: 100%;
-      }
+    width: min(100%, 650px);
   }
 
   article table {
