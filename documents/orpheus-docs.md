@@ -3,11 +3,11 @@ title: Orpheus Docs
 markdown: true
 ---
 
-![Orpheus Title Sketch by Mike]({{ imagesRoot }}/documents/orpheus/orpheus.jpg)
-
 # Orpheus Documents
 
 ## by Mike Hoge
+
+![Orpheus Title Sketch by Mike]({{ imagesRoot }}/documents/orpheus/orpheus.jpg)
 
 All of these documents, most of them handwritten, were part of the folders we received from Mike and were digitised by us. We thus cannot say when these documents were written precisely. But they all have been written in ~1995-1996. 
 
