@@ -28,13 +28,11 @@ Document                                                            | Filename  
 
 ### Transcripts
 
-* [NPCs per Guild]({{ absLinkBase }}/orpheus/NSCsPerGuild) (Flosha)
+* [NPCs per Guild]({{ absLinkBase }}/documents/orpheus/NSCsPerGuild) (Flosha)
 
 
 <!--<img class="cover" src="{{ mediaLinkBase }}/orpheus/orpheus-2.jpg" alt="Orpheus Aufzeichnungen">-->
 
-
-</article>
 
 <style>
   article {
