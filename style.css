@@ -336,6 +336,13 @@ article video {
   height: auto;
 }
 
+article figcaption {
+  font-size: 14px;
+  border: 1px solid #706961; 
+  margin: 0.5em 1.5em 3em;
+  padding: 1em;
+}
+
 article .edgar {
   max-width: 92px;
 }
