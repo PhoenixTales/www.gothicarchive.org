@@ -11,7 +11,7 @@ markdown: true
 
 All of these documents, most of them handwritten, were part of the folders we received from Mike and were digitised by us. We thus cannot say when these documents were written precisely. But they all have been written in ~1995-1996. 
 
-Document                                                            | Filename                | Size
+Document                                                            | File name               | Size
 --------------------------------------------------------------------|-------------------------|---------
 ~~Zusammenfassung zum Orpheus Konzeot~~                             | (lost)                  | - 
 [Konzept Fragment: Graphiken]({{ mediaLinkBase }}/orpheus/OrpheusConceptSummary.pdf) | ConceptSummary.pdf | 12.2 MB

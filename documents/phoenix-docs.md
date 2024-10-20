@@ -7,7 +7,7 @@ markdown: true
 
 # Phoenix Documents
 
-Document                                                                | Filename                | Date
+Document                                                                | File name               | Date
 ------------------------------------------------------------------------|-------------------------|-------------------------
 [Story v3.3]({{ binDir }}/phoenix/Story3.3ckjb_draft.pdf)               | Story3.3ckjb_draft.doc  | 21.11.1995 - 24.05.1999
 [Phoenix Pitch]({{ binDir }}/phoenix/PhoenixPitch.pdf)                  | PhoenixPitch.pdf        | unknown, scanned by GameStar
