@@ -1,3 +1,9 @@
+---
+title: NPCs per Guild
+markdown: true
+---
+
+
 # NPCs per Guild
 
 ++++++++++++  
@@ -11,6 +17,7 @@ transcript by flosha
 Keine eigentliche Gilde. Vielmehr ein Sammelbecken aller NPCs im 
 Alten Lager, die zu keiner "richtigen" Gilde gehören.  
 
+```
 ca. 50 Leute:  
 
 7 Bettler	    ->	manchmal gute Informanten, ansonst. bedauernswert & 
@@ -41,10 +48,11 @@ ca. 50 Leute:
 
 4 Kesselflicker ->	Tagelöhner-Deluxe; sind auch in der Lage
 			        handwerkliche Arbeiten auszuführen
-
+```
 
 ## Die Schatten
 
+```
 15 Leute:  
 
 1 "Der Unsichtbare"		->	fast niemandem bekannter Anführer
@@ -69,10 +77,11 @@ ca. 50 Leute:
 
 1 der Kontakter			-> 	rekrutiert neue Schatten und ist 
 							Lehrmeister (5)
-
+```
 
 ## Söldner
 
+```
 32 Leute:  
 
 1 Söldnerhauptmann		->	Anführer; Speichellecker der EBa
@@ -109,10 +118,11 @@ ca. 50 Leute:
 			=> 	trotz heftigen Abstreitens unterscheiden 
 				sich die Söldner in ihrer Struktur nur 
 				wenig von den Orks !!
-
+```
 
 ## Erzbarone
 
+```
 10 Leute:  
 
 - "The Big Boss"		->	(6)
@@ -120,16 +130,17 @@ ca. 50 Leute:
 - "The Teacher"			-> 	Lehrmeister (5)
 - Söldnerbaron			->	paßt auf die Söldner auf (3)
 - "Außenminister"		->	leitet Spionage/Intrigen gegen andere Lager;
-	ehem. Spitzel												 	(4)
+									ehem. Spitzel (4)
 - Jungbaron				->	der Neue (1)
 - Schattenbaron			-> 	paßt auf die Schatten auf (3)
 - Karawanenführer		-> 	wickelt Außenwelthandel ab (2)
 - "Die Linke Hand"		-> 	die beiden engsten Vertrauten &
 - "Die Rechte Hand"			Leibwächter des "Big Boss" (5)
-
+```
 
 ## Kreis des Feuers
 
+```
 6 Leute:  
 
 - "Meister des Feuers"	->	Anführer & Schüler des Dämonenbeschw.
@@ -138,15 +149,16 @@ ca. 50 Leute:
 - der Erzbeschaffer		-> 	ist für den Erzpulvervorrat zuständ. 
 							-> Auftrag an SCs		       (3)
 - der Lehrling			-> 	Lernender (1)
-- der Geselle 			-> 	" 		 (2)
+- der Geselle 			-> 	" 		  (2)
 - der Wanderer			-> 	"Außendienstmitarbeiter" erforscht die 
 							Dungeons -> Auftrag Eskorte (4) 
 							-> hat kein Geld, da Geld = Erznuggets und Erznuggets -> Pulver = Reagenzien
    							(bekommt außerdem weltliche Güter von EBa)
-
+```
 
 ## Die Organisatoren
 
+```
 10 Leute:  
 
 1 "das Oberhaupt"		->	Meisterorganisator; übertrifft alle anderen;
@@ -169,10 +181,11 @@ ca. 50 Leute:
 							sind noch in der Ausbildung (2)
 
 1 "Der Prophet"			->	Spion der im alten Lager den "Propheten" spielt 
-
+```
 
 ## Die Bauern			
 
+```
 25 Leute:  
 
 1 der Gutsherr			-> 	sehr stämmiger, kriegerisch wirkender Anführer,
@@ -197,10 +210,11 @@ ca. 50 Leute:
 							dem Gutsherrn als Leibwächter dient; allerdings
 							ist er reichlich naiv und kann leicht ausge-
 							trickst werden (5); er ist ein sehr guter Kämpfer
-
+```
 
 ## Kreis des Wassers
 
+```
 6 Leute:  
 
 - "Meister des Wassers"		->	Oberster Heilmagier; einziger Wiederbeleber
@@ -221,10 +235,11 @@ ca. 50 Leute:
 - Geselle					->	Lernender (2)
 
 - Lehrling					->	" (1)
-
+```
 
 ## Die Garde				
 
+```
 24 Leute:  
 
 1x	"der Lord-Protektor"	->	oberster Gardist; Auftraggeber; etwas 
@@ -251,10 +266,11 @@ ca. 50 Leute:
 4x Knappen					->	arme, herumgescheuchte Dienerschaft 
 								der Garde; Gardisten-Nachwuchs;
 								träumen immerzu vom Aufstieg zum Gardisten (1)
-
+```
 
 ## Die Fallensteller
 
+```
 ca. 20 Leute:  
 
 1x "Chief"				->	oberster Fallensteller; Mitglied der "Meister";
@@ -278,10 +294,11 @@ ca. 20 Leute:
 
 10x Läufer				->	Allzweck-Leute mit bescheidenen Bogen-/Fallen-
 							fertigkeiten
-
+```
 
 ## Der Schürferbund
 
+```
 20 Leute:  
 
 1x der Mineninspektor	->	ehemaliger Aufseher, der sich immer für die 
@@ -308,10 +325,11 @@ ca. 20 Leute:
 
 5x Träger				->	Tragen Erz von A nach B; Laufburschen 
 							und Mädchen für alles (1)
-
+```
 
 ## Die Gurus 
 
+```
 5 Leute:  
 
 - "der Erleuchtete"		->	mächtigster Guru (6); keiner in der Sekte wagt, an 
@@ -335,11 +353,13 @@ ca. 20 Leute:
 - "der Rächer"			-> 	ein ehemaliger Templer, der zum Guru aufgestiegen
 							ist; kümmert sich um die Templer; unterrichtet SC-Templer 
 							in PSI-Künsten und Waffen (3)
-
+```
 
 ## Die Novizen			
+
 [ehemals Tempeldiener]  
 
+```
 15 Leute  		
 
 1x "der Eingeweihte"	->	höchster Novize & Anwärter auf die Guru-Schaft;
@@ -366,10 +386,11 @@ ca. 20 Leute:
 
 3x Jünger				->	die "Lehrlinge" unter den Novizen; lernen und 
 							sind ansonst. Mädchen für alles (1)
-
+```
 
 # Die Templer 		
 
+```
 15 Leute  
 
 1x der Ehrenwerte		->	erfahrenster Templer; extrem gefährlicher Kämpfer 
@@ -390,3 +411,4 @@ ca. 20 Leute:
 3x erster Orden			->	bessere Kämpfer/Wächter (3)
 
 5x zweiter Orden		->	standard Kämpfer/Wächter (2)
+```
