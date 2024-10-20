@@ -14,40 +14,39 @@ transcript by flosha
 
 ## Das Volk
 
-Keine eigentliche Gilde. Vielmehr ein Sammelbecken aller NPCs im 
-Alten Lager, die zu keiner "richtigen" Gilde gehören.  
+Keine eigentliche Gilde. Vielmehr ein Sammelbecken aller NPCs im Alten Lager, die zu keiner "richtigen" Gilde gehören.  
 
 ```
 ca. 50 Leute:  
 
-7 Bettler	    ->	manchmal gute Informanten, ansonst. bedauernswert & 
+7 Bettler       ->	manchmal gute Informanten, ansonst. bedauernswert & 
                     machtlos; ungefährlicher als eine Landratte (1); manchmal 
                     verrückt; lunatic; sleepwalker
 
-12 Tagelöhner 	->	verrichten schwere Arbeiten wie Bauen, Tragen & 
+12 Tagelöhner   ->  verrichten schwere Arbeiten wie Bauen, Tragen & 
                     Graben; hängen sonst auch nur herum; stark (2)
 
 8 Ganoven	    ->	wenn selbst die Schatten keine Lust haben, kommen 
                     diese ins Spiel; sie machen wirklich alles für Geld (4),
                     nehmen gern Neuankömmlinge aus
 
-8 Krämer/Hehler	->	"ernsthafte" und "seriöse" Händler (3) die sich ihrer
-			        Haut (und Waren) zu wehren wissen; heuern gelegent. 
-			        Ganoven & Schläger an
+8 Krämer/Hehler -> "ernsthafte" und "seriöse" Händler (3) die sich ihrer
+                   Haut (und Waren) zu wehren wissen; heuern gelegent. 
+                   Ganoven & Schläger an
 
-8 Schläger	    ->	sind mal nicht genügend Söldner zur Hand,
-			        greifen die EBa auf diese zurück (5); auch
-			        Krämer brauchen Schläger; oft betrunken
+8 Schläger      -> sind mal nicht genügend Söldner zur Hand,
+                   greifen die EBa auf diese zurück (5); auch
+                   Krämer brauchen Schläger; oft betrunken
 
-3 Ausgebrannte	->	komplett wahnsinnige oder dauerhaft am Rande des
-			        Wahnsinns befindliche Seelenkrüppel; Ausschuß der
-			        Psi-Sekte, der im AL "entsorgt" wurde
+3 Ausgebrannte  -> komplett wahnsinnige oder dauerhaft am Rande des
+                   Wahnsinns befindliche Seelenkrüppel; Ausschuß der
+                   Psi-Sekte, der im AL "entsorgt" wurde
 
-(1) Der Prophet ->	verwirrter Marktschreier, der pausenlos unsinnige
-                    Lehren predigt (-> in Wirklichkeit Spion der Org)
+(1) Der Prophet -> verwirrter Marktschreier, der pausenlos unsinnige
+                   Lehren predigt (-> in Wirklichkeit Spion der Org)
 
-4 Kesselflicker ->	Tagelöhner-Deluxe; sind auch in der Lage
-			        handwerkliche Arbeiten auszuführen
+4 Kesselflicker -> Tagelöhner-Deluxe; sind auch in der Lage
+                   handwerkliche Arbeiten auszuführen
 ```
 
 ## Die Schatten
@@ -55,28 +54,27 @@ ca. 50 Leute:
 ```
 15 Leute:  
 
-1 "Der Unsichtbare"		->	fast niemandem bekannter Anführer
-							der Schatten (6)
+1 "Der Unsichtbare" -> fast niemandem bekannter Anführer
+                       der Schatten (6)
 
-1 der Assassine			->	Spezialist für schwierige 
-							Fälle (6) und 2. Schatten
+1 der Assassine     -> Spezialist für schwierige 
+                       Fälle (6) und 2. Schatten
 
-3 Meuchler				->	fähige Schatten für Routinearbeiten 
-							(4)
+3 Meuchler          -> fähige Schatten für Routinearbeiten (4)
 
-1 "das Ohr"				-> 	Meisterspion, spezialisiert auf 
-						   	Infobeschaffung; Auftraggeber (5)
+1 "das Ohr"         -> Meisterspion, spezialisiert auf 
+                       Infobeschaffung; Auftraggeber (5)
 
-4 Spitzel				->	halten die Stt/EBa über lagerinterne
-							Vorgänge auf dem Laufenden (2)/(3)
+4 Spitzel           -> halten die Stt/EBa über lagerinterne
+                       Vorgänge auf dem Laufenden (2)/(3)
 
-3 Spione				->	Spitzel-Deluxe; Undercover-Leute 
-							je 1 für NL, FL, Sekte (4)
+3 Spione            -> Spitzel-Deluxe; Undercover-Leute 
+                       je 1 für NL, FL, Sekte (4)
 
-1 Bote					->	Laufbursche der Gilde (1)
+1 Bote              -> Laufbursche der Gilde (1)
 
-1 der Kontakter			-> 	rekrutiert neue Schatten und ist 
-							Lehrmeister (5)
+1 der Kontakter     -> rekrutiert neue Schatten und ist 
+                       Lehrmeister (5)
 ```
 
 ## Söldner
@@ -84,40 +82,39 @@ ca. 50 Leute:
 ```
 32 Leute:  
 
-1 Söldnerhauptmann		->	Anführer; Speichellecker der EBa
-		-> EBA				will unbedingt EBa werden (6)
+1 Söldnerhauptmann  -> Anführer; Speichellecker der EBa
+       -> EBA          will unbedingt EBa werden (6)
 
-1 Arenameister			-> 	hat die Arenakämpfe & Wetten in 
-							der Hand; korrupt und hinterhältig (5)
+1 Arenameister      -> hat die Arenakämpfe & Wetten in 
+                       der Hand; korrupt und hinterhältig (5)
 
-1 "der Einäugige"		-> 	sehr erfahrener Kämpfer, der  
-							die meisten "Außeneinsätze" leitet
-							hart aber gerecht
+1 "der Einäugige"   -> sehr erfahrener Kämpfer, der  
+                       die meisten "Außeneinsätze" leitet
+                       hart aber gerecht
 
-1 der Leutnant			->	eitler Emporkömmling, der sich 
-							um alle Wachen kümmern muß (4)
+1 der Leutnant      -> eitler Emporkömmling, der sich 
+                       um alle Wachen kümmern muß (4)
 
-3 Gladiatoren			->	Arenakämpfer (2) (3) (4)
+3 Gladiatoren       -> Arenakämpfer (2) (3) (4)
 
-12 Lagertorwachen		-> 	bewachen in 3 Schichten à 2 Mann [?] 
-							die beiden Außentore des Lagers 
-							(2)
+12 Lagertorwachen   -> bewachen in 3 Schichten à 2 Mann [?] 
+                       die beiden Außentore des Lagers (2)
 
-6 Portalwachen			->	bewachen in 3 Schichten à 2 Mann [?]
-							das Tor zum Korn (3)
+6 Portalwachen      -> bewachen in 3 Schichten à 2 Mann [?]
+                       das Tor zum Korn (3)
 
-6 Palastwachen			->	dito, aber die Tor des 
-							Gildenhauses der EBa (4)
+6 Palastwachen      -> dito, aber die Tor des 
+                       Gildenhauses der EBa (4)
 
-1 Schleifer				-> 	erbarmungsloser, sadistischer
-							Ausbilder der Söldner (5)
+1 Schleifer         -> erbarmungsloser, sadistischer
+                       Ausbilder der Söldner (5)
 
 -> 	Hierarchie ist etwas militärisch angehaucht; trotzdem wird Disziplin nur
 	durch rohe Gewalt erzwungen 
 			
-			=> 	trotz heftigen Abstreitens unterscheiden 
-				sich die Söldner in ihrer Struktur nur 
-				wenig von den Orks !!
+             => trotz heftigen Abstreitens unterscheiden 
+                sich die Söldner in ihrer Struktur nur 
+                wenig von den Orks !!
 ```
 
 ## Erzbarone
@@ -125,17 +122,16 @@ ca. 50 Leute:
 ```
 10 Leute:  
 
-- "The Big Boss"		->	(6)
-- Schatzmeister			-> 	führt Verteilung der Güter durch (4)
-- "The Teacher"			-> 	Lehrmeister (5)
-- Söldnerbaron			->	paßt auf die Söldner auf (3)
-- "Außenminister"		->	leitet Spionage/Intrigen gegen andere Lager;
-									ehem. Spitzel (4)
-- Jungbaron				->	der Neue (1)
-- Schattenbaron			-> 	paßt auf die Schatten auf (3)
-- Karawanenführer		-> 	wickelt Außenwelthandel ab (2)
-- "Die Linke Hand"		-> 	die beiden engsten Vertrauten &
-- "Die Rechte Hand"			Leibwächter des "Big Boss" (5)
+- "The Big Boss"     ->	(6)
+- Schatzmeister      -> führt Verteilung der Güter durch (4)
+- "The Teacher"      -> Lehrmeister (5)
+- Söldnerbaron       -> paßt auf die Söldner auf (3)
+- "Außenminister"    -> leitet Spionage/Intrigen gegen andere Lager;                      
+- Jungbaron          -> der Neue (1)                  ehem. Spitzel (4)
+- Schattenbaron      -> paßt auf die Schatten auf (3)
+- Karawanenführer    -> wickelt Außenwelthandel ab (2)
+- "Die Linke Hand"   -> die beiden engsten Vertrauten &
+- "Die Rechte Hand"         Leibwächter des "Big Boss" (5)
 ```
 
 ## Kreis des Feuers
@@ -143,17 +139,16 @@ ca. 50 Leute:
 ```
 6 Leute:  
 
-- "Meister des Feuers"	->	Anführer & Schüler des Dämonenbeschw.
-- "Behüter des Kreises"	->	Lehrmeister & 2. Alchemist,
-							Vergibt Aufträge (5)
-- der Erzbeschaffer		-> 	ist für den Erzpulvervorrat zuständ. 
-							-> Auftrag an SCs		       (3)
-- der Lehrling			-> 	Lernender (1)
-- der Geselle 			-> 	" 		  (2)
-- der Wanderer			-> 	"Außendienstmitarbeiter" erforscht die 
-							Dungeons -> Auftrag Eskorte (4) 
-							-> hat kein Geld, da Geld = Erznuggets und Erznuggets -> Pulver = Reagenzien
-   							(bekommt außerdem weltliche Güter von EBa)
+- "Meister des Feuers"  -> Anführer & Schüler des Dämonenbeschw.
+- "Behüter des Kreises" -> Lehrmeister & 2. Alchemist,
+                           Vergibt Aufträge (5)
+- der Erzbeschaffer     -> ist für den Erzpulvervorrat zuständ. 
+                             -> Auftrag an SCs          (3)
+- der Lehrling          -> Lernender (1)
+- der Geselle           -> "         (2)
+- der Wanderer          -> "Außendienstmitarbeiter" erforscht die 
+                           Dungeons -> Auftrag Eskorte (4) 
+                        -> hat kein Geld, da Geld = Erznuggets und Erznuggets -> Pulver = Reagenzien (bekommt außerdem weltliche Güter von EBa)
 ```
 
 ## Die Organisatoren
@@ -388,7 +383,7 @@ ca. 20 Leute:
 							sind ansonst. Mädchen für alles (1)
 ```
 
-# Die Templer 		
+## Die Templer 		
 
 ```
 15 Leute  
