@@ -36,6 +36,7 @@ Document                                                            | File name 
 
 <style>
   article {
+    display: grid;
     padding-bottom: 50px;
     max-width: 100%;
     padding-right: 20px;
@@ -43,14 +44,7 @@ Document                                                            | File name 
   }
 
   article p, article img {
-    max-width: 650px;
-  }
-
-  @media only screen
-  and (max-width : 820px) {
-      article p, article img {
-        max-width: 100%;
-      }
+    width: min(100%, 650px);
   }
 
   article table {
