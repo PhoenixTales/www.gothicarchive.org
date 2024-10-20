@@ -43,19 +43,21 @@ Incomplete collection of Phoenix documents written from 1997 to 07.1999.
 
 <style>
   article {
-   padding-bottom: 50px;
-   display: grid;
+    padding-bottom: 50px;
     max-width: 100%;
     padding-right: 20px;
     padding-left: 20px;
   }
 
-  article p {
-    max-width: 700px;
+  article p, article img {
+    max-width: 650px;
   }
 
-  article img {
-    max-width: 700px;
+  @media only screen
+  and (max-width : 820px) {
+      article p, article img {
+        max-width: 100%;
+      }
   }
 
   article table {
@@ -69,7 +71,7 @@ Incomplete collection of Phoenix documents written from 1997 to 07.1999.
 
   article td, 
   article th {
-    border: 1px solid currentColor;
+    border: 1px solid #222222;
     padding: 2px 10px;
   }
 
