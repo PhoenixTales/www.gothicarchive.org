@@ -342,7 +342,9 @@ article figure {
 }
 
 article figcaption {
-  font-size: 14px;
+  font-size: 13px;
+  font-family: monospace;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   border: 1px solid #222222; 
   margin: 0.5em 2em 3em;
