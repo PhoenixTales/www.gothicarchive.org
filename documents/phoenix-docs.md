@@ -27,14 +27,14 @@ B-1     | [Attributes, Talents, Actions]({{ binDir }}/phoenix/PhoenixDokumentati
 B-2     | [Combat]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_B2_Combat.pdf)                                         | `Phoenix_B2_Combat.doc`                   | Mike   | 18.07.1999
 B-3     | [Magic]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_B3_Magic.pdf)                                           | `Phoenix_B3_Magic.doc`                    | Alex   | 18.07.1999
 B-4     | [Learning]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_B4_Learning.pdf)                                     | `Phoenix_B4_Learning.doc`                 | Mike   | 06.07.1999
-C-1     | [~~AI~~]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_C1_AI.pdf)                                             | ~~`Phoenix_C1_AI.doc`~~                   | Mike   | file lost
+C-1     | ~~AI~~                                                                                                              | ~~`Phoenix_C1_AI.doc`~~                   | Mike   | file lost
 C-2     | [Monsters]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_C2_Monsters.pdf)                                     | `Phoenix_C2_Monsters.doc`                 | Alex   | 18.07.1999
-D-1     | [~~Story & Background~~]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_D1_Story.pdf)                          | ~~`Phoenix_D1_Story.doc`~~                | Mike   | file lost
+D-1     | ~~Story & Background~~                                                                                              | ~~`Phoenix_D1_Story.doc`~~                | Mike   | file lost
 D-2     | [Tactical Elements]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_D2_TacticalElements.pdf)                    | `Phoenix_D2_TacticalElements.doc`         | Mike   | 28.06.1999
 E-1     | [Menu UI]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E1_MenuUI.pdf)                                        | `Phoenix_E1_MenuUI.doc`                   | Alex   | 21.07.1999
 E-2     | [Effects]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E2_Effects.pdf)                                       | `Phoenix_E2_Effects.doc`                  | Kai    | 13.07.1999
 E-3     | [Technical]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E3_Technical.pdf)                                   | `Phoenix_E3_Technical.doc`                | Stefan | 06.07.1999
----     | [Reference Items]({{ binDir }}/phoenix/PhoenixDokumentationen/Referenz_Items.pdf)                                   | `Referenz_Items.doc`                      | Mario  | 07.07.1999
+???     | [Reference Items]({{ binDir }}/phoenix/PhoenixDokumentationen/Referenz_Items.pdf)                                   | `Referenz_Items.doc`                      | Mario  | 07.07.1999
 
 
 <style>
