@@ -55,7 +55,7 @@ Document                                                            | Filename  
 
   article table {
     border-collapse: collapse;
-    margin: 0 auto;
+    margin: 0 auto 2em;
     max-width: 90vw;
     display: block;
     overflow-x: auto;
@@ -64,7 +64,7 @@ Document                                                            | Filename  
 
   article td, 
   article th {
-    border: 1px solid #222222;
+    border: 1px solid;
     padding: 2px 10px;
   }
 
