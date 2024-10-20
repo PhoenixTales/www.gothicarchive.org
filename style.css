@@ -343,9 +343,10 @@ article figure {
 
 article figcaption {
   font-size: 14px;
+  text-transform: uppercase;
   border: 1px solid #222222; 
-  margin: 0.5em 1.5em 3em;
-  padding: 1em;
+  margin: 0.5em 2em 3em;
+  padding: 0.5em;
 }
 
 article .edgar {
