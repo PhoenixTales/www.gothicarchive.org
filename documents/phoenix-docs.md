@@ -3,9 +3,9 @@ title: Phoenix Docs
 markdown: true
 ---
 
-![Phoenix Pitch Logo]({{ imagesRoot }}/documents/phoenix/phoenix-dark.jpg)
-
 # Phoenix Documents
+
+![Phoenix Pitch Logo]({{ imagesRoot }}/documents/phoenix/phoenix-dark.jpg)
 
 Document                                                                | File name               | Date
 ------------------------------------------------------------------------|-------------------------|-------------------------
