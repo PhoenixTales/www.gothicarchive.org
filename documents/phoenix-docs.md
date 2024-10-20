@@ -19,7 +19,7 @@ Document                                                                | File n
 
 Incomplete collection of Phoenix documents written from 1997 to 07.1999.
 
-Chapter | Topic                                                                                                               | File name                                 | Author | Date 
+Chapter | Topic                                                                                                               | File name                                 | Author | Date
 --------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------|------------
 A-1     | [Leveldesign]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_A1_Leveldesign.pdf)                               | `Phoenix_A1_Leveldesign.doc`              | Mike   | 20.07.1999
 A-2     | [Items, Objects, Events]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_A2_ItemsObjectsEvents.pdf)             | `Phoenix_A2_ItemsObjectsEvents.doc`       | Mario  | 12.07.1999
@@ -34,7 +34,7 @@ D-2     | [Tactical Elements]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoeni
 E-1     | [Menu UI]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E1_MenuUI.pdf)                                        | `Phoenix_E1_MenuUI.doc`                   | Alex   | 21.07.1999
 E-2     | [Effects]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E2_Effects.pdf)                                       | `Phoenix_E2_Effects.doc`                  | Kai    | 13.07.1999
 E-3     | [Technical]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E3_Technical.pdf)                                   | `Phoenix_E3_Technical.doc`                | Stefan | 06.07.1999
-???     | [Reference Items]({{ binDir }}/phoenix/PhoenixDokumentationen/Referenz_Items.pdf)                                   | `Referenz_Items.doc`                      | Mario  | 07.07.1999
+---     | [Reference Items]({{ binDir }}/phoenix/PhoenixDokumentationen/Referenz_Items.pdf)                                   | `Referenz_Items.doc`                      | Mario  | 07.07.1999
 
 
 <style>
