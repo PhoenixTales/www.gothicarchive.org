@@ -208,7 +208,7 @@ footer {
     margin: 1em;
     border: 1px solid #554b43;
     border-top: none;
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .download-fieldset::before,
@@ -258,7 +258,7 @@ footer {
   .bang { color: #a9655c; }
 
   .zip {
-    padding: 1.8em 2.3em;
+    padding: 1.6em 2.1em;
     margin: 0;
     transition: all 0.3s ease-out;
     font-size: 12px;
