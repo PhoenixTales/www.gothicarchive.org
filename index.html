@@ -215,27 +215,27 @@ title: PhoenixTales
     gap: 6px;
   }
 
-  figure {
+  article figure {
     overflow: clip; /* clip the element in case a browser not precisely renders a border of figcaption. This can occur when zooming, and a border can overflow very subtly, which is relatively noticeable. */
   	margin: 0;
   	padding: 0;
     position: relative;
   }
-  figure a {
+  article figure a {
     height: 100%;
     display: block;
   }
-  figure img { width: 100%; }
+  article figure img { width: 100%; }
 
-  figure, figcaption {
+  article figure, figcaption {
     border: 1px solid #222222;
     transition: border-color .4s ease-in-out;
   }
-  figure:hover, figure:hover figcaption {
+  article figure:hover, figure:hover figcaption {
     border: 1px solid #706961;
   }
 
-  figcaption {
+  article figcaption {
     position: absolute;
 
     /*-1px to offset the border */
