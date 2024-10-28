@@ -1,0 +1,170 @@
+<!doctype html>
+<meta charset="UTF-8">
+<title>GOTHIC ARCHIVE: Page not found</title>
+<style>:root { background:#000 }</style>
+<link rel="manifest" href="config/manifest.json">
+<link rel="icon" href="nyx.ico">
+<link rel="apple-touch-icon" href="favicon.ico">
+<meta name="color-scheme" content="dark">   
+<meta name="theme-color" content="#000">   
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, shrink-to-fit=yes" />
+
+<a href="main"><img class="splash-image" src="https://images.gothicarchive.org/artworks/sleepermask/mask4.jpg"></a>
+
+<div class="command-line">
+    <p>A:\&gt; GOTHIC ARCHIVE</p>
+    <br>
+    <p>404.
+    <p>Page or file couldn't be found.</p>
+    <br>
+    <p>The link you followed may be outdated.</p>
+    <p>
+        <a href="/">Visit the Gothic Archive</a><br>
+        <a href="https://discord.gg/5uHcsEJ44h" target="_blank">report the problem to Phoenix Tales</a>
+    </p>
+</div>
+
+<div class="error-message">
+    <h1>404</h1>
+    <h2>Page or file couldn't be found.</h2>
+</div>
+
+<style>
+    * {
+        margin: 0;
+        box-sizing: border-box;
+        user-select: none;
+        overflow: hidden;
+        -webkit-user-drag: none;
+        image-rendering: pixelated;
+    }
+
+	body {
+        display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100vh;
+
+        font-family: "IBM VGA 8x16", monospace;
+        color: #aaa;
+	}
+
+  .error-message {
+    position: absolute;
+    bottom: 100px;
+    font-family: "Gothic Alpha";
+  }
+    error-message h1 {
+      font-size: 30px;
+    }
+    error-message h2 {
+      font-size: 20px;
+    }
+      
+    nav {
+        position: absolute;
+        width: 200px;
+        top: 0;
+        left: 0;
+        flex: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    nav img {
+        margin: 0;
+        padding: 0;
+    }
+
+    .enter {
+        position: absolute;
+        bottom: 2em;
+        left: 2em;
+        padding-top: 1em;
+        font-family: "Gothic Alpha";
+        font-size: 20px;
+        line-height: 2em;
+        opacity: 0;
+        animation: navi-blend 2s steps(40, end) forwards;
+        -webkit-user-select: none;
+        user-select: none;
+        animation-delay: 3s;
+    }
+        @keyframes navi-blend {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+    .splash-image {
+        min-height: 80vh;
+        max-width: 100%;
+        opacity: 0;
+        object-fit: contain;
+        animation: blend-in 4s steps(25, end) forwards;
+        animation-delay: 1s;
+    }
+
+    @keyframes blend-in {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @keyframes type {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @keyframes blink {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+
+    ul {
+        padding: 0;
+        margin: 0;
+    }
+
+    a {
+        color: #96574f;
+        /*color: #A1BA40;*/
+        text-decoration: none;
+    }
+
+    a:hover {
+       /* text-decoration: underline; */
+       color: #dba37b;
+    }
+</style>
+
+<style>
+	@font-face {
+		font-family: "IBM VGA 8x16";
+		src: url("assets/fonts/ibm-vga/ibm-vga-8x16.woff") format('woff');
+		font-weight: normal;
+		font-style: normal;
+		font-display: block;
+        font-size: 16px;
+	}
+
+    @font-face{
+        font-family: "Gothic Alpha";
+        src: url("assets/fonts/Gothic_alpha_font.ttf") format("truetype");
+    }
+</style>
