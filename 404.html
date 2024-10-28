@@ -8,6 +8,7 @@
 <meta name="color-scheme" content="dark">   
 <meta name="theme-color" content="#000">   
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, shrink-to-fit=yes" />
+<link href="{{ binRoot }}/fonts/fonts.css" rel="stylesheet" />
 
 <div class="message">
     <h1>Error 404</h1>
@@ -18,6 +19,8 @@
 	    <li><a href="https://discord.gg/5uHcsEJ44h" target="_blank">Report the problem</a></li>
     </ul>
 </div>
+
+<img class="logo" src="https://images.gothicarchive.org/refs/heads/main/img/logos/gothicarchive-404.png">
 
 <img class="splash-image" src="https://images.gothicarchive.org/artworks/sleepermask/mike-mask-1c.jpeg">
 
@@ -44,8 +47,8 @@
   .message {
     position: absolute;
     z-index: 10;
-    top: 50px;
-    left: 50px;
+    top: 30px;
+    text-align: center;
   }
 
     .message h1, .message h2 {
@@ -55,26 +58,34 @@
     }
 
     .message h1 {
-      color: ##FF0033;
-      font-size: 80px;
+      color: #FF0033;
+      font-size: 60px;
       margin-bottom: 10px;
     }
     .message h2 {
       font-size: 30px;
       margin-bottom: 50px;
     }
-   
+
+
+    .logo {
+       object-fit: contain;
+       min-height: 
+    }
+
+	
     .splash-image {
 	position: absolute;
+	bottom: 0;
 	right: 0;
-        min-height: 70vh;
+        min-height: 60vh;
         max-width: 100%;
         object-fit: contain;
 	z-index: 1;
     }
 
     ul {
-        padding: 1em;
+        padding: 0;
         margin: 0;
 	font-family: monospace;
         font-size: 23px;
