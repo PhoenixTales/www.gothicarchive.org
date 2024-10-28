@@ -9,11 +9,14 @@
 <meta name="theme-color" content="#000">   
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, shrink-to-fit=yes" />
 
-<img class="splash-image" src="https://images.gothicarchive.org/artworks/sleepermask/mask4.jpg">
-
-<div class="error-message">
+<div class="message top">
     <h1>404</h1>
     <h2>Page or file couldn't be found</h2>
+</div>
+
+<img class="splash-image" src="https://images.gothicarchive.org/artworks/sleepermask/mask4.jpg">
+
+<div class="message bottom">
     <h2><a href="/">Back to the Gothic Archive</a></h2>
     <h3>Report the problem <a href="https://discord.gg/5uHcsEJ44h" target="_blank">to Phoenix Tales</a></h3>
 </div>
@@ -37,21 +40,27 @@
       font-family: "IBM VGA 8x16", monospace;
       color: #aaa;
     }
-	
-  .error-message {
+
+  .message {
     position: absolute;
-    bottom: 100px;
     font-family: "Gothic_alpha_font";
     color: rgb(186, 168, 152);
     text-align: center;
   }
-    .error-message h1 {
-      color: #9a5050;
+
+  .top {
+    top: 100px;
+  }
+	
+  .bottom {
+    bottom: 100px;
+  }
+    .message h1 {
       font-size: 80px;
       letter-spacing: 10px;
       margin-bottom: 10px;
     }
-    .error-message h2 {
+    .message h2 {
       font-size: 30px;
       margin-bottom: 10px;
     }
