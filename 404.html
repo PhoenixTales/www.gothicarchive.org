@@ -10,10 +10,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover, shrink-to-fit=yes" />
 
 <div class="message">
-    <h1>404</h1>
+    <h1>Error 404</h1>
     <h2>Page or file couldn't be found</h2>
-    <h2><a href="/">Back to the Gothic Archive</a></h2>
-    <h2><a href="https://discord.gg/5uHcsEJ44h" target="_blank">Report the problem</a></h2>
+
+    <ul>
+	    <li><a href="/">Back to the Gothic Archive</a></li>
+	    <li><a href="https://discord.gg/5uHcsEJ44h" target="_blank">Report the problem</a></li>
+    </ul>
 </div>
 
 <img class="splash-image" src="https://images.gothicarchive.org/artworks/sleepermask/mike-mask-1c.jpeg">
@@ -43,8 +46,8 @@
     font-family: "Gothic_alpha_font";
     color: rgb(186, 168, 152);
     z-index: 10;
-    top: 100px;
-    left: 100px;
+    top: 50px;
+    left: 50px;
   }
 
     .message h1, .message h2 {
@@ -54,17 +57,13 @@
     .message h1 {
       color: ##FF0033;
       font-size: 80px;
-      letter-spacing: 10px;
       margin-bottom: 10px;
     }
     .message h2 {
       font-size: 30px;
-      margin-bottom: 10px;
+      margin-bottom: 20px;
     }
-    .message h2 a {
-      font-family: monospace;
-    }
-      
+   
     .splash-image {
 	position: absolute;
 	right: 0;
@@ -77,6 +76,8 @@
     ul {
         padding: 0;
         margin: 0;
+	font-family: monospace;
+        font-size: 23px;
     }
 
     a {
