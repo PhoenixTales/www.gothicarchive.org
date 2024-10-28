@@ -1,6 +1,6 @@
 <!doctype html>
 <meta charset="UTF-8">
-<title>GOTHIC ARCHIVE: Page not found</title>
+<title>Page not found | Gothic Archive</title>
 <style>:root { background:#000 }</style>
 <link rel="manifest" href="config/manifest.json">
 <link rel="icon" href="nyx.ico">
@@ -39,23 +39,47 @@
         image-rendering: pixelated;
     }
 
-	body {
-        display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 100vh;
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
 
-        font-family: "IBM VGA 8x16", monospace;
-        color: #aaa;
-	}
+      font-family: "IBM VGA 8x16", monospace;
+      color: #aaa;
+    }
 
+
+    .command-line {
+        padding: 1rem;
+	font-size: 12px;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        top: 0;
+    }
+
+    .command-line p {
+        padding: 0 0 0.1em;
+        margin: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        opacity: 0;
+        user-select: none;
+    }
+
+    .command-line ul {
+        margin: 1em 0;
+    }
+	
   .error-message {
     position: absolute;
     bottom: 100px;
-    font-family: "Gothic Alpha";
+    font-family: "Gothic_alpha_font";
   }
     error-message h1 {
-      font-size: 30px;
+      font-size: 50px;
+      margin-bottom: 10px;
     }
     error-message h2 {
       font-size: 20px;
@@ -76,63 +100,12 @@
         padding: 0;
     }
 
-    .enter {
-        position: absolute;
-        bottom: 2em;
-        left: 2em;
-        padding-top: 1em;
-        font-family: "Gothic Alpha";
-        font-size: 20px;
-        line-height: 2em;
-        opacity: 0;
-        animation: navi-blend 2s steps(40, end) forwards;
-        -webkit-user-select: none;
-        user-select: none;
-        animation-delay: 3s;
-    }
-        @keyframes navi-blend {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-
+ 
     .splash-image {
         min-height: 80vh;
         max-width: 100%;
         opacity: 0;
         object-fit: contain;
-        animation: blend-in 4s steps(25, end) forwards;
-        animation-delay: 1s;
-    }
-
-    @keyframes blend-in {
-        0% {
-            opacity: 0;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
-
-    @keyframes type {
-        0% {
-            opacity: 0;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
-
-    @keyframes blink {
-        from {
-            opacity: 0;
-        }
-        to {
-            opacity: 1;
-        }
     }
 
 
@@ -153,18 +126,3 @@
     }
 </style>
 
-<style>
-	@font-face {
-		font-family: "IBM VGA 8x16";
-		src: url("assets/fonts/ibm-vga/ibm-vga-8x16.woff") format('woff');
-		font-weight: normal;
-		font-style: normal;
-		font-display: block;
-        font-size: 16px;
-	}
-
-    @font-face{
-        font-family: "Gothic Alpha";
-        src: url("assets/fonts/Gothic_alpha_font.ttf") format("truetype");
-    }
-</style>
