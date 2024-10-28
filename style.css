@@ -284,12 +284,15 @@ article h1, article h2, article h3, article h4 {
 
 article h2, article h3, article h4 {
   font-size: 16px;
+}
+
+article h3, article h4 {
   padding-top: 2em;
 }
 
 /* for the first h2 header in the docs, often containing the author etc. */
 article h2:not(:first-of-type) {
-  padding-top: 0;
+  padding-top: 2em;
 }
 	
 /*
