@@ -297,8 +297,8 @@ article img {
   height: 100%;
 }
 
-article img:not(:last-child) {
-  margin-bottom: 10px;;
+article img + img {
+  margin-top: 10px;
 }
 
 article ul {
