@@ -107,7 +107,7 @@ header a:hover .logo {
   margin: 0;
 }
 
-.menu-wrapper, #menu-toggle  {
+.menu-bar, #menu-toggle  {
   display: none;
 }
 
@@ -390,7 +390,7 @@ and (max-width : 820px) {
     background: rgba(0, 0, 0, 0.9);
   }
 
-  body:has(#menu-toggle:checked) .menu-wrapper {
+  body:has(#menu-toggle:checked) .menu-bar {
     position: sticky;
     background: rgba(0, 0, 0, 0.9);
   }
@@ -428,7 +428,7 @@ and (max-width : 820px) {
     padding: 0;
   }
 
-  .menu-wrapper {
+  .menu-bar {
     display: block;
     position: fixed;
     left: 0;
