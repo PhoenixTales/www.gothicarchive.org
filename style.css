@@ -418,18 +418,15 @@ and (max-width : 820px) {
   }
 
   body:has(#menu-toggle:checked) label[for="menu-toggle"] {
-    /* background-color: #14263e; */
     color: #9c5a4b;
   }
   
-  @media (hover: hover) {
+  @media (hover: hover) and (pointer: fine) {
     label[for="menu-toggle"]:hover {
-      /* background-color: #14263e; */
       color: #9c5a4b;
     }
     
     body:has(#menu-toggle:checked) label[for="menu-toggle"]:hover {
-      /* background-color: #14263ee1; */
       color: #9c5a4b;
     }
   }
@@ -446,7 +443,8 @@ and (max-width : 820px) {
     position: initial;
     min-width: initial;
     height: initial;
-    overflow: initial; /* Having this set to "initial", makes it so the scroll position will be restored when the mobile navigation is opened again, otherwise it is reset each time the .main-nav is closed. (For some reason) */
+    /* Having overflow set to "initial", makes it so the scroll position will be restored when the mobile navigation is opened again, otherwise it is reset each time the .main-nav is closed. (For some reason) */
+    overflow: initial;
     width: 100%;
     z-index: 10;
     padding: 0;
