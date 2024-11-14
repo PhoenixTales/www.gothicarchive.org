@@ -205,44 +205,28 @@ footer {
   }
 
   .download-fieldset {
-    position: relative;
-    margin: 1em;
-    border: 1px solid #554b43;
-    border-top: none;
-    font-size: 11px;
-  }
-
-  .download-fieldset::before,
-  .download-fieldset::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    border-top: 1px solid #554b43;
-    width: calc(50% - 7ch);
-    background-color: #554b43;
-  }
-  .download-fieldset::before {
-    left: 0;
-  }
-  .download-fieldset::after {
-    right: 0;
+    padding: 0;
+    border-color: #464646;
+    width: fit-content;
   }
   
-  .download h3 {
-    position: absolute;
-    left: 50%;
-    top: 0;
-    transform: translate(calc(-50% + 0.1em), -50%); /* "+ 0.1em" to compensate the increased letter spacing. */
-    margin: 0;
-    letter-spacing: 0.2em;
+  .download-fieldset legend {
     line-height: 1;
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    padding: 0 10px;
+    text-align: center;
     color: #baa898;
-    font-size: inherit; /* If font size needs to be changed, set it rather for .download-fieldset, this way the offset for the pseudo elements will adjusted to it, and will look harmonic. */
   }
-
+  
+  .download-fieldset a {
+    display: block;
+  }
+  
   .bang { color: #a9655c; }
 
   .zip {
+    text-align: center;
     padding: 1.6em 2.1em;
     margin: 0;
     transition: all 0.3s ease-out;
