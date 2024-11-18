@@ -43,6 +43,10 @@ img {
   display: block;
 }
 
+audio {
+  margin: 1em auto 1em;
+}
+
 /* Base Links */
 
 a:link { color: #ac876d; }
@@ -329,8 +333,11 @@ article .edgar {
   max-width: 92px;
 }
 
-audio {
-  margin: 1em auto 1em;
+.card-links {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 10px;
 }
 
 
