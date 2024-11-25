@@ -23,7 +23,7 @@ Document                                                            | File name 
 [Werdegang eines SC's]({{ binDir }}/orpheus/OrpheusProgression.pdf) | PlayerProgression.pdf   | 6.0 MB
 [Gildensystem V1]({{ binDir }}/orpheus/OrpheusGuilds-V1.pdf)        | OrpheusGuilds-V1.pdf    | 12.5 MB
 [Gildensystem V2]({{ binDir }}/orpheus/OrpheusGuilds-V2.pdf)        | OrpheusGuilds-V2.pdf    | 26 MB
-[NPCs per Guild]({{ binDir }}/phoenix/PhoenixNSCsPerGuild.pdf)      | NSCsPerGuild.pdf        | 8 MB
+[NPCs per Guild]({{ binDir }}/orpheus/OrpheusNSCsPerGuild.pdf)      | NSCsPerGuild.pdf        | 8 MB
 
 
 ### Transcripts
