@@ -329,8 +329,15 @@ article figcaption {
   padding: 0.5em;
 }
 
-article .edgar {
-  max-width: 92px;
+.images-row {
+  padding-block: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.images-row img {
+  margin: 0;
 }
 
 .card-links {
