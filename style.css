@@ -47,6 +47,13 @@ audio {
   margin: 1em auto 1em;
 }
 
+code {
+  overflow-x: auto;
+  display: block;
+  border: 1px solid #252525;
+  padding: 1em;
+}
+
 /* Base Links */
 
 a:link { color: #ac876d; }
@@ -254,6 +261,10 @@ footer {
 
 /* Page content */
 
+main {
+  overflow: hidden;
+}
+
 article {
   max-width: 650px;
   padding: clamp(10px, -20.3704px + 3.7037vw, 30px);  /* Calculated by utopia - https://utopia.fyi/clamp/calculator?a=820,1360,10—30 */
@@ -441,7 +452,8 @@ and (max-width : 820px) {
     position: initial;
     min-width: initial;
     height: initial;
-    /* Having overflow set to "initial", makes it so the scroll position will be restored when the mobile navigation is opened again, otherwise it is reset each time the .main-nav is closed. (For some reason) */
+    /* Having overflow set to "initial", makes it so the scroll position will be restored when the mobile navigation is opened again, otherwise it is reset each time the .main {
+    overflow: hidden;}-nav is closed. (For some reason) */
     overflow: initial;
     width: 100%;
     z-index: 10;

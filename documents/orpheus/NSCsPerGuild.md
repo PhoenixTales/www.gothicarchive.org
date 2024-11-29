@@ -3,6 +3,12 @@ title: NPCs per Guild
 markdown: true
 ---
 
+<style>
+	article {
+		max-width: initial;
+	}
+</style>
+
 
 # NPCs per Guild
 
