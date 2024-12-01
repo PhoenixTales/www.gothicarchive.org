@@ -248,11 +248,13 @@ footer {
     }
 
   .cr { font-size: 10px; }
-  .donate { margin-bottom: 3em; }
-  .libera {
-    aspect-ratio: 11/5;
-    width: 66px;
+
+  .donate {
+    margin-bottom: 3em;
+    font-size: 14px;
+    font-weight: 800;
   }
+
   .phoenix-tales-logo {
     aspect-ratio: 12/17;
     width: 200px;
