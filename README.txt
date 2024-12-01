@@ -54,11 +54,11 @@
     | and Gothic enthusiasts from Ger- |  
     | many, Russia, Poland & Czechia.  |  
   +-+----------------------------------+  
-  | We list everything we know about, |  
-  | - for the sake of completeness -, |  
-  | but some of it is unavailable due |  
-  | to copyright. It's marked w/ [c]. |  
-  +-+--------------------------------++  
+  | We list everything we know about,  |  
+  | - for the sake of completeness -,  |  
+  | but some of it is unavailable due  |  
+  | to copyright. It's marked w/ [c].  |  
+  +-+--------------------------------+-+  
     | None of the materials included |  
     | in this archive other than the |  
     | website itself and its design  |  
@@ -78,8 +78,11 @@
   | contribution into the changelog - |
   | including your name - to make it  |
   | easier for us to review. Thanks.  |
-  +-----------------------------------+
-  
+  +-+------------------------------+--+
+    | Alternately or additionally, |
+    | you can make a donation:     |
+    | https://ko-fi.com/flosha     |
+    +------------------------------+
   
                [ Download ]  
   
