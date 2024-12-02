@@ -56,13 +56,13 @@ code {
 
 /* Base Links */
 
-a { color: #ac876d; }
-a:hover { color: #e4d7cc; }
-
 a {
+  color: #ac876d;
   text-decoration: none;
   transition: all 0.3s ease-out;
 }
+a:hover { color: #e4d7cc; }
+
 
 /* Base Image Hover */
 
