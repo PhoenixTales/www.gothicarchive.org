@@ -56,12 +56,10 @@ code {
 
 /* Base Links */
 
-a:link { color: #ac876d; }
-a:visited { color: #ac876d; }
-a:active { color: #505a53; }
+a { color: #ac876d; }
 a:hover { color: #e4d7cc; }
 
-a, a:link, a:active, a:visited {
+a {
   text-decoration: none;
   transition: all 0.3s ease-out;
 }
@@ -122,8 +120,8 @@ header a:hover .logo {
 
 .anniversary a:link { color:#c1784a; }
 .anniversary a:visited { color: #ac876d; }
-.anniversary a:active { color: #505a53; }
 .anniversary a:hover { color: #e4d7cc; }
+.anniversary a:active { color: #505a53; }
 
 /* Nav Tree View */
 
