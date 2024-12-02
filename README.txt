@@ -53,12 +53,12 @@
     | since 1997 by former Gothic devs |  
     | and Gothic enthusiasts from Ger- |  
     | many, Russia, Poland & Czechia.  |  
-  +-+----------------------------------+  
-  | We list everything we know about,  |  
-  | - for the sake of completeness -,  |  
-  | but some of it is unavailable due  |  
-  | to copyright. It's marked w/ [c].  |  
-  +-+--------------------------------+-+  
+  +-+---------------------------------++  
+  | We list everything we know about, |  
+  | - for the sake of completeness -, |  
+  | but some of it is unavailable due |  
+  | to copyright. It's marked w/ [c]. |  
+  +-+--------------------------------++  
     | None of the materials included |  
     | in this archive other than the |  
     | website itself and its design  |  
