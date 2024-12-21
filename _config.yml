@@ -7,8 +7,6 @@ includes_dir: ./_templates
 kramdown:
   input: GFM
 permalink: /:year/:month/:day/:title
-include:
-  - "_img"
 exclude: [ media, vendor ]
 defaults:
   -
