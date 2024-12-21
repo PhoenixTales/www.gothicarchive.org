@@ -72,6 +72,12 @@ a img {
 }
   a:hover img { opacity: 0.6; }
 
+/* Base Scrollbar */
+
+* {
+  scrollbar-color: #424242 hsl(0, 0%, 3%);
+}
+
 /* UTILITY */
 
 .hide-text {
@@ -359,37 +365,6 @@ article figcaption {
   gap: 10px;
 }
 
-
-/* Scrollbar */
-
-@supports not selector(::-webkit-scrollbar) {
-  * {
-    scrollbar-color: #424242 rgba(0 0 0 / 70%);
-  }
-
-  nav {
-    scrollbar-width: thin;
-  }
-}
-
-*::-webkit-scrollbar {
-  width: 12px;
-  height: 12px;
-  background: #101010;
-}
-
-*::-webkit-scrollbar-track-piece {
-  background-color: rgba(0 0 0 / 70%);
-}
-
-*::-webkit-scrollbar-track {
-  background: #101010;
-}
-
-*::-webkit-scrollbar-thumb {
-  background-color: #424242;
-  border: 2px solid black;
-}
 
 /*****************/
 /* Mobile Layout */
