@@ -1,0 +1,51 @@
+h1 { font-family:Arial; font-size:16pt; color:#000000; font-weight:900 }
+
+a:link { font-family:Arial; font-size:10pt; color:#000000; font-weight:500; }
+a:visited { font-family:Arial; font-size:10pt; color:#000000; font-weight:500; }
+a:hover { font-family:Arial; font-size:10pt; color:#bbbbbb; font-weight:500; }
+
+body { margin-left:0px; margin-top:0px; background-color:#A3A1AB; background-repeat:no-repeat; background-attachment:fixed; }
+
+BODY {
+
+scrollbar-face-color:#F8F7FB;
+
+scrollbar-highlight-color:#F8F7FB;
+
+scrollbar-3dlight-color:#555555;
+
+scrollbar-darkshadow-color:#555555;
+
+scrollbar-shadow-color:#F8F7FB;
+
+scrollbar-arrow-color:#555555;
+
+scrollbar-track-color:#b3b1bB;
+
+}
+
+p { font-family:Arial; font-size:10pt; color:#000000; font-weight:100; text-decoration:none }
+p.test { font-family:Arial; font-size:10pt; color:#e6e6e7; font-weight:100; text-decoration:none }
+h2 { font-family:Arial; font-size:12pt; color:#000000; font-weight:900; text-decoration:none }
+h3 { font-family:Arial; font-size:36pt; color:#ffffff; font-weight:900; text-decoration:none; line-height:75% }
+
+table { position:relative; top:10%; padding-left:20px; padding-right:20px }
+
+img { border-style:solid; border-color:black }
+
+p.menu { font-family:Arial; font-size:10pt; color:#333333; font-weight:100; text-decoration:none }
+p.active { font-family:Arial; font-size:10pt; color:#8899EE; font-weight:900; text-decoration:none }
+
+a.menu:link { font-family:Arial; font-size:12pt; color:#555555; font-weight:900; text-decoration:none; font-stretch:ultra-expanded}
+a.menu:visited { font-family:Arial; font-size:12pt; color:#555555; font-weight:900; text-decoration:none; font-stretch:ultra-expanded }
+a.menu:active { font-family:Arial; font-size:12pt; color:#F8F7FB; font-weight:900; text-decoration:none; background-color:#53515B; }
+a.menu:hover { font-family:Arial; font-size:12pt; color:#ffffff; font-weight:900; text-decoration:none; }
+
+a.select:link { font-family:Arial; font-size:12pt; color:#F8F7FB; font-weight:900; text-decoration:none; font-stretch:ultra-expanded}
+a.select:visited { font-family:Arial; font-size:12pt; color:#F8F7FB; font-weight:900; text-decoration:none; font-stretch:ultra-expanded }
+a.select:active { font-family:Arial; font-size:12pt; color:#F8F7FB; font-weight:900; text-decoration:none }
+a.select:hover { font-family:Arial; font-size:12pt; color:#F8F7FB; font-weight:900; text-decoration:none }
+
+a.small:link { font-family:Arial; font-size:7pt; color:#333333; font-weight:900; }
+a.small:visited { font-family:Arial; font-size:7pt; color:#555555; font-weight:900; }
+a.small:hover { font-family:Arial; font-size:7pt; color:#888888; font-weight:900; }
