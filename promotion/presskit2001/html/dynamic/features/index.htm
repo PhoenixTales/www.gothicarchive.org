@@ -1,63 +1,13 @@
+---
+layout: raw
+---
 <html>
 <head>
 <title>Gothic - The Game - Features Langfassung</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="stylesheet" href="../../static/style.css">
 </head>
-<script language="JavaScript">
-<!--
-
-/* ---------------dhtml/Browser-Notation-----------*/
-
-  if (document.all)
-  {
-    ebene="document.all.";
-    stil=".style."
-  }
-  else
-  {
-    ebene="document.layers.";
-    stil="."
-  }
-
-/* ---------------Bewegt die Textebene-----------*/
-
-  var startPosTBM=0,schicht=0,eMov=-6
-
-
-  function moveUpM()
-  {
-    eval(ebene+'rahmen'+stil+'top=startPosTBM');
-
-    if(startPosTBM > -750)
-      startPosTBM += eMov;
-
-    timer1=setTimeout("moveUpM()",70);
-  }
-
-
-
-  function moveDownM()
-  {
-    eval(ebene+'rahmen'+stil+'top=startPosTBM');
-
-    if(startPosTBM < 10)
-      startPosTBM -= eMov;
-
-    timer1=setTimeout("moveDownM()",70);
-  }
-
-
-
-  function sprung(punkt,weite)
-  {
-    eval(ebene+'rahmen'+stil+'top=punkt');
-    startPosTBM=weite;
-  }
-
-//-->
-</script>
-<body background="../../static/images/bg/bg_3.jpg">
+<body background="{{ imagesDir }}/../../static/images/bg/bg_3.jpg">
 <div id="rahmen" style="position:absolute; width:300px; height:400px; z-index:1; left: 10px; top: 0px"> 
   <table width="300" border="0" cellspacing="0" cellpadding="0">
     <tr> 
@@ -66,7 +16,7 @@
     <tr> 
       <td class="headline">Features: Langfassung</td>
     <tr> 
-      <td><img src="{{ mediaLinkBase }}/../../l.gif" width="1" height="25"></td>
+      <td><img src="{{ imagesDir }}/../../l.gif" width="1" height="25"></td>
     </tr>
     <tr> 
       <td>-Action-Roleplaying Game mit gro�er Handlungsfreiheit: Der Spieler kann 
@@ -136,8 +86,47 @@
     </tr>
   </table>
 </div>
-<div id="hoch" style="position:absolute; width:50px; height:49px; z-index:2; left: 330px; top: 40px"><a href="#" onmouseover="moveDownM();" onmouseout="clearTimeout(timer1);" ondblclick="sprung(100,0)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_hoch.gif" width="40" height="40" border="0"></a></div>
-<div id="runter" style="position:absolute; left:330px; top:100px; width:50px; height:49px; z-index:3"><a href="#" onMouseOver="moveUpM();" onMouseOut="clearTimeout(timer1)" onDblClick="sprung(-750,-750)"><img src="{{ mediaLinkBase }}/../../static/images/pfeil_runter.gif" width="40" height="40" border="0"></a></div>
-<div id="hauptmenue" style="position:absolute; width:126px; height:23px; z-index:1; left: 610px; top: 530px; visibility: visible"><a href="../../start.htm"><img src="{{ mediaLinkBase }}/../../static/images/haupt.gif" width="126" height="23" border="0"></a></div>
+<div id="hoch" style="position:absolute; width:50px; height:49px; z-index:2; left: 330px; top: 40px"><a href="#" onmouseover="moveDownM();" onmouseout="clearTimeout(timer1);" ondblclick="sprung(100,0)"><img src="{{ imagesDir }}/../../static/images/pfeil_hoch.gif" width="40" height="40" border="0"></a></div>
+<div id="runter" style="position:absolute; left:330px; top:100px; width:50px; height:49px; z-index:3"><a href="#" onMouseOver="moveUpM();" onMouseOut="clearTimeout(timer1)" onDblClick="sprung(-750,-750)"><img src="{{ imagesDir }}/../../static/images/pfeil_runter.gif" width="40" height="40" border="0"></a></div>
+<div id="hauptmenue" style="position:absolute; width:126px; height:23px; z-index:1; left: 610px; top: 530px; visibility: visible"><a href="../../start.html"><img src="{{ imagesDir }}/../../static/images/haupt.gif" width="126" height="23" border="0"></a></div>
+
+<script language="JavaScript">
+  var rahmen = document.getElementById('rahmen');
+  var timer1;
+  
+  var startPosTBM = 0,
+    eMov = -6;
+  
+  function moveUpM() {
+    if (rahmen) {
+      rahmen.style.top = startPosTBM + 'px';
+  
+      if (startPosTBM > -750) {
+        startPosTBM += eMov;
+      }
+  
+      timer1 = setTimeout(moveUpM, 10);
+    }
+  }
+  
+  function moveDownM() {
+    if (rahmen) {
+      rahmen.style.top = startPosTBM + 'px';
+  
+      if (startPosTBM < 10) {
+        startPosTBM -= eMov;
+      }
+  
+      timer1 = setTimeout(moveDownM, 10);
+    }
+  }
+  
+  function sprung(punkt, weite) {
+    if (rahmen) {
+      rahmen.style.top = punkt + 'px';
+      startPosTBM = weite;
+    }
+  }
+  </script>
 </body>
 </html>
