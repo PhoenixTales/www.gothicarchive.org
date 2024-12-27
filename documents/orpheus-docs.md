@@ -14,7 +14,7 @@ All of these documents, most of them handwritten, were part of the folders we re
 Document                                                            | File name               | Size
 --------------------------------------------------------------------|-------------------------|---------
 ~~Zusammenfassung zum Orpheus Konzeot~~                             | (lost)                  | - 
-[Konzept Fragment: Graphiken]({{ mediaLinkBase }}/orpheus/OrpheusConceptSummary.pdf) | ConceptSummary.pdf | 12.2 MB
+[Konzept Fragment: Graphiken]({{ binDir }}/orpheus/OrpheusConceptSummary.pdf) | ConceptSummary.pdf | 12.2 MB
 [Animations]({{ binDir }}/orpheus/OrpheusAnimations.pdf)            | Animations.pdf          | 1.8 MB
 [Interface]({{ binDir }}/orpheus/OrpheusInterface.pdf)              | Interface.pdf           | 6.3 MB
 [Der Rote Faden V1]({{ binDir }}/orpheus/OrpheusRoterFaden.pdf)     | RoterFaden.pdf          | 1.6 MB
@@ -28,10 +28,10 @@ Document                                                            | File name 
 
 ### Transcripts
 
-* [NPCs per Guild]({{ absLinkBase }}/documents/orpheus/NSCsPerGuild) (Flosha)
+* [NPCs per Guild](orpheus/NSCsPerGuild) (Flosha)
 
 
-<!--<img class="cover" src="{{ mediaLinkBase }}/orpheus/orpheus-2.jpg" alt="Orpheus Aufzeichnungen">-->
+<!--<img class="cover" src="{{ imagesDir }}/orpheus/orpheus-2.jpg" alt="Orpheus Aufzeichnungen">-->
 
 
 <style>
