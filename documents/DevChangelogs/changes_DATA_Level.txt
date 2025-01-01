@@ -143,7 +143,7 @@
 2000_09_14	PsiCamp			Schmiede Objektiert und kleinere Bugfixes; Meshveränderung 
 					und Schmiede angefügt
 
-2000_09_13	PsiCamp			Bugfixing, im Zuge der PsiCamp-Vervollst�ndigung;
+2000_09_13	PsiCamp			Bugfixing, im Zuge der PsiCamp-Vervollständigung;
 					Waynet neuer Tempel gelegt; neue FPs; 
 					Waynet/FPs Alter Tempel entfernt
 2000_09_13	Surface			Eingänge zum Nebelturmdungeon verbreitert; 
