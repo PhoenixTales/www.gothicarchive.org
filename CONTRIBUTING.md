@@ -9,6 +9,7 @@ Online web version for performance reasons uses separate servers for each type o
 - [`images`](https://github.com/PhoenixTales/images.gothicarchive.org)
 - [`videos`](https://github.com/PhoenixTales/videos.gothicarchive.org)
 - [`bin`](https://github.com/PhoenixTales/bin.gothicarchive.org) (other non-textual file types)
+- [`sites`](https://github.com/PhoenixTales/sites.gothicarchive.org) (reconstructed sites, etc.)
 
 This way most changes are reflected online very quickly, in less than one minute after commit is merged to `main` branch. 
 On the other hand, changes to heaviest repositories (e.g. images) take significant time to deploy and invalidate CDN caches, so you may have to wait many minutes before changes are visible online.
@@ -19,6 +20,7 @@ On the other hand, changes to heaviest repositories (e.g. images) take significa
 - for images: https://github.com/PhoenixTales/images.gothicarchive.org/actions
 - for videos: https://github.com/PhoenixTales/videos.gothicarchive.org/actions
 - for binary files: https://github.com/PhoenixTales/bin.gothicarchive.org/actions
+- for sites: https://github.com/PhoenixTales/sites.gothicarchive.org/actions
 
 Click on the top item to see detailed progress. If deployment shows as finished, but file URL still shows old content, try bypassing caches by adding `?nocache=<some random number>` at the end of URL. If you get correct content this time, it means that you have to clear your browser cache or wait until CDN cache is refreshed.
 
@@ -39,6 +41,7 @@ Template `path-variables.liquid` defines variables that need to be used when wri
 - `{{ imagesRoot }}` / `{{ imagesDir }}` (for image URLs)
 - `{{ videosRoot }}` / `{{ videosDir }}` (for video URLs)
 - `{{ wikiRoot }}`   / `{{ wikiDir }}`   (for wiki URLs)
+- `{{ sitesRoot }}`  / `{{ sitesDir }}`   (for sites URLs)
 
 ### Absolute vs page-relative URLs (Root vs Dir)
 
