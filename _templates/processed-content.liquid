@@ -6,7 +6,6 @@ assign processedContent = page.content %}{%
 
 if page.markdown == true %}{%
   assign processedContent = processedContent | markdownify | replace: '…', '...' %}{%
-  assign processedContent = "<article>" | append: processedContent | append: "</article>" %}{%
 endif %}{%
 
 assign processedContent = processedContent | replace: "{{ wwwRoot }}", wwwRoot %}{%

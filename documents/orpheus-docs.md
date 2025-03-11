@@ -1,9 +1,7 @@
 ---
-title: Orpheus Docs
+title: Orpheus Documents
 markdown: true
 ---
-
-# Orpheus Documents
 
 ## by Mike Hoge
 
@@ -36,7 +34,6 @@ Document                                                            | File name 
 
 <style>
   article {
-    display: grid;
     padding-bottom: 50px;
     max-width: 100%;
     padding-right: 20px;
