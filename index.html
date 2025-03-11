@@ -1,7 +1,6 @@
 ---
 title: PhoenixTales
 ---
-<article>
 <div id="GraphicalRow">
   <figure>
     <a href="screenshots/orderedbytime/1998.html"><img loading="lazy" class="ar-413-342" src="{{ imagesRoot }}/img/1998.png" alt="Screenshots from 1998"></a>
@@ -191,7 +190,6 @@ title: PhoenixTales
     <figcaption>phoenixthegame.com</figcaption>
   </figure>
 </div>
-</article>
 
 <style>
   img {
@@ -205,6 +203,12 @@ title: PhoenixTales
     gap: 6px;
     grid-template-columns: minmax(200px, 413px) minmax(200px, 500px);
   }
+
+  /* h1 is inserted automatically, but this page doesn't need it.  */
+  article h1 {
+    display: none;
+  }
+
   article a:hover img {
     opacity: initial;
   }
