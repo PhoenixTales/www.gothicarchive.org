@@ -55,6 +55,17 @@
       <div class="menu-index">{% include menu.html %}</div>
     </nav>
 
-    <main> {{ contentWithoutStyleTag }}</main>
+    <main>
+      <article>
+        {% if page.parentUrl %}
+          {% assign parentUrl = page.parentUrl %}
+        {% else %}
+          {% assign parentUrl = "/" %}
+        {% endif %}
+
+        <h1><a href="{{ parentUrl }}">../</a> {{ page.title }}</h1>
+        {{ contentWithoutStyleTag }}
+      </article>
+    </main>
   </body>
 </html>
