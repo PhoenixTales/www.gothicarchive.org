@@ -1,9 +1,7 @@
 ---
-title: Phoenix Docs
+title: Phoenix Documents
 markdown: true
 ---
-
-# Phoenix Documents
 
 ![Phoenix Pitch Logo]({{ imagesRoot }}/documents/phoenix/phoenix-dark.jpg)
 
@@ -39,7 +37,6 @@ E-3     | [Technical]({{ binDir }}/phoenix/PhoenixDokumentationen/Phoenix_E3_Tec
 
 <style>
   article {
-    display: grid;
     padding-bottom: 50px;
     max-width: 100%;
     padding-right: 20px;
