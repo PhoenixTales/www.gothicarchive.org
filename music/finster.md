@@ -3,8 +3,6 @@ title: Finster Soundtrack
 markdown: true
 ---
 
-# Finster Soundtrack
-
 ## by the Mad Scientists
 
 Extracted from the [Demo](/demos/finster/) by Bloody (17.09.2022).  
