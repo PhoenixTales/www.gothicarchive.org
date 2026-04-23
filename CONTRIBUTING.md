@@ -1,9 +1,9 @@
 # Contributing
 
 ## Online vs offline deployment
-Gothic Archive uses HTML interface for both online web version, and local offline access from extracted zip archive.
-In offline archive, text and media files are together in single directory structure.
-Online web version for performance reasons uses separate servers for each type of assets:
+Gothic Archive uses an HTML interface for both the online web version, and the local offline access from the extracted zip archive.
+In the offline archive, text and media files are together in a single directory structure.
+The online web version for performance reasons uses separate servers for each type of assets:
 - [`www`](https://github.com/PhoenixTales/www.gothicarchive.org) (text, markdown and html)
 - [`audio`](https://github.com/PhoenixTales/audio.gothicarchive.org)
 - [`images`](https://github.com/PhoenixTales/images.gothicarchive.org)
@@ -22,14 +22,14 @@ On the other hand, changes to heaviest repositories (e.g. images) take significa
 - for binary files: https://github.com/PhoenixTales/bin.gothicarchive.org/actions
 - for sites: https://github.com/PhoenixTales/sites.gothicarchive.org/actions
 
-Click on the top item to see detailed progress. If deployment shows as finished, but file URL still shows old content, try bypassing caches by adding `?nocache=<some random number>` at the end of URL. If you get correct content this time, it means that you have to clear your browser cache or wait until CDN cache is refreshed.
+Click on the top item to see detailed progress. If deployment shows as finished, but the file URL still shows old content, try bypassing caches by adding `?nocache=<some random number>` at the end of the URL. If you get correct content this time, it means that you have to clear your browser cache or wait until CDN cache is refreshed.
 
 ## URLs
 All internal URLs that appear in archive content (in particular, `<img src="`>) cannot either:
 - hardcode domain name, like `https://images.gothicarchive.org/img/foo.jpg` (because that won't work in offline archive)
 - use relative path, like `../img/foo.jpg` (because that won't work in online web version, where pages and media assets are on different servers)
 
-Instead of that, special URL variables have to be used. Replace with them the first part of URL with something `{{ likeThis }}`, so that it will turn into the right form both in online and offline version.
+Instead of that, special URL variables have to be used. Replace with them the first part of the URL with something `{{ likeThis }}`, so that it will turn into the right form both in the online and the offline version.
 
 
 ### Variables constructing URLs
@@ -47,14 +47,14 @@ Template `path-variables.liquid` defines variables that need to be used when wri
 
 `{{...Root}}` variable creates absolute URLs, while `{{...Dir}}` variable creates URLs relative to the current page.
 
-As a rule of thumb, always prefer using `{{...Dir}}` variable (page-relative URL) over `{{...Root}}` variable (absolute URL), if path of the assets corresponds to the path of the page. 
-For example, if page is under `www.gothicarchive.org/gothic/comic/index.html` and assets are under `images.gothicarchive.org/gothic/comic/*.jpg`. 
+As a rule of thumb, always prefer using the `{{...Dir}}` variable (page-relative URL) over the `{{...Root}}` variable (absolute URL), if the path of the assets corresponds to the path of the page. 
+For example, if the page is under `www.gothicarchive.org/gothic/comic/index.html` and the assets are under `images.gothicarchive.org/gothic/comic/*.jpg`. 
 In this situation, use `{{ imagesDir }}/*.jpg`.
 
-This way, when page is moved together with assets to a new path, URLs will keep working. If you have used Root varuable instead, all the URLs would have to be updated one-by-one.
+This way, when the page is moved together with assets to a new path, URLs will keep working. If you have used Root variable instead, all the URLs would have to be updated one-by-one.
 
-Only use `{{...Root}}` variable if the asset path does not correspond to the page path.
-For example, if page is under `www.gothicarchive.org/gothic/articles/first-draft.md` and asset is under `images.gothicarchive.org/artworks/masks/03.jpg`. 
+Only use the `{{...Root}}` variable if the asset path does not correspond to the page path.
+For example, if the page is under `www.gothicarchive.org/gothic/articles/first-draft.md` and the asset is under `images.gothicarchive.org/artworks/masks/03.jpg`. 
 In this situation, use `{{ imagesRoot }}/artworks/masks/03.jpg`.
 
 
@@ -69,7 +69,7 @@ In this situation, use `{{ imagesRoot }}/artworks/masks/03.jpg`.
 - `{{ imagesDir }}/cover.jpg` when inside page `/articles/news` expands to `https://images.gothicarchive.org/articles/news/cover.jpg` or `C:\marvin\gothicarchive\images\articles\news\cover.jpg`
 - `{{ imagesRoot }}/cover.jpg` expands to `https://images.gothicarchive.org/cover.jpg` or `C:\marvin\gothicarchive\images\cover.jpg`
 
-These URLs cannot be written directly in absolute form ("whole") by hand, because we need the first part to be different when page is loaded from our web domain (gothicarchive.org) and different when loaded from local copy of archive (gothicarchive.zip).
+These URLs cannot be written directly in absolute form ("whole") by hand, because we need the first part to be different when the page is loaded from our web domain (gothicarchive.org) and different when loaded from a local copy of the archive (gothicarchive.zip).
 
 
 ### Examples #2
@@ -121,4 +121,4 @@ Incorrect (will always give broken `/comic/gothic/comic/img/gothic`):
 We use it, because it is supported out-of-the-box by Jekyll, which is supported out-of-the-box by GitHub Pages.
 In this language, every line of code has to be surrounded with `{ % -` and `- % }` (but without spaces between these symbols).
 To make reading easier, we put both start and end at the end of the lines.
-GitHub uses rather old version of this language. Not all the features of it work.
+GitHub uses a rather old version of this language. Not all the features of it work.
